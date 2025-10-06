@@ -1,0 +1,201 @@
+RespondentID,Age,Education,Primary_Library,Years_Experience,Weekly_Hours_Coding,Uses_Machine_Learning,Prefers_Open_Source
+1001,24,Bachelor,NumPy,2,10,Yes,Yes
+1002,31,Master,Pandas,5,18,Yes,Yes
+1003,28,PhD,Scikit Learn,4,22,Yes,Yes
+1004,35,Bachelor,Matplotlib,7,12,No,Yes
+1005,22,Bachelor,NumPy,1,8,No,Yes
+1006,29,Master,Pandas,3,15,Yes,Yes
+1007,41,PhD,Statsmodels,10,9,No,No
+1008,27,Master,SciPy,4,14,No,Yes
+1009,33,PhD,Scikit Learn,8,20,Yes,Yes
+1010,26,Bachelor,NumPy,2,11,No,Yes
+1011,38,Master,Matplotlib,9,13,No,Yes
+1012,30,PhD,Statsmodels,6,10,Yes,No
+1013,25,Bachelor,Pandas,2,16,Yes,Yes
+1014,32,Master,Scikit Learn,5,19,Yes,Yes
+1015,29,Bachelor,NumPy,3,12,No,Yes
+1016,36,PhD,SciPy,11,8,No,No
+1017,23,Bachelor,Matplotlib,1,7,No,Yes
+1018,40,Master,Statsmodels,12,9,No,No
+1019,27,PhD,Pandas,4,17,Yes,Yes
+1020,34,Master,Scikit Learn,7,21,Yes,Yes
+1021,28,Bachelor,NumPy,3,10,No,Yes
+1022,31,Master,Matplotlib,5,13,No,Yes
+1023,26,PhD,Statsmodels,3,11,Yes,No
+1024,39,Bachelor,SciPy,8,7,No,No
+1025,24,Master,Pandas,2,15,Yes,Yes
+1026,37,PhD,Scikit Learn,10,18,Yes,Yes
+1027,29,Bachelor,NumPy,4,12,No,Yes
+1028,33,Master,Matplotlib,6,14,No,Yes
+1029,25,PhD,Statsmodels,2,10,Yes,No
+1030,41,Bachelor,SciPy,13,8,No,No
+1031,27,Master,Pandas,3,16,Yes,Yes
+1032,35,PhD,Scikit Learn,9,20,Yes,Yes
+1033,30,Bachelor,NumPy,5,11,No,Yes
+1034,38,Master,Matplotlib,8,13,No,Yes
+1035,22,PhD,Statsmodels,1,9,Yes,No
+1036,36,Bachelor,SciPy,11,7,No,No
+1037,28,Master,Pandas,4,15,Yes,Yes
+1038,32,PhD,Scikit Learn,6,19,Yes,Yes
+1039,26,Bachelor,NumPy,2,10,No,Yes
+1040,39,Master,Matplotlib,9,12,No,Yes
+1041,31,PhD,Statsmodels,5,11,Yes,No
+1042,24,Bachelor,SciPy,1,8,No,No
+1043,29,Master,Pandas,3,14,Yes,Yes
+1044,37,PhD,Scikit Learn,10,21,Yes,Yes
+1045,25,Bachelor,NumPy,2,12,No,Yes
+1046,34,Master,Matplotlib,7,13,No,Yes
+1047,28,PhD,Statsmodels,4,10,Yes,No
+1048,40,Bachelor,SciPy,12,7,No,No
+1049,27,Master,Pandas,3,16,Yes,Yes
+1050,35,PhD,Scikit Learn,8,18,Yes,Yes
+1051,30,Bachelor,NumPy,5,11,No,Yes
+1052,38,Master,Matplotlib,8,14,No,Yes
+1053,22,PhD,Statsmodels,1,9,Yes,No
+1054,36,Bachelor,SciPy,11,7,No,No
+1055,28,Master,Pandas,4,15,Yes,Yes
+1056,32,PhD,Scikit Learn,6,19,Yes,Yes
+1057,26,Bachelor,NumPy,2,10,No,Yes
+1058,39,Master,Matplotlib,9,12,No,Yes
+1059,31,PhD,Statsmodels,5,11,Yes,No
+1060,24,Bachelor,SciPy,1,8,No,No
+1061,29,Master,Pandas,3,14,Yes,Yes
+1062,37,PhD,Scikit Learn,10,21,Yes,Yes
+1063,25,Bachelor,NumPy,2,12,No,Yes
+1064,34,Master,Matplotlib,7,13,No,Yes
+1065,28,PhD,Statsmodels,4,10,Yes,No
+1066,40,Bachelor,SciPy,12,7,No,No
+1067,27,Master,Pandas,3,16,Yes,Yes
+1068,35,PhD,Scikit Learn,8,18,Yes,Yes
+1069,30,Bachelor,NumPy,5,11,No,Yes
+1070,38,Master,Matplotlib,8,14,No,Yes
+1071,22,PhD,Statsmodels,1,9,Yes,No
+1072,36,Bachelor,SciPy,11,7,No,No
+1073,28,Master,Pandas,4,15,Yes,Yes
+1074,32,PhD,Scikit Learn,6,19,Yes,Yes
+1075,26,Bachelor,NumPy,2,10,No,Yes
+1076,39,Master,Matplotlib,9,12,No,Yes
+1077,31,PhD,Statsmodels,5,11,Yes,No
+1078,24,Bachelor,SciPy,1,8,No,No
+1079,29,Master,Pandas,3,14,Yes,Yes
+1080,37,PhD,Scikit Learn,10,21,Yes,Yes
+1081,25,Bachelor,NumPy,2,12,No,Yes
+1082,34,Master,Matplotlib,7,13,No,Yes
+1083,28,PhD,Statsmodels,4,10,Yes,No
+1084,40,Bachelor,SciPy,12,7,No,No
+1085,27,Master,Pandas,3,16,Yes,Yes
+1086,35,PhD,Scikit Learn,8,18,Yes,Yes
+1087,30,Bachelor,NumPy,5,11,No,Yes
+1088,38,Master,Matplotlib,8,14,No,Yes
+1089,22,PhD,Statsmodels,1,9,Yes,No
+1090,36,Bachelor,SciPy,11,7,No,No
+1091,28,Master,Pandas,4,15,Yes,Yes
+1092,32,PhD,Scikit Learn,6,19,Yes,Yes
+1093,26,Bachelor,NumPy,2,10,No,Yes
+1094,39,Master,Matplotlib,9,12,No,Yes
+1095,31,PhD,Statsmodels,5,11,Yes,No
+1096,24,Bachelor,SciPy,1,8,No,No
+1097,29,Master,Pandas,3,14,Yes,Yes
+1098,37,PhD,Scikit Learn,10,21,Yes,Yes
+1099,25,Bachelor,NumPy,2,12,No,Yes
+1100,34,Master,Matplotlib,7,13,No,Yes
+1101,28,PhD,Statsmodels,4,10,Yes,No
+1102,40,Bachelor,SciPy,12,7,No,No
+1103,27,Master,Pandas,3,16,Yes,Yes
+1104,35,PhD,Scikit Learn,8,18,Yes,Yes
+1105,30,Bachelor,NumPy,5,11,No,Yes
+1106,38,Master,Matplotlib,8,14,No,Yes
+1107,22,PhD,Statsmodels,1,9,Yes,No
+1108,36,Bachelor,SciPy,11,7,No,No
+1109,28,Master,Pandas,4,15,Yes,Yes
+1110,32,PhD,Scikit Learn,6,19,Yes,Yes
+1111,26,Bachelor,NumPy,2,10,No,Yes
+1112,39,Master,Matplotlib,9,12,No,Yes
+1113,31,PhD,Statsmodels,5,11,Yes,No
+1114,24,Bachelor,SciPy,1,8,No,No
+1115,29,Master,Pandas,3,14,Yes,Yes
+1116,37,PhD,Scikit Learn,10,21,Yes,Yes
+1117,25,Bachelor,NumPy,2,12,No,Yes
+1118,34,Master,Matplotlib,7,13,No,Yes
+1119,28,PhD,Statsmodels,4,10,Yes,No
+1120,40,Bachelor,SciPy,12,7,No,No
+1121,27,Master,Pandas,3,16,Yes,Yes
+1122,35,PhD,Scikit Learn,8,18,Yes,Yes
+1123,30,Bachelor,NumPy,5,11,No,Yes
+1124,38,Master,Matplotlib,8,14,No,Yes
+1125,22,PhD,Statsmodels,1,9,Yes,No
+1126,36,Bachelor,SciPy,11,7,No,No
+1127,28,Master,Pandas,4,15,Yes,Yes
+1128,32,PhD,Scikit Learn,6,19,Yes,Yes
+1129,26,Bachelor,NumPy,2,10,No,Yes
+1130,39,Master,Matplotlib,9,12,No,Yes
+1131,31,PhD,Statsmodels,5,11,Yes,No
+1132,24,Bachelor,SciPy,1,8,No,No
+1133,29,Master,Pandas,3,14,Yes,Yes
+1134,37,PhD,Scikit Learn,10,21,Yes,Yes
+1135,25,Bachelor,NumPy,2,12,No,Yes
+1136,34,Master,Matplotlib,7,13,No,Yes
+1137,28,PhD,Statsmodels,4,10,Yes,No
+1138,40,Bachelor,SciPy,12,7,No,No
+1139,27,Master,Pandas,3,16,Yes,Yes
+1140,35,PhD,Scikit Learn,8,18,Yes,Yes
+1141,30,Bachelor,NumPy,5,11,No,Yes
+1142,38,Master,Matplotlib,8,14,No,Yes
+1143,22,PhD,Statsmodels,1,9,Yes,No
+1144,36,Bachelor,SciPy,11,7,No,No
+1145,28,Master,Pandas,4,15,Yes,Yes
+1146,32,PhD,Scikit Learn,6,19,Yes,Yes
+1147,26,Bachelor,NumPy,2,10,No,Yes
+1148,39,Master,Matplotlib,9,12,No,Yes
+1149,31,PhD,Statsmodels,5,11,Yes,No
+1150,24,Bachelor,SciPy,1,8,No,No
+1151,29,Master,Pandas,3,14,Yes,Yes
+1152,37,PhD,Scikit Learn,10,21,Yes,Yes
+1153,25,Bachelor,NumPy,2,12,No,Yes
+1154,34,Master,Matplotlib,7,13,No,Yes
+1155,28,PhD,Statsmodels,4,10,Yes,No
+1156,40,Bachelor,SciPy,12,7,No,No
+1157,27,Master,Pandas,3,16,Yes,Yes
+1158,35,PhD,Scikit Learn,8,18,Yes,Yes
+1159,30,Bachelor,NumPy,5,11,No,Yes
+1160,38,Master,Matplotlib,8,14,No,Yes
+1161,22,PhD,Statsmodels,1,9,Yes,No
+1162,36,Bachelor,SciPy,11,7,No,No
+1163,28,Master,Pandas,4,15,Yes,Yes
+1164,32,PhD,Scikit Learn,6,19,Yes,Yes
+1165,26,Bachelor,NumPy,2,10,No,Yes
+1166,39,Master,Matplotlib,9,12,No,Yes
+1167,31,PhD,Statsmodels,5,11,Yes,No
+1168,24,Bachelor,SciPy,1,8,No,No
+1169,29,Master,Pandas,3,14,Yes,Yes
+1170,37,PhD,Scikit Learn,10,21,Yes,Yes
+1171,25,Bachelor,NumPy,2,12,No,Yes
+1172,34,Master,Matplotlib,7,13,No,Yes
+1173,28,PhD,Statsmodels,4,10,Yes,No
+1174,40,Bachelor,SciPy,12,7,No,No
+1175,27,Master,Pandas,3,16,Yes,Yes
+1176,35,PhD,Scikit Learn,8,18,Yes,Yes
+1177,30,Bachelor,NumPy,5,11,No,Yes
+1178,38,Master,Matplotlib,8,14,No,Yes
+1179,22,PhD,Statsmodels,1,9,Yes,No
+1180,36,Bachelor,SciPy,11,7,No,No
+1181,28,Master,Pandas,4,15,Yes,Yes
+1182,32,PhD,Scikit Learn,6,19,Yes,Yes
+1183,26,Bachelor,NumPy,2,10,No,Yes
+1184,39,Master,Matplotlib,9,12,No,Yes
+1185,31,PhD,Statsmodels,5,11,Yes,No
+1186,24,Bachelor,SciPy,1,8,No,No
+1187,29,Master,Pandas,3,14,Yes,Yes
+1188,37,PhD,Scikit Learn,10,21,Yes,Yes
+1189,25,Bachelor,NumPy,2,12,No,Yes
+1190,34,Master,Matplotlib,7,13,No,Yes
+1191,28,PhD,Statsmodels,4,10,Yes,No
+1192,40,Bachelor,SciPy,12,7,No,No
+1193,27,Master,Pandas,3,16,Yes,Yes
+1194,35,PhD,Scikit Learn,8,18,Yes,Yes
+1195,30,Bachelor,NumPy,5,11,No,Yes
+1196,38,Master,Matplotlib,8,14,No,Yes
+1197,22,PhD,Statsmodels,1,9,Yes,No
+1198,36,Bachelor,SciPy,11,7,No,No
+1199,28,Master,Pandas,4,15,Yes,Yes
+1200,32,PhD,Scikit Learn,6,19,Yes,Yes
