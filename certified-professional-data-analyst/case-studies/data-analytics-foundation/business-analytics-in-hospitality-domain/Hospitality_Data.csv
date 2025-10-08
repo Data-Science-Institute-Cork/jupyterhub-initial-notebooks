@@ -1,0 +1,1001 @@
+booking_id,property_id,booking_date,Month Name,Day Name,weekday,no_guests,room_category,booking_platform,ratings_given,booking_status,Booking status,revenue_generated,revenue_realized,Revenue_lost,Week of Year,No of Days,dim_rooms,property_name,category,city,successful_bookings,capacity,Unsuccessful_bookings
+May012216558RT11,16558,27-04-22,April,Wednesday,weeke day,3,RT1,direct online,1,Checked Out,1,10010,10010,0,18,1,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT12,16558,30-04-22,April,Saturday,weekend day,2,RT1,others,null,Cancelled,0,9100,3640,5460,18,1,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT13,16558,28-04-22,April,Thursday,weeke day,2,RT1,logtrip,5,Checked Out,1,9100,9100,0,18,3,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT14,16558,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Cancelled,0,9100,3640,5460,18,1,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT15,16558,27-04-22,April,Wednesday,weeke day,4,RT1,direct online,5,Checked Out,1,10920,10920,0,18,1,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT16,16558,01-05-22,May,Sunday,weekend day,2,RT1,others,4,Checked Out,1,9100,9100,0,19,2,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT17,16558,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Cancelled,0,9100,3640,5460,18,5,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT18,16558,26-04-22,April,Tuesday,weeke day,2,RT1,logtrip,null,No Show,0,9100,9100,0,18,2,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT19,16558,30-04-22,April,Saturday,weekend day,2,RT1,tripster,null,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT110,16558,28-04-22,April,Thursday,weeke day,1,RT1,others,4,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT111,16558,29-04-22,April,Friday,weeke day,1,RT1,makeyourtrip,5,Checked Out,1,9100,9100,0,18,6,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT112,16558,26-04-22,April,Tuesday,weeke day,2,RT1,logtrip,5,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT113,16558,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,5,Checked Out,1,9100,9100,0,18,6,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT114,16558,30-04-22,April,Saturday,weekend day,1,RT1,logtrip,null,Cancelled,0,9100,3640,5460,18,4,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT115,16558,29-04-22,April,Friday,weeke day,2,RT1,others,null,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT116,16558,27-04-22,April,Wednesday,weeke day,4,RT1,journey,null,Checked Out,1,10920,10920,0,18,2,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT117,16558,29-04-22,April,Friday,weeke day,3,RT1,direct offline,null,Checked Out,1,10010,10010,0,18,1,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216558RT118,16558,27-04-22,April,Wednesday,weeke day,2,RT1,others,null,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Grands,Luxury,Delhi,18,19,1
+May012216559RT11,16559,28-04-22,April,Thursday,weeke day,2,RT1,journey,3,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT12,16559,29-04-22,April,Friday,weeke day,2,RT1,makeyourtrip,5,Checked Out,1,11050,11050,0,18,5,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT13,16559,27-04-22,April,Wednesday,weeke day,1,RT1,tripster,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT14,16559,29-04-22,April,Friday,weeke day,3,RT1,direct offline,5,Checked Out,1,12155,12155,0,18,2,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT15,16559,29-04-22,April,Friday,weeke day,3,RT1,others,5,Checked Out,1,12155,12155,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT16,16559,11-04-22,April,Monday,weeke day,2,RT1,tripster,null,Checked Out,1,11050,11050,0,16,1,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT17,16559,30-04-22,April,Saturday,weekend day,2,RT1,others,null,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT18,16559,28-04-22,April,Thursday,weeke day,1,RT1,direct online,null,Cancelled,0,11050,4420,6630,18,2,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT19,16559,29-04-22,April,Friday,weeke day,1,RT1,others,5,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT110,16559,27-04-22,April,Wednesday,weeke day,2,RT1,others,5,Checked Out,1,11050,11050,0,18,5,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT111,16559,28-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT112,16559,11-04-22,April,Monday,weeke day,1,RT1,journey,5,Checked Out,1,11050,11050,0,16,5,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT113,16559,26-04-22,April,Tuesday,weeke day,2,RT1,others,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT114,16559,10-04-22,April,Sunday,weekend day,1,RT1,logtrip,null,Checked Out,1,11050,11050,0,16,6,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT115,16559,05-01-22,May,Sunday,weekend day,2,RT1,tripster,null,Checked Out,1,11050,11050,0,19,2,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT116,16559,27-04-22,April,Wednesday,weeke day,3,RT1,journey,null,Cancelled,0,12155,4862,7293,18,5,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT117,16559,25-04-22,April,Monday,weeke day,4,RT1,direct offline,null,Cancelled,0,13260,5304,7956,18,2,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT118,16559,27-04-22,April,Wednesday,weeke day,2,RT1,others,null,No Show,0,11050,11050,0,18,2,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT119,16559,29-04-22,April,Friday,weeke day,2,RT1,direct offline,5,Checked Out,1,11050,11050,0,18,5,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT120,16559,27-04-22,April,Wednesday,weeke day,2,RT1,makeyourtrip,5,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT121,16559,29-04-22,April,Friday,weeke day,4,RT1,others,4,Checked Out,1,13260,13260,0,18,2,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT122,16559,27-04-22,April,Wednesday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,5,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT123,16559,29-04-22,April,Friday,weeke day,1,RT1,logtrip,null,Cancelled,0,11050,4420,6630,18,5,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT124,16559,27-04-22,April,Wednesday,weeke day,2,RT1,others,null,Cancelled,0,11050,4420,6630,18,3,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012216559RT125,16559,29-04-22,April,Friday,weeke day,2,RT1,logtrip,null,Checked Out,1,11050,11050,0,18,3,Standard,Atliq Exotica,Luxury,Mumbai,25,30,5
+May012219562RT11,19562,25-04-22,April,Monday,weeke day,3,RT1,others,null,Checked Out,1,10725,10725,0,18,5,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT12,19562,29-04-22,April,Friday,weeke day,1,RT1,journey,null,Cancelled,0,9750,3900,5850,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT13,19562,28-04-22,April,Thursday,weeke day,4,RT1,tripster,null,Cancelled,0,11700,4680,7020,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT14,19562,11-04-22,April,Monday,weeke day,2,RT1,others,5,Checked Out,1,9750,9750,0,16,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT15,19562,26-04-22,April,Tuesday,weeke day,2,RT1,tripster,5,Checked Out,1,9750,9750,0,18,6,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT16,19562,29-04-22,April,Friday,weeke day,3,RT1,logtrip,4,Checked Out,1,10725,10725,0,18,4,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT17,19562,30-04-22,April,Saturday,weekend day,1,RT1,others,5,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT18,19562,28-04-22,April,Thursday,weeke day,3,RT1,makeyourtrip,null,Cancelled,0,10725,4290,6435,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT19,19562,26-04-22,April,Tuesday,weeke day,2,RT1,direct offline,5,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT110,19562,29-04-22,April,Friday,weeke day,1,RT1,others,null,Cancelled,0,9750,3900,5850,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT111,19562,27-04-22,April,Wednesday,weeke day,2,RT1,tripster,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT112,19562,24-04-22,April,Sunday,weekend day,2,RT1,others,5,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT113,19562,25-04-22,April,Monday,weeke day,2,RT1,direct offline,5,Checked Out,1,9750,9750,0,18,3,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT114,19562,29-04-22,April,Friday,weeke day,3,RT1,makeyourtrip,4,Checked Out,1,10725,10725,0,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT115,19562,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,9750,3900,5850,18,6,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT116,19562,30-04-22,April,Saturday,weekend day,3,RT1,journey,null,Cancelled,0,10725,4290,6435,18,2,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT117,19562,24-04-22,April,Sunday,weekend day,2,RT1,makeyourtrip,null,No Show,0,9750,9750,0,18,3,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT118,19562,27-04-22,April,Wednesday,weeke day,4,RT1,others,3,Checked Out,1,11700,11700,0,18,6,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT119,19562,25-04-22,April,Monday,weeke day,1,RT1,makeyourtrip,null,Cancelled,0,9750,3900,5850,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT120,19562,26-04-22,April,Tuesday,weeke day,3,RT1,makeyourtrip,null,No Show,0,10725,10725,0,18,3,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT121,19562,30-04-22,April,Saturday,weekend day,1,RT1,direct online,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT122,19562,29-04-22,April,Friday,weeke day,1,RT1,logtrip,5,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT123,19562,28-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,1,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT124,19562,05-01-22,May,Sunday,weekend day,4,RT1,makeyourtrip,null,Checked Out,1,11700,11700,0,19,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT125,19562,30-04-22,April,Saturday,weekend day,2,RT1,others,4,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT126,19562,28-04-22,April,Thursday,weeke day,2,RT1,others,2,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT127,19562,26-04-22,April,Tuesday,weeke day,2,RT1,tripster,3,Checked Out,1,9750,9750,0,18,6,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219562RT128,19562,28-04-22,April,Thursday,weeke day,2,RT1,tripster,5,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Bay,Luxury,Bangalore,28,30,2
+May012219563RT11,19563,05-01-22,May,Sunday,weekend day,1,RT1,logtrip,null,Cancelled,0,9750,3900,5850,19,3,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT12,19563,05-01-22,May,Sunday,weekend day,2,RT1,makeyourtrip,3,Checked Out,1,9750,9750,0,19,2,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT13,19563,24-04-22,April,Sunday,weekend day,1,RT1,others,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT14,19563,30-04-22,April,Saturday,weekend day,1,RT1,direct online,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT15,19563,05-01-22,May,Sunday,weekend day,1,RT1,others,4,Checked Out,1,9750,9750,0,19,2,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT16,19563,27-04-22,April,Wednesday,weeke day,2,RT1,others,3,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT17,19563,05-01-22,May,Sunday,weekend day,1,RT1,logtrip,null,Checked Out,1,9750,9750,0,19,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT18,19563,29-04-22,April,Friday,weeke day,1,RT1,makeyourtrip,3,Checked Out,1,9750,9750,0,18,3,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT19,19563,05-01-22,May,Sunday,weekend day,1,RT1,others,null,Checked Out,1,9750,9750,0,19,4,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT110,19563,30-04-22,April,Saturday,weekend day,1,RT1,logtrip,3,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT111,19563,29-04-22,April,Friday,weeke day,1,RT1,others,null,Checked Out,1,9750,9750,0,18,3,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT112,19563,07-04-22,April,Thursday,weeke day,1,RT1,logtrip,null,No Show,0,9750,9750,0,15,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT113,19563,25-04-22,April,Monday,weeke day,1,RT1,direct offline,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT114,19563,30-04-22,April,Saturday,weekend day,1,RT1,direct online,3,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT115,19563,28-04-22,April,Thursday,weeke day,1,RT1,others,3,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT116,19563,30-04-22,April,Saturday,weekend day,1,RT1,direct offline,null,Cancelled,0,9750,3900,5850,18,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT117,19563,05-01-22,May,Sunday,weekend day,1,RT1,logtrip,null,Cancelled,0,9750,3900,5850,19,2,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT118,19563,29-04-22,April,Friday,weeke day,1,RT1,logtrip,null,Cancelled,0,9750,3900,5850,18,2,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT119,19563,05-01-22,May,Sunday,weekend day,1,RT1,others,3,Checked Out,1,9750,9750,0,19,2,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT120,19563,30-04-22,April,Saturday,weekend day,1,RT1,direct online,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT121,19563,05-01-22,May,Sunday,weekend day,1,RT1,tripster,null,Cancelled,0,9750,3900,5850,19,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT122,19563,05-01-22,May,Sunday,weekend day,2,RT1,others,null,Checked Out,1,9750,9750,0,19,1,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012219563RT123,19563,30-04-22,April,Saturday,weekend day,1,RT1,others,3,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Palace,Business,Bangalore,23,30,7
+May012217558RT11,17558,11-04-22,April,Monday,weeke day,2,RT1,others,null,Cancelled,0,11050,4420,6630,16,1,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT12,17558,24-04-22,April,Sunday,weekend day,2,RT1,others,null,Cancelled,0,11050,4420,6630,18,2,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT13,17558,28-04-22,April,Thursday,weeke day,1,RT1,others,null,No Show,0,11050,11050,0,18,6,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT14,17558,07-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,3,Checked Out,1,11050,11050,0,15,1,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT15,17558,29-04-22,April,Friday,weeke day,2,RT1,logtrip,null,Cancelled,0,11050,4420,6630,18,2,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT16,17558,29-04-22,April,Friday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT17,17558,27-04-22,April,Wednesday,weeke day,2,RT1,logtrip,null,No Show,0,11050,11050,0,18,6,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT18,17558,05-01-22,May,Sunday,weekend day,2,RT1,others,null,Cancelled,0,11050,4420,6630,19,6,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT19,17558,25-04-22,April,Monday,weeke day,1,RT1,others,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT110,17558,24-04-22,April,Sunday,weekend day,4,RT1,others,3,Checked Out,1,13260,13260,0,18,1,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT111,17558,28-04-22,April,Thursday,weeke day,2,RT1,others,3,Checked Out,1,11050,11050,0,18,4,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT112,17558,30-04-22,April,Saturday,weekend day,2,RT1,others,null,Cancelled,0,11050,4420,6630,18,5,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217558RT113,17558,28-04-22,April,Thursday,weeke day,4,RT1,journey,2,Checked Out,1,13260,13260,0,18,1,Standard,Atliq Grands,Luxury,Mumbai,13,19,6
+May012217560RT11,17560,05-01-22,May,Sunday,weekend day,1,RT1,tripster,3,Checked Out,1,11050,11050,0,19,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT12,17560,05-01-22,May,Sunday,weekend day,1,RT1,direct online,null,Checked Out,1,11050,11050,0,19,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT13,17560,05-01-22,May,Sunday,weekend day,2,RT1,others,null,Cancelled,0,11050,4420,6630,19,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT14,17560,05-01-22,May,Sunday,weekend day,2,RT1,direct online,null,Checked Out,1,11050,11050,0,19,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT15,17560,29-04-22,April,Friday,weeke day,1,RT1,others,null,Checked Out,1,11050,11050,0,18,3,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT16,17560,05-01-22,May,Sunday,weekend day,1,RT1,makeyourtrip,null,No Show,0,11050,11050,0,19,4,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT17,17560,05-01-22,May,Sunday,weekend day,1,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,19,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT18,17560,30-04-22,April,Saturday,weekend day,2,RT1,logtrip,3,Checked Out,1,11050,11050,0,18,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT19,17560,05-01-22,May,Sunday,weekend day,3,RT1,makeyourtrip,null,No Show,0,12155,12155,0,19,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT110,17560,05-01-22,May,Sunday,weekend day,2,RT1,direct online,3,Checked Out,1,11050,11050,0,19,2,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT111,17560,29-04-22,April,Friday,weeke day,1,RT1,direct offline,null,Checked Out,1,11050,11050,0,18,3,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT112,17560,05-01-22,May,Sunday,weekend day,3,RT1,others,null,Checked Out,1,12155,12155,0,19,2,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT113,17560,27-04-22,April,Wednesday,weeke day,2,RT1,others,3,Checked Out,1,11050,11050,0,18,3,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT114,17560,05-01-22,May,Sunday,weekend day,4,RT1,others,3,Checked Out,1,13260,13260,0,19,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT115,17560,29-04-22,April,Friday,weeke day,1,RT1,others,3,Checked Out,1,11050,11050,0,18,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT116,17560,28-04-22,April,Thursday,weeke day,4,RT1,others,null,Checked Out,1,13260,13260,0,18,2,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT117,17560,29-04-22,April,Friday,weeke day,1,RT1,others,4,Checked Out,1,11050,11050,0,18,2,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT118,17560,28-04-22,April,Thursday,weeke day,1,RT1,direct offline,null,Checked Out,1,11050,11050,0,18,2,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT119,17560,05-01-22,May,Sunday,weekend day,1,RT1,others,null,Cancelled,0,11050,4420,6630,19,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT120,17560,05-01-22,May,Sunday,weekend day,2,RT1,others,null,Checked Out,1,11050,11050,0,19,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT121,17560,30-04-22,April,Saturday,weekend day,1,RT1,direct offline,null,Checked Out,1,11050,11050,0,18,2,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT122,17560,05-01-22,May,Sunday,weekend day,2,RT1,logtrip,3,Checked Out,1,11050,11050,0,19,2,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT123,17560,05-01-22,May,Sunday,weekend day,1,RT1,others,3,Checked Out,1,11050,11050,0,19,2,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT124,17560,30-04-22,April,Saturday,weekend day,1,RT1,makeyourtrip,3,Checked Out,1,11050,11050,0,18,3,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT125,17560,28-04-22,April,Thursday,weeke day,1,RT1,others,3,Checked Out,1,11050,11050,0,18,2,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT126,17560,26-04-22,April,Tuesday,weeke day,1,RT1,makeyourtrip,null,Cancelled,0,11050,4420,6630,18,3,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT127,17560,27-04-22,April,Wednesday,weeke day,1,RT1,others,3,Checked Out,1,11050,11050,0,18,3,Standard,Atliq City,Business,Mumbai,28,40,12
+May012217560RT128,17560,05-01-22,May,Sunday,weekend day,1,RT1,others,3,Checked Out,1,11050,11050,0,19,1,Standard,Atliq City,Business,Mumbai,28,40,12
+May012219558RT11,19558,07-04-22,April,Thursday,weeke day,2,RT1,others,2,Checked Out,1,9750,9750,0,15,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT12,19558,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,4,Checked Out,1,9750,9750,0,18,5,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT13,19558,27-04-22,April,Wednesday,weeke day,2,RT1,others,3,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT14,19558,10-04-22,April,Sunday,weekend day,2,RT1,logtrip,2,Checked Out,1,9750,9750,0,16,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT15,19558,27-04-22,April,Wednesday,weeke day,2,RT1,others,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT16,19558,27-04-22,April,Wednesday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,9750,9750,0,18,5,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT17,19558,28-04-22,April,Thursday,weeke day,2,RT1,direct online,null,Checked Out,1,9750,9750,0,18,4,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT18,19558,27-04-22,April,Wednesday,weeke day,1,RT1,makeyourtrip,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT19,19558,28-04-22,April,Thursday,weeke day,4,RT1,others,2,Checked Out,1,11700,11700,0,18,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT110,19558,27-04-22,April,Wednesday,weeke day,1,RT1,logtrip,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT111,19558,24-04-22,April,Sunday,weekend day,2,RT1,others,null,No Show,0,9750,9750,0,18,4,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT112,19558,25-04-22,April,Monday,weeke day,2,RT1,journey,null,Cancelled,0,9750,3900,5850,18,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT113,19558,28-04-22,April,Thursday,weeke day,3,RT1,others,null,Checked Out,1,10725,10725,0,18,5,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT114,19558,11-04-22,April,Monday,weeke day,3,RT1,makeyourtrip,null,Checked Out,1,10725,10725,0,16,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT115,19558,11-04-22,April,Monday,weeke day,2,RT1,others,3,Checked Out,1,9750,9750,0,16,2,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT116,19558,28-04-22,April,Thursday,weeke day,2,RT1,others,null,No Show,0,9750,9750,0,18,5,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT117,19558,07-04-22,April,Thursday,weeke day,2,RT1,others,null,Checked Out,1,9750,9750,0,15,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT118,19558,28-04-22,April,Thursday,weeke day,4,RT1,others,3,Checked Out,1,11700,11700,0,18,5,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT119,19558,27-04-22,April,Wednesday,weeke day,2,RT1,journey,null,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT120,19558,26-04-22,April,Tuesday,weeke day,2,RT1,tripster,null,Cancelled,0,9750,3900,5850,18,5,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT121,19558,27-04-22,April,Wednesday,weeke day,4,RT1,others,null,Cancelled,0,11700,4680,7020,18,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT122,19558,29-04-22,April,Friday,weeke day,3,RT1,makeyourtrip,null,Checked Out,1,10725,10725,0,18,2,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT123,19558,27-04-22,April,Wednesday,weeke day,2,RT1,others,null,Cancelled,0,9750,3900,5850,18,6,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT124,19558,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219558RT125,19558,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Checked Out,1,9750,9750,0,18,6,Standard,Atliq Grands,Luxury,Bangalore,25,40,15
+May012219560RT11,19560,30-04-22,April,Saturday,weekend day,2,RT1,tripster,5,Checked Out,1,9750,9750,0,18,5,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT12,19560,05-01-22,May,Sunday,weekend day,1,RT1,others,4,Checked Out,1,9750,9750,0,19,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT13,19560,05-01-22,May,Sunday,weekend day,1,RT1,journey,5,Checked Out,1,9750,9750,0,19,4,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT14,19560,30-04-22,April,Saturday,weekend day,1,RT1,makeyourtrip,4,Checked Out,1,9750,9750,0,18,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT15,19560,05-01-22,May,Sunday,weekend day,4,RT1,direct online,5,Checked Out,1,11700,11700,0,19,3,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT16,19560,30-04-22,April,Saturday,weekend day,1,RT1,makeyourtrip,5,Checked Out,1,9750,9750,0,18,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT17,19560,27-04-22,April,Wednesday,weeke day,1,RT1,others,null,Cancelled,0,9750,3900,5850,18,4,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT18,19560,30-04-22,April,Saturday,weekend day,1,RT1,others,5,Checked Out,1,9750,9750,0,18,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT19,19560,05-01-22,May,Sunday,weekend day,2,RT1,others,null,Checked Out,1,9750,9750,0,19,4,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT110,19560,05-01-22,May,Sunday,weekend day,1,RT1,others,null,Checked Out,1,9750,9750,0,19,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT111,19560,05-01-22,May,Sunday,weekend day,2,RT1,makeyourtrip,4,Checked Out,1,9750,9750,0,19,2,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT112,19560,05-01-22,May,Sunday,weekend day,3,RT1,others,5,Checked Out,1,10725,10725,0,19,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT113,19560,05-01-22,May,Sunday,weekend day,1,RT1,makeyourtrip,null,Checked Out,1,9750,9750,0,19,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT114,19560,29-04-22,April,Friday,weeke day,1,RT1,logtrip,4,Checked Out,1,9750,9750,0,18,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT115,19560,30-04-22,April,Saturday,weekend day,2,RT1,makeyourtrip,null,Cancelled,0,9750,3900,5850,18,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT116,19560,30-04-22,April,Saturday,weekend day,1,RT1,others,null,No Show,0,9750,9750,0,18,2,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT117,19560,30-04-22,April,Saturday,weekend day,1,RT1,tripster,5,Checked Out,1,9750,9750,0,18,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT118,19560,05-01-22,May,Sunday,weekend day,1,RT1,others,5,Checked Out,1,9750,9750,0,19,3,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT119,19560,05-01-22,May,Sunday,weekend day,1,RT1,makeyourtrip,null,Checked Out,1,9750,9750,0,19,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT120,19560,30-04-22,April,Saturday,weekend day,1,RT1,others,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT121,19560,28-04-22,April,Thursday,weeke day,2,RT1,others,5,Checked Out,1,9750,9750,0,18,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT122,19560,05-01-22,May,Sunday,weekend day,2,RT1,others,null,Checked Out,1,9750,9750,0,19,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012219560RT123,19560,30-04-22,April,Saturday,weekend day,1,RT1,tripster,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq City,Business,Bangalore,23,26,3
+May012217561RT11,17561,29-04-22,April,Friday,weeke day,2,RT1,others,4,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT12,17561,05-01-22,May,Sunday,weekend day,2,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,19,6,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT13,17561,27-04-22,April,Wednesday,weeke day,3,RT1,others,5,Checked Out,1,12155,12155,0,18,2,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT14,17561,26-04-22,April,Tuesday,weeke day,2,RT1,journey,4,Checked Out,1,11050,11050,0,18,6,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT15,17561,30-04-22,April,Saturday,weekend day,3,RT1,journey,null,Cancelled,0,12155,4862,7293,18,6,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT16,17561,28-04-22,April,Thursday,weeke day,2,RT1,others,5,Checked Out,1,11050,11050,0,18,3,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT17,17561,26-04-22,April,Tuesday,weeke day,2,RT1,direct online,5,Checked Out,1,11050,11050,0,18,5,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT18,17561,26-04-22,April,Tuesday,weeke day,1,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT19,17561,29-04-22,April,Friday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT110,17561,29-04-22,April,Friday,weeke day,2,RT1,logtrip,null,No Show,0,11050,11050,0,18,3,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT111,17561,29-04-22,April,Friday,weeke day,4,RT1,others,null,Checked Out,1,13260,13260,0,18,2,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT112,17561,28-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT113,17561,29-04-22,April,Friday,weeke day,2,RT1,others,null,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT114,17561,26-04-22,April,Tuesday,weeke day,2,RT1,direct offline,4,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT115,17561,30-04-22,April,Saturday,weekend day,2,RT1,direct online,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT116,17561,29-04-22,April,Friday,weeke day,1,RT1,direct offline,5,Checked Out,1,11050,11050,0,18,3,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT117,17561,26-04-22,April,Tuesday,weeke day,2,RT1,others,null,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT118,17561,11-04-22,April,Monday,weeke day,2,RT1,others,null,Checked Out,1,11050,11050,0,16,2,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT119,17561,05-01-22,May,Sunday,weekend day,3,RT1,tripster,5,Checked Out,1,12155,12155,0,19,4,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT120,17561,28-04-22,April,Thursday,weeke day,1,RT1,direct online,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT121,17561,29-04-22,April,Friday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,11050,4420,6630,18,2,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012217561RT122,17561,28-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,11050,4420,6630,18,4,Standard,Atliq Blu,Luxury,Mumbai,22,26,4
+May012216560RT11,16560,05-01-22,May,Sunday,weekend day,1,RT1,direct offline,null,Checked Out,1,9100,9100,0,19,2,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT12,16560,30-04-22,April,Saturday,weekend day,2,RT1,tripster,null,Checked Out,1,9100,9100,0,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT13,16560,27-04-22,April,Wednesday,weeke day,1,RT1,journey,3,Checked Out,1,9100,9100,0,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT14,16560,05-01-22,May,Sunday,weekend day,1,RT1,logtrip,1,Checked Out,1,9100,9100,0,19,3,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT15,16560,05-01-22,May,Sunday,weekend day,2,RT1,makeyourtrip,null,Checked Out,1,9100,9100,0,19,2,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT16,16560,28-04-22,April,Thursday,weeke day,3,RT1,makeyourtrip,null,Checked Out,1,10010,10010,0,18,2,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT17,16560,10-04-22,April,Sunday,weekend day,1,RT1,others,null,Cancelled,0,9100,3640,5460,16,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT18,16560,30-04-22,April,Saturday,weekend day,4,RT1,makeyourtrip,null,Checked Out,1,10920,10920,0,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT19,16560,30-04-22,April,Saturday,weekend day,1,RT1,others,null,Cancelled,0,9100,3640,5460,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT110,16560,25-04-22,April,Monday,weeke day,1,RT1,others,2,Checked Out,1,9100,9100,0,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT111,16560,05-01-22,May,Sunday,weekend day,1,RT1,others,null,Checked Out,1,9100,9100,0,19,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT112,16560,30-04-22,April,Saturday,weekend day,2,RT1,journey,3,Checked Out,1,9100,9100,0,18,4,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT113,16560,29-04-22,April,Friday,weeke day,1,RT1,direct online,3,Checked Out,1,9100,9100,0,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT114,16560,29-04-22,April,Friday,weeke day,4,RT1,others,4,Checked Out,1,10920,10920,0,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT115,16560,24-04-22,April,Sunday,weekend day,3,RT1,others,null,Checked Out,1,10010,10010,0,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT116,16560,27-04-22,April,Wednesday,weeke day,1,RT1,makeyourtrip,null,Cancelled,0,9100,3640,5460,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT117,16560,10-04-22,April,Sunday,weekend day,1,RT1,others,5,Checked Out,1,9100,9100,0,16,2,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT118,16560,30-04-22,April,Saturday,weekend day,1,RT1,direct offline,null,Checked Out,1,9100,9100,0,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT119,16560,30-04-22,April,Saturday,weekend day,3,RT1,others,null,Checked Out,1,10010,10010,0,18,2,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT120,16560,28-04-22,April,Thursday,weeke day,3,RT1,makeyourtrip,null,Cancelled,0,10010,4004,6006,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT121,16560,26-04-22,April,Tuesday,weeke day,1,RT1,direct online,null,Checked Out,1,9100,9100,0,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT122,16560,05-01-22,May,Sunday,weekend day,4,RT1,others,null,Checked Out,1,10920,10920,0,19,3,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT123,16560,25-04-22,April,Monday,weeke day,1,RT1,direct online,null,Checked Out,1,9100,9100,0,18,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216560RT124,16560,05-01-22,May,Sunday,weekend day,1,RT1,direct online,4,Checked Out,1,9100,9100,0,19,1,Standard,Atliq City,Business,Delhi,24,34,10
+May012216561RT11,16561,07-04-22,April,Thursday,weeke day,2,RT1,tripster,null,Checked Out,1,9100,9100,0,15,2,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT12,16561,27-04-22,April,Wednesday,weeke day,1,RT1,logtrip,5,Checked Out,1,9100,9100,0,18,2,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT13,16561,27-04-22,April,Wednesday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT14,16561,05-01-22,May,Sunday,weekend day,2,RT1,others,null,Checked Out,1,9100,9100,0,19,1,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT15,16561,27-04-22,April,Wednesday,weeke day,3,RT1,tripster,null,Checked Out,1,10010,10010,0,18,3,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT16,16561,27-04-22,April,Wednesday,weeke day,1,RT1,direct online,null,Checked Out,1,9100,9100,0,18,2,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT17,16561,30-04-22,April,Saturday,weekend day,3,RT1,logtrip,null,Checked Out,1,10010,10010,0,18,1,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT18,16561,11-04-22,April,Monday,weeke day,2,RT1,others,null,Checked Out,1,9100,9100,0,16,1,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT19,16561,27-04-22,April,Wednesday,weeke day,4,RT1,others,null,Checked Out,1,10920,10920,0,18,2,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT110,16561,11-04-22,April,Monday,weeke day,1,RT1,others,null,Checked Out,1,9100,9100,0,16,2,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT111,16561,29-04-22,April,Friday,weeke day,2,RT1,tripster,null,Cancelled,0,9100,3640,5460,18,5,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT112,16561,27-04-22,April,Wednesday,weeke day,3,RT1,logtrip,5,Checked Out,1,10010,10010,0,18,4,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT113,16561,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,9100,3640,5460,18,1,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT114,16561,27-04-22,April,Wednesday,weeke day,2,RT1,logtrip,5,Checked Out,1,9100,9100,0,18,2,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT115,16561,25-04-22,April,Monday,weeke day,1,RT1,others,4,Checked Out,1,9100,9100,0,18,5,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216561RT116,16561,28-04-22,April,Thursday,weeke day,3,RT1,makeyourtrip,null,Checked Out,1,10010,10010,0,18,1,Standard,Atliq Blu,Luxury,Delhi,16,18,2
+May012216562RT11,16562,24-04-22,April,Sunday,weekend day,2,RT1,tripster,null,Cancelled,0,9100,3640,5460,18,4,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT12,16562,27-04-22,April,Wednesday,weeke day,2,RT1,others,3,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT13,16562,26-04-22,April,Tuesday,weeke day,2,RT1,logtrip,3,Checked Out,1,9100,9100,0,18,5,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT14,16562,28-04-22,April,Thursday,weeke day,3,RT1,makeyourtrip,null,Checked Out,1,10010,10010,0,18,4,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT15,16562,29-04-22,April,Friday,weeke day,3,RT1,journey,null,Checked Out,1,10010,10010,0,18,1,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT16,16562,27-04-22,April,Wednesday,weeke day,2,RT1,makeyourtrip,null,No Show,0,9100,9100,0,18,5,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT17,16562,27-04-22,April,Wednesday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,9100,9100,0,18,6,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT18,16562,27-04-22,April,Wednesday,weeke day,2,RT1,others,null,Cancelled,0,9100,3640,5460,18,4,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT19,16562,11-04-22,April,Monday,weeke day,2,RT1,direct offline,3,Checked Out,1,9100,9100,0,16,2,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT110,16562,28-04-22,April,Thursday,weeke day,2,RT1,direct online,3,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT111,16562,28-04-22,April,Thursday,weeke day,2,RT1,logtrip,null,Cancelled,0,9100,3640,5460,18,2,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT112,16562,29-04-22,April,Friday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,9100,3640,5460,18,2,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT113,16562,29-04-22,April,Friday,weeke day,2,RT1,others,5,Checked Out,1,9100,9100,0,18,3,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT114,16562,10-04-22,April,Sunday,weekend day,3,RT1,makeyourtrip,null,Cancelled,0,10010,4004,6006,16,3,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT115,16562,29-04-22,April,Friday,weeke day,4,RT1,tripster,2,Checked Out,1,10920,10920,0,18,1,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT116,16562,30-04-22,April,Saturday,weekend day,2,RT1,others,3,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT117,16562,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT118,16562,05-01-22,May,Sunday,weekend day,3,RT1,tripster,null,Cancelled,0,10010,4004,6006,19,5,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT119,16562,26-04-22,April,Tuesday,weeke day,3,RT1,others,3,Checked Out,1,10010,10010,0,18,3,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216562RT120,16562,29-04-22,April,Friday,weeke day,3,RT1,others,1,Checked Out,1,10010,10010,0,18,5,Standard,Atliq Bay,Luxury,Delhi,20,31,11
+May012216563RT11,16563,30-04-22,April,Saturday,weekend day,1,RT1,others,null,Cancelled,0,9100,3640,5460,18,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT12,16563,27-04-22,April,Wednesday,weeke day,2,RT1,tripster,3,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT13,16563,30-04-22,April,Saturday,weekend day,3,RT1,others,4,Checked Out,1,10010,10010,0,18,2,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT14,16563,28-04-22,April,Thursday,weeke day,1,RT1,makeyourtrip,5,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT15,16563,30-04-22,April,Saturday,weekend day,1,RT1,others,null,Checked Out,1,9100,9100,0,18,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT16,16563,28-04-22,April,Thursday,weeke day,1,RT1,direct offline,null,Cancelled,0,9100,3640,5460,18,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT17,16563,05-01-22,May,Sunday,weekend day,1,RT1,others,4,Checked Out,1,9100,9100,0,19,2,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT18,16563,28-04-22,April,Thursday,weeke day,1,RT1,makeyourtrip,5,Checked Out,1,9100,9100,0,18,2,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT19,16563,05-01-22,May,Sunday,weekend day,1,RT1,direct online,null,Cancelled,0,9100,3640,5460,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT110,16563,25-04-22,April,Monday,weeke day,1,RT1,logtrip,null,Cancelled,0,9100,3640,5460,18,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT111,16563,05-01-22,May,Sunday,weekend day,2,RT1,others,null,Checked Out,1,9100,9100,0,19,4,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT112,16563,05-01-22,May,Sunday,weekend day,3,RT1,direct online,null,Checked Out,1,10010,10010,0,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT113,16563,05-01-22,May,Sunday,weekend day,4,RT1,makeyourtrip,null,Checked Out,1,10920,10920,0,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT114,16563,05-01-22,May,Sunday,weekend day,4,RT1,makeyourtrip,5,Checked Out,1,10920,10920,0,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT115,16563,05-01-22,May,Sunday,weekend day,1,RT1,others,5,Checked Out,1,9100,9100,0,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT116,16563,05-01-22,May,Sunday,weekend day,1,RT1,logtrip,null,No Show,0,9100,9100,0,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT117,16563,26-04-22,April,Tuesday,weeke day,1,RT1,others,1,Checked Out,1,9100,9100,0,18,4,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT118,16563,30-04-22,April,Saturday,weekend day,4,RT1,direct online,5,Checked Out,1,10920,10920,0,18,2,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT119,16563,30-04-22,April,Saturday,weekend day,1,RT1,makeyourtrip,5,Checked Out,1,9100,9100,0,18,3,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT120,16563,11-04-22,April,Monday,weeke day,1,RT1,journey,null,Cancelled,0,9100,3640,5460,16,2,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT121,16563,05-01-22,May,Sunday,weekend day,1,RT1,others,null,Checked Out,1,9100,9100,0,19,2,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT122,16563,28-04-22,April,Thursday,weeke day,1,RT1,logtrip,5,Checked Out,1,9100,9100,0,18,2,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT123,16563,25-04-22,April,Monday,weeke day,1,RT1,others,null,Checked Out,1,9100,9100,0,18,2,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT124,16563,07-04-22,April,Thursday,weeke day,2,RT1,others,null,Checked Out,1,9100,9100,0,15,3,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT125,16563,05-01-22,May,Sunday,weekend day,1,RT1,others,4,Checked Out,1,9100,9100,0,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT126,16563,05-01-22,May,Sunday,weekend day,1,RT1,others,4,Checked Out,1,9100,9100,0,19,4,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT127,16563,05-01-22,May,Sunday,weekend day,1,RT1,others,null,Checked Out,1,9100,9100,0,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT128,16563,29-04-22,April,Friday,weeke day,1,RT1,others,1,Checked Out,1,9100,9100,0,18,4,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT129,16563,30-04-22,April,Saturday,weekend day,1,RT1,direct offline,null,Cancelled,0,9100,3640,5460,18,3,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT130,16563,05-01-22,May,Sunday,weekend day,1,RT1,tripster,4,Checked Out,1,9100,9100,0,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT131,16563,30-04-22,April,Saturday,weekend day,4,RT1,others,null,Checked Out,1,10920,10920,0,18,5,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT132,16563,05-01-22,May,Sunday,weekend day,1,RT1,others,5,Checked Out,1,9100,9100,0,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT133,16563,05-01-22,May,Sunday,weekend day,1,RT1,makeyourtrip,null,Cancelled,0,9100,3640,5460,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT134,16563,30-04-22,April,Saturday,weekend day,1,RT1,logtrip,5,Checked Out,1,9100,9100,0,18,2,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT135,16563,05-01-22,May,Sunday,weekend day,2,RT1,others,null,Checked Out,1,9100,9100,0,19,1,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012216563RT136,16563,28-04-22,April,Thursday,weeke day,1,RT1,tripster,5,Checked Out,1,9100,9100,0,18,3,Standard,Atliq Palace,Business,Delhi,36,41,5
+May012217559RT11,17559,26-04-22,April,Tuesday,weeke day,1,RT1,journey,null,Checked Out,1,11050,11050,0,18,4,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT12,17559,27-04-22,April,Wednesday,weeke day,4,RT1,others,3,Checked Out,1,13260,13260,0,18,3,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT13,17559,25-04-22,April,Monday,weeke day,1,RT1,logtrip,5,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT14,17559,29-04-22,April,Friday,weeke day,2,RT1,makeyourtrip,null,No Show,0,11050,11050,0,18,2,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT15,17559,29-04-22,April,Friday,weeke day,1,RT1,tripster,null,Checked Out,1,11050,11050,0,18,5,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT16,17559,27-04-22,April,Wednesday,weeke day,2,RT1,logtrip,4,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT17,17559,05-01-22,May,Sunday,weekend day,2,RT1,makeyourtrip,null,Cancelled,0,11050,4420,6630,19,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT18,17559,27-04-22,April,Wednesday,weeke day,2,RT1,direct online,null,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT19,17559,29-04-22,April,Friday,weeke day,2,RT1,others,4,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT110,17559,29-04-22,April,Friday,weeke day,2,RT1,others,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT111,17559,29-04-22,April,Friday,weeke day,2,RT1,journey,5,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT112,17559,05-01-22,May,Sunday,weekend day,1,RT1,others,5,Checked Out,1,11050,11050,0,19,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT113,17559,05-01-22,May,Sunday,weekend day,3,RT1,others,4,Checked Out,1,12155,12155,0,19,6,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT114,17559,28-04-22,April,Thursday,weeke day,4,RT1,journey,null,Checked Out,1,13260,13260,0,18,3,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT115,17559,26-04-22,April,Tuesday,weeke day,2,RT1,logtrip,4,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT116,17559,28-04-22,April,Thursday,weeke day,2,RT1,others,5,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT117,17559,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,4,Checked Out,1,11050,11050,0,18,6,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT118,17559,26-04-22,April,Tuesday,weeke day,2,RT1,others,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT119,17559,05-01-22,May,Sunday,weekend day,2,RT1,others,null,Checked Out,1,11050,11050,0,19,5,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT120,17559,27-04-22,April,Wednesday,weeke day,2,RT1,others,null,Cancelled,0,11050,4420,6630,18,2,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT121,17559,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Checked Out,1,11050,11050,0,18,6,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT122,17559,27-04-22,April,Wednesday,weeke day,1,RT1,makeyourtrip,null,Cancelled,0,11050,4420,6630,18,6,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT123,17559,26-04-22,April,Tuesday,weeke day,1,RT1,others,5,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT124,17559,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT125,17559,28-04-22,April,Thursday,weeke day,3,RT1,tripster,5,Checked Out,1,12155,12155,0,18,6,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217559RT126,17559,10-04-22,April,Sunday,weekend day,2,RT1,makeyourtrip,5,Checked Out,1,11050,11050,0,16,1,Standard,Atliq Exotica,Luxury,Mumbai,26,32,6
+May012217562RT11,17562,27-04-22,April,Wednesday,weeke day,1,RT1,journey,1,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT12,17562,05-01-22,May,Sunday,weekend day,4,RT1,others,null,Cancelled,0,13260,5304,7956,19,2,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT13,17562,05-01-22,May,Sunday,weekend day,2,RT1,others,5,Checked Out,1,11050,11050,0,19,1,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT14,17562,30-04-22,April,Saturday,weekend day,3,RT1,direct offline,2,Checked Out,1,12155,12155,0,18,2,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT15,17562,05-01-22,May,Sunday,weekend day,2,RT1,tripster,null,Cancelled,0,11050,4420,6630,19,5,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT16,17562,28-04-22,April,Thursday,weeke day,4,RT1,others,1,Checked Out,1,13260,13260,0,18,1,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT17,17562,27-04-22,April,Wednesday,weeke day,4,RT1,direct online,2,Checked Out,1,13260,13260,0,18,2,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT18,17562,29-04-22,April,Friday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,11050,4420,6630,18,6,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT19,17562,29-04-22,April,Friday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,6,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT110,17562,26-04-22,April,Tuesday,weeke day,2,RT1,direct offline,null,Checked Out,1,11050,11050,0,18,5,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT111,17562,28-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217562RT112,17562,28-04-22,April,Thursday,weeke day,2,RT1,tripster,null,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Bay,Luxury,Mumbai,12,20,8
+May012217563RT11,17563,05-01-22,May,Sunday,weekend day,1,RT1,others,5,Checked Out,1,11050,11050,0,19,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT12,17563,30-04-22,April,Saturday,weekend day,1,RT1,others,4,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT13,17563,05-01-22,May,Sunday,weekend day,1,RT1,tripster,null,Cancelled,0,11050,4420,6630,19,2,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT14,17563,05-01-22,May,Sunday,weekend day,3,RT1,journey,5,Checked Out,1,12155,12155,0,19,2,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT15,17563,05-01-22,May,Sunday,weekend day,1,RT1,others,null,Checked Out,1,11050,11050,0,19,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT16,17563,27-04-22,April,Wednesday,weeke day,1,RT1,others,null,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT17,17563,27-04-22,April,Wednesday,weeke day,1,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT18,17563,30-04-22,April,Saturday,weekend day,2,RT1,others,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT19,17563,29-04-22,April,Friday,weeke day,1,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,3,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT110,17563,28-04-22,April,Thursday,weeke day,4,RT1,direct offline,3,Checked Out,1,13260,13260,0,18,3,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT111,17563,10-04-22,April,Sunday,weekend day,1,RT1,logtrip,null,No Show,0,11050,11050,0,16,2,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT112,17563,28-04-22,April,Thursday,weeke day,4,RT1,direct online,null,Cancelled,0,13260,5304,7956,18,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT113,17563,29-04-22,April,Friday,weeke day,1,RT1,others,4,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT114,17563,05-01-22,May,Sunday,weekend day,1,RT1,others,5,Checked Out,1,11050,11050,0,19,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT115,17563,05-01-22,May,Sunday,weekend day,1,RT1,others,5,Checked Out,1,11050,11050,0,19,2,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT116,17563,30-04-22,April,Saturday,weekend day,1,RT1,direct online,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT117,17563,29-04-22,April,Friday,weeke day,2,RT1,others,null,No Show,0,11050,11050,0,18,2,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT118,17563,29-04-22,April,Friday,weeke day,1,RT1,direct online,4,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT119,17563,05-01-22,May,Sunday,weekend day,1,RT1,others,null,Cancelled,0,11050,4420,6630,19,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT120,17563,29-04-22,April,Friday,weeke day,1,RT1,direct online,null,Cancelled,0,11050,4420,6630,18,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012217563RT121,17563,26-04-22,April,Tuesday,weeke day,1,RT1,logtrip,5,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Palace,Business,Mumbai,21,25,4
+May012218558RT11,18558,28-04-22,April,Thursday,weeke day,3,RT1,makeyourtrip,3,Checked Out,1,7150,7150,0,18,1,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218558RT12,18558,30-04-22,April,Saturday,weekend day,2,RT1,others,null,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218558RT13,18558,28-04-22,April,Thursday,weeke day,2,RT1,tripster,3,Checked Out,1,6500,6500,0,18,4,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218558RT14,18558,30-04-22,April,Saturday,weekend day,2,RT1,direct offline,3,Checked Out,1,6500,6500,0,18,5,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218558RT15,18558,27-04-22,April,Wednesday,weeke day,2,RT1,others,3,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218558RT16,18558,27-04-22,April,Wednesday,weeke day,2,RT1,others,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218558RT17,18558,28-04-22,April,Thursday,weeke day,2,RT1,journey,null,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218558RT18,18558,28-04-22,April,Thursday,weeke day,2,RT1,logtrip,null,Cancelled,0,6500,2600,3900,18,2,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218558RT19,18558,10-04-22,April,Sunday,weekend day,2,RT1,logtrip,null,No Show,0,6500,6500,0,16,1,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218558RT110,18558,26-04-22,April,Tuesday,weeke day,4,RT1,makeyourtrip,null,Checked Out,1,7800,7800,0,18,1,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218558RT111,18558,27-04-22,April,Wednesday,weeke day,2,RT1,direct online,null,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Grands,Luxury,Hyderabad,11,15,4
+May012218559RT11,18559,28-04-22,April,Thursday,weeke day,2,RT1,direct offline,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT12,18559,29-04-22,April,Friday,weeke day,2,RT1,journey,2,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT13,18559,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT14,18559,27-04-22,April,Wednesday,weeke day,1,RT1,others,null,No Show,0,6500,6500,0,18,2,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT15,18559,10-04-22,April,Sunday,weekend day,2,RT1,others,2,Checked Out,1,6500,6500,0,16,5,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT16,18559,29-04-22,April,Friday,weeke day,2,RT1,others,4,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT17,18559,25-04-22,April,Monday,weeke day,2,RT1,others,2,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT18,18559,27-04-22,April,Wednesday,weeke day,4,RT1,others,null,Checked Out,1,7800,7800,0,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT19,18559,27-04-22,April,Wednesday,weeke day,1,RT1,logtrip,4,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT110,18559,28-04-22,April,Thursday,weeke day,2,RT1,tripster,null,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT111,18559,11-04-22,April,Monday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,6500,2600,3900,16,6,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT112,18559,05-01-22,May,Sunday,weekend day,2,RT1,journey,1,Checked Out,1,6500,6500,0,19,2,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT113,18559,07-04-22,April,Thursday,weeke day,3,RT1,makeyourtrip,4,Checked Out,1,7150,7150,0,15,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT114,18559,29-04-22,April,Friday,weeke day,2,RT1,direct online,null,Cancelled,0,6500,2600,3900,18,3,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT115,18559,29-04-22,April,Friday,weeke day,3,RT1,others,null,No Show,0,7150,7150,0,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT116,18559,29-04-22,April,Friday,weeke day,2,RT1,tripster,2,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT117,18559,26-04-22,April,Tuesday,weeke day,2,RT1,others,2,Checked Out,1,6500,6500,0,18,4,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT118,18559,30-04-22,April,Saturday,weekend day,2,RT1,makeyourtrip,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT119,18559,29-04-22,April,Friday,weeke day,2,RT1,journey,null,Cancelled,0,6500,2600,3900,18,2,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT120,18559,27-04-22,April,Wednesday,weeke day,2,RT1,direct online,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT121,18559,24-04-22,April,Sunday,weekend day,2,RT1,tripster,null,Checked Out,1,6500,6500,0,18,6,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT122,18559,05-01-22,May,Sunday,weekend day,2,RT1,direct online,null,Checked Out,1,6500,6500,0,19,6,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT123,18559,27-04-22,April,Wednesday,weeke day,2,RT1,direct online,null,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT124,18559,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Cancelled,0,6500,2600,3900,18,2,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT125,18559,27-04-22,April,Wednesday,weeke day,3,RT1,others,null,Checked Out,1,7150,7150,0,18,6,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT126,18559,29-04-22,April,Friday,weeke day,2,RT1,others,4,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT127,18559,29-04-22,April,Friday,weeke day,2,RT1,others,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT128,18559,28-04-22,April,Thursday,weeke day,3,RT1,logtrip,null,Checked Out,1,7150,7150,0,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012218559RT129,18559,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Exotica,Luxury,Hyderabad,29,42,13
+May012216558RT21,16558,07-04-22,April,Thursday,weeke day,2,RT2,others,null,Checked Out,1,12600,12600,0,15,5,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT22,16558,30-04-22,April,Saturday,weekend day,2,RT2,others,5,Checked Out,1,12600,12600,0,18,2,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT23,16558,10-04-22,April,Sunday,weekend day,1,RT2,makeyourtrip,null,Checked Out,1,12600,12600,0,16,6,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT24,16558,29-04-22,April,Friday,weeke day,3,RT2,others,null,Cancelled,0,13860,5544,8316,18,2,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT25,16558,26-04-22,April,Tuesday,weeke day,1,RT2,direct offline,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT26,16558,27-04-22,April,Wednesday,weeke day,2,RT2,direct offline,4,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT27,16558,26-04-22,April,Tuesday,weeke day,3,RT2,direct offline,null,Cancelled,0,13860,5544,8316,18,6,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT28,16558,05-01-22,May,Sunday,weekend day,2,RT2,others,null,Checked Out,1,12600,12600,0,19,1,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT29,16558,25-04-22,April,Monday,weeke day,2,RT2,logtrip,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT210,16558,27-04-22,April,Wednesday,weeke day,2,RT2,others,4,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT211,16558,30-04-22,April,Saturday,weekend day,2,RT2,makeyourtrip,null,Cancelled,0,12600,5040,7560,18,6,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT212,16558,27-04-22,April,Wednesday,weeke day,2,RT2,others,5,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT213,16558,29-04-22,April,Friday,weeke day,2,RT2,logtrip,4,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT214,16558,26-04-22,April,Tuesday,weeke day,4,RT2,others,4,Checked Out,1,15120,15120,0,18,2,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT215,16558,29-04-22,April,Friday,weeke day,2,RT2,direct offline,null,No Show,0,12600,12600,0,18,3,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT216,16558,28-04-22,April,Thursday,weeke day,1,RT2,others,5,Checked Out,1,12600,12600,0,18,2,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT217,16558,29-04-22,April,Friday,weeke day,4,RT2,makeyourtrip,null,Cancelled,0,15120,6048,9072,18,6,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT218,16558,24-04-22,April,Sunday,weekend day,1,RT2,logtrip,5,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT219,16558,10-04-22,April,Sunday,weekend day,3,RT2,others,5,Checked Out,1,13860,13860,0,16,1,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT220,16558,27-04-22,April,Wednesday,weeke day,2,RT2,tripster,null,Checked Out,1,12600,12600,0,18,3,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012216558RT221,16558,25-04-22,April,Monday,weeke day,2,RT2,direct online,5,Checked Out,1,12600,12600,0,18,2,Elite,Atliq Grands,Luxury,Delhi,21,22,1
+May012218561RT11,18561,11-04-22,April,Monday,weeke day,2,RT1,logtrip,null,Checked Out,1,6500,6500,0,16,1,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT12,18561,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT13,18561,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Cancelled,0,6500,2600,3900,18,5,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT14,18561,11-04-22,April,Monday,weeke day,3,RT1,others,null,Checked Out,1,7150,7150,0,16,1,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT15,18561,27-04-22,April,Wednesday,weeke day,2,RT1,others,3,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT16,18561,30-04-22,April,Saturday,weekend day,2,RT1,direct online,null,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT17,18561,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,6500,2600,3900,18,3,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT18,18561,29-04-22,April,Friday,weeke day,4,RT1,others,5,Checked Out,1,7800,7800,0,18,3,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT19,18561,05-01-22,May,Sunday,weekend day,2,RT1,direct online,null,Checked Out,1,6500,6500,0,19,4,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT110,18561,25-04-22,April,Monday,weeke day,1,RT1,others,null,Cancelled,0,6500,2600,3900,18,6,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT111,18561,27-04-22,April,Wednesday,weeke day,2,RT1,tripster,null,Checked Out,1,6500,6500,0,18,3,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT112,18561,30-04-22,April,Saturday,weekend day,3,RT1,others,4,Checked Out,1,7150,7150,0,18,1,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT113,18561,28-04-22,April,Thursday,weeke day,3,RT1,others,null,Checked Out,1,7150,7150,0,18,1,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT114,18561,24-04-22,April,Sunday,weekend day,3,RT1,direct online,null,Checked Out,1,7150,7150,0,18,5,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT115,18561,29-04-22,April,Friday,weeke day,2,RT1,others,5,Checked Out,1,6500,6500,0,18,5,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT116,18561,05-01-22,May,Sunday,weekend day,2,RT1,makeyourtrip,null,Checked Out,1,6500,6500,0,19,3,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT117,18561,27-04-22,April,Wednesday,weeke day,3,RT1,makeyourtrip,null,Checked Out,1,7150,7150,0,18,6,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT118,18561,29-04-22,April,Friday,weeke day,3,RT1,others,5,Checked Out,1,7150,7150,0,18,5,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT119,18561,29-04-22,April,Friday,weeke day,4,RT1,direct online,null,Cancelled,0,7800,3120,4680,18,2,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT120,18561,25-04-22,April,Monday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,6500,2600,3900,18,5,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT121,18561,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,6500,6500,0,18,5,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT122,18561,05-01-22,May,Sunday,weekend day,1,RT1,makeyourtrip,4,Checked Out,1,6500,6500,0,19,2,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT123,18561,28-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,6500,2600,3900,18,4,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT124,18561,05-01-22,May,Sunday,weekend day,2,RT1,direct offline,3,Checked Out,1,6500,6500,0,19,5,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT125,18561,27-04-22,April,Wednesday,weeke day,2,RT1,logtrip,null,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT126,18561,05-01-22,May,Sunday,weekend day,1,RT1,makeyourtrip,5,Checked Out,1,6500,6500,0,19,6,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT127,18561,27-04-22,April,Wednesday,weeke day,3,RT1,others,null,Checked Out,1,7150,7150,0,18,3,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT128,18561,30-04-22,April,Saturday,weekend day,1,RT1,logtrip,null,Checked Out,1,6500,6500,0,18,3,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT129,18561,26-04-22,April,Tuesday,weeke day,2,RT1,tripster,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT130,18561,27-04-22,April,Wednesday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218561RT131,18561,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Blu,Luxury,Hyderabad,31,33,2
+May012218562RT11,18562,25-04-22,April,Monday,weeke day,2,RT1,tripster,4,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT12,18562,07-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,6500,2600,3900,15,2,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT13,18562,26-04-22,April,Tuesday,weeke day,4,RT1,others,null,Cancelled,0,7800,3120,4680,18,1,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT14,18562,28-04-22,April,Thursday,weeke day,2,RT1,direct online,null,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT15,18562,28-04-22,April,Thursday,weeke day,2,RT1,logtrip,1,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT16,18562,28-04-22,April,Thursday,weeke day,1,RT1,others,5,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT17,18562,27-04-22,April,Wednesday,weeke day,2,RT1,others,5,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT18,18562,28-04-22,April,Thursday,weeke day,1,RT1,others,5,Checked Out,1,6500,6500,0,18,6,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT19,18562,30-04-22,April,Saturday,weekend day,2,RT1,journey,3,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT110,18562,27-04-22,April,Wednesday,weeke day,2,RT1,makeyourtrip,3,Checked Out,1,6500,6500,0,18,4,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT111,18562,26-04-22,April,Tuesday,weeke day,1,RT1,others,5,Checked Out,1,6500,6500,0,18,6,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT112,18562,07-04-22,April,Thursday,weeke day,1,RT1,direct online,null,Checked Out,1,6500,6500,0,15,1,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT113,18562,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT114,18562,26-04-22,April,Tuesday,weeke day,2,RT1,others,5,Checked Out,1,6500,6500,0,18,5,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT115,18562,29-04-22,April,Friday,weeke day,4,RT1,others,null,Checked Out,1,7800,7800,0,18,2,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT116,18562,28-04-22,April,Thursday,weeke day,2,RT1,others,5,Checked Out,1,6500,6500,0,18,6,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT117,18562,10-04-22,April,Sunday,weekend day,1,RT1,others,null,Cancelled,0,6500,2600,3900,16,1,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT118,18562,25-04-22,April,Monday,weeke day,2,RT1,journey,null,Checked Out,1,6500,6500,0,18,3,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT119,18562,05-01-22,May,Sunday,weekend day,3,RT1,others,null,Checked Out,1,7150,7150,0,19,5,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT120,18562,10-04-22,April,Sunday,weekend day,2,RT1,others,5,Checked Out,1,6500,6500,0,16,3,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT121,18562,26-04-22,April,Tuesday,weeke day,3,RT1,others,5,Checked Out,1,7150,7150,0,18,6,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT122,18562,10-04-22,April,Sunday,weekend day,3,RT1,others,null,Cancelled,0,7150,2860,4290,16,2,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT123,18562,25-04-22,April,Monday,weeke day,2,RT1,logtrip,null,Checked Out,1,6500,6500,0,18,3,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT124,18562,28-04-22,April,Thursday,weeke day,1,RT1,makeyourtrip,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT125,18562,28-04-22,April,Thursday,weeke day,1,RT1,others,null,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT126,18562,28-04-22,April,Thursday,weeke day,2,RT1,tripster,null,Checked Out,1,6500,6500,0,18,5,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT127,18562,27-04-22,April,Wednesday,weeke day,1,RT1,others,5,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT128,18562,30-04-22,April,Saturday,weekend day,3,RT1,makeyourtrip,null,Cancelled,0,7150,2860,4290,18,6,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT129,18562,27-04-22,April,Wednesday,weeke day,4,RT1,makeyourtrip,null,Cancelled,0,7800,3120,4680,18,5,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT130,18562,25-04-22,April,Monday,weeke day,1,RT1,makeyourtrip,4,Checked Out,1,6500,6500,0,18,6,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT131,18562,05-01-22,May,Sunday,weekend day,2,RT1,others,5,Checked Out,1,6500,6500,0,19,1,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT132,18562,28-04-22,April,Thursday,weeke day,2,RT1,others,1,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT133,18562,07-04-22,April,Thursday,weeke day,1,RT1,others,null,No Show,0,6500,6500,0,15,2,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218562RT134,18562,29-04-22,April,Friday,weeke day,1,RT1,makeyourtrip,null,Checked Out,1,6500,6500,0,18,6,Standard,Atliq Bay,Luxury,Hyderabad,34,38,4
+May012218563RT11,18563,29-04-22,April,Friday,weeke day,2,RT1,others,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT12,18563,28-04-22,April,Thursday,weeke day,1,RT1,others,4,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT13,18563,30-04-22,April,Saturday,weekend day,1,RT1,journey,3,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT14,18563,30-04-22,April,Saturday,weekend day,3,RT1,direct online,null,Checked Out,1,7150,7150,0,18,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT15,18563,25-04-22,April,Monday,weeke day,1,RT1,makeyourtrip,null,Checked Out,1,6500,6500,0,18,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT16,18563,11-04-22,April,Monday,weeke day,1,RT1,others,4,Checked Out,1,6500,6500,0,16,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT17,18563,28-04-22,April,Thursday,weeke day,1,RT1,logtrip,null,No Show,0,6500,6500,0,18,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT18,18563,05-01-22,May,Sunday,weekend day,2,RT1,makeyourtrip,null,Cancelled,0,6500,2600,3900,19,3,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT19,18563,05-01-22,May,Sunday,weekend day,1,RT1,direct offline,3,Checked Out,1,6500,6500,0,19,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT110,18563,29-04-22,April,Friday,weeke day,2,RT1,makeyourtrip,null,Cancelled,0,6500,2600,3900,18,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT111,18563,05-01-22,May,Sunday,weekend day,1,RT1,direct online,3,Checked Out,1,6500,6500,0,19,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT112,18563,28-04-22,April,Thursday,weeke day,1,RT1,makeyourtrip,3,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT113,18563,27-04-22,April,Wednesday,weeke day,1,RT1,others,null,Cancelled,0,6500,2600,3900,18,5,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT114,18563,30-04-22,April,Saturday,weekend day,1,RT1,others,3,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT115,18563,29-04-22,April,Friday,weeke day,1,RT1,tripster,null,Checked Out,1,6500,6500,0,18,4,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT116,18563,24-04-22,April,Sunday,weekend day,2,RT1,others,null,Cancelled,0,6500,2600,3900,18,3,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT117,18563,05-01-22,May,Sunday,weekend day,2,RT1,journey,null,Checked Out,1,6500,6500,0,19,1,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012218563RT118,18563,30-04-22,April,Saturday,weekend day,1,RT1,others,3,Checked Out,1,6500,6500,0,18,2,Standard,Atliq Palace,Business,Hyderabad,18,27,9
+May012219559RT11,19559,29-04-22,April,Friday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT12,19559,26-04-22,April,Tuesday,weeke day,1,RT1,direct online,3,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT13,19559,25-04-22,April,Monday,weeke day,1,RT1,others,3,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT14,19559,26-04-22,April,Tuesday,weeke day,3,RT1,direct online,null,Cancelled,0,10725,4290,6435,18,1,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT15,19559,30-04-22,April,Saturday,weekend day,2,RT1,makeyourtrip,3,Checked Out,1,9750,9750,0,18,4,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT16,19559,24-04-22,April,Sunday,weekend day,2,RT1,others,4,Checked Out,1,9750,9750,0,18,5,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT17,19559,30-04-22,April,Saturday,weekend day,2,RT1,makeyourtrip,null,Cancelled,0,9750,3900,5850,18,5,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT18,19559,30-04-22,April,Saturday,weekend day,4,RT1,makeyourtrip,3,Checked Out,1,11700,11700,0,18,6,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT19,19559,30-04-22,April,Saturday,weekend day,3,RT1,others,3,Checked Out,1,10725,10725,0,18,4,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT110,19559,27-04-22,April,Wednesday,weeke day,2,RT1,others,3,Checked Out,1,9750,9750,0,18,5,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT111,19559,26-04-22,April,Tuesday,weeke day,1,RT1,journey,null,Cancelled,0,9750,3900,5850,18,5,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT112,19559,29-04-22,April,Friday,weeke day,3,RT1,others,3,Checked Out,1,10725,10725,0,18,2,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT113,19559,27-04-22,April,Wednesday,weeke day,3,RT1,others,3,Checked Out,1,10725,10725,0,18,2,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT114,19559,30-04-22,April,Saturday,weekend day,3,RT1,tripster,null,Checked Out,1,10725,10725,0,18,2,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT115,19559,26-04-22,April,Tuesday,weeke day,2,RT1,makeyourtrip,4,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT116,19559,28-04-22,April,Thursday,weeke day,2,RT1,others,null,Cancelled,0,9750,3900,5850,18,3,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT117,19559,25-04-22,April,Monday,weeke day,2,RT1,others,null,Cancelled,0,9750,3900,5850,18,1,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219559RT118,19559,28-04-22,April,Thursday,weeke day,2,RT1,others,2,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Exotica,Luxury,Bangalore,18,24,6
+May012219561RT11,19561,30-04-22,April,Saturday,weekend day,2,RT1,makeyourtrip,null,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT12,19561,29-04-22,April,Friday,weeke day,3,RT1,makeyourtrip,1,Checked Out,1,10725,10725,0,18,6,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT13,19561,27-04-22,April,Wednesday,weeke day,3,RT1,logtrip,null,Cancelled,0,10725,4290,6435,18,6,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT14,19561,28-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,3,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT15,19561,26-04-22,April,Tuesday,weeke day,4,RT1,others,2,Checked Out,1,11700,11700,0,18,1,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT16,19561,26-04-22,April,Tuesday,weeke day,1,RT1,others,null,Cancelled,0,9750,3900,5850,18,1,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT17,19561,27-04-22,April,Wednesday,weeke day,2,RT1,makeyourtrip,3,Checked Out,1,9750,9750,0,18,6,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT18,19561,28-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,2,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT19,19561,29-04-22,April,Friday,weeke day,1,RT1,others,3,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT110,19561,29-04-22,April,Friday,weeke day,2,RT1,others,3,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT111,19561,28-04-22,April,Thursday,weeke day,3,RT1,others,5,Checked Out,1,10725,10725,0,18,2,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT112,19561,29-04-22,April,Friday,weeke day,3,RT1,makeyourtrip,null,Cancelled,0,10725,4290,6435,18,2,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT113,19561,26-04-22,April,Tuesday,weeke day,2,RT1,logtrip,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT114,19561,25-04-22,April,Monday,weeke day,2,RT1,others,null,Cancelled,0,9750,3900,5850,18,2,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT115,19561,11-04-22,April,Monday,weeke day,2,RT1,others,null,Checked Out,1,9750,9750,0,16,2,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT116,19561,25-04-22,April,Monday,weeke day,1,RT1,others,null,Cancelled,0,9750,3900,5850,18,3,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT117,19561,26-04-22,April,Tuesday,weeke day,2,RT1,logtrip,4,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT118,19561,26-04-22,April,Tuesday,weeke day,3,RT1,logtrip,null,Cancelled,0,10725,4290,6435,18,1,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT119,19561,30-04-22,April,Saturday,weekend day,2,RT1,others,2,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT120,19561,28-04-22,April,Thursday,weeke day,2,RT1,makeyourtrip,null,Checked Out,1,9750,9750,0,18,1,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT121,19561,11-04-22,April,Monday,weeke day,2,RT1,others,3,Checked Out,1,9750,9750,0,16,3,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT122,19561,24-04-22,April,Sunday,weekend day,3,RT1,makeyourtrip,null,Cancelled,0,10725,4290,6435,18,2,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT123,19561,29-04-22,April,Friday,weeke day,2,RT1,journey,null,Cancelled,0,9750,3900,5850,18,2,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT124,19561,30-04-22,April,Saturday,weekend day,2,RT1,others,null,Cancelled,0,9750,3900,5850,18,6,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012219561RT125,19561,26-04-22,April,Tuesday,weeke day,2,RT1,journey,3,Checked Out,1,9750,9750,0,18,2,Standard,Atliq Blu,Luxury,Bangalore,25,36,11
+May012217564RT11,17564,30-04-22,April,Saturday,weekend day,1,RT1,others,3,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Seasons,Business,Mumbai,9,16,7
+May012217564RT12,17564,27-04-22,April,Wednesday,weeke day,1,RT1,direct online,2,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Seasons,Business,Mumbai,9,16,7
+May012217564RT13,17564,30-04-22,April,Saturday,weekend day,1,RT1,others,3,Checked Out,1,11050,11050,0,18,1,Standard,Atliq Seasons,Business,Mumbai,9,16,7
+May012217564RT14,17564,30-04-22,April,Saturday,weekend day,4,RT1,direct online,null,Cancelled,0,13260,5304,7956,18,2,Standard,Atliq Seasons,Business,Mumbai,9,16,7
+May012217564RT15,17564,30-04-22,April,Saturday,weekend day,1,RT1,makeyourtrip,null,Checked Out,1,11050,11050,0,18,2,Standard,Atliq Seasons,Business,Mumbai,9,16,7
+May012217564RT16,17564,30-04-22,April,Saturday,weekend day,1,RT1,others,3,Checked Out,1,11050,11050,0,18,3,Standard,Atliq Seasons,Business,Mumbai,9,16,7
+May012217564RT17,17564,05-01-22,May,Sunday,weekend day,4,RT1,others,2,Checked Out,1,13260,13260,0,19,1,Standard,Atliq Seasons,Business,Mumbai,9,16,7
+May012217564RT18,17564,27-04-22,April,Wednesday,weeke day,3,RT1,others,null,Checked Out,1,12155,12155,0,18,1,Standard,Atliq Seasons,Business,Mumbai,9,16,7
+May012217564RT19,17564,29-04-22,April,Friday,weeke day,1,RT1,makeyourtrip,null,Cancelled,0,11050,4420,6630,18,2,Standard,Atliq Seasons,Business,Mumbai,9,16,7
+May012219562RT21,19562,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT22,19562,30-04-22,April,Saturday,weekend day,2,RT2,journey,null,Cancelled,0,13500,5400,8100,18,2,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT23,19562,26-04-22,April,Tuesday,weeke day,3,RT2,others,null,Checked Out,1,14850,14850,0,18,2,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT24,19562,26-04-22,April,Tuesday,weeke day,2,RT2,others,null,Checked Out,1,13500,13500,0,18,5,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT25,19562,27-04-22,April,Wednesday,weeke day,2,RT2,makeyourtrip,4,Checked Out,1,13500,13500,0,18,2,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT26,19562,26-04-22,April,Tuesday,weeke day,2,RT2,makeyourtrip,5,Checked Out,1,13500,13500,0,18,3,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT27,19562,05-01-22,May,Sunday,weekend day,2,RT2,direct online,null,Cancelled,0,13500,5400,8100,19,3,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT28,19562,24-04-22,April,Sunday,weekend day,1,RT2,logtrip,null,Checked Out,1,13500,13500,0,18,6,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT29,19562,28-04-22,April,Thursday,weeke day,2,RT2,others,1,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT210,19562,25-04-22,April,Monday,weeke day,1,RT2,others,5,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT211,19562,27-04-22,April,Wednesday,weeke day,2,RT2,direct online,4,Checked Out,1,13500,13500,0,18,6,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT212,19562,30-04-22,April,Saturday,weekend day,1,RT2,others,5,Checked Out,1,13500,13500,0,18,5,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT213,19562,29-04-22,April,Friday,weeke day,2,RT2,others,5,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT214,19562,29-04-22,April,Friday,weeke day,2,RT2,others,null,Cancelled,0,13500,5400,8100,18,1,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT215,19562,29-04-22,April,Friday,weeke day,2,RT2,logtrip,2,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT216,19562,29-04-22,April,Friday,weeke day,2,RT2,direct offline,5,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT217,19562,29-04-22,April,Friday,weeke day,2,RT2,others,null,Cancelled,0,13500,5400,8100,18,4,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT218,19562,29-04-22,April,Friday,weeke day,2,RT2,makeyourtrip,3,Checked Out,1,13500,13500,0,18,4,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT219,19562,29-04-22,April,Friday,weeke day,2,RT2,logtrip,2,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT220,19562,10-04-22,April,Sunday,weekend day,2,RT2,makeyourtrip,null,Cancelled,0,13500,5400,8100,16,2,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT221,19562,26-04-22,April,Tuesday,weeke day,1,RT2,others,3,Checked Out,1,13500,13500,0,18,6,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT222,19562,28-04-22,April,Thursday,weeke day,4,RT2,journey,null,Checked Out,1,16200,16200,0,18,6,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012219562RT223,19562,10-04-22,April,Sunday,weekend day,2,RT2,makeyourtrip,null,Checked Out,1,13500,13500,0,16,5,Elite,Atliq Bay,Luxury,Bangalore,23,23,0
+May012218563RT21,18563,05-01-22,May,Sunday,weekend day,1,RT2,direct online,4,Checked Out,1,9000,9000,0,19,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT22,18563,30-04-22,April,Saturday,weekend day,4,RT2,makeyourtrip,4,Checked Out,1,10800,10800,0,18,3,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT23,18563,30-04-22,April,Saturday,weekend day,1,RT2,makeyourtrip,null,Cancelled,0,9000,3600,5400,18,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT24,18563,30-04-22,April,Saturday,weekend day,1,RT2,others,null,Checked Out,1,9000,9000,0,18,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT25,18563,05-01-22,May,Sunday,weekend day,2,RT2,tripster,null,Checked Out,1,9000,9000,0,19,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT26,18563,25-04-22,April,Monday,weeke day,4,RT2,makeyourtrip,null,Checked Out,1,10800,10800,0,18,5,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT27,18563,05-01-22,May,Sunday,weekend day,3,RT2,others,null,Checked Out,1,9900,9900,0,19,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT28,18563,29-04-22,April,Friday,weeke day,1,RT2,tripster,null,Cancelled,0,9000,3600,5400,18,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT29,18563,27-04-22,April,Wednesday,weeke day,2,RT2,makeyourtrip,2,Checked Out,1,9000,9000,0,18,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT210,18563,29-04-22,April,Friday,weeke day,1,RT2,logtrip,2,Checked Out,1,9000,9000,0,18,6,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT211,18563,05-01-22,May,Sunday,weekend day,2,RT2,logtrip,3,Checked Out,1,9000,9000,0,19,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT212,18563,10-04-22,April,Sunday,weekend day,2,RT2,logtrip,null,Checked Out,1,9000,9000,0,16,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT213,18563,29-04-22,April,Friday,weeke day,2,RT2,logtrip,null,Checked Out,1,9000,9000,0,18,6,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT214,18563,07-04-22,April,Thursday,weeke day,2,RT2,journey,null,Checked Out,1,9000,9000,0,15,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT215,18563,27-04-22,April,Wednesday,weeke day,1,RT2,makeyourtrip,3,Checked Out,1,9000,9000,0,18,2,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT216,18563,29-04-22,April,Friday,weeke day,1,RT2,others,3,Checked Out,1,9000,9000,0,18,3,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT217,18563,29-04-22,April,Friday,weeke day,1,RT2,others,null,Checked Out,1,9000,9000,0,18,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT218,18563,30-04-22,April,Saturday,weekend day,2,RT2,tripster,null,Cancelled,0,9000,3600,5400,18,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT219,18563,05-01-22,May,Sunday,weekend day,4,RT2,others,null,Checked Out,1,10800,10800,0,19,2,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT220,18563,30-04-22,April,Saturday,weekend day,1,RT2,makeyourtrip,null,Cancelled,0,9000,3600,5400,18,1,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012218563RT221,18563,29-04-22,April,Friday,weeke day,1,RT2,logtrip,null,Checked Out,1,9000,9000,0,18,2,Elite,Atliq Palace,Business,Hyderabad,21,29,8
+May012217561RT21,17561,07-04-22,April,Thursday,weeke day,2,RT2,others,null,Cancelled,0,15300,6120,9180,15,2,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT22,17561,05-01-22,May,Sunday,weekend day,2,RT2,tripster,null,Checked Out,1,15300,15300,0,19,2,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT23,17561,28-04-22,April,Thursday,weeke day,1,RT2,logtrip,2,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT24,17561,26-04-22,April,Tuesday,weeke day,2,RT2,others,null,Cancelled,0,15300,6120,9180,18,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT25,17561,27-04-22,April,Wednesday,weeke day,2,RT2,others,null,No Show,0,15300,15300,0,18,2,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT26,17561,26-04-22,April,Tuesday,weeke day,4,RT2,direct online,null,Checked Out,1,18360,18360,0,18,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT27,17561,27-04-22,April,Wednesday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,5,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT28,17561,28-04-22,April,Thursday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,5,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT29,17561,25-04-22,April,Monday,weeke day,2,RT2,makeyourtrip,5,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT210,17561,26-04-22,April,Tuesday,weeke day,4,RT2,others,5,Checked Out,1,18360,18360,0,18,2,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT211,17561,25-04-22,April,Monday,weeke day,1,RT2,tripster,5,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT212,17561,29-04-22,April,Friday,weeke day,1,RT2,others,null,Cancelled,0,15300,6120,9180,18,2,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT213,17561,28-04-22,April,Thursday,weeke day,3,RT2,logtrip,null,Cancelled,0,16830,6732,10098,18,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT214,17561,05-01-22,May,Sunday,weekend day,1,RT2,others,null,Checked Out,1,15300,15300,0,19,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT215,17561,27-04-22,April,Wednesday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,4,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT216,17561,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,3,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT217,17561,29-04-22,April,Friday,weeke day,1,RT2,direct online,null,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT218,17561,07-04-22,April,Thursday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,15,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT219,17561,29-04-22,April,Friday,weeke day,2,RT2,direct offline,null,Checked Out,1,15300,15300,0,18,4,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT220,17561,26-04-22,April,Tuesday,weeke day,1,RT2,tripster,null,No Show,0,15300,15300,0,18,6,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT221,17561,25-04-22,April,Monday,weeke day,1,RT2,makeyourtrip,5,Checked Out,1,15300,15300,0,18,6,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT222,17561,26-04-22,April,Tuesday,weeke day,2,RT2,others,5,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT223,17561,26-04-22,April,Tuesday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,5,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT224,17561,27-04-22,April,Wednesday,weeke day,2,RT2,journey,null,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT225,17561,25-04-22,April,Monday,weeke day,2,RT2,tripster,null,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT226,17561,27-04-22,April,Wednesday,weeke day,2,RT2,direct offline,5,Checked Out,1,15300,15300,0,18,5,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT227,17561,25-04-22,April,Monday,weeke day,3,RT2,direct online,null,No Show,0,16830,16830,0,18,2,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT228,17561,26-04-22,April,Tuesday,weeke day,2,RT2,makeyourtrip,null,Checked Out,1,15300,15300,0,18,5,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT229,17561,10-04-22,April,Sunday,weekend day,2,RT2,journey,null,Checked Out,1,15300,15300,0,16,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT230,17561,26-04-22,April,Tuesday,weeke day,2,RT2,others,5,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT231,17561,29-04-22,April,Friday,weeke day,1,RT2,makeyourtrip,4,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217561RT232,17561,24-04-22,April,Sunday,weekend day,2,RT2,direct online,null,No Show,0,15300,15300,0,18,3,Elite,Atliq Blu,Luxury,Mumbai,32,36,4
+May012217558RT21,17558,28-04-22,April,Thursday,weeke day,3,RT2,makeyourtrip,null,Cancelled,0,16830,6732,10098,18,2,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT22,17558,29-04-22,April,Friday,weeke day,2,RT2,others,null,Cancelled,0,15300,6120,9180,18,2,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT23,17558,27-04-22,April,Wednesday,weeke day,3,RT2,makeyourtrip,null,Checked Out,1,16830,16830,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT24,17558,29-04-22,April,Friday,weeke day,2,RT2,direct offline,3,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT25,17558,30-04-22,April,Saturday,weekend day,3,RT2,others,null,Checked Out,1,16830,16830,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT26,17558,30-04-22,April,Saturday,weekend day,1,RT2,tripster,3,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT27,17558,29-04-22,April,Friday,weeke day,3,RT2,others,3,Checked Out,1,16830,16830,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT28,17558,27-04-22,April,Wednesday,weeke day,2,RT2,tripster,null,Cancelled,0,15300,6120,9180,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT29,17558,25-04-22,April,Monday,weeke day,1,RT2,others,3,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT210,17558,30-04-22,April,Saturday,weekend day,2,RT2,makeyourtrip,null,Cancelled,0,15300,6120,9180,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT211,17558,29-04-22,April,Friday,weeke day,2,RT2,direct online,3,Checked Out,1,15300,15300,0,18,5,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT212,17558,27-04-22,April,Wednesday,weeke day,3,RT2,others,null,No Show,0,16830,16830,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT213,17558,26-04-22,April,Tuesday,weeke day,2,RT2,others,3,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT214,17558,25-04-22,April,Monday,weeke day,2,RT2,logtrip,4,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT215,17558,25-04-22,April,Monday,weeke day,2,RT2,others,null,Cancelled,0,15300,6120,9180,18,6,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT216,17558,28-04-22,April,Thursday,weeke day,2,RT2,direct offline,3,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT217,17558,30-04-22,April,Saturday,weekend day,2,RT2,journey,null,Cancelled,0,15300,6120,9180,18,5,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT218,17558,26-04-22,April,Tuesday,weeke day,4,RT2,others,null,Cancelled,0,18360,7344,11016,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT219,17558,27-04-22,April,Wednesday,weeke day,2,RT2,tripster,null,Cancelled,0,15300,6120,9180,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT220,17558,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT221,17558,28-04-22,April,Thursday,weeke day,2,RT2,direct online,3,Checked Out,1,15300,15300,0,18,5,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT222,17558,26-04-22,April,Tuesday,weeke day,2,RT2,makeyourtrip,null,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT223,17558,28-04-22,April,Thursday,weeke day,3,RT2,others,null,Checked Out,1,16830,16830,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT224,17558,30-04-22,April,Saturday,weekend day,2,RT2,journey,null,Cancelled,0,15300,6120,9180,18,3,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT225,17558,25-04-22,April,Monday,weeke day,2,RT2,direct offline,5,Checked Out,1,15300,15300,0,18,6,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT226,17558,30-04-22,April,Saturday,weekend day,2,RT2,makeyourtrip,4,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT227,17558,07-04-22,April,Thursday,weeke day,2,RT2,others,3,Checked Out,1,15300,15300,0,15,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT228,17558,29-04-22,April,Friday,weeke day,2,RT2,logtrip,null,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT229,17558,24-04-22,April,Sunday,weekend day,2,RT2,direct online,null,Cancelled,0,15300,6120,9180,18,5,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT230,17558,29-04-22,April,Friday,weeke day,2,RT2,others,3,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT231,17558,07-04-22,April,Thursday,weeke day,2,RT2,others,4,Checked Out,1,15300,15300,0,15,6,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT232,17558,27-04-22,April,Wednesday,weeke day,2,RT2,others,3,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT233,17558,26-04-22,April,Tuesday,weeke day,2,RT2,journey,null,Checked Out,1,15300,15300,0,18,3,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT234,17558,28-04-22,April,Thursday,weeke day,2,RT2,tripster,4,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT235,17558,26-04-22,April,Tuesday,weeke day,2,RT2,others,null,No Show,0,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT236,17558,25-04-22,April,Monday,weeke day,4,RT2,others,3,Checked Out,1,18360,18360,0,18,2,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT237,17558,27-04-22,April,Wednesday,weeke day,1,RT2,others,3,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012217558RT238,17558,28-04-22,April,Thursday,weeke day,2,RT2,makeyourtrip,null,Cancelled,0,15300,6120,9180,18,6,Elite,Atliq Grands,Luxury,Mumbai,38,50,12
+May012216562RT21,16562,05-01-22,May,Sunday,weekend day,4,RT2,tripster,null,Cancelled,0,15120,6048,9072,19,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT22,16562,28-04-22,April,Thursday,weeke day,2,RT2,direct offline,3,Checked Out,1,12600,12600,0,18,3,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT23,16562,26-04-22,April,Tuesday,weeke day,2,RT2,tripster,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT24,16562,26-04-22,April,Tuesday,weeke day,2,RT2,logtrip,null,Cancelled,0,12600,5040,7560,18,3,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT25,16562,28-04-22,April,Thursday,weeke day,1,RT2,others,2,Checked Out,1,12600,12600,0,18,3,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT26,16562,26-04-22,April,Tuesday,weeke day,2,RT2,others,4,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT27,16562,26-04-22,April,Tuesday,weeke day,2,RT2,others,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT28,16562,27-04-22,April,Wednesday,weeke day,1,RT2,journey,null,Cancelled,0,12600,5040,7560,18,2,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT29,16562,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,12600,12600,0,18,3,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT210,16562,05-01-22,May,Sunday,weekend day,2,RT2,others,3,Checked Out,1,12600,12600,0,19,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT211,16562,25-04-22,April,Monday,weeke day,3,RT2,logtrip,null,Checked Out,1,13860,13860,0,18,2,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT212,16562,10-04-22,April,Sunday,weekend day,3,RT2,makeyourtrip,3,Checked Out,1,13860,13860,0,16,6,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT213,16562,26-04-22,April,Tuesday,weeke day,2,RT2,makeyourtrip,3,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT214,16562,28-04-22,April,Thursday,weeke day,2,RT2,direct offline,3,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT215,16562,25-04-22,April,Monday,weeke day,2,RT2,direct offline,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT216,16562,29-04-22,April,Friday,weeke day,4,RT2,others,3,Checked Out,1,15120,15120,0,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT217,16562,24-04-22,April,Sunday,weekend day,2,RT2,others,5,Checked Out,1,12600,12600,0,18,2,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT218,16562,28-04-22,April,Thursday,weeke day,2,RT2,others,null,Checked Out,1,12600,12600,0,18,6,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT219,16562,27-04-22,April,Wednesday,weeke day,3,RT2,others,null,Cancelled,0,13860,5544,8316,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT220,16562,28-04-22,April,Thursday,weeke day,3,RT2,others,null,Cancelled,0,13860,5544,8316,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT221,16562,28-04-22,April,Thursday,weeke day,2,RT2,makeyourtrip,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT222,16562,26-04-22,April,Tuesday,weeke day,2,RT2,others,null,Cancelled,0,12600,5040,7560,18,6,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT223,16562,25-04-22,April,Monday,weeke day,2,RT2,others,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT224,16562,27-04-22,April,Wednesday,weeke day,4,RT2,others,4,Checked Out,1,15120,15120,0,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT225,16562,10-04-22,April,Sunday,weekend day,2,RT2,others,null,Cancelled,0,12600,5040,7560,16,6,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT226,16562,27-04-22,April,Wednesday,weeke day,1,RT2,others,3,Checked Out,1,12600,12600,0,18,2,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT227,16562,26-04-22,April,Tuesday,weeke day,2,RT2,others,null,Checked Out,1,12600,12600,0,18,6,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT228,16562,27-04-22,April,Wednesday,weeke day,2,RT2,others,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT229,16562,25-04-22,April,Monday,weeke day,3,RT2,makeyourtrip,3,Checked Out,1,13860,13860,0,18,3,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216562RT230,16562,29-04-22,April,Friday,weeke day,2,RT2,tripster,null,Checked Out,1,12600,12600,0,18,6,Elite,Atliq Bay,Luxury,Delhi,30,43,13
+May012216561RT21,16561,30-04-22,April,Saturday,weekend day,2,RT2,others,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT22,16561,27-04-22,April,Wednesday,weeke day,2,RT2,others,4,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT23,16561,26-04-22,April,Tuesday,weeke day,2,RT2,others,2,Checked Out,1,12600,12600,0,18,5,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT24,16561,26-04-22,April,Tuesday,weeke day,4,RT2,others,null,Checked Out,1,15120,15120,0,18,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT25,16561,28-04-22,April,Thursday,weeke day,4,RT2,tripster,null,Cancelled,0,15120,6048,9072,18,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT26,16561,27-04-22,April,Wednesday,weeke day,1,RT2,makeyourtrip,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT27,16561,29-04-22,April,Friday,weeke day,2,RT2,others,3,Checked Out,1,12600,12600,0,18,5,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT28,16561,25-04-22,April,Monday,weeke day,3,RT2,direct online,null,Cancelled,0,13860,5544,8316,18,6,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT29,16561,05-01-22,May,Sunday,weekend day,2,RT2,others,4,Checked Out,1,12600,12600,0,19,2,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT210,16561,27-04-22,April,Wednesday,weeke day,2,RT2,others,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT211,16561,28-04-22,April,Thursday,weeke day,2,RT2,tripster,4,Checked Out,1,12600,12600,0,18,2,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT212,16561,10-04-22,April,Sunday,weekend day,3,RT2,makeyourtrip,null,Cancelled,0,13860,5544,8316,16,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT213,16561,29-04-22,April,Friday,weeke day,3,RT2,makeyourtrip,5,Checked Out,1,13860,13860,0,18,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT214,16561,27-04-22,April,Wednesday,weeke day,2,RT2,others,null,Cancelled,0,12600,5040,7560,18,5,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT215,16561,25-04-22,April,Monday,weeke day,1,RT2,others,4,Checked Out,1,12600,12600,0,18,6,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT216,16561,05-01-22,May,Sunday,weekend day,2,RT2,makeyourtrip,null,Cancelled,0,12600,5040,7560,19,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT217,16561,28-04-22,April,Thursday,weeke day,1,RT2,logtrip,null,Cancelled,0,12600,5040,7560,18,6,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT218,16561,25-04-22,April,Monday,weeke day,2,RT2,makeyourtrip,3,Checked Out,1,12600,12600,0,18,5,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT219,16561,25-04-22,April,Monday,weeke day,1,RT2,others,2,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT220,16561,25-04-22,April,Monday,weeke day,2,RT2,direct online,5,Checked Out,1,12600,12600,0,18,5,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT221,16561,24-04-22,April,Sunday,weekend day,2,RT2,tripster,4,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT222,16561,27-04-22,April,Wednesday,weeke day,2,RT2,direct offline,5,Checked Out,1,12600,12600,0,18,4,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT223,16561,28-04-22,April,Thursday,weeke day,2,RT2,tripster,null,Cancelled,0,12600,5040,7560,18,5,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012216561RT224,16561,28-04-22,April,Thursday,weeke day,1,RT2,makeyourtrip,2,Checked Out,1,12600,12600,0,18,5,Elite,Atliq Blu,Luxury,Delhi,24,24,0
+May012219560RT21,19560,05-01-22,May,Sunday,weekend day,4,RT2,others,null,Checked Out,1,16200,16200,0,19,3,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT22,19560,05-01-22,May,Sunday,weekend day,2,RT2,makeyourtrip,null,Cancelled,0,13500,5400,8100,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT23,19560,30-04-22,April,Saturday,weekend day,1,RT2,others,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT24,19560,05-01-22,May,Sunday,weekend day,1,RT2,logtrip,4,Checked Out,1,13500,13500,0,19,2,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT25,19560,30-04-22,April,Saturday,weekend day,4,RT2,makeyourtrip,null,Checked Out,1,16200,16200,0,18,3,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT26,19560,30-04-22,April,Saturday,weekend day,2,RT2,others,5,Checked Out,1,13500,13500,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT27,19560,05-01-22,May,Sunday,weekend day,1,RT2,others,5,Checked Out,1,13500,13500,0,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT28,19560,29-04-22,April,Friday,weeke day,1,RT2,others,5,Checked Out,1,13500,13500,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT29,19560,05-01-22,May,Sunday,weekend day,1,RT2,direct online,4,Checked Out,1,13500,13500,0,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT210,19560,05-01-22,May,Sunday,weekend day,2,RT2,others,4,Checked Out,1,13500,13500,0,19,2,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT211,19560,05-01-22,May,Sunday,weekend day,1,RT2,makeyourtrip,null,Checked Out,1,13500,13500,0,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT212,19560,11-04-22,April,Monday,weeke day,2,RT2,makeyourtrip,null,Checked Out,1,13500,13500,0,16,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT213,19560,28-04-22,April,Thursday,weeke day,1,RT2,tripster,2,Checked Out,1,13500,13500,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT214,19560,05-01-22,May,Sunday,weekend day,1,RT2,direct offline,5,Checked Out,1,13500,13500,0,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT215,19560,05-01-22,May,Sunday,weekend day,1,RT2,others,null,Cancelled,0,13500,5400,8100,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT216,19560,26-04-22,April,Tuesday,weeke day,2,RT2,makeyourtrip,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT217,19560,30-04-22,April,Saturday,weekend day,1,RT2,logtrip,5,Checked Out,1,13500,13500,0,18,2,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT218,19560,30-04-22,April,Saturday,weekend day,1,RT2,others,5,Checked Out,1,13500,13500,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT219,19560,28-04-22,April,Thursday,weeke day,2,RT2,direct online,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT220,19560,05-01-22,May,Sunday,weekend day,1,RT2,others,5,Checked Out,1,13500,13500,0,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT221,19560,10-04-22,April,Sunday,weekend day,1,RT2,makeyourtrip,null,Checked Out,1,13500,13500,0,16,2,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT222,19560,30-04-22,April,Saturday,weekend day,1,RT2,tripster,5,Checked Out,1,13500,13500,0,18,2,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT223,19560,29-04-22,April,Friday,weeke day,1,RT2,others,null,Checked Out,1,13500,13500,0,18,2,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT224,19560,30-04-22,April,Saturday,weekend day,4,RT2,tripster,null,Checked Out,1,16200,16200,0,18,4,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT225,19560,05-01-22,May,Sunday,weekend day,2,RT2,logtrip,null,No Show,0,13500,13500,0,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT226,19560,29-04-22,April,Friday,weeke day,4,RT2,others,null,Cancelled,0,16200,6480,9720,18,2,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT227,19560,30-04-22,April,Saturday,weekend day,1,RT2,others,4,Checked Out,1,13500,13500,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT228,19560,29-04-22,April,Friday,weeke day,1,RT2,others,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT229,19560,30-04-22,April,Saturday,weekend day,3,RT2,makeyourtrip,5,Checked Out,1,14850,14850,0,18,2,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT230,19560,05-01-22,May,Sunday,weekend day,1,RT2,others,null,Cancelled,0,13500,5400,8100,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT231,19560,29-04-22,April,Friday,weeke day,1,RT2,others,5,Checked Out,1,13500,13500,0,18,3,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT232,19560,28-04-22,April,Thursday,weeke day,4,RT2,logtrip,null,Cancelled,0,16200,6480,9720,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT233,19560,05-01-22,May,Sunday,weekend day,1,RT2,journey,null,Checked Out,1,13500,13500,0,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT234,19560,05-01-22,May,Sunday,weekend day,1,RT2,others,5,Checked Out,1,13500,13500,0,19,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT235,19560,07-04-22,April,Thursday,weeke day,1,RT2,direct offline,null,Cancelled,0,13500,5400,8100,15,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT236,19560,29-04-22,April,Friday,weeke day,1,RT2,logtrip,5,Checked Out,1,13500,13500,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012219560RT237,19560,29-04-22,April,Friday,weeke day,4,RT2,tripster,null,Checked Out,1,16200,16200,0,18,1,Elite,Atliq City,Business,Bangalore,37,38,1
+May012216563RT21,16563,28-04-22,April,Thursday,weeke day,1,RT2,makeyourtrip,null,Checked Out,1,12600,12600,0,18,6,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT22,16563,27-04-22,April,Wednesday,weeke day,1,RT2,others,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT23,16563,30-04-22,April,Saturday,weekend day,2,RT2,others,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT24,16563,30-04-22,April,Saturday,weekend day,1,RT2,logtrip,5,Checked Out,1,12600,12600,0,18,4,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT25,16563,29-04-22,April,Friday,weeke day,4,RT2,makeyourtrip,5,Checked Out,1,15120,15120,0,18,3,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT26,16563,30-04-22,April,Saturday,weekend day,1,RT2,tripster,1,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT27,16563,30-04-22,April,Saturday,weekend day,1,RT2,others,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT28,16563,30-04-22,April,Saturday,weekend day,1,RT2,others,5,Checked Out,1,12600,12600,0,18,2,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT29,16563,28-04-22,April,Thursday,weeke day,2,RT2,others,5,Checked Out,1,12600,12600,0,18,2,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT210,16563,05-01-22,May,Sunday,weekend day,2,RT2,direct online,null,Cancelled,0,12600,5040,7560,19,2,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT211,16563,30-04-22,April,Saturday,weekend day,1,RT2,logtrip,5,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT212,16563,30-04-22,April,Saturday,weekend day,1,RT2,others,null,Checked Out,1,12600,12600,0,18,6,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT213,16563,28-04-22,April,Thursday,weeke day,1,RT2,others,null,Cancelled,0,12600,5040,7560,18,3,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT214,16563,30-04-22,April,Saturday,weekend day,4,RT2,others,null,Cancelled,0,15120,6048,9072,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT215,16563,05-01-22,May,Sunday,weekend day,1,RT2,direct offline,null,Checked Out,1,12600,12600,0,19,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT216,16563,05-01-22,May,Sunday,weekend day,4,RT2,direct online,null,Cancelled,0,15120,6048,9072,19,2,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT217,16563,30-04-22,April,Saturday,weekend day,1,RT2,makeyourtrip,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT218,16563,29-04-22,April,Friday,weeke day,1,RT2,journey,4,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT219,16563,05-01-22,May,Sunday,weekend day,2,RT2,others,null,Checked Out,1,12600,12600,0,19,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT220,16563,05-01-22,May,Sunday,weekend day,1,RT2,direct online,5,Checked Out,1,12600,12600,0,19,2,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT221,16563,05-01-22,May,Sunday,weekend day,1,RT2,others,5,Checked Out,1,12600,12600,0,19,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT222,16563,05-01-22,May,Sunday,weekend day,3,RT2,others,null,Cancelled,0,13860,5544,8316,19,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT223,16563,05-01-22,May,Sunday,weekend day,1,RT2,makeyourtrip,null,Checked Out,1,12600,12600,0,19,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT224,16563,28-04-22,April,Thursday,weeke day,1,RT2,others,2,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT225,16563,30-04-22,April,Saturday,weekend day,1,RT2,tripster,null,No Show,0,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT226,16563,26-04-22,April,Tuesday,weeke day,2,RT2,journey,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT227,16563,30-04-22,April,Saturday,weekend day,2,RT2,others,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT228,16563,25-04-22,April,Monday,weeke day,1,RT2,others,4,Checked Out,1,12600,12600,0,18,2,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT229,16563,30-04-22,April,Saturday,weekend day,1,RT2,journey,null,Checked Out,1,12600,12600,0,18,4,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT230,16563,05-01-22,May,Sunday,weekend day,1,RT2,makeyourtrip,5,Checked Out,1,12600,12600,0,19,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT231,16563,30-04-22,April,Saturday,weekend day,1,RT2,makeyourtrip,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT232,16563,05-01-22,May,Sunday,weekend day,4,RT2,direct offline,null,Checked Out,1,15120,15120,0,19,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT233,16563,30-04-22,April,Saturday,weekend day,1,RT2,others,5,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT234,16563,05-01-22,May,Sunday,weekend day,1,RT2,others,null,Checked Out,1,12600,12600,0,19,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT235,16563,28-04-22,April,Thursday,weeke day,4,RT2,others,5,Checked Out,1,15120,15120,0,18,6,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT236,16563,30-04-22,April,Saturday,weekend day,1,RT2,others,null,Cancelled,0,12600,5040,7560,18,4,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216563RT237,16563,30-04-22,April,Saturday,weekend day,1,RT2,logtrip,5,Checked Out,1,12600,12600,0,18,1,Elite,Atliq Palace,Business,Delhi,37,38,1
+May012216559RT21,16559,27-04-22,April,Wednesday,weeke day,3,RT2,direct offline,null,Checked Out,1,16830,16830,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT22,16559,28-04-22,April,Thursday,weeke day,2,RT2,direct online,3,Checked Out,1,15300,15300,0,18,5,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT23,16559,25-04-22,April,Monday,weeke day,3,RT2,makeyourtrip,5,Checked Out,1,16830,16830,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT24,16559,26-04-22,April,Tuesday,weeke day,1,RT2,journey,null,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT25,16559,05-01-22,May,Sunday,weekend day,2,RT2,others,5,Checked Out,1,15300,15300,0,19,3,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT26,16559,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,6,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT27,16559,05-01-22,May,Sunday,weekend day,4,RT2,others,null,Cancelled,0,18360,7344,11016,19,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT28,16559,28-04-22,April,Thursday,weeke day,2,RT2,journey,3,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT29,16559,25-04-22,April,Monday,weeke day,3,RT2,makeyourtrip,5,Checked Out,1,16830,16830,0,18,4,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT210,16559,30-04-22,April,Saturday,weekend day,3,RT2,journey,null,Checked Out,1,16830,16830,0,18,4,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT211,16559,25-04-22,April,Monday,weeke day,4,RT2,direct online,5,Checked Out,1,18360,18360,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT212,16559,25-04-22,April,Monday,weeke day,2,RT2,direct online,null,Cancelled,0,15300,6120,9180,18,6,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT213,16559,27-04-22,April,Wednesday,weeke day,1,RT2,logtrip,5,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT214,16559,29-04-22,April,Friday,weeke day,2,RT2,makeyourtrip,1,Checked Out,1,15300,15300,0,18,5,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT215,16559,30-04-22,April,Saturday,weekend day,1,RT2,makeyourtrip,null,Cancelled,0,15300,6120,9180,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT216,16559,26-04-22,April,Tuesday,weeke day,2,RT2,makeyourtrip,5,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT217,16559,28-04-22,April,Thursday,weeke day,4,RT2,logtrip,null,Checked Out,1,18360,18360,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT218,16559,29-04-22,April,Friday,weeke day,2,RT2,makeyourtrip,2,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT219,16559,29-04-22,April,Friday,weeke day,3,RT2,others,null,No Show,0,16830,16830,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT220,16559,26-04-22,April,Tuesday,weeke day,2,RT2,makeyourtrip,null,Cancelled,0,15300,6120,9180,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT221,16559,25-04-22,April,Monday,weeke day,2,RT2,others,3,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT222,16559,29-04-22,April,Friday,weeke day,2,RT2,direct online,null,Cancelled,0,15300,6120,9180,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT223,16559,29-04-22,April,Friday,weeke day,2,RT2,journey,null,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT224,16559,28-04-22,April,Thursday,weeke day,1,RT2,makeyourtrip,1,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT225,16559,30-04-22,April,Saturday,weekend day,2,RT2,makeyourtrip,1,Checked Out,1,15300,15300,0,18,4,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT226,16559,29-04-22,April,Friday,weeke day,4,RT2,others,5,Checked Out,1,18360,18360,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT227,16559,29-04-22,April,Friday,weeke day,2,RT2,tripster,null,No Show,0,15300,15300,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT228,16559,28-04-22,April,Thursday,weeke day,4,RT2,logtrip,5,Checked Out,1,18360,18360,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT229,16559,24-04-22,April,Sunday,weekend day,2,RT2,others,5,Checked Out,1,15300,15300,0,18,6,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT230,16559,24-04-22,April,Sunday,weekend day,2,RT2,tripster,null,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT231,16559,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT232,16559,05-01-22,May,Sunday,weekend day,1,RT2,others,null,Checked Out,1,15300,15300,0,19,4,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT233,16559,27-04-22,April,Wednesday,weeke day,2,RT2,others,4,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT234,16559,26-04-22,April,Tuesday,weeke day,2,RT2,journey,null,No Show,0,15300,15300,0,18,6,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012216559RT235,16559,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,35,41,6
+May012219559RT21,19559,27-04-22,April,Wednesday,weeke day,2,RT2,others,null,Cancelled,0,13500,5400,8100,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT22,19559,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT23,19559,24-04-22,April,Sunday,weekend day,2,RT2,direct online,2,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT24,19559,29-04-22,April,Friday,weeke day,2,RT2,direct online,null,Checked Out,1,13500,13500,0,18,2,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT25,19559,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,13500,13500,0,18,2,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT26,19559,26-04-22,April,Tuesday,weeke day,2,RT2,others,3,Checked Out,1,13500,13500,0,18,5,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT27,19559,05-01-22,May,Sunday,weekend day,2,RT2,others,null,Cancelled,0,13500,5400,8100,19,4,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT28,19559,28-04-22,April,Thursday,weeke day,1,RT2,makeyourtrip,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT29,19559,24-04-22,April,Sunday,weekend day,2,RT2,others,null,Cancelled,0,13500,5400,8100,18,5,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT210,19559,27-04-22,April,Wednesday,weeke day,2,RT2,others,2,Checked Out,1,13500,13500,0,18,6,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT211,19559,28-04-22,April,Thursday,weeke day,3,RT2,direct online,3,Checked Out,1,14850,14850,0,18,6,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT212,19559,27-04-22,April,Wednesday,weeke day,3,RT2,direct offline,4,Checked Out,1,14850,14850,0,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT213,19559,27-04-22,April,Wednesday,weeke day,2,RT2,logtrip,null,Cancelled,0,13500,5400,8100,18,6,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT214,19559,27-04-22,April,Wednesday,weeke day,1,RT2,others,null,No Show,0,13500,13500,0,18,6,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT215,19559,10-04-22,April,Sunday,weekend day,2,RT2,others,null,Checked Out,1,13500,13500,0,16,2,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT216,19559,25-04-22,April,Monday,weeke day,2,RT2,journey,3,Checked Out,1,13500,13500,0,18,3,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT217,19559,26-04-22,April,Tuesday,weeke day,2,RT2,logtrip,3,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT218,19559,24-04-22,April,Sunday,weekend day,1,RT2,others,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT219,19559,29-04-22,April,Friday,weeke day,3,RT2,tripster,3,Checked Out,1,14850,14850,0,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT220,19559,29-04-22,April,Friday,weeke day,3,RT2,others,2,Checked Out,1,14850,14850,0,18,6,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT221,19559,26-04-22,April,Tuesday,weeke day,1,RT2,direct online,null,Checked Out,1,13500,13500,0,18,6,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT222,19559,30-04-22,April,Saturday,weekend day,2,RT2,makeyourtrip,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT223,19559,28-04-22,April,Thursday,weeke day,1,RT2,others,3,Checked Out,1,13500,13500,0,18,6,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT224,19559,27-04-22,April,Wednesday,weeke day,1,RT2,others,null,Cancelled,0,13500,5400,8100,18,2,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT225,19559,30-04-22,April,Saturday,weekend day,3,RT2,makeyourtrip,null,Cancelled,0,14850,5940,8910,18,3,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT226,19559,27-04-22,April,Wednesday,weeke day,3,RT2,makeyourtrip,4,Checked Out,1,14850,14850,0,18,2,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT227,19559,29-04-22,April,Friday,weeke day,2,RT2,logtrip,null,Cancelled,0,13500,5400,8100,18,5,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT228,19559,30-04-22,April,Saturday,weekend day,2,RT2,others,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT229,19559,24-04-22,April,Sunday,weekend day,1,RT2,logtrip,null,Checked Out,1,13500,13500,0,18,2,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT230,19559,10-04-22,April,Sunday,weekend day,4,RT2,others,null,Checked Out,1,16200,16200,0,16,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT231,19559,28-04-22,April,Thursday,weeke day,2,RT2,others,null,No Show,0,13500,13500,0,18,1,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219559RT232,19559,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,13500,13500,0,18,5,Elite,Atliq Exotica,Luxury,Bangalore,32,41,9
+May012219558RT21,19558,29-04-22,April,Friday,weeke day,1,RT2,makeyourtrip,null,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT22,19558,27-04-22,April,Wednesday,weeke day,2,RT2,others,null,Cancelled,0,13500,5400,8100,18,2,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT23,19558,11-04-22,April,Monday,weeke day,3,RT2,others,2,Checked Out,1,14850,14850,0,16,3,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT24,19558,28-04-22,April,Thursday,weeke day,2,RT2,direct offline,2,Checked Out,1,13500,13500,0,18,4,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT25,19558,24-04-22,April,Sunday,weekend day,2,RT2,others,null,Cancelled,0,13500,5400,8100,18,5,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT26,19558,29-04-22,April,Friday,weeke day,2,RT2,others,null,No Show,0,13500,13500,0,18,6,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT27,19558,05-01-22,May,Sunday,weekend day,2,RT2,others,null,No Show,0,13500,13500,0,19,6,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT28,19558,05-01-22,May,Sunday,weekend day,2,RT2,makeyourtrip,null,Cancelled,0,13500,5400,8100,19,2,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT29,19558,30-04-22,April,Saturday,weekend day,2,RT2,others,null,No Show,0,13500,13500,0,18,1,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT210,19558,27-04-22,April,Wednesday,weeke day,2,RT2,others,2,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT211,19558,27-04-22,April,Wednesday,weeke day,2,RT2,others,4,Checked Out,1,13500,13500,0,18,6,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT212,19558,30-04-22,April,Saturday,weekend day,2,RT2,others,null,No Show,0,13500,13500,0,18,1,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT213,19558,25-04-22,April,Monday,weeke day,2,RT2,others,2,Checked Out,1,13500,13500,0,18,6,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT214,19558,28-04-22,April,Thursday,weeke day,2,RT2,makeyourtrip,null,Checked Out,1,13500,13500,0,18,6,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT215,19558,25-04-22,April,Monday,weeke day,2,RT2,others,null,Checked Out,1,13500,13500,0,18,5,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT216,19558,27-04-22,April,Wednesday,weeke day,4,RT2,makeyourtrip,3,Checked Out,1,16200,16200,0,18,6,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT217,19558,25-04-22,April,Monday,weeke day,4,RT2,others,4,Checked Out,1,16200,16200,0,18,5,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT218,19558,28-04-22,April,Thursday,weeke day,2,RT2,journey,null,No Show,0,13500,13500,0,18,2,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT219,19558,05-01-22,May,Sunday,weekend day,1,RT2,makeyourtrip,3,Checked Out,1,13500,13500,0,19,3,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT220,19558,27-04-22,April,Wednesday,weeke day,2,RT2,makeyourtrip,1,Checked Out,1,13500,13500,0,18,1,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT221,19558,25-04-22,April,Monday,weeke day,2,RT2,others,1,Checked Out,1,13500,13500,0,18,3,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT222,19558,11-04-22,April,Monday,weeke day,2,RT2,others,null,Checked Out,1,13500,13500,0,16,5,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT223,19558,27-04-22,April,Wednesday,weeke day,1,RT2,others,4,Checked Out,1,13500,13500,0,18,3,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT224,19558,11-04-22,April,Monday,weeke day,2,RT2,others,2,Checked Out,1,13500,13500,0,16,5,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012219558RT225,19558,10-04-22,April,Sunday,weekend day,2,RT2,others,null,Cancelled,0,13500,5400,8100,16,6,Elite,Atliq Grands,Luxury,Bangalore,25,39,14
+May012217559RT21,17559,26-04-22,April,Tuesday,weeke day,2,RT2,direct offline,null,Cancelled,0,15300,6120,9180,18,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT22,17559,27-04-22,April,Wednesday,weeke day,2,RT2,direct online,5,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT23,17559,25-04-22,April,Monday,weeke day,2,RT2,direct offline,null,Cancelled,0,15300,6120,9180,18,6,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT24,17559,10-04-22,April,Sunday,weekend day,2,RT2,others,null,Cancelled,0,15300,6120,9180,16,1,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT25,17559,29-04-22,April,Friday,weeke day,2,RT2,tripster,5,Checked Out,1,15300,15300,0,18,6,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT26,17559,10-04-22,April,Sunday,weekend day,3,RT2,others,5,Checked Out,1,16830,16830,0,16,1,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT27,17559,28-04-22,April,Thursday,weeke day,2,RT2,others,3,Checked Out,1,15300,15300,0,18,3,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT28,17559,28-04-22,April,Thursday,weeke day,2,RT2,others,null,Cancelled,0,15300,6120,9180,18,3,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT29,17559,05-01-22,May,Sunday,weekend day,2,RT2,direct offline,5,Checked Out,1,15300,15300,0,19,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT210,17559,28-04-22,April,Thursday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,3,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT211,17559,26-04-22,April,Tuesday,weeke day,3,RT2,others,5,Checked Out,1,16830,16830,0,18,5,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT212,17559,28-04-22,April,Thursday,weeke day,4,RT2,logtrip,null,Cancelled,0,18360,7344,11016,18,1,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT213,17559,28-04-22,April,Thursday,weeke day,3,RT2,others,3,Checked Out,1,16830,16830,0,18,5,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT214,17559,26-04-22,April,Tuesday,weeke day,2,RT2,logtrip,5,Checked Out,1,15300,15300,0,18,4,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT215,17559,28-04-22,April,Thursday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT216,17559,10-04-22,April,Sunday,weekend day,2,RT2,direct online,null,Checked Out,1,15300,15300,0,16,1,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT217,17559,27-04-22,April,Wednesday,weeke day,3,RT2,direct online,4,Checked Out,1,16830,16830,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT218,17559,29-04-22,April,Friday,weeke day,3,RT2,makeyourtrip,null,Checked Out,1,16830,16830,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT219,17559,27-04-22,April,Wednesday,weeke day,3,RT2,others,null,Checked Out,1,16830,16830,0,18,6,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT220,17559,29-04-22,April,Friday,weeke day,3,RT2,tripster,5,Checked Out,1,16830,16830,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT221,17559,28-04-22,April,Thursday,weeke day,3,RT2,makeyourtrip,null,Checked Out,1,16830,16830,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT222,17559,24-04-22,April,Sunday,weekend day,1,RT2,journey,null,Checked Out,1,15300,15300,0,18,5,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT223,17559,10-04-22,April,Sunday,weekend day,1,RT2,direct offline,null,Checked Out,1,15300,15300,0,16,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT224,17559,25-04-22,April,Monday,weeke day,2,RT2,others,5,Checked Out,1,15300,15300,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT225,17559,26-04-22,April,Tuesday,weeke day,1,RT2,makeyourtrip,null,No Show,0,15300,15300,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT226,17559,29-04-22,April,Friday,weeke day,1,RT2,others,null,No Show,0,15300,15300,0,18,4,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT227,17559,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT228,17559,26-04-22,April,Tuesday,weeke day,2,RT2,logtrip,5,Checked Out,1,15300,15300,0,18,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT229,17559,30-04-22,April,Saturday,weekend day,4,RT2,journey,3,Checked Out,1,18360,18360,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT230,17559,24-04-22,April,Sunday,weekend day,2,RT2,logtrip,null,Cancelled,0,15300,6120,9180,18,5,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT231,17559,10-04-22,April,Sunday,weekend day,1,RT2,journey,null,Checked Out,1,15300,15300,0,16,2,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT232,17559,25-04-22,April,Monday,weeke day,1,RT2,logtrip,5,Checked Out,1,15300,15300,0,18,6,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT233,17559,27-04-22,April,Wednesday,weeke day,2,RT2,tripster,null,Checked Out,1,15300,15300,0,18,6,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012217559RT234,17559,26-04-22,April,Tuesday,weeke day,2,RT2,direct offline,null,No Show,0,15300,15300,0,18,1,Elite,Atliq Exotica,Luxury,Mumbai,34,39,5
+May012216560RT21,16560,10-04-22,April,Sunday,weekend day,2,RT2,others,3,Checked Out,1,12600,12600,0,16,2,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT22,16560,07-04-22,April,Thursday,weeke day,2,RT2,others,3,Checked Out,1,12600,12600,0,15,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT23,16560,29-04-22,April,Friday,weeke day,1,RT2,tripster,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT24,16560,29-04-22,April,Friday,weeke day,1,RT2,others,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT25,16560,30-04-22,April,Saturday,weekend day,1,RT2,others,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT26,16560,30-04-22,April,Saturday,weekend day,4,RT2,others,null,Checked Out,1,15120,15120,0,18,6,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT27,16560,27-04-22,April,Wednesday,weeke day,1,RT2,makeyourtrip,2,Checked Out,1,12600,12600,0,18,3,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT28,16560,05-01-22,May,Sunday,weekend day,3,RT2,tripster,3,Checked Out,1,13860,13860,0,19,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT29,16560,30-04-22,April,Saturday,weekend day,1,RT2,journey,3,Checked Out,1,12600,12600,0,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT210,16560,30-04-22,April,Saturday,weekend day,1,RT2,makeyourtrip,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT211,16560,29-04-22,April,Friday,weeke day,2,RT2,others,3,Checked Out,1,12600,12600,0,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT212,16560,05-01-22,May,Sunday,weekend day,1,RT2,others,3,Checked Out,1,12600,12600,0,19,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT213,16560,05-01-22,May,Sunday,weekend day,1,RT2,others,3,Checked Out,1,12600,12600,0,19,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT214,16560,05-01-22,May,Sunday,weekend day,1,RT2,others,3,Checked Out,1,12600,12600,0,19,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT215,16560,27-04-22,April,Wednesday,weeke day,2,RT2,others,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT216,16560,29-04-22,April,Friday,weeke day,1,RT2,logtrip,3,Checked Out,1,12600,12600,0,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT217,16560,29-04-22,April,Friday,weeke day,2,RT2,others,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT218,16560,30-04-22,April,Saturday,weekend day,1,RT2,others,null,Cancelled,0,12600,5040,7560,18,2,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT219,16560,30-04-22,April,Saturday,weekend day,2,RT2,others,null,Cancelled,0,12600,5040,7560,18,4,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT220,16560,29-04-22,April,Friday,weeke day,1,RT2,direct online,null,Checked Out,1,12600,12600,0,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT221,16560,10-04-22,April,Sunday,weekend day,2,RT2,others,null,Checked Out,1,12600,12600,0,16,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT222,16560,27-04-22,April,Wednesday,weeke day,1,RT2,tripster,4,Checked Out,1,12600,12600,0,18,2,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT223,16560,25-04-22,April,Monday,weeke day,1,RT2,makeyourtrip,3,Checked Out,1,12600,12600,0,18,2,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT224,16560,29-04-22,April,Friday,weeke day,2,RT2,makeyourtrip,null,Cancelled,0,12600,5040,7560,18,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012216560RT225,16560,05-01-22,May,Sunday,weekend day,1,RT2,direct online,3,Checked Out,1,12600,12600,0,19,1,Elite,Atliq City,Business,Delhi,25,34,9
+May012218562RT21,18562,26-04-22,April,Tuesday,weeke day,4,RT2,journey,5,Checked Out,1,10800,10800,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT22,18562,28-04-22,April,Thursday,weeke day,2,RT2,others,null,Checked Out,1,9000,9000,0,18,6,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT23,18562,28-04-22,April,Thursday,weeke day,2,RT2,others,null,Checked Out,1,9000,9000,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT24,18562,27-04-22,April,Wednesday,weeke day,1,RT2,tripster,null,Checked Out,1,9000,9000,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT25,18562,29-04-22,April,Friday,weeke day,4,RT2,direct offline,null,Checked Out,1,10800,10800,0,18,4,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT26,18562,29-04-22,April,Friday,weeke day,4,RT2,others,5,Checked Out,1,10800,10800,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT27,18562,28-04-22,April,Thursday,weeke day,2,RT2,others,5,Checked Out,1,9000,9000,0,18,4,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT28,18562,26-04-22,April,Tuesday,weeke day,2,RT2,makeyourtrip,3,Checked Out,1,9000,9000,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT29,18562,25-04-22,April,Monday,weeke day,2,RT2,direct online,5,Checked Out,1,9000,9000,0,18,5,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT210,18562,29-04-22,April,Friday,weeke day,4,RT2,tripster,5,Checked Out,1,10800,10800,0,18,5,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT211,18562,30-04-22,April,Saturday,weekend day,2,RT2,direct offline,null,Checked Out,1,9000,9000,0,18,4,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT212,18562,27-04-22,April,Wednesday,weeke day,1,RT2,makeyourtrip,5,Checked Out,1,9000,9000,0,18,2,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT213,18562,28-04-22,April,Thursday,weeke day,1,RT2,makeyourtrip,null,Cancelled,0,9000,3600,5400,18,2,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT214,18562,25-04-22,April,Monday,weeke day,4,RT2,direct offline,5,Checked Out,1,10800,10800,0,18,2,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT215,18562,28-04-22,April,Thursday,weeke day,2,RT2,others,null,Cancelled,0,9000,3600,5400,18,5,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT216,18562,29-04-22,April,Friday,weeke day,2,RT2,others,null,No Show,0,9000,9000,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT217,18562,29-04-22,April,Friday,weeke day,3,RT2,makeyourtrip,5,Checked Out,1,9900,9900,0,18,2,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT218,18562,29-04-22,April,Friday,weeke day,2,RT2,others,null,Cancelled,0,9000,3600,5400,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT219,18562,25-04-22,April,Monday,weeke day,3,RT2,tripster,5,Checked Out,1,9900,9900,0,18,2,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT220,18562,29-04-22,April,Friday,weeke day,4,RT2,makeyourtrip,null,Checked Out,1,10800,10800,0,18,4,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT221,18562,28-04-22,April,Thursday,weeke day,2,RT2,others,5,Checked Out,1,9000,9000,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT222,18562,28-04-22,April,Thursday,weeke day,2,RT2,others,null,Cancelled,0,9000,3600,5400,18,6,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT223,18562,25-04-22,April,Monday,weeke day,4,RT2,others,5,Checked Out,1,10800,10800,0,18,6,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT224,18562,28-04-22,April,Thursday,weeke day,2,RT2,others,3,Checked Out,1,9000,9000,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT225,18562,29-04-22,April,Friday,weeke day,4,RT2,makeyourtrip,null,No Show,0,10800,10800,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT226,18562,26-04-22,April,Tuesday,weeke day,2,RT2,others,null,Cancelled,0,9000,3600,5400,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT227,18562,27-04-22,April,Wednesday,weeke day,2,RT2,direct offline,null,Cancelled,0,9000,3600,5400,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT228,18562,27-04-22,April,Wednesday,weeke day,4,RT2,direct online,null,Checked Out,1,10800,10800,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT229,18562,28-04-22,April,Thursday,weeke day,2,RT2,direct online,null,Cancelled,0,9000,3600,5400,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT230,18562,30-04-22,April,Saturday,weekend day,1,RT2,direct online,null,Cancelled,0,9000,3600,5400,18,2,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT231,18562,30-04-22,April,Saturday,weekend day,2,RT2,others,null,No Show,0,9000,9000,0,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT232,18562,30-04-22,April,Saturday,weekend day,1,RT2,others,5,Checked Out,1,9000,9000,0,18,3,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012218562RT233,18562,28-04-22,April,Thursday,weeke day,1,RT2,others,null,Cancelled,0,9000,3600,5400,18,1,Elite,Atliq Bay,Luxury,Hyderabad,33,34,1
+May012216558RT31,16558,27-04-22,April,Wednesday,weeke day,3,RT3,others,3,Checked Out,1,18480,18480,0,18,2,Premium,Atliq Grands,Luxury,Delhi,8,8,0
+May012216558RT32,16558,24-04-22,April,Sunday,weekend day,4,RT3,makeyourtrip,null,Checked Out,1,20160,20160,0,18,5,Premium,Atliq Grands,Luxury,Delhi,8,8,0
+May012216558RT33,16558,26-04-22,April,Tuesday,weeke day,2,RT3,makeyourtrip,null,Checked Out,1,16800,16800,0,18,6,Premium,Atliq Grands,Luxury,Delhi,8,8,0
+May012216558RT34,16558,29-04-22,April,Friday,weeke day,1,RT3,others,5,Checked Out,1,16800,16800,0,18,1,Premium,Atliq Grands,Luxury,Delhi,8,8,0
+May012216558RT35,16558,29-04-22,April,Friday,weeke day,3,RT3,others,null,Checked Out,1,18480,18480,0,18,3,Premium,Atliq Grands,Luxury,Delhi,8,8,0
+May012216558RT36,16558,29-04-22,April,Friday,weeke day,2,RT3,others,null,Checked Out,1,16800,16800,0,18,2,Premium,Atliq Grands,Luxury,Delhi,8,8,0
+May012216558RT37,16558,27-04-22,April,Wednesday,weeke day,1,RT3,logtrip,null,Checked Out,1,16800,16800,0,18,1,Premium,Atliq Grands,Luxury,Delhi,8,8,0
+May012216558RT38,16558,27-04-22,April,Wednesday,weeke day,1,RT3,makeyourtrip,null,Checked Out,1,16800,16800,0,18,2,Premium,Atliq Grands,Luxury,Delhi,8,8,0
+May012218559RT21,18559,26-04-22,April,Tuesday,weeke day,4,RT2,others,null,Checked Out,1,10800,10800,0,18,6,Elite,Atliq Exotica,Luxury,Hyderabad,29,44,15
+May012218559RT22,18559,27-04-22,April,Wednesday,weeke day,2,RT2,others,1,Checked Out,1,9000,9000,0,18,2,Elite,Atliq Exotica,Luxury,Hyderabad,29,44,15
+May012218559RT23,18559,28-04-22,April,Thursday,weeke day,2,RT2,others,2,Checked Out,1,9000,9000,0,18,1,Elite,Atliq Exotica,Luxury,Hyderabad,29,44,15
+May012218559RT24,18559,27-04-22,April,Wednesday,weeke day,3,RT2,others,null,Cancelled,0,9900,3960,5940,18,6,Elite,Atliq Exotica,Luxury,Hyderabad,29,44,15
+May012218559RT25,18559,27-04-22,April,Wednesday,weeke day,2,RT2,logtrip,null,Cancelled,0,9000,3600,5400,18,1,Elite,Atliq Exotica,Luxury,Hyderabad,29,44,15
+May012218559RT26,18559,25-04-22,April,Monday,weeke day,4,RT2,direct offline,null,Cancelled,0,10800,4320,6480,18,1,Elite,Atliq Exotica,Luxury,Hyderabad,29,44,15
+May012218559RT27,18559,25-04-22,April,Monday,weeke day,4,RT2,direct offline,null,Cancelled,0,10800,4320,6480,18,2,Elite,Atliq Exotica,Luxury,Hyderabad,29,44,15
+May012218559RT28,18559,30-04-22,April,Saturday,weekend day,2,RT2,others,null,Checked Out,1,9000,9000,0,18,3,Elite,Atliq Exotica,Luxury,Hyderabad,29,44,15
+May012218559RT29,18559,28-04-22,April,Thursday,weeke day,2,RT2,others,1,Checked Out,1,9000,9000,0,18,3,Elite,Atliq Exotica,Luxury,Hyderabad,29,44,15
+May012218559RT210,18559,24-04-22,April,Sunday,weekend day,1,RT2,others,4,Checked Out,1,9000,9000,0,18,2,Elite,Atliq Exotica,Luxury,Hyderabad,29,44,15
