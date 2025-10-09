@@ -1,0 +1,28 @@
+POLICYID : Policy ID
+
+PRODUCTID: Life Insurance product ID (masked)
+
+CHANNELNAME: CHANNEL OF BUSINESS
+
+SIGNATUREINVERNACULAR: IS SIGNATURE DONE IN OTHER THAN ENGLISH? YES/NO
+
+INTIMATION SOURCE	
+
+ZONE	
+
+FAMILYSIZE:Family Size	
+
+UWREQ: Was underwriting required?
+	
+AGE: Customer Age	
+
+Month: Month of Policy Issue	
+
+YEAR : Year of Policy Issue	
+
+PREMIUM	: Annual Premium
+
+NEW_CUST: Is custimer new?
+
+Lapse_Policy: (=1 if policy lapsed within 13 months of issue date)
+
