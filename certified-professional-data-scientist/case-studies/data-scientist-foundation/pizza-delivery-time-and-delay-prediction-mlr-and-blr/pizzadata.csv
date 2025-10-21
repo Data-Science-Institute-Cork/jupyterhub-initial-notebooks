@@ -1,0 +1,1005 @@
+Order_ID,Restaurant_Name,Delivery_Duration_min,Pizza_Size,Pizza_Type,Toppings_Count,Distance_km,Traffic_Level,Is_Peak_Hour,Is_Weekend,Topping_Density,Order_Month,Payment_Category,Is_Delayed
+ORD001,Domino's,15,Medium,Veg,3,2.5,Medium,TRUE,FALSE,1.2,January,Online,0
+ORD002,Papa John's,25,Large,Veg,4,5,High,TRUE,FALSE,0.8,February,Online,0
+ORD003,Little Caesars,20,Small,Veg,2,3,Low,FALSE,FALSE,0.666666667,March,Online,0
+ORD004,Pizza Hut,25,XL,Veg,5,4.5,Medium,TRUE,FALSE,1.111111111,April,Offline,0
+ORD005,Marcos Pizza,20,Medium,Veg,3,2,High,FALSE,TRUE,1.5,May,Online,0
+ORD006,Domino's,20,Medium,Veg,3,3,High,TRUE,TRUE,1,January,Online,0
+ORD007,Papa John's,25,Large,Veg,4,4.5,Medium,TRUE,TRUE,0.888888889,January,Online,0
+ORD008,Little Caesars,20,Small,Veg,2,2,Low,TRUE,FALSE,1,January,Offline,0
+ORD009,Pizza Hut,25,XL,Veg,5,5,High,TRUE,FALSE,1,January,Online,0
+ORD010,Marcos Pizza,20,Medium,Veg,3,3.5,Medium,FALSE,FALSE,0.857142857,January,Online,0
+ORD011,Domino's,20,Large,Veg,4,4,Low,FALSE,FALSE,1,January,Online,0
+ORD012,Papa John's,25,Medium,Veg,3,3,Medium,TRUE,FALSE,1,January,Offline,0
+ORD013,Little Caesars,20,Small,Veg,2,2.5,High,TRUE,TRUE,0.8,January,Online,0
+ORD014,Pizza Hut,25,XL,Veg,5,4,Low,TRUE,TRUE,1.25,January,Online,0
+ORD015,Marcos Pizza,20,Medium,Veg,3,3,Medium,FALSE,FALSE,1,January,Online,0
+ORD016,Domino's,25,Large,Veg,4,4.5,High,TRUE,FALSE,0.888888889,January,Offline,0
+ORD017,Papa John's,25,Small,Veg,2,2,Low,TRUE,FALSE,1,January,Online,0
+ORD018,Little Caesars,20,Medium,Veg,3,3.5,Medium,TRUE,FALSE,0.857142857,January,Online,0
+ORD019,Pizza Hut,25,XL,Veg,5,4,High,TRUE,FALSE,1.25,January,Online,0
+ORD020,Marcos Pizza,20,Medium,Veg,3,3,Low,FALSE,TRUE,1,January,Offline,0
+ORD021,Domino's,25,Large,Veg,4,4.5,Medium,TRUE,TRUE,0.888888889,January,Online,0
+ORD022,Papa John's,25,Small,Veg,2,2,High,TRUE,FALSE,1,January,Online,0
+ORD023,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,January,Online,0
+ORD024,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,FALSE,1.25,January,Offline,0
+ORD025,Marcos Pizza,20,Medium,Veg,3,3,High,FALSE,FALSE,1,January,Online,0
+ORD026,Domino's,25,Large,Veg,4,4.5,Low,TRUE,FALSE,0.888888889,January,Online,0
+ORD027,Papa John's,25,Small,Veg,2,2,Medium,TRUE,TRUE,1,January,Online,0
+ORD028,Little Caesars,20,Medium,Veg,3,3.5,High,TRUE,TRUE,0.857142857,January,Offline,0
+ORD029,Pizza Hut,25,XL,Veg,5,4,Low,TRUE,FALSE,1.25,January,Online,0
+ORD030,Marcos Pizza,20,Medium,Veg,3,3,Medium,FALSE,FALSE,1,January,Online,0
+ORD031,Domino's,25,Large,Veg,4,4.5,High,TRUE,FALSE,0.888888889,February,Online,0
+ORD032,Papa John's,25,Small,Veg,2,2,Low,TRUE,FALSE,1,February,Offline,0
+ORD033,Little Caesars,25,Medium,Veg,3,3.5,Medium,TRUE,TRUE,0.857142857,February,Online,0
+ORD034,Pizza Hut,20,XL,Veg,5,4,High,FALSE,TRUE,1.25,February,Online,0
+ORD035,Marcos Pizza,25,Medium,Veg,3,3,Low,TRUE,FALSE,1,February,Online,0
+ORD036,Domino's,25,Large,Veg,4,4.5,Medium,TRUE,FALSE,0.888888889,February,Online,0
+ORD037,Papa John's,25,Medium,Veg,3,3,High,TRUE,FALSE,1,February,Online,0
+ORD038,Little Caesars,20,Small,Veg,2,2.5,Low,TRUE,FALSE,0.8,February,Offline,0
+ORD039,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,FALSE,1.25,February,Online,0
+ORD040,Marcos Pizza,20,Medium,Veg,3,3.5,High,FALSE,TRUE,0.857142857,February,Online,0
+ORD041,Domino's,20,Large,Veg,4,4,Low,TRUE,TRUE,1,February,Online,0
+ORD042,Papa John's,25,Small,Veg,2,2,Medium,TRUE,FALSE,1,February,Offline,0
+ORD043,Little Caesars,20,Medium,Veg,3,3,High,TRUE,FALSE,1,February,Online,0
+ORD044,Pizza Hut,25,XL,Veg,5,5,Low,TRUE,FALSE,1,February,Online,0
+ORD045,Marcos Pizza,20,Medium,Veg,3,3.5,Medium,FALSE,FALSE,0.857142857,February,Online,0
+ORD046,Domino's,20,Large,Veg,4,4,High,TRUE,FALSE,1,February,Offline,0
+ORD047,Papa John's,25,Medium,Veg,3,3,Low,TRUE,TRUE,1,February,Online,0
+ORD048,Little Caesars,20,Small,Veg,2,2.5,Medium,TRUE,TRUE,0.8,February,Online,0
+ORD049,Pizza Hut,25,XL,Veg,5,4.5,High,TRUE,FALSE,1.111111111,February,Online,0
+ORD050,Marcos Pizza,20,Medium,Veg,3,3,Low,FALSE,FALSE,1,February,Offline,0
+ORD051,Domino's,20,Large,Veg,4,4,Medium,TRUE,FALSE,1,February,Online,0
+ORD052,Papa John's,25,Small,Veg,2,2,High,TRUE,FALSE,1,February,Online,0
+ORD053,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,February,Online,0
+ORD054,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,TRUE,1.25,February,Offline,0
+ORD055,Marcos Pizza,20,Medium,Veg,3,3,High,FALSE,TRUE,1,February,Online,0
+ORD056,Domino's,20,Large,Veg,4,4.5,Low,TRUE,FALSE,0.888888889,February,Online,0
+ORD057,Papa John's,25,Medium,Veg,3,3,High,TRUE,FALSE,1,February,Online,0
+ORD058,Little Caesars,20,Small,Veg,2,2.5,Low,TRUE,FALSE,0.8,February,Offline,0
+ORD059,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,FALSE,1.25,February,Online,0
+ORD060,Marcos Pizza,20,Medium,Veg,3,3.5,High,FALSE,FALSE,0.857142857,March,Online,0
+ORD061,Domino's,20,Large,Veg,4,4,Low,TRUE,TRUE,1,March,Online,0
+ORD062,Papa John's,25,Small,Veg,2,2,Medium,TRUE,TRUE,1,March,Offline,0
+ORD063,Little Caesars,20,Medium,Veg,3,3,High,TRUE,FALSE,1,March,Online,0
+ORD064,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,March,Online,0
+ORD065,Marcos Pizza,20,Medium,Veg,3,3.5,Low,FALSE,FALSE,0.857142857,March,Online,0
+ORD066,Domino's,20,Large,Veg,4,4,High,TRUE,FALSE,1,March,Online,0
+ORD067,Papa John's,25,Medium,Veg,3,3.5,Medium,TRUE,FALSE,0.857142857,March,Online,0
+ORD068,Little Caesars,20,Small,Veg,2,2.5,Low,TRUE,TRUE,0.8,March,Offline,0
+ORD069,Pizza Hut,25,XL,Veg,5,4.5,High,TRUE,TRUE,1.111111111,March,Online,0
+ORD070,Marcos Pizza,20,Medium,Veg,3,3,Low,FALSE,FALSE,1,March,Online,0
+ORD071,Domino's,20,Large,Veg,4,4,Medium,TRUE,FALSE,1,March,Online,0
+ORD072,Papa John's,25,Small,Veg,2,2,High,TRUE,FALSE,1,March,Offline,0
+ORD073,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,March,Online,0
+ORD074,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,FALSE,1.25,March,Online,0
+ORD075,Marcos Pizza,20,Medium,Veg,3,3,High,FALSE,TRUE,1,March,Online,0
+ORD076,Domino's,20,Large,Veg,4,4.5,Low,TRUE,TRUE,0.888888889,March,Offline,0
+ORD077,Papa John's,25,Medium,Veg,3,3,High,TRUE,FALSE,1,March,Online,0
+ORD078,Little Caesars,20,Small,Veg,2,2.5,Low,TRUE,FALSE,0.8,March,Online,0
+ORD079,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,FALSE,1.25,March,Online,0
+ORD080,Marcos Pizza,20,Medium,Veg,3,3.5,High,FALSE,FALSE,0.857142857,March,Offline,0
+ORD081,Domino's,20,Large,Veg,4,4,Low,TRUE,FALSE,1,March,Online,0
+ORD082,Papa John's,25,Small,Veg,2,2,High,TRUE,TRUE,1,March,Online,0
+ORD083,Little Caesars,20,Medium,Veg,3,3,High,TRUE,TRUE,1,March,Online,0
+ORD084,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,March,Offline,0
+ORD085,Marcos Pizza,20,Medium,Veg,3,3.5,Medium,FALSE,FALSE,0.857142857,March,Online,0
+ORD086,Domino's,20,Large,Veg,4,4,High,TRUE,FALSE,1,March,Online,0
+ORD087,Papa John's,25,Medium,Veg,3,3,Low,TRUE,FALSE,1,March,Online,0
+ORD088,Little Caesars,20,Small,Veg,2,2.5,Low,TRUE,FALSE,0.8,March,Offline,0
+ORD089,Pizza Hut,25,XL,Veg,5,4.5,High,TRUE,TRUE,1.111111111,March,Online,0
+ORD090,Marcos Pizza,20,Medium,Veg,3,3,Medium,FALSE,TRUE,1,March,Online,0
+ORD091,Domino's,20,Large,Veg,4,4,Low,TRUE,FALSE,1,April,Online,0
+ORD092,Papa John's,25,Small,Veg,2,2,High,TRUE,FALSE,1,April,Offline,0
+ORD093,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,April,Online,0
+ORD094,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,FALSE,1.25,April,Online,0
+ORD095,Marcos Pizza,20,Medium,Veg,3,3,High,FALSE,FALSE,1,April,Online,0
+ORD096,Domino's,20,Large,Veg,4,4.5,High,TRUE,TRUE,0.888888889,April,Online,0
+ORD097,Papa John's,25,Medium,Veg,3,3,Medium,TRUE,TRUE,1,April,Online,0
+ORD098,Little Caesars,20,Small,Veg,2,2.5,Low,TRUE,FALSE,0.8,April,Offline,0
+ORD099,Pizza Hut,25,XL,Veg,5,4,High,TRUE,FALSE,1.25,April,Online,0
+ORD100,Marcos Pizza,20,Medium,Veg,3,3.5,Low,FALSE,FALSE,0.857142857,April,Online,0
+ORD101,Domino's,20,Large,Veg,4,4.5,Medium,TRUE,FALSE,0.888888889,April,Online,0
+ORD102,Papa John's,25,Small,Veg,2,2,High,TRUE,FALSE,1,April,Offline,0
+ORD103,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,TRUE,0.857142857,April,Online,0
+ORD104,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,TRUE,1.25,April,Online,0
+ORD105,Marcos Pizza,20,Medium,Veg,3,3,High,FALSE,FALSE,1,April,Online,0
+ORD106,Domino's,20,Large,Veg,4,4.5,Low,TRUE,FALSE,0.888888889,April,Offline,0
+ORD107,Papa John's,25,Medium,Veg,3,3,High,TRUE,FALSE,1,April,Online,0
+ORD108,Little Caesars,20,Small,Veg,2,2.5,Low,TRUE,FALSE,0.8,April,Online,0
+ORD109,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,FALSE,1.25,April,Online,0
+ORD110,Marcos Pizza,20,Medium,Veg,3,3.5,High,FALSE,TRUE,0.857142857,April,Offline,0
+ORD111,Domino's,20,Large,Veg,4,4.5,Low,TRUE,TRUE,0.888888889,April,Online,0
+ORD112,Papa John's,25,Small,Veg,2,2,High,TRUE,FALSE,1,April,Online,0
+ORD113,Little Caesars,20,Medium,Veg,3,3,High,TRUE,FALSE,1,April,Online,0
+ORD114,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,April,Offline,0
+ORD115,Marcos Pizza,20,Medium,Veg,3,3.5,Medium,FALSE,FALSE,0.857142857,April,Online,0
+ORD116,Domino's,20,Large,Veg,4,4,High,TRUE,FALSE,1,April,Online,0
+ORD117,Papa John's,25,Medium,Veg,3,3,Low,TRUE,TRUE,1,April,Online,0
+ORD118,Little Caesars,20,Small,Veg,2,2.5,Low,TRUE,TRUE,0.8,April,Offline,0
+ORD119,Pizza Hut,25,XL,Veg,5,4.5,High,TRUE,FALSE,1.111111111,April,Online,0
+ORD120,Marcos Pizza,20,Medium,Veg,3,3,Medium,FALSE,FALSE,1,April,Online,0
+ORD121,Domino's,20,Large,Veg,4,4.5,Low,TRUE,FALSE,0.888888889,May,Online,0
+ORD122,Papa John's,25,Small,Veg,2,2,High,TRUE,FALSE,1,May,Offline,0
+ORD123,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,May,Online,0
+ORD124,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,TRUE,1.25,May,Online,0
+ORD125,Marcos Pizza,20,Medium,Veg,3,3,High,FALSE,TRUE,1,May,Online,0
+ORD126,Domino's,20,Medium,Veg,2,3,Low,TRUE,FALSE,0.666666667,August,Online,0
+ORD127,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,August,Online,0
+ORD128,Pizza Hut,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,August,Online,1
+ORD129,Little Caesars,20,Small,Veg,1,2.5,Low,TRUE,TRUE,0.4,August,Offline,0
+ORD130,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,August,Online,1
+ORD131,Domino's,35,Medium,Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,August,Online,1
+ORD132,Papa John's,20,Small,Veg,2,2,Low,TRUE,FALSE,1,August,Online,0
+ORD133,Pizza Hut,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,August,Offline,1
+ORD134,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,August,Online,0
+ORD135,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,TRUE,0.444444444,August,Online,1
+ORD136,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,TRUE,0.666666667,August,Online,0
+ORD137,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,August,Offline,0
+ORD138,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,August,Online,1
+ORD139,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,August,Online,0
+ORD140,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,August,Online,1
+ORD141,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,August,Offline,1
+ORD142,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,TRUE,1,August,Online,0
+ORD143,Pizza Hut,40,XL,Veg,5,7.5,High,TRUE,TRUE,0.666666667,August,Online,1
+ORD144,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,August,Online,0
+ORD145,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,August,Offline,1
+ORD146,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,August,Online,0
+ORD147,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,August,Online,0
+ORD148,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,August,Online,1
+ORD149,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,August,Offline,0
+ORD150,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,TRUE,0.4,August,Online,1
+ORD151,Domino's,30,Large,Non-Veg,4,5.5,High,TRUE,FALSE,0.727272727,August,Offline,0
+ORD152,Pizza Hut,30,XL,Veg,5,6,Medium,TRUE,FALSE,0.833333333,August,Online,0
+ORD153,Papa John's,35,Medium,Veg,3,7.2,Low,TRUE,TRUE,0.416666667,August,Online,1
+ORD154,Little Caesars,20,Small,Non-Veg,2,3,Low,FALSE,TRUE,0.666666667,August,Online,0
+ORD155,Marcos Pizza,30,Medium,Veg,4,5,High,FALSE,FALSE,0.8,August,Offline,0
+ORD156,Domino's,30,Large,Non-Veg,3,6.5,Medium,TRUE,FALSE,0.461538462,August,Offline,0
+ORD157,Papa John's,35,Small,Non-Veg,2,4,High,TRUE,FALSE,0.5,August,Online,1
+ORD158,Little Caesars,25,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,August,Online,0
+ORD159,Pizza Hut,30,XL,Veg,5,6,Medium,TRUE,FALSE,0.833333333,August,Online,0
+ORD160,Marcos Pizza,30,Medium,Veg,4,5.5,High,FALSE,TRUE,0.727272727,August,Offline,0
+ORD161,Domino's,30,Large,Non-Veg,3,6,Medium,TRUE,TRUE,0.5,August,Offline,0
+ORD162,Papa John's,30,Small,Non-Veg,2,4.5,Low,TRUE,FALSE,0.444444444,August,Online,0
+ORD163,Little Caesars,25,Medium,Veg,3,3,High,TRUE,FALSE,1,August,Online,0
+ORD164,Pizza Hut,30,XL,Veg,5,6.5,Medium,TRUE,FALSE,0.769230769,August,Online,0
+ORD165,Marcos Pizza,30,Medium,Veg,4,5,High,FALSE,FALSE,0.8,August,Offline,0
+ORD166,Domino's,30,Large,Non-Veg,3,6,Medium,TRUE,FALSE,0.5,August,Offline,0
+ORD167,Papa John's,30,Small,Non-Veg,2,4,Low,TRUE,TRUE,0.5,August,Online,0
+ORD168,Little Caesars,25,Medium,Veg,3,3.5,High,TRUE,TRUE,0.857142857,August,Online,0
+ORD169,Pizza Hut,30,XL,Veg,5,6,Medium,TRUE,FALSE,0.833333333,August,Online,0
+ORD170,Marcos Pizza,30,Medium,Veg,4,5.5,Low,FALSE,FALSE,0.727272727,August,Offline,0
+ORD171,Domino's,30,Large,Non-Veg,3,6,High,TRUE,FALSE,0.5,August,Offline,0
+ORD172,Papa John's,30,Small,Non-Veg,2,4.5,Medium,TRUE,FALSE,0.444444444,August,Online,0
+ORD173,Little Caesars,25,Medium,Veg,3,3,Low,TRUE,FALSE,1,August,Online,0
+ORD174,Pizza Hut,30,XL,Veg,5,6.5,High,TRUE,TRUE,0.769230769,August,Online,0
+ORD175,Marcos Pizza,20,Medium,Veg,3,3,Medium,FALSE,FALSE,1,June,Online,0
+ORD176,Domino's,20,Large,Non-Veg,4,4.5,Low,TRUE,FALSE,0.888888889,June,Online,0
+ORD177,Papa John's,25,Small,Non-Veg,2,2,High,TRUE,TRUE,1,June,Offline,0
+ORD178,Little Caesars,20,Medium,Veg,3,3,High,TRUE,TRUE,1,June,Online,0
+ORD179,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,June,Offline,0
+ORD180,Marcos Pizza,20,Medium,Veg,3,3.5,Medium,FALSE,FALSE,0.857142857,June,Online,0
+ORD181,Domino's,25,Large,Non-Veg,4,4.5,High,TRUE,FALSE,0.888888889,June,Online,0
+ORD182,Papa John's,25,Medium,Veg,3,3,Medium,TRUE,FALSE,1,June,Online,0
+ORD183,Little Caesars,20,Small,Non-Veg,2,2.5,Low,TRUE,FALSE,0.8,June,Offline,0
+ORD184,Pizza Hut,25,XL,Veg,5,4,High,TRUE,TRUE,1.25,June,Online,0
+ORD185,Marcos Pizza,20,Medium,Veg,3,3.5,Low,FALSE,TRUE,0.857142857,June,Online,0
+ORD186,Domino's,20,Large,Non-Veg,4,4.5,Medium,TRUE,FALSE,0.888888889,July,Online,0
+ORD187,Papa John's,25,Small,Non-Veg,2,2,High,TRUE,FALSE,1,July,Offline,0
+ORD188,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,July,Online,0
+ORD189,Pizza Hut,25,XL,Veg,5,4,Medium,TRUE,FALSE,1.25,July,Online,0
+ORD190,Marcos Pizza,20,Medium,Veg,3,3.5,High,FALSE,FALSE,0.857142857,July,Online,0
+ORD191,Domino's,20,Large,Non-Veg,4,4.5,Low,TRUE,TRUE,0.888888889,July,Offline,0
+ORD192,Papa John's,25,Small,Non-Veg,2,2,High,TRUE,TRUE,1,July,Online,0
+ORD193,Little Caesars,20,Medium,Veg,3,3,High,TRUE,FALSE,1,July,Online,0
+ORD194,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,July,Offline,0
+ORD195,Marcos Pizza,20,Medium,Veg,3,3.5,Medium,FALSE,FALSE,0.857142857,July,Online,0
+ORD196,Domino's,20,Large,Non-Veg,4,4,High,TRUE,FALSE,1,July,Online,0
+ORD197,Papa John's,25,Medium,Veg,3,3,Low,TRUE,FALSE,1,July,Online,0
+ORD198,Little Caesars,20,Small,Non-Veg,2,2.5,Low,TRUE,TRUE,0.8,July,Offline,0
+ORD199,Pizza Hut,25,XL,Veg,5,4.5,High,TRUE,TRUE,1.111111111,July,Online,0
+ORD200,Marcos Pizza,20,Medium,Veg,3,3,Medium,FALSE,FALSE,1,July,Online,0
+ORD201,Domino's,25,Large,Non-Veg,3,5,High,TRUE,FALSE,0.6,July,Online,0
+ORD202,Papa John's,30,Medium,Veg,4,3.5,Medium,TRUE,FALSE,1.142857143,July,Online,0
+ORD203,Little Caesars,25,Small,Non-Veg,2,4,Low,TRUE,FALSE,0.5,July,Offline,0
+ORD204,Pizza Hut,25,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,July,Online,0
+ORD205,Marcos Pizza,25,Medium,Veg,3,3,Low,FALSE,TRUE,1,July,Online,0
+ORD206,Domino's,25,Large,Non-Veg,4,5,High,TRUE,TRUE,0.8,July,Online,0
+ORD207,Papa John's,25,Small,Non-Veg,2,2.5,Medium,TRUE,FALSE,0.8,July,Offline,0
+ORD208,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,July,Online,0
+ORD209,Pizza Hut,25,XL,Veg,5,4,High,TRUE,FALSE,1.25,July,Online,0
+ORD210,Marcos Pizza,20,Medium,Veg,3,3.5,Low,FALSE,FALSE,0.857142857,July,Online,0
+ORD211,Domino's,20,Large,Non-Veg,4,4.5,Medium,TRUE,FALSE,0.888888889,July,Offline,0
+ORD212,Papa John's,25,Small,Non-Veg,2,2,High,TRUE,TRUE,1,July,Online,0
+ORD213,Little Caesars,20,Medium,Veg,3,3,High,TRUE,TRUE,1,July,Online,0
+ORD214,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,July,Offline,0
+ORD215,Marcos Pizza,20,Medium,Veg,3,3.5,Medium,FALSE,FALSE,0.857142857,July,Online,0
+ORD216,Domino's,20,Large,Non-Veg,4,4,High,TRUE,FALSE,1,July,Online,0
+ORD217,Papa John's,25,Medium,Veg,3,3,Low,TRUE,FALSE,1,August,Online,0
+ORD218,Little Caesars,20,Small,Non-Veg,2,2.5,Low,TRUE,FALSE,0.8,August,Offline,0
+ORD219,Pizza Hut,25,XL,Veg,5,4.5,High,TRUE,TRUE,1.111111111,August,Online,0
+ORD220,Marcos Pizza,20,Medium,Veg,3,3,Medium,FALSE,TRUE,1,August,Online,0
+ORD221,Domino's,25,Large,Non-Veg,3,5,High,TRUE,FALSE,0.6,August,Online,0
+ORD222,Papa John's,30,Medium,Veg,4,3.5,Medium,TRUE,FALSE,1.142857143,August,Online,0
+ORD223,Little Caesars,25,Small,Non-Veg,2,4,Low,TRUE,FALSE,0.5,August,Offline,0
+ORD224,Pizza Hut,25,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,August,Online,0
+ORD225,Marcos Pizza,25,Medium,Veg,3,3,Low,FALSE,FALSE,1,August,Online,0
+ORD226,Domino's,25,Large,Non-Veg,4,5,High,TRUE,TRUE,0.8,August,Online,0
+ORD227,Papa John's,25,Small,Non-Veg,2,2.5,Medium,TRUE,TRUE,0.8,August,Offline,0
+ORD228,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,August,Online,0
+ORD229,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,August,Offline,0
+ORD230,Domino's,35,Large,Non-Veg,3,5,High,TRUE,FALSE,0.6,August,Online,1
+ORD231,Papa John's,25,Medium,Veg,4,3.5,Medium,TRUE,FALSE,1.142857143,August,Online,0
+ORD232,Little Caesars,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,August,Online,0
+ORD233,Marcos Pizza,30,Medium,Veg,3,3,High,FALSE,TRUE,1,August,Online,0
+ORD234,Domino's,40,Large,Non-Veg,4,5,High,TRUE,TRUE,0.8,August,Online,1
+ORD235,Papa John's,20,Small,Non-Veg,2,2.5,Medium,TRUE,FALSE,0.8,August,Offline,0
+ORD236,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,August,Online,0
+ORD237,Pizza Hut,30,XL,Veg,5,4,High,TRUE,FALSE,1.25,August,Online,0
+ORD238,Marcos Pizza,25,Medium,Veg,3,3.5,Low,FALSE,FALSE,0.857142857,August,Online,0
+ORD239,Domino's,20,Large,Non-Veg,4,4.5,Medium,TRUE,FALSE,0.888888889,August,Offline,0
+ORD240,Papa John's,25,Small,Non-Veg,2,2,High,TRUE,TRUE,1,August,Online,0
+ORD241,Little Caesars,20,Medium,Veg,3,3,High,TRUE,TRUE,1,August,Online,0
+ORD242,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,August,Offline,0
+ORD243,Marcos Pizza,20,Medium,Veg,3,3.5,Medium,FALSE,FALSE,0.857142857,August,Online,0
+ORD244,Domino's,25,Large,Non-Veg,4,5,High,TRUE,FALSE,0.8,August,Online,0
+ORD245,Papa John's,25,Small,Non-Veg,2,2.5,Medium,TRUE,FALSE,0.8,August,Offline,0
+ORD246,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,August,Online,0
+ORD247,Pizza Hut,25,XL,Veg,5,4,High,TRUE,TRUE,1.25,August,Online,0
+ORD248,Marcos Pizza,20,Medium,Veg,3,3.5,Low,FALSE,TRUE,0.857142857,September,Online,0
+ORD249,Domino's,20,Large,Non-Veg,4,4.5,Medium,TRUE,FALSE,0.888888889,September,Offline,0
+ORD250,Papa John's,25,Small,Non-Veg,2,2,High,TRUE,FALSE,1,September,Online,0
+ORD251,Little Caesars,20,Medium,Veg,3,3,High,TRUE,FALSE,1,September,Online,0
+ORD252,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,September,Offline,0
+ORD253,Marcos Pizza,20,Medium,Veg,3,3.5,Medium,FALSE,FALSE,0.857142857,September,Online,0
+ORD254,Domino's,25,Large,Non-Veg,4,5,High,TRUE,TRUE,0.8,September,Online,0
+ORD255,Papa John's,25,Small,Non-Veg,2,2.5,Medium,TRUE,TRUE,0.8,September,Offline,0
+ORD256,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,September,Online,0
+ORD257,Domino's,25,Large,Non-Veg,3,5,High,TRUE,FALSE,0.6,September,Offline,0
+ORD258,Domino's,20,Medium,Veg,2,3.5,Medium,TRUE,FALSE,0.571428571,September,Online,0
+ORD259,Domino's,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,September,Online,0
+ORD260,Domino's,25,XL,Veg,5,4.5,High,TRUE,FALSE,1.111111111,September,Online,0
+ORD261,Domino's,20,Medium,Veg,3,3,Medium,TRUE,TRUE,1,September,Offline,0
+ORD262,Domino's,25,Large,Non-Veg,4,5,High,TRUE,TRUE,0.8,September,Online,0
+ORD263,Domino's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,September,Online,0
+ORD264,Domino's,25,XL,Veg,5,4.5,Medium,TRUE,FALSE,1.111111111,September,Online,0
+ORD265,Domino's,20,Medium,Veg,3,3.5,High,TRUE,FALSE,0.857142857,September,Offline,0
+ORD266,Domino's,25,Large,Non-Veg,4,5,High,TRUE,FALSE,0.8,September,Online,0
+ORD267,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,September,Offline,0
+ORD268,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,September,Online,0
+ORD269,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,September,Online,1
+ORD270,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,September,Online,0
+ORD271,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,TRUE,0.4,September,Offline,1
+ORD272,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,TRUE,0.545454545,September,Online,1
+ORD273,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,September,Online,0
+ORD274,Pizza Hut,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,September,Online,1
+ORD275,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,September,Offline,0
+ORD276,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,September,Online,1
+ORD278,Domino's,25,Large,Non-Veg,3,5,High,TRUE,TRUE,0.6,September,Offline,0
+ORD279,Pizza Hut,30,XL,Veg,5,6.5,Medium,TRUE,FALSE,0.769230769,September,Online,0
+ORD280,Papa John's,20,Medium,Veg,4,4,Low,TRUE,FALSE,1,September,Online,0
+ORD281,Little Caesars,35,Small,Non-Veg,2,7.5,High,TRUE,FALSE,0.266666667,September,Online,1
+ORD282,Marcos Pizza,20,Medium,Veg,3,3.5,Low,FALSE,FALSE,0.857142857,September,Online,0
+ORD283,Domino's,30,Large,Non-Veg,4,6,Medium,TRUE,FALSE,0.666666667,September,Offline,0
+ORD284,Pizza Hut,25,XL,Veg,5,5,Low,TRUE,TRUE,1,September,Online,0
+ORD285,Papa John's,25,Small,Non-Veg,2,4,High,TRUE,TRUE,0.5,September,Online,0
+ORD286,Little Caesars,20,Medium,Veg,3,3,Medium,TRUE,FALSE,1,September,Online,0
+ORD287,Marcos Pizza,30,Medium,Veg,3,6,High,FALSE,FALSE,0.5,September,Online,0
+ORD288,Domino's,30,Large,Non-Veg,4,5.5,High,TRUE,FALSE,0.727272727,September,Offline,0
+ORD289,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,September,Offline,0
+ORD290,Papa John's,25,Medium,Veg,4,3.5,Medium,TRUE,FALSE,1.142857143,September,Online,0
+ORD291,Little Caesars,20,Small,Non-Veg,2,2,Low,TRUE,TRUE,1,September,Online,0
+ORD292,Marcos Pizza,20,Medium,Veg,3,3,Low,FALSE,TRUE,1,September,Online,0
+ORD293,Domino's,25,Large,Non-Veg,4,5,High,TRUE,FALSE,0.8,September,Offline,0
+ORD294,Pizza Hut,25,XL,Veg,5,4,High,TRUE,FALSE,1.25,October,Online,0
+ORD295,Papa John's,25,Small,Non-Veg,2,2.5,Medium,TRUE,FALSE,0.8,October,Online,0
+ORD296,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,FALSE,0.857142857,October,Online,0
+ORD297,Marcos Pizza,20,Medium,Veg,3,3.5,Low,FALSE,FALSE,0.857142857,October,Online,0
+ORD298,Domino's,25,Large,Non-Veg,4,5,High,TRUE,TRUE,0.8,October,Offline,0
+ORD299,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,TRUE,1.111111111,October,Offline,0
+ORD300,Papa John's,25,Medium,Veg,4,3.5,Medium,TRUE,FALSE,1.142857143,October,Online,0
+ORD301,Little Caesars,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,October,Online,0
+ORD302,Marcos Pizza,20,Medium,Veg,3,3,Low,FALSE,FALSE,1,October,Online,0
+ORD303,Domino's,25,Large,Non-Veg,4,5,High,TRUE,FALSE,0.8,October,Offline,0
+ORD304,Pizza Hut,25,XL,Veg,5,4.5,Low,TRUE,FALSE,1.111111111,October,Online,0
+ORD305,Papa John's,25,Small,Non-Veg,2,2.5,Medium,TRUE,TRUE,0.8,October,Online,0
+ORD306,Little Caesars,20,Medium,Veg,3,3.5,Low,TRUE,TRUE,0.857142857,October,Online,0
+ORD307,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,August,Online,0
+ORD308,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,August,Online,0
+ORD309,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,August,Offline,1
+ORD310,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,August,Offline,0
+ORD311,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,August,Online,1
+ORD312,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,TRUE,0.545454545,August,Online,1
+ORD313,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,TRUE,1,September,Online,0
+ORD314,Pizza Hut,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,September,Offline,1
+ORD315,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,September,Offline,0
+ORD316,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,September,Online,1
+ORD317,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,September,Online,0
+ORD318,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,September,Offline,0
+ORD319,Pizza Hut,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,September,Offline,1
+ORD320,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,September,Online,0
+ORD321,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,September,Online,1
+ORD322,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,September,Online,1
+ORD323,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,September,Online,0
+ORD324,Pizza Hut,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,September,Offline,1
+ORD325,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,September,Offline,0
+ORD326,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,TRUE,0.444444444,September,Online,1
+ORD327,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,TRUE,0.666666667,September,Online,0
+ORD328,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,September,Offline,0
+ORD329,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,September,Offline,1
+ORD330,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,September,Online,0
+ORD331,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,September,Online,1
+ORD332,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,September,Offline,0
+ORD333,Papa John's,30,Large,Veg,4,6,Medium,TRUE,TRUE,0.666666667,September,Online,0
+ORD334,Pizza Hut,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,September,Offline,1
+ORD335,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,September,Offline,0
+ORD336,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,September,Online,1
+ORD337,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,September,Online,0
+ORD338,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,September,Online,0
+ORD339,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,September,Offline,1
+ORD340,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,September,Offline,0
+ORD341,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,TRUE,0.4,September,Online,1
+ORD342,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,September,Online,1
+ORD343,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,October,Online,0
+ORD344,Pizza Hut,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,October,Offline,1
+ORD345,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,October,Offline,0
+ORD346,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,October,Online,1
+ORD347,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,TRUE,0.666666667,October,Online,0
+ORD348,Papa John's,30,Large,Veg,4,6,Medium,TRUE,TRUE,0.666666667,October,Offline,0
+ORD349,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,October,Offline,1
+ORD350,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,October,Online,0
+ORD351,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,October,Online,1
+ORD352,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,October,Online,1
+ORD353,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,October,Online,0
+ORD354,Pizza Hut,40,XL,Veg,5,7.5,High,TRUE,TRUE,0.666666667,October,Offline,1
+ORD355,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,TRUE,0.75,October,Offline,0
+ORD356,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,October,Online,1
+ORD357,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,October,Online,0
+ORD358,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,October,Online,0
+ORD359,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,October,Offline,1
+ORD360,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,October,Offline,0
+ORD361,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,TRUE,0.4,October,Online,1
+ORD362,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,TRUE,0.666666667,October,Offline,0
+ORD363,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,October,Online,0
+ORD364,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,October,Online,0
+ORD365,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,October,Offline,1
+ORD366,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,October,Offline,0
+ORD367,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,October,Online,1
+ORD368,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,TRUE,0.545454545,October,Online,1
+ORD369,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,TRUE,1,October,Online,0
+ORD370,Pizza Hut,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,October,Offline,1
+ORD371,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,October,Online,0
+ORD372,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,October,Online,1
+ORD373,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,October,Online,0
+ORD374,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,November,Offline,0
+ORD375,Pizza Hut,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,November,Offline,1
+ORD376,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,November,Online,0
+ORD377,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,November,Online,1
+ORD378,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,November,Online,1
+ORD379,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,November,Online,0
+ORD380,Pizza Hut,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,November,Offline,1
+ORD381,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,November,Online,0
+ORD382,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,TRUE,0.444444444,November,Offline,1
+ORD383,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,TRUE,0.666666667,November,Online,0
+ORD384,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,November,Online,0
+ORD385,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,November,Offline,1
+ORD386,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,November,Offline,0
+ORD387,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,November,Online,1
+ORD388,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,November,Offline,0
+ORD389,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,TRUE,0.666666667,November,Online,0
+ORD390,Papa John's,30,Large,Veg,4,6,Medium,TRUE,TRUE,0.666666667,November,Online,0
+ORD391,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,November,Offline,1
+ORD392,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,November,Offline,0
+ORD393,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,November,Online,1
+ORD394,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,November,Online,1
+ORD395,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,November,Online,0
+ORD396,Pizza Hut,40,XL,Non-Veg,5,7.5,High,TRUE,TRUE,0.666666667,November,Offline,1
+ORD397,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,TRUE,0.75,November,Online,0
+ORD398,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,November,Online,1
+ORD399,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,November,Online,0
+ORD400,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,November,Offline,0
+ORD401,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,November,Offline,1
+ORD402,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,November,Online,0
+ORD403,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,TRUE,0.4,November,Online,1
+ORD404,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,TRUE,0.545454545,December,Online,1
+ORD405,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,December,Online,0
+ORD406,Pizza Hut,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,December,Offline,1
+ORD407,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,December,Online,0
+ORD408,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,December,Offline,1
+ORD409,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,December,Online,0
+ORD410,Papa John's,30,Large,Veg,4,6,Medium,TRUE,TRUE,0.666666667,December,Online,0
+ORD411,Pizza Hut,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,December,Offline,1
+ORD412,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,December,Offline,0
+ORD413,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,December,Online,1
+ORD414,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,December,Offline,0
+ORD415,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,December,Online,0
+ORD416,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,December,Online,0
+ORD417,Pizza Hut,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,December,Offline,1
+ORD418,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,December,Offline,0
+ORD419,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,December,Online,1
+ORD420,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,December,Online,1
+ORD421,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,December,Online,0
+ORD422,Pizza Hut,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,December,Online,1
+ORD423,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,December,Online,0
+ORD424,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,TRUE,0.444444444,December,Online,1
+ORD425,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,December,Online,0
+ORD426,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,December,Online,0
+ORD427,Pizza Hut,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,December,Offline,1
+ORD428,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,December,Offline,0
+ORD429,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,December,Online,1
+ORD430,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,December,Online,1
+ORD431,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,December,Online,0
+ORD432,Pizza Hut,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,December,Online,1
+ORD433,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,December,Online,0
+ORD434,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,TRUE,0.444444444,December,Online,1
+ORD435,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,TRUE,0.666666667,December,Online,0
+ORD436,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,December,Offline,0
+ORD437,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,December,Online,1
+ORD438,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,December,Online,0
+ORD439,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,December,Online,1
+ORD440,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,December,Online,1
+ORD441,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,TRUE,1,December,Online,0
+ORD442,Pizza Hut,40,XL,Non-Veg,5,7.5,High,TRUE,TRUE,0.666666667,December,Online,1
+ORD443,Little Caesars,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,December,Online,0
+ORD444,Marcos Pizza,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,December,Offline,1
+ORD445,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,January,Online,0
+ORD446,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,January,Online,0
+ORD447,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,January,Online,1
+ORD448,Little Caesars,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,January,Offline,0
+ORD449,Marcos Pizza,50,Large,Veg,4,10,High,TRUE,TRUE,0.4,January,Online,1
+ORD450,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,January,Offline,0
+ORD451,Papa John's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,January,Online,0
+ORD452,Pizza Hut,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,January,Online,1
+ORD453,Little Caesars,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,January,Online,0
+ORD454,Marcos Pizza,35,Large,Non-Veg,4,6.5,High,TRUE,FALSE,0.615384615,January,Online,1
+ORD455,Domino's,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,January,Online,1
+ORD456,Papa John's,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,January,Offline,0
+ORD457,Pizza Hut,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,January,Online,1
+ORD458,Domino's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,January,Offline,1
+ORD459,Papa John's,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,January,Online,0
+ORD460,Pizza Hut,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,January,Online,1
+ORD461,Domino's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,January,Online,0
+ORD462,Papa John's,30,Large,Veg,4,6,Medium,TRUE,TRUE,0.666666667,January,Online,0
+ORD463,Little Caesars,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,January,Online,1
+ORD464,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,January,Offline,0
+ORD465,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,January,Online,1
+ORD466,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,January,Online,1
+ORD467,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,January,Online,0
+ORD468,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,January,Online,1
+ORD469,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,TRUE,0.75,January,Online,0
+ORD470,Domino's,45,Large,Non-Veg,4,9,High,TRUE,TRUE,0.444444444,January,Offline,1
+ORD471,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,January,Online,0
+ORD472,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,January,Online,0
+ORD473,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,January,Online,1
+ORD474,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,January,Offline,0
+ORD475,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,January,Online,1
+ORD476,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,TRUE,0.545454545,February,Online,1
+ORD477,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,TRUE,1,February,Online,0
+ORD478,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,February,Online,1
+ORD479,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,February,Online,0
+ORD480,Domino's,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,February,Offline,1
+ORD481,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,February,Online,0
+ORD482,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,February,Online,0
+ORD483,Little Caesars,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,February,Online,1
+ORD484,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,February,Offline,0
+ORD485,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,February,Online,1
+ORD486,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,February,Online,1
+ORD487,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,February,Online,0
+ORD488,Little Caesars,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,February,Online,1
+ORD489,Marcos Pizza,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,February,Online,0
+ORD490,Domino's,30,Large,Veg,4,6,Medium,TRUE,TRUE,0.666666667,February,Online,0
+ORD491,Papa John's,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,February,Online,1
+ORD492,Pizza Hut,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,February,Offline,0
+ORD493,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,February,Online,1
+ORD494,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,February,Online,1
+ORD495,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,February,Online,0
+ORD496,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,February,Online,1
+ORD497,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,TRUE,0.75,February,Online,0
+ORD498,Domino's,45,Large,Non-Veg,4,9,High,TRUE,TRUE,0.444444444,February,Offline,1
+ORD499,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,February,Online,0
+ORD500,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,February,Online,0
+ORD501,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,February,Online,1
+ORD502,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,February,Offline,0
+ORD503,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,February,Offline,1
+ORD504,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,TRUE,0.545454545,March,Online,1
+ORD505,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,TRUE,1,March,Online,0
+ORD506,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,March,Online,1
+ORD507,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,March,Online,0
+ORD508,Domino's,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,March,Offline,1
+ORD509,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,March,Online,0
+ORD510,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,March,Online,0
+ORD511,Little Caesars,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,March,Online,1
+ORD512,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,March,Offline,0
+ORD513,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,March,Online,1
+ORD514,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,March,Online,1
+ORD515,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,March,Online,0
+ORD516,Little Caesars,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,March,Online,1
+ORD517,Marcos Pizza,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,March,Online,0
+ORD518,Domino's,30,Large,Veg,4,6,Medium,TRUE,TRUE,0.666666667,March,Online,0
+ORD519,Papa John's,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,March,Online,1
+ORD520,Pizza Hut,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,March,Offline,0
+ORD521,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,March,Online,1
+ORD522,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,March,Online,1
+ORD523,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,March,Online,0
+ORD524,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,March,Online,1
+ORD525,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,TRUE,0.75,March,Online,0
+ORD526,Domino's,45,Large,Non-Veg,4,9,High,TRUE,TRUE,0.444444444,March,Offline,1
+ORD527,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,March,Online,0
+ORD528,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,March,Online,0
+ORD529,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,March,Online,1
+ORD530,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,March,Offline,0
+ORD531,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,March,Offline,1
+ORD532,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,TRUE,0.545454545,March,Online,1
+ORD533,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,TRUE,1,March,Online,0
+ORD534,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,March,Online,1
+ORD535,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,April,Online,0
+ORD536,Domino's,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,April,Offline,1
+ORD537,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,April,Online,0
+ORD538,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,April,Online,0
+ORD539,Little Caesars,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,April,Online,1
+ORD540,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,April,Offline,0
+ORD541,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,April,Online,1
+ORD542,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,April,Online,1
+ORD543,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,April,Online,0
+ORD544,Domino's,45,Large,Veg,4,7,Medium,TRUE,FALSE,0.571428571,April,Online,1
+ORD545,Papa John's,40,Medium,Non-Veg,3,6.5,High,TRUE,FALSE,0.461538462,April,Online,1
+ORD546,Pizza Hut,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,April,Offline,0
+ORD547,Little Caesars,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,April,Online,1
+ORD548,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,April,Online,0
+ORD549,Domino's,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,April,Offline,1
+ORD550,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,April,Online,0
+ORD551,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,April,Online,0
+ORD552,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,April,Online,1
+ORD553,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,April,Offline,0
+ORD554,Domino's,50,Large,Veg,4,10,High,TRUE,TRUE,0.4,April,Offline,1
+ORD555,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,April,Online,1
+ORD556,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,April,Online,0
+ORD557,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,April,Online,1
+ORD558,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,April,Online,0
+ORD559,Domino's,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,April,Offline,1
+ORD560,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,TRUE,0.666666667,April,Online,0
+ORD561,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,TRUE,0.666666667,April,Online,0
+ORD562,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,April,Online,1
+ORD563,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,April,Offline,0
+ORD564,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,April,Online,1
+ORD565,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,May,Online,1
+ORD566,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,May,Online,0
+ORD567,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,TRUE,0.666666667,May,Online,1
+ORD568,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,TRUE,0.75,May,Online,0
+ORD569,Domino's,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,May,Offline,1
+ORD570,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,May,Online,1
+ORD571,Domino's,45,Large,Veg,4,7,Medium,TRUE,FALSE,0.571428571,May,Online,1
+ORD572,Papa John's,40,Medium,Non-Veg,3,6.5,High,TRUE,FALSE,0.461538462,May,Online,1
+ORD573,Pizza Hut,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,May,Offline,0
+ORD574,Little Caesars,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,May,Online,1
+ORD575,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,TRUE,0.75,May,Online,0
+ORD576,Domino's,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,May,Offline,1
+ORD577,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,May,Online,0
+ORD578,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,May,Online,0
+ORD579,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,May,Online,1
+ORD580,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,May,Offline,0
+ORD581,Domino's,50,Large,Veg,4,10,High,TRUE,TRUE,0.4,May,Offline,1
+ORD582,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,TRUE,0.545454545,May,Online,1
+ORD583,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,May,Online,0
+ORD584,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,May,Online,1
+ORD585,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,May,Online,0
+ORD586,Domino's,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,May,Offline,1
+ORD587,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,May,Online,0
+ORD588,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,TRUE,0.666666667,May,Online,0
+ORD589,Little Caesars,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,May,Online,1
+ORD590,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,May,Offline,0
+ORD591,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,May,Online,1
+ORD592,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,May,Online,1
+ORD593,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,May,Online,0
+ORD594,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,May,Online,1
+ORD595,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,TRUE,0.75,May,Online,0
+ORD596,Domino's,45,Large,Non-Veg,4,9,High,TRUE,TRUE,0.444444444,June,Offline,1
+ORD597,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,June,Online,0
+ORD598,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,June,Online,0
+ORD599,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,June,Online,1
+ORD600,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,June,Offline,0
+ORD601,Domino's,45,Large,Veg,4,7,Medium,TRUE,FALSE,0.571428571,June,Online,1
+ORD602,Papa John's,40,Medium,Non-Veg,3,6.5,High,TRUE,TRUE,0.461538462,June,Online,1
+ORD603,Pizza Hut,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,June,Offline,0
+ORD604,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,June,Online,1
+ORD605,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,June,Online,0
+ORD606,Domino's,45,Large,Non-Veg,4,9,High,TRUE,FALSE,0.444444444,June,Offline,1
+ORD607,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,June,Online,0
+ORD608,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,June,Online,0
+ORD609,Little Caesars,40,XL,Veg,5,8,High,TRUE,TRUE,0.625,June,Online,1
+ORD610,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,June,Offline,0
+ORD611,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,June,Offline,1
+ORD612,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,June,Online,1
+ORD613,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,June,Online,0
+ORD614,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,FALSE,0.666666667,June,Online,1
+ORD615,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,June,Online,0
+ORD616,Domino's,45,Large,Non-Veg,4,9,High,TRUE,TRUE,0.444444444,June,Offline,1
+ORD617,Papa John's,20,Medium,Non-Veg,2,3,Low,TRUE,TRUE,0.666666667,June,Online,0
+ORD618,Pizza Hut,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,June,Online,0
+ORD619,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,June,Online,1
+ORD620,Marcos Pizza,20,Small,Non-Veg,1,2.5,Low,TRUE,FALSE,0.4,June,Offline,0
+ORD621,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,June,Online,1
+ORD622,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,June,Online,1
+ORD623,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,TRUE,1,June,Online,0
+ORD624,Little Caesars,40,XL,Non-Veg,5,7.5,High,TRUE,TRUE,0.666666667,June,Online,1
+ORD625,Domino's,35,Large,Veg,4,5.4,Medium,TRUE,TRUE,0.740740741,June,Online,1
+ORD626,Pizza Hut,30,Medium,Non-Veg,2,4.1,Low,TRUE,TRUE,0.487804878,June,Online,0
+ORD627,Little Caesars,50,XL,Veg,5,8.7,High,TRUE,TRUE,0.574712644,June,Offline,1
+ORD628,Domino's,35,Large,Veg,4,5.4,Medium,TRUE,TRUE,0.740740741,June,Online,1
+ORD629,Papa John's,25,Medium,Non-Veg,3,3.9,Low,FALSE,FALSE,0.769230769,June,Online,0
+ORD630,Pizza Hut,40,Large,Non-Veg,5,6,Medium,TRUE,FALSE,0.833333333,June,Online,1
+ORD631,Domino's,35,Medium,Non-Veg,2,4.5,Medium,TRUE,FALSE,0.444444444,June,Offline,1
+ORD632,Pizza Hut,45,Large,Veg,4,7.2,High,TRUE,FALSE,0.555555556,June,Online,1
+ORD633,Domino's,30,Large,Veg,4,5.4,Medium,TRUE,FALSE,0.740740741,June,Offline,0
+ORD634,Little Caesars,40,XL,Non-Veg,5,7.8,High,TRUE,FALSE,0.641025641,June,Online,1
+ORD635,Marcos Pizza,25,Small,Veg,3,3.2,Medium,TRUE,FALSE,0.9375,June,Online,0
+ORD636,Pizza Hut,30,Medium,Non-Veg,2,4.1,Low,TRUE,FALSE,0.487804878,June,Online,0
+ORD637,Papa John's,50,Large,Veg,4,8.3,High,FALSE,FALSE,0.481927711,June,Online,1
+ORD638,Domino's,35,Large,Veg,4,5.4,Medium,TRUE,FALSE,0.740740741,June,Online,1
+ORD639,Marcos Pizza,25,Medium,Veg,3,4,Low,TRUE,FALSE,0.75,June,Online,0
+ORD640,Pizza Hut,30,Medium,Non-Veg,2,4.1,Low,TRUE,FALSE,0.487804878,June,Online,0
+ORD641,Domino's,40,Large,Veg,5,6.3,Medium,TRUE,FALSE,0.793650794,June,Offline,1
+ORD642,Little Caesars,45,XL,Non-Veg,2,7,High,TRUE,FALSE,0.285714286,June,Online,1
+ORD643,Domino's,30,Large,Veg,4,5.4,Medium,TRUE,FALSE,0.740740741,June,Online,0
+ORD644,Marcos Pizza,30,Small,Veg,3,3.2,Medium,TRUE,FALSE,0.9375,June,Offline,0
+ORD645,Pizza Hut,30,Medium,Non-Veg,4,5.8,Medium,TRUE,FALSE,0.689655172,June,Online,0
+ORD646,Domino's,50,Large,Veg,4,10,High,TRUE,FALSE,0.4,July,Online,1
+ORD647,Papa John's,35,Medium,Non-Veg,3,5.5,Medium,TRUE,FALSE,0.545454545,July,Online,1
+ORD648,Pizza Hut,20,Small,Non-Veg,2,2,Low,TRUE,FALSE,1,July,Online,0
+ORD649,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,July,Online,1
+ORD650,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,July,Online,0
+ORD651,Domino's,40,Large,Non-Veg,4,6.5,High,TRUE,TRUE,0.615384615,July,Offline,1
+ORD652,Papa John's,30,Medium,Non-Veg,2,3.5,Low,TRUE,TRUE,0.571428571,July,Online,0
+ORD653,Pizza Hut,30,Large,Veg,4,5,Medium,TRUE,FALSE,0.8,July,Online,0
+ORD654,Little Caesars,40,XL,Veg,5,7,High,TRUE,FALSE,0.714285714,July,Online,1
+ORD655,Marcos Pizza,30,Medium,Non-Veg,2,4,Medium,TRUE,FALSE,0.5,July,Online,0
+ORD656,Domino's,40,Large,Veg,4,6,High,TRUE,FALSE,0.666666667,July,Offline,1
+ORD657,Papa John's,30,Medium,Non-Veg,3,5,Medium,TRUE,FALSE,0.6,August,Online,0
+ORD658,Pizza Hut,30,Small,Non-Veg,2,3,Low,TRUE,TRUE,0.666666667,August,Online,0
+ORD659,Little Caesars,40,XL,Non-Veg,5,8,High,TRUE,TRUE,0.625,August,Online,1
+ORD660,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,August,Online,0
+ORD661,Domino's,40,Large,Non-Veg,4,6,High,TRUE,FALSE,0.666666667,August,Offline,1
+ORD662,Papa John's,30,Medium,Non-Veg,2,3.5,Low,TRUE,FALSE,0.571428571,August,Online,0
+ORD663,Pizza Hut,30,Large,Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,August,Online,0
+ORD664,Little Caesars,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,August,Online,1
+ORD665,Marcos Pizza,30,Small,Non-Veg,1,2.5,Low,TRUE,TRUE,0.4,August,Offline,0
+ORD666,Domino's,40,Large,Veg,4,6.5,High,TRUE,TRUE,0.615384615,August,Online,1
+ORD667,Papa John's,30,Medium,Non-Veg,3,5,Medium,TRUE,FALSE,0.6,August,Online,0
+ORD668,Pizza Hut,30,Small,Non-Veg,2,3,Low,TRUE,FALSE,0.666666667,August,Online,0
+ORD669,Little Caesars,40,XL,Veg,5,7,High,TRUE,FALSE,0.714285714,August,Online,1
+ORD670,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,August,Online,0
+ORD671,Domino's,35,Large,Veg,4,5,Medium,TRUE,FALSE,0.8,August,Online,1
+ORD672,Pizza Hut,40,Medium,Non-Veg,2,6,High,TRUE,TRUE,0.333333333,August,Online,1
+ORD673,Papa John's,25,Medium,Non-Veg,3,3.5,Low,TRUE,TRUE,0.857142857,August,Online,0
+ORD674,Little Caesars,40,XL,Veg,5,7,High,TRUE,FALSE,0.714285714,August,Offline,1
+ORD675,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,August,Online,0
+ORD676,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,August,Online,0
+ORD677,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,August,Online,0
+ORD678,Papa John's,35,Medium,Non-Veg,3,5,Medium,TRUE,FALSE,0.6,August,Online,1
+ORD679,Little Caesars,45,XL,Veg,5,8,High,TRUE,TRUE,0.625,August,Offline,1
+ORD680,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,August,Online,0
+ORD681,Domino's,35,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,August,Online,1
+ORD682,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,August,Online,0
+ORD683,Papa John's,30,Medium,Non-Veg,3,5,Medium,TRUE,FALSE,0.6,August,Online,0
+ORD684,Little Caesars,40,XL,Veg,5,7.5,High,TRUE,FALSE,0.666666667,August,Online,1
+ORD685,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,August,Offline,0
+ORD686,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,August,Online,0
+ORD687,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,August,Online,0
+ORD688,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,September,Online,0
+ORD689,Little Caesars,40,XL,Veg,5,8,High,TRUE,FALSE,0.625,September,Online,1
+ORD690,Marcos Pizza,30,Medium,Veg,3,4,Medium,TRUE,FALSE,0.75,September,Online,0
+ORD691,Domino's,30,Large,Veg,4,6,Medium,TRUE,FALSE,0.666666667,September,Offline,0
+ORD692,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,September,Online,0
+ORD693,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,September,Online,0
+ORD694,Little Caesars,40,XL,Veg,5,7,High,TRUE,TRUE,0.714285714,September,Online,1
+ORD695,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,September,Offline,0
+ORD696,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,September,Online,0
+ORD697,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,September,Online,0
+ORD698,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,September,Online,0
+ORD699,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,September,Online,0
+ORD700,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,September,Offline,0
+ORD701,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,September,Online,0
+ORD702,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,September,Online,0
+ORD703,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,September,Online,0
+ORD704,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,September,Online,0
+ORD705,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,September,Offline,0
+ORD706,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,September,Online,0
+ORD707,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,September,Online,0
+ORD708,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,September,Online,0
+ORD709,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,September,Online,0
+ORD710,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,September,Offline,0
+ORD711,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,September,Online,0
+ORD712,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,September,Online,0
+ORD713,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,September,Online,0
+ORD714,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,September,Online,0
+ORD715,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,September,Offline,0
+ORD716,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,September,Online,0
+ORD717,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,September,Online,0
+ORD718,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,October,Online,0
+ORD719,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,October,Online,0
+ORD720,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,October,Offline,0
+ORD721,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,October,Online,0
+ORD722,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,October,Online,0
+ORD723,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,October,Online,0
+ORD724,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,October,Online,0
+ORD725,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,October,Online,0
+ORD726,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,October,Online,0
+ORD727,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,October,Online,0
+ORD728,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,October,Offline,0
+ORD729,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,October,Online,0
+ORD730,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,October,Online,0
+ORD731,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,October,Online,0
+ORD732,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,October,Online,0
+ORD733,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,October,Offline,0
+ORD734,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,October,Online,0
+ORD735,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,October,Online,0
+ORD736,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,October,Online,0
+ORD737,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,October,Online,0
+ORD738,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,October,Offline,0
+ORD739,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,October,Online,0
+ORD740,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,October,Online,0
+ORD741,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,October,Online,0
+ORD742,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,October,Online,0
+ORD743,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,October,Offline,0
+ORD744,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,October,Online,0
+ORD745,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,October,Online,0
+ORD746,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,October,Online,0
+ORD747,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,October,Online,0
+ORD748,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,October,Offline,0
+ORD749,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,November,Online,0
+ORD750,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,November,Online,0
+ORD751,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,November,Online,0
+ORD752,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,November,Online,0
+ORD753,Marcos Pizza,30,Medium,Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,November,Online,0
+ORD754,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,November,Online,0
+ORD755,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,November,Online,0
+ORD756,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,November,Offline,0
+ORD757,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,November,Online,0
+ORD758,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,November,Online,0
+ORD759,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,November,Online,0
+ORD760,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,November,Online,0
+ORD761,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,November,Offline,0
+ORD762,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,November,Online,0
+ORD763,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,November,Online,0
+ORD764,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,November,Online,0
+ORD765,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,November,Online,0
+ORD766,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,November,Offline,0
+ORD767,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,November,Online,0
+ORD768,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,November,Online,0
+ORD769,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,November,Online,0
+ORD770,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,November,Online,0
+ORD771,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,November,Offline,0
+ORD772,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,November,Online,0
+ORD773,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,November,Online,0
+ORD774,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,November,Online,0
+ORD775,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,November,Online,0
+ORD776,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,November,Offline,0
+ORD777,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,November,Online,0
+ORD778,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,November,Online,0
+ORD779,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,December,Online,0
+ORD780,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,December,Online,0
+ORD781,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,December,Offline,0
+ORD782,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,December,Online,0
+ORD783,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,December,Online,0
+ORD784,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,December,Offline,0
+ORD785,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,December,Online,0
+ORD786,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,December,Online,0
+ORD787,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,December,Online,0
+ORD788,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,December,Online,0
+ORD789,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,December,Offline,0
+ORD790,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,December,Online,0
+ORD791,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,December,Online,0
+ORD792,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,December,Online,0
+ORD793,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,December,Online,0
+ORD794,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,December,Offline,0
+ORD795,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,December,Online,0
+ORD796,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,December,Online,0
+ORD797,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,December,Online,0
+ORD798,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,December,Online,0
+ORD799,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,December,Offline,0
+ORD800,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,December,Online,0
+ORD801,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,December,Online,0
+ORD802,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,December,Online,0
+ORD803,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,December,Online,0
+ORD804,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,December,Offline,0
+ORD805,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,December,Online,0
+ORD806,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,December,Online,0
+ORD807,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,December,Online,0
+ORD808,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,December,Online,0
+ORD809,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,December,Offline,0
+ORD810,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,December,Online,0
+ORD811,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,December,Online,0
+ORD812,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,December,Offline,0
+ORD813,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,December,Online,0
+ORD814,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,December,Online,0
+ORD815,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,December,Online,0
+ORD816,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,December,Online,0
+ORD817,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,December,Offline,0
+ORD818,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,January,Online,0
+ORD819,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,January,Online,0
+ORD820,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,January,Online,0
+ORD821,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,January,Online,0
+ORD822,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,January,Offline,0
+ORD823,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,January,Online,0
+ORD824,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,January,Online,0
+ORD825,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,January,Online,0
+ORD826,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,January,Online,0
+ORD827,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,January,Offline,0
+ORD828,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,January,Online,0
+ORD829,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,January,Online,0
+ORD830,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,January,Online,0
+ORD831,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,January,Online,0
+ORD832,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,January,Offline,0
+ORD833,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,January,Online,0
+ORD834,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,January,Online,0
+ORD835,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,January,Online,0
+ORD836,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,January,Online,0
+ORD837,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,January,Offline,0
+ORD838,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,January,Online,0
+ORD839,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,January,Online,0
+ORD840,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,January,Offline,0
+ORD841,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,January,Online,0
+ORD842,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,January,Online,0
+ORD843,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,January,Online,0
+ORD844,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,January,Online,0
+ORD845,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,January,Offline,0
+ORD846,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,January,Online,0
+ORD847,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,January,Online,0
+ORD848,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,January,Online,0
+ORD849,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,February,Online,0
+ORD850,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,February,Offline,0
+ORD851,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,February,Online,0
+ORD852,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,February,Online,0
+ORD853,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,February,Online,0
+ORD854,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,February,Online,0
+ORD855,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,February,Offline,0
+ORD856,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,February,Online,0
+ORD857,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,February,Online,0
+ORD858,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,February,Online,0
+ORD859,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,February,Online,0
+ORD860,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,February,Offline,0
+ORD861,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,February,Online,0
+ORD862,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,February,Online,0
+ORD863,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,February,Online,0
+ORD864,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,February,Online,0
+ORD865,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,February,Offline,0
+ORD866,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,February,Online,0
+ORD867,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,February,Online,0
+ORD868,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,February,Offline,0
+ORD869,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,February,Online,0
+ORD870,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,February,Online,0
+ORD871,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,February,Online,0
+ORD872,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,February,Online,0
+ORD873,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,February,Offline,0
+ORD874,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,February,Online,0
+ORD875,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,February,Online,0
+ORD876,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,February,Online,0
+ORD877,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,March,Online,0
+ORD878,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,March,Offline,0
+ORD879,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,March,Online,0
+ORD880,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,March,Online,0
+ORD881,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,March,Online,0
+ORD882,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,March,Online,0
+ORD883,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,March,Offline,0
+ORD884,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,March,Online,0
+ORD885,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,March,Online,0
+ORD886,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,March,Online,0
+ORD887,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,March,Online,0
+ORD888,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,March,Offline,0
+ORD889,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,March,Online,0
+ORD890,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,March,Online,0
+ORD891,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,March,Online,0
+ORD892,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,March,Online,0
+ORD893,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,March,Offline,0
+ORD894,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,March,Online,0
+ORD895,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,March,Online,0
+ORD896,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,March,Offline,0
+ORD897,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,March,Online,0
+ORD898,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,March,Online,0
+ORD899,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,March,Online,0
+ORD900,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,March,Online,0
+ORD901,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,March,Offline,0
+ORD902,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,March,Online,0
+ORD903,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,March,Online,0
+ORD904,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,March,Online,0
+ORD905,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,March,Online,0
+ORD906,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,March,Offline,0
+ORD907,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,March,Online,0
+ORD908,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,April,Online,0
+ORD909,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,April,Online,0
+ORD910,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,April,Online,0
+ORD911,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,April,Offline,0
+ORD912,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,April,Online,0
+ORD913,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,April,Online,0
+ORD914,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,April,Online,0
+ORD915,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,April,Online,0
+ORD916,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,April,Offline,0
+ORD917,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,April,Online,0
+ORD918,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,April,Online,0
+ORD919,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,April,Online,0
+ORD920,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,April,Online,0
+ORD921,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,April,Offline,0
+ORD922,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,April,Online,0
+ORD923,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,April,Online,0
+ORD924,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,April,Offline,0
+ORD925,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,April,Online,0
+ORD926,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,April,Online,0
+ORD927,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,April,Online,0
+ORD928,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,April,Online,0
+ORD929,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,April,Offline,0
+ORD930,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,April,Online,0
+ORD931,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,April,Online,0
+ORD932,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,April,Online,0
+ORD933,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,April,Online,0
+ORD934,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,April,Offline,0
+ORD935,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,April,Online,0
+ORD936,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,April,Online,0
+ORD937,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,April,Online,0
+ORD938,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,May,Online,0
+ORD939,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,May,Offline,0
+ORD940,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,May,Online,0
+ORD941,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,May,Online,0
+ORD942,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,May,Online,0
+ORD943,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,May,Online,0
+ORD944,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,May,Offline,0
+ORD945,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,May,Online,0
+ORD946,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,May,Online,0
+ORD947,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,May,Online,0
+ORD948,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,May,Online,0
+ORD949,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,May,Offline,0
+ORD950,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,May,Online,0
+ORD951,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,May,Online,0
+ORD952,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,May,Offline,0
+ORD953,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,May,Online,0
+ORD954,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,May,Online,0
+ORD955,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,May,Online,0
+ORD956,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,May,Online,0
+ORD957,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,May,Offline,0
+ORD958,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,May,Online,0
+ORD959,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,May,Online,0
+ORD960,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,May,Online,0
+ORD961,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,May,Online,0
+ORD962,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,May,Offline,0
+ORD963,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,May,Online,0
+ORD964,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,May,Online,0
+ORD965,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,May,Online,0
+ORD966,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,May,Online,0
+ORD967,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,May,Offline,0
+ORD968,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,May,Online,0
+ORD969,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,June,Online,0
+ORD970,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,June,Online,0
+ORD971,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,June,Online,0
+ORD972,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,June,Offline,0
+ORD973,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,June,Online,0
+ORD974,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,June,Online,0
+ORD975,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,June,Online,0
+ORD976,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,June,Online,0
+ORD977,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,June,Offline,0
+ORD978,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,June,Online,0
+ORD979,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,June,Online,0
+ORD980,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,June,Offline,0
+ORD981,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,June,Online,0
+ORD982,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,June,Online,0
+ORD983,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,June,Online,0
+ORD984,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,June,Online,0
+ORD985,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,June,Offline,0
+ORD986,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,June,Online,0
+ORD987,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,June,Online,0
+ORD988,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,June,Online,0
+ORD989,Little Caesars,30,XL,Veg,5,6,High,TRUE,TRUE,0.833333333,June,Online,0
+ORD990,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,June,Offline,0
+ORD991,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,June,Online,0
+ORD992,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,June,Online,0
+ORD993,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,June,Online,0
+ORD994,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,June,Online,0
+ORD995,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,TRUE,0.666666667,June,Offline,0
+ORD996,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,TRUE,0.727272727,June,Online,0
+ORD997,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,FALSE,0.5,June,Online,0
+ORD998,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,FALSE,0.6,June,Online,0
+ORD999,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,July,Online,0
+ORD1000,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,July,Offline,0
+ORD1001,Domino's,30,Large,Non-Veg,4,5.5,Medium,TRUE,FALSE,0.727272727,July,Online,0
+ORD1002,Pizza Hut,30,Medium,Non-Veg,2,4,Low,TRUE,TRUE,0.5,July,Online,0
+ORD1003,Papa John's,30,Medium,Veg,3,5,Medium,TRUE,TRUE,0.6,July,Online,0
+ORD1004,Little Caesars,30,XL,Veg,5,6,High,TRUE,FALSE,0.833333333,July,Online,0
+ORD1005,Marcos Pizza,30,Medium,Non-Veg,3,4.5,Medium,TRUE,FALSE,0.666666667,July,Online,0
