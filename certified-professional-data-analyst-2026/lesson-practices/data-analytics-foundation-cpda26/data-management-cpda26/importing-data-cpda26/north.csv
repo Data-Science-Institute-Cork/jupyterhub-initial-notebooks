@@ -1,0 +1,51 @@
+transaction_id,customer_id,transaction_date,store_region,product_category,quantity,sale_amount,payment_method
+100001,5012,2024-01-02,North,Electronics,1,399.99,Credit Card
+100005,5045,2024-01-03,North,Clothing,1,39.99,Mobile Pay
+100009,5027,2024-01-05,North,Home,1,89.99,Credit Card
+100013,5031,2024-01-06,North,Electronics,1,299.99,Credit Card
+100017,5023,2024-01-07,North,Clothing,1,59.99,Cash
+100021,5017,2024-01-09,North,Home,1,99.99,Cash
+100025,5051,2024-01-10,North,Electronics,1,449.99,Cash
+100029,5043,2024-01-11,North,Clothing,1,39.99,Cash
+100033,5016,2024-01-13,North,Home,1,79.99,Cash
+100037,5010,2024-01-14,North,Electronics,1,349.99,Cash
+100041,5036,2024-01-15,North,Clothing,1,49.99,Cash
+100045,5028,2024-01-17,North,Home,1,89.99,Cash
+100049,5012,2024-01-18,North,Electronics,1,399.99,Cash
+100053,5046,2024-01-19,North,Clothing,1,39.99,Cash
+100057,5011,2024-01-21,North,Home,1,89.99,Cash
+100061,5051,2024-01-22,North,Electronics,1,299.99,Cash
+100065,5045,2024-01-23,North,Clothing,1,59.99,Cash
+100069,5017,2024-01-25,North,Home,1,99.99,Cash
+100073,5053,2024-01-26,North,Electronics,1,449.99,Cash
+100077,5043,2024-01-27,North,Clothing,1,39.99,Cash
+100081,5016,2024-01-29,North,Home,1,79.99,Cash
+100085,5010,2024-01-30,North,Electronics,1,349.99,Cash
+100089,5036,2024-01-31,North,Clothing,1,49.99,Cash
+100093,5028,2024-02-02,North,Home,1,89.99,Cash
+100097,5012,2024-02-03,North,Electronics,1,399.99,Cash
+100101,5046,2024-02-04,North,Clothing,1,39.99,Cash
+100105,5011,2024-02-06,North,Home,1,89.99,Cash
+100109,5051,2024-02-07,North,Electronics,1,299.99,Cash
+100113,5045,2024-02-08,North,Clothing,1,59.99,Cash
+100117,5017,2024-02-10,North,Home,1,99.99,Cash
+100121,5053,2024-02-11,North,Electronics,1,449.99,Cash
+100125,5043,2024-02-12,North,Clothing,1,39.99,Cash
+100129,5016,2024-02-14,North,Home,1,79.99,Cash
+100133,5010,2024-02-15,North,Electronics,1,349.99,Cash
+100137,5036,2024-02-16,North,Clothing,1,49.99,Cash
+100141,5028,2024-02-18,North,Home,1,89.99,Cash
+100145,5012,2024-02-19,North,Electronics,1,399.99,Cash
+100149,5046,2024-02-20,North,Clothing,1,39.99,Cash
+100153,5011,2024-02-22,North,Home,1,89.99,Cash
+100157,5051,2024-02-23,North,Electronics,1,299.99,Cash
+100161,5045,2024-02-24,North,Clothing,1,59.99,Cash
+100165,5017,2024-02-26,North,Home,1,99.99,Cash
+100169,5053,2024-02-27,North,Electronics,1,449.99,Cash
+100173,5043,2024-02-28,North,Clothing,1,39.99,Cash
+100177,5016,2024-03-01,North,Home,1,79.99,Cash
+100181,5010,2024-03-02,North,Electronics,1,349.99,Cash
+100185,5036,2024-03-03,North,Clothing,1,49.99,Cash
+100189,5028,2024-03-05,North,Home,1,89.99,Cash
+100193,5012,2024-03-06,North,Electronics,1,399.99,Cash
+100197,5046,2024-03-07,North,Clothing,1,39.99,Cash

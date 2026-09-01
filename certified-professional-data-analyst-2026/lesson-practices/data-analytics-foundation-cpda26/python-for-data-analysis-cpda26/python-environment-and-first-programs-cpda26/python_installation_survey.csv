@@ -1,0 +1,201 @@
+UserID,OS,Install_Method,Python_Version,Anaconda_Installed,IDE_Used,Experience_Level,Install_Success
+1001,Windows,Anaconda,3.8,Yes,Spyder,Beginner,Yes
+1002,Mac,Python.org,3.10,No,VS Code,Intermediate,Yes
+1003,Linux,Miniconda,3.9,Yes,JupyterLab,Beginner,Yes
+1004,Windows,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1005,Mac,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1006,Linux,Python.org,3.9,No,PyCharm,Advanced,Yes
+1007,Windows,Miniconda,3.10,Yes,VS Code,Intermediate,Yes
+1008,Mac,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1009,Linux,Anaconda,3.8,Yes,JupyterLab,Intermediate,Yes
+1010,Windows,Python.org,3.9,No,IDLE,Beginner,Yes
+1011,Mac,Miniconda,3.10,Yes,VS Code,Intermediate,Yes
+1012,Linux,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1013,Windows,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1014,Mac,Python.org,3.9,No,PyCharm,Advanced,No
+1015,Linux,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1016,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1017,Mac,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1018,Linux,Python.org,3.7,No,IDLE,Beginner,Yes
+1019,Windows,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1020,Mac,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1021,Linux,Anaconda,3.9,Yes,Jupyter Notebook,Intermediate,Yes
+1022,Windows,Python.org,3.7,No,PyCharm,Advanced,No
+1023,Mac,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1024,Linux,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1025,Windows,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1026,Mac,Python.org,3.8,No,IDLE,Beginner,Yes
+1027,Linux,Miniconda,3.7,Yes,VS Code,Intermediate,Yes
+1028,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1029,Mac,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1030,Linux,Python.org,3.9,No,PyCharm,Advanced,Yes
+1031,Windows,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1032,Mac,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1033,Linux,Anaconda,3.8,Yes,JupyterLab,Intermediate,Yes
+1034,Windows,Python.org,3.10,No,IDLE,Beginner,Yes
+1035,Mac,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1036,Linux,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1037,Windows,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1038,Mac,Python.org,3.9,No,PyCharm,Advanced,No
+1039,Linux,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1040,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1041,Mac,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1042,Linux,Python.org,3.7,No,IDLE,Beginner,Yes
+1043,Windows,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1044,Mac,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1045,Linux,Anaconda,3.9,Yes,Jupyter Notebook,Intermediate,Yes
+1046,Windows,Python.org,3.7,No,PyCharm,Advanced,No
+1047,Mac,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1048,Linux,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1049,Windows,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1050,Mac,Python.org,3.8,No,IDLE,Beginner,Yes
+1051,Linux,Miniconda,3.7,Yes,VS Code,Intermediate,Yes
+1052,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1053,Mac,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1054,Linux,Python.org,3.9,No,PyCharm,Advanced,Yes
+1055,Windows,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1056,Mac,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1057,Linux,Anaconda,3.8,Yes,JupyterLab,Intermediate,Yes
+1058,Windows,Python.org,3.10,No,IDLE,Beginner,Yes
+1059,Mac,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1060,Linux,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1061,Windows,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1062,Mac,Python.org,3.9,No,PyCharm,Advanced,No
+1063,Linux,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1064,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1065,Mac,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1066,Linux,Python.org,3.7,No,IDLE,Beginner,Yes
+1067,Windows,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1068,Mac,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1069,Linux,Anaconda,3.9,Yes,Jupyter Notebook,Intermediate,Yes
+1070,Windows,Python.org,3.7,No,PyCharm,Advanced,No
+1071,Mac,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1072,Linux,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1073,Windows,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1074,Mac,Python.org,3.8,No,IDLE,Beginner,Yes
+1075,Linux,Miniconda,3.7,Yes,VS Code,Intermediate,Yes
+1076,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1077,Mac,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1078,Linux,Python.org,3.9,No,PyCharm,Advanced,Yes
+1079,Windows,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1080,Mac,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1081,Linux,Anaconda,3.8,Yes,JupyterLab,Intermediate,Yes
+1082,Windows,Python.org,3.10,No,IDLE,Beginner,Yes
+1083,Mac,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1084,Linux,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1085,Windows,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1086,Mac,Python.org,3.9,No,PyCharm,Advanced,No
+1087,Linux,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1088,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1089,Mac,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1090,Linux,Python.org,3.7,No,IDLE,Beginner,Yes
+1091,Windows,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1092,Mac,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1093,Linux,Anaconda,3.9,Yes,Jupyter Notebook,Intermediate,Yes
+1094,Windows,Python.org,3.7,No,PyCharm,Advanced,No
+1095,Mac,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1096,Linux,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1097,Windows,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1098,Mac,Python.org,3.8,No,IDLE,Beginner,Yes
+1099,Linux,Miniconda,3.7,Yes,VS Code,Intermediate,Yes
+1100,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1101,Mac,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1102,Linux,Python.org,3.9,No,PyCharm,Advanced,Yes
+1103,Windows,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1104,Mac,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1105,Linux,Anaconda,3.8,Yes,JupyterLab,Intermediate,Yes
+1106,Windows,Python.org,3.10,No,IDLE,Beginner,Yes
+1107,Mac,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1108,Linux,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1109,Windows,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1110,Mac,Python.org,3.9,No,PyCharm,Advanced,No
+1111,Linux,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1112,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1113,Mac,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1114,Linux,Python.org,3.7,No,IDLE,Beginner,Yes
+1115,Windows,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1116,Mac,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1117,Linux,Anaconda,3.9,Yes,Jupyter Notebook,Intermediate,Yes
+1118,Windows,Python.org,3.7,No,PyCharm,Advanced,No
+1119,Mac,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1120,Linux,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1121,Windows,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1122,Mac,Python.org,3.8,No,IDLE,Beginner,Yes
+1123,Linux,Miniconda,3.7,Yes,VS Code,Intermediate,Yes
+1124,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1125,Mac,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1126,Linux,Python.org,3.9,No,PyCharm,Advanced,Yes
+1127,Windows,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1128,Mac,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1129,Linux,Anaconda,3.8,Yes,JupyterLab,Intermediate,Yes
+1130,Windows,Python.org,3.10,No,IDLE,Beginner,Yes
+1131,Mac,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1132,Linux,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1133,Windows,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1134,Mac,Python.org,3.9,No,PyCharm,Advanced,No
+1135,Linux,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1136,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1137,Mac,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1138,Linux,Python.org,3.7,No,IDLE,Beginner,Yes
+1139,Windows,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1140,Mac,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1141,Linux,Anaconda,3.9,Yes,Jupyter Notebook,Intermediate,Yes
+1142,Windows,Python.org,3.7,No,PyCharm,Advanced,No
+1143,Mac,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1144,Linux,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1145,Windows,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1146,Mac,Python.org,3.8,No,IDLE,Beginner,Yes
+1147,Linux,Miniconda,3.7,Yes,VS Code,Intermediate,Yes
+1148,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1149,Mac,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1150,Linux,Python.org,3.9,No,PyCharm,Advanced,Yes
+1151,Windows,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1152,Mac,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1153,Linux,Anaconda,3.8,Yes,JupyterLab,Intermediate,Yes
+1154,Windows,Python.org,3.10,No,IDLE,Beginner,Yes
+1155,Mac,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1156,Linux,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1157,Windows,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1158,Mac,Python.org,3.9,No,PyCharm,Advanced,No
+1159,Linux,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1160,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1161,Mac,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1162,Linux,Python.org,3.7,No,IDLE,Beginner,Yes
+1163,Windows,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1164,Mac,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1165,Linux,Anaconda,3.9,Yes,Jupyter Notebook,Intermediate,Yes
+1166,Windows,Python.org,3.7,No,PyCharm,Advanced,No
+1167,Mac,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1168,Linux,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1169,Windows,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1170,Mac,Python.org,3.8,No,IDLE,Beginner,Yes
+1171,Linux,Miniconda,3.7,Yes,VS Code,Intermediate,Yes
+1172,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1173,Mac,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1174,Linux,Python.org,3.9,No,PyCharm,Advanced,Yes
+1175,Windows,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1176,Mac,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1177,Linux,Anaconda,3.8,Yes,JupyterLab,Intermediate,Yes
+1178,Windows,Python.org,3.10,No,IDLE,Beginner,Yes
+1179,Mac,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1180,Linux,Anaconda,3.7,Yes,Spyder,Beginner,Yes
+1181,Windows,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1182,Mac,Python.org,3.9,No,PyCharm,Advanced,No
+1183,Linux,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1184,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1185,Mac,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1186,Linux,Python.org,3.7,No,IDLE,Beginner,Yes
+1187,Windows,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1188,Mac,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1189,Linux,Anaconda,3.9,Yes,Jupyter Notebook,Intermediate,Yes
+1190,Windows,Python.org,3.7,No,PyCharm,Advanced,No
+1191,Mac,Miniconda,3.8,Yes,VS Code,Intermediate,Yes
+1192,Linux,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1193,Windows,Anaconda,3.9,Yes,JupyterLab,Beginner,Yes
+1194,Mac,Python.org,3.8,No,IDLE,Beginner,Yes
+1195,Linux,Miniconda,3.7,Yes,VS Code,Intermediate,Yes
+1196,Windows,Anaconda,3.10,Yes,Spyder,Beginner,Yes
+1197,Mac,Anaconda,3.8,Yes,Jupyter Notebook,Beginner,Yes
+1198,Linux,Python.org,3.9,No,PyCharm,Advanced,Yes
+1199,Windows,Miniconda,3.9,Yes,VS Code,Intermediate,Yes
+1200,Mac,Anaconda,3.7,Yes,Spyder,Beginner,Yes
