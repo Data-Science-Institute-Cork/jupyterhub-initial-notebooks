@@ -1,0 +1,2413 @@
+CustomerID,Gender,Age,Region,Contract_Type,Tenure_Months,Payment_Method,Paperless_Billing
+500001,Male,24.0,Leinster,Month-to-Month,64,Credit Card,Yes
+500002,Female,59.0,Dublin,Month-to-Month,31,Credit Card,Yes
+500003,Male,18.0,Dublin,Two Year,16,Cash,Yes
+500004,Female,45.0,Dublin,Month-to-Month,10,Credit Card,No
+500005,F,39.0,Connacht ,Month-to-Month,38,Credit Card,No
+500006,Female,51.0,Munster,One Year,26,Direct Debit,No
+500007,F,45.0,Ulster,Two Year,14,Direct Debit,Yes
+500008,Female,36.0,Connacht,Month-to-Month,28,Bank Transfer,No
+500009,Male,48.0,Leinster,Two Year,15,Direct Debit,Yes
+500010,Female,46.0,Munster,Two Year,64,Credit Card,No
+500011,Male,40.0,Ulster,Month-to-Month,8,Credit Card,No
+500012,Male,44.0,Leinster,Month-to-Month,3,Bank Transfer,Yes
+500013,Female,25.0,Ulster,Two Year,43,Direct Debit,No
+500014,Male,18.0,Dublin,Two Year,53,Credit Card,Yes
+500015,Male,53.0,Leinster,1 Year,33,Direct Debit,No
+500016,Male,50.0,Dublin,Month-to-Month,3,Direct Debit,Yes
+500017,Male,43.0,Leinster,Two Year,24,Cash,No
+500018,Male,34.0,Ulster,Month-to-Month,65,Direct Debit,Yes
+500019,male,33.0,Leinster,Month-to-Month,58,Credit Card,No
+500020,Female,54.0,Connacht,Month-to-Month,44,Credit Card,No
+500021,Male,42.0,Leinster,One Year,11,Direct Debit,No
+500022,Female,31.0,Leinster,One Year,29,Credit Card,Yes
+500023,Female,70.0,Ulster,One Year,30,Direct Debit,No
+500024,Male,33.0,Ulster,Two Year,69,Direct Debit,No
+500025,Male,29.0,Leinster,Month-to-Month,39,Bank Transfer,No
+500026,Female,32.0,Leinster,Month-to-Month,37,Cash,Yes
+500027,Male,46.0,Leinster,Two Year,41,Direct Debit,No
+500028,Male,0.0,Leinster,Month-to-Month,59,Direct Debit,Yes
+500029,Male,45.0,Munster,Month-to-Month,16,Cash,Yes
+500030,Male,41.0,Munster,Month-to-Month,69,Direct Debit,No
+500031,Male,40.0,Dublin,One Year,18,Direct Debit,No
+500032,Male,46.0,Dublin,Month-to-Month,10,Credit Card,Yes
+500033,Male,55.0,Connacht,Month-to-Month,65,Direct Debit,Yes
+500034,Male,47.0,Connacht,Month-to-Month,52,Cash,No
+500035,Male,,Dublin,Month-to-Month,29,Direct Debit,Yes
+500036,Female,55.0,Munster,One Year,9,Credit Card,No
+500037,Female,26.0,Dublin,Month-to-Month,32,Credit Card,No
+500038,Male,18.0,Dublin,Two Year,55,Direct Debit,Yes
+500039,Female,37.0,Dublin,Two Year,8,Credit Card,Yes
+500040,Female,41.0,Dublin,Two Year,67,Direct Debit,No
+500041,Male,43.0,Connacht,One Year,25,Credit Card,No
+500042,Male,,Dublin,One Year,51,Bank Transfer,No
+500043,Female,23.0,Ulster,Month-to-Month,58,Credit Card,Yes
+500044,Female,52.0,LEINSTER,Month-to-Month,67,Direct Debit,Yes
+500045,Male,69.0,Ulster,Month-to-Month,29,Credit Card,Yes
+500046,Female,37.0,Leinster,Two Year,25,Direct Debit,Yes
+500047,Female,32.0,Dublin,Month-to-Month,12,Credit Card,No
+500048,Male,37.0,Leinster,One Year,34,Bank Transfer,Yes
+500049,male,47.0,Munster,Month-to-Month,71,Direct Debit,No
+500050,Female,29.0,Munster,Two Year,25,Credit Card,Yes
+500051,Male,41.0,Dublin,One Year,47,Credit Card,Yes
+500052,Female,30.0,Dublin,One Year,53,Credit Card,No
+500053,M,40.0,Munster,2 Year,55,Credit Card,Yes
+500054,Male,36.0,Ulster,Two Year,51,Credit Card,No
+500055,Female,38.0,Connacht,One Year,10,Direct Debit,No
+500056,Female,39.0,Leinster,One Year,13,Direct Debit,Yes
+500057,Female,41.0,Dublin,Month-to-Month,38,Direct Debit,No
+500058,Male,22.0,Leinster,Month-to-Month,12,Direct Debit,Yes
+500059,Female,44.0,Connacht,2 Year,19,Direct Debit,Yes
+500060,Male,44.0,Dublin,Two Year,39,Credit Card,Yes
+500061,Male,53.0,Leinster,One Year,40,Direct Debit,No
+500062,Female,31.0,Connacht,Month-to-Month,43,Credit Card,Yes
+500063,Male,44.0,Dublin,Month-to-Month,60,Cash,No
+500064,Male,34.0,Ulster,Month-to-Month,18,Credit Card,Yes
+500065,Male,59.0,Connacht,Two Year,8,Credit Card,No
+500066,Female,39.0,Munster,Month-to-Month,7,Credit Card,No
+500067,Female,36.0,DUBLIN,Two Year,63,Bank Transfer,No
+500068,Male,43.0,Ulster,Two Year,19,Credit Card,Yes
+500069,Female,66.0,Dublin,Two Year,34,Credit Card,Yes
+500070,Female,65.0,Leinster,Month-to-Month,59,Cash,Yes
+500071,Male,29.0,Ulster,Month-to-Month,44,Direct Debit,Yes
+500072,M,18.0,Leinster,One Year,33,Direct Debit,No
+500073,F,48.0,Dublin,Month-to-Month,61,Credit Card,Yes
+500074,Male,33.0,Leinster,Month-to-Month,3,Direct Debit,Yes
+500075,Male,51.0,Dublin,Two Year,3,Bank Transfer,Yes
+500076,Male,46.0,Munster,Two Year,58,Direct Debit,Yes
+500077,Female,38.0,Connacht,Month-to-Month,71,Cash,Yes
+500078,Female,31.0,Munster,One Year,4,Credit Card,Yes
+500079,Female,49.0,Dublin,One Year,62,Bank Transfer,Yes
+500080,Female,39.0,Leinster,Month-to-Month,69,Direct Debit,Yes
+500081,Female,46.0,Connacht,Month-to-Month,39,Direct Debit,Yes
+500082,Female,54.0,Leinster,Two Year,24,Direct Debit,Yes
+500083,Female,29.0,Connacht,One Year,24,Credit Card,No
+500084,F,41.0,Ulster,Two Year,55,Credit Card,Yes
+500085,Female,56.0,Dublin,One Year,51,Direct Debit,No
+500086,Female,54.0,Munster,month-to-month,23,Bank Transfer,Yes
+500087,Male,48.0,Munster,One Year,58,Credit Card,Yes
+500088,Male,50.0,Leinster,One Year,32,Credit Card,No
+500089,Female,18.0,Dublin,One Year,40,Direct Debit,Yes
+500090,Female,37.0,Munster,One Year,9,Direct Debit,Yes
+500091,Female,31.0,Dublin,One Year,4,Cash,No
+500092,Male,43.0,Connacht,One Year,51,Bank Transfer,No
+500093,Female,43.0,Munster,Month-to-Month,9,Credit Card,Yes
+500094,Female,56.0,Leinster,Month-to-Month,14,Direct Debit,No
+500095,Male,51.0,Munster,Month-to-Month,14,Direct Debit,Yes
+500096,F,48.0,Leinster,Month-to-Month,51,Credit Card,No
+500097,Male,44.0,Leinster,Month-to-Month,60,Direct Debit,No
+500098,Male,32.0,Leinster,Month-to-Month,7,Direct Debit,Yes
+500099,Male,52.0,Munster,Month-to-Month,18,Direct Debit,No
+500100,Male,31.0,Munster,Month-to-Month,23,Bank Transfer,Yes
+500101,Female,42.0,Dublin,Two Year,27,Credit Card,Yes
+500102,Male,44.0,Ulster,Month-to-Month,63,Direct Debit,No
+500103,Female,46.0,Leinster,Month-to-Month,54,Direct Debit,No
+500104,Male,34.0,Ulster,Two Year,29,Direct Debit,Yes
+500105,Female,34.0,Connacht,Two Year,72,Bank Transfer,Yes
+500106,Female,47.0,Ulster,Two Year,21,Direct Debit,Yes
+500107,male,45.0,Ulster,Month-to-Month,46,Direct Debit,No
+500108,Male,46.0,Dublin,Month-to-Month,4,Credit Card,No
+500109,Female,46.0,Ulster,Two Year,15,Credit Card,Yes
+500110,Male,34.0,Munster,Month-to-Month,69,Cash,Yes
+500111,Female,36.0,Munster,One Year,30,Direct Debit,Yes
+500112,Female,41.0,dublin,Month-to-Month,29,Direct Debit,No
+500113,Female,43.0,Dublin,Two Year,30,Credit Card,No
+500114,Female,67.0,Dublin,Month-to-Month,72,Direct Debit,Yes
+500115,F,34.0,Ulster,Month-to-Month,23,Credit Card,Yes
+500116,Female,66.0,Ulster,Two Year,46,Bank Transfer,No
+500117,Female,47.0,Leinster ,Month-to-Month,53,Direct Debit,Yes
+500118,Female,45.0,Munster,Month-to-Month,6,Direct Debit,Yes
+500119,Female,26.0,Dublin,One Year,67,Direct Debit,No
+500120,Male,45.0,Dublin,One Year,6,Direct Debit,No
+500121,Male,57.0,Dublin,One Year,26,Direct Debit,Yes
+500122,Female,50.0,Ulster,Month-to-Month,5,Credit Card,Yes
+500123,Female,44.0,Connacht ,One Year,27,Credit Card,Yes
+500124,Male,44.0,Dublin,Month-to-Month,40,Credit Card,Yes
+500125,Female,37.0,Ulster,Month-to-Month,24,Direct Debit,Yes
+500126,Male,37.0,Leinster,One Year,24,Direct Debit,Yes
+500127,Female,51.0,Leinster,1 Year,64,Credit Card,Yes
+500128,Female,29.0,Dublin,Month-to-Month,43,Bank Transfer,Yes
+500129,Male,31.0,MUNSTER,Month-to-Month,28,Direct Debit,Yes
+500130,Male,52.0,Dublin,Month-to-Month,59,Direct Debit,Yes
+500131,Female,40.0,Leinster,Month-to-Month,12,Bank Transfer,No
+500132,Male,34.0,Connacht,Month-to-Month,49,Credit Card,Yes
+500133,Male,56.0,Dublin,One Year,46,Cash,Yes
+500134,Female,53.0,Munster,Two Year,8,Direct Debit,No
+500135,Female,36.0,Dublin,1 Year,55,Cash,No
+500136,Female,45.0,MUNSTER,Two Year,72,Cash,No
+500137,Female,31.0,dublin,Month-to-Month,60,,Yes
+500138,Female,52.0,Leinster,Two Year,13,Credit Card,Yes
+500139,Male,28.0,Leinster,Two Year,40,Bank Transfer,Yes
+500140,Female,43.0,Dublin,One Year,28,Credit Card,Yes
+500141,Male,64.0,Dublin,Two Year,28,Direct Debit,No
+500142,Female,18.0,Dublin,Month-to-Month,11,Bank Transfer,Yes
+500143,Female,40.0,Munster,Month-to-Month,51,Credit Card,Yes
+500144,Female,23.0,Munster,One Year,56,Credit Card,No
+500145,Male,34.0,Leinster,Month-to-Month,12,Credit Card,Yes
+500146,Male,38.0,Connacht ,Two Year,58,Bank Transfer,Yes
+500147,Male,57.0,Munster,Two Year,26,Direct Debit,No
+500148,Female,26.0,Leinster,Month-to-Month,56,Direct Debit,Yes
+500149,Male,40.0,Ulster,One Year,49,Direct Debit,Yes
+500150,Male,51.0,Ulster,One Year,29,Direct Debit,Yes
+500151,Male,52.0,Munster,Month-to-Month,10,Bank Transfer,No
+500152,Female,56.0,CONNACHT,Month-to-Month,27,Direct Debit,No
+500153,Male,48.0,Dublin,Month-to-Month,58,Credit Card,No
+500154,F,45.0,Dublin,One Year,44,Cash,Yes
+500155,Male,60.0,Dublin,Month-to-Month,19,Direct Debit,Yes
+500156,Female,47.0,Leinster,Two Year,34,Direct Debit,Yes
+500157,Male,45.0,munster,One Year,60,Credit Card,Yes
+500158,male,47.0,Dublin,One Year,15,Direct Debit,No
+500159,Female,33.0,Dublin,Month-to-Month,55,Direct Debit,Yes
+500160,Male,48.0,Dublin,Two Year,34,Cash,No
+500161,Female,18.0,Leinster,One Year,27,Credit Card,No
+500162,Female,37.0,Leinster,Month-to-Month,38,Credit Card,No
+500163,Female,42.0,Ulster,Two Year,46,Direct Debit,No
+500164,Female,64.0,Munster,Two Year,31,Bank Transfer,Yes
+500165,Female,27.0,Dublin,One Year,34,Credit Card,No
+500166,Male,33.0,Ulster,Month-to-Month,21,Direct Debit,Yes
+500167,Female,38.0,connacht,Month-to-Month,10,Credit Card,No
+500168,Female,38.0,Leinster,Month-to-Month,69,Bank Transfer,No
+500169,Male,26.0,Dublin,Month-to-Month,49,Direct Debit,Yes
+500170,Female,37.0,Dublin,Month-to-Month,58,Direct Debit,Yes
+500171,Female,37.0,Leinster,Month-to-Month,44,Credit Card,Yes
+500172,Female,43.0,Ulster,One Year,48,Direct Debit,Yes
+500173,Female,32.0,Munster,Month-to-Month,48,Credit Card,No
+500174,Female,37.0,Munster ,Month-to-Month,9,Bank Transfer,Yes
+500175,Male,41.0,Leinster,Month-to-Month,5,Direct Debit,No
+500176,Female,45.0,Dublin,Two Year,45,Direct Debit,Yes
+500177,Female,50.0,Connacht,Month-to-Month,3,Direct Debit,No
+500178,Male,42.0,Leinster,One Year,23,Credit Card,Yes
+500179,Female,60.0,Leinster,Two Year,47,Direct Debit,Yes
+500180,Female,33.0,Munster,Month-to-Month,47,Credit Card,Yes
+500181,Female,48.0,Munster,One Year,29,Credit Card,Yes
+500182,Female,49.0,Munster,Two Year,34,Direct Debit,Yes
+500183,Male,37.0,Leinster,Month-to-Month,12,Credit Card,Yes
+500184,Female,,Dublin,Month-to-Month,3,Credit Card,Yes
+500185,Female,50.0,Dublin,One Year,49,Bank Transfer,Yes
+500186,Male,62.0,Dublin,One Year,28,Direct Debit,Yes
+500187,Male,44.0,Munster,Month-to-Month,50,Credit Card,Yes
+500188,Female,38.0,Leinster,Month-to-Month,44,Direct Debit,Yes
+500189,Male,49.0,Munster,Month-to-Month,28,Cash,Yes
+500190,Male,25.0,Dublin,Two Year,20,Direct Debit,No
+500191,Female,36.0,Munster,Month-to-Month,34,Credit Card,Yes
+500192,Male,49.0,Leinster,Two Year,56,Cash,No
+500193,Male,27.0,Dublin,One Year,41,Bank Transfer,Yes
+500194,Male,44.0,Leinster,Month-to-Month,27,Bank Transfer,Yes
+500195,Male,36.0,Leinster,One Year,14,Direct Debit,No
+500196,Female,45.0,Leinster,One Year,60,Bank Transfer,Yes
+500197,M,46.0,Leinster,Month-to-Month,6,Credit Card,No
+500198,Female,62.0,Connacht,Month-to-Month,65,Credit Card,Yes
+500199,Male,45.0,Munster,Month-to-Month,68,Credit Card,No
+500200,Male,53.0,Leinster,One Year,58,Direct Debit,Yes
+500201,Male,64.0,Ulster,Month-to-Month,37,Credit Card,Yes
+500202,Female,60.0,Ulster,Month-to-Month,44,Credit Card,No
+500203,Male,27.0,Leinster,Month-to-Month,62,Direct Debit,No
+500204,Male,41.0,Leinster,Two Year,47,Credit Card,No
+500205,Female,52.0,Connacht,One Year,63,Credit Card,Yes
+500206,Female,49.0,Connacht,One Year,59,Bank Transfer,Yes
+500207,Male,54.0,Dublin,One Year,65,Direct Debit,Yes
+500208,Male,26.0,Dublin,One Year,19,Direct Debit,No
+500209,Female,,Munster,Month-to-Month,14,,No
+500210,Male,37.0,Dublin,Month-to-Month,14,Direct Debit,Yes
+500211,Female,40.0,Leinster,Monthly,54,Direct Debit,No
+500212,Male,38.0,Connacht,month-to-month,10,Direct Debit,No
+500213,female,51.0,Connacht,Month-to-Month,29,Direct Debit,Yes
+500214,Female,18.0,Dublin,Month-to-Month,19,Bank Transfer,No
+500215,Female,35.0,Dublin,Two Year,27,Direct Debit,Yes
+500216,Female,34.0,Leinster,One Year,30,Credit Card,No
+500217,Female,26.0,Connacht,Two Year,26,Direct Debit,Yes
+500218,Female,37.0,Munster ,Two Year,4,Direct Debit,No
+500219,Female,33.0,Dublin,One Year,10,Cash,Yes
+500220,Male,44.0,Dublin,Two Year,68,Credit Card,No
+500221,Female,21.0,Dublin,Month-to-Month,12,Bank Transfer,No
+500222,Female,27.0,Dublin,One Year,17,Direct Debit,Yes
+500223,Male,26.0,Leinster,2 Year,50,Credit Card,Yes
+500224,Male,27.0,ulster,Two Year,26,Credit Card,Yes
+500225,Female,35.0,Munster,Two Year,34,Credit Card,Yes
+500226,Female,37.0,Munster,Two Year,69,Bank Transfer,Yes
+500227,Male,27.0,leinster,Month-to-Month,41,Direct Debit,Yes
+500228,Female,46.0,Leinster,One Year,11,Direct Debit,Yes
+500229,Female,,Ulster,Month-to-Month,18,Cash,No
+500230,Male,58.0,Munster,Month-to-Month,4,Direct Debit,No
+500231,Male,33.0,Leinster,Month-to-Month,23,Cash,Yes
+500232,Female,31.0,Dublin,Two Year,43,Direct Debit,Yes
+500233,Female,40.0,Dublin,Month-to-Month,2,Direct Debit,No
+500234,Male,24.0,Connacht,One Year,6,Credit Card,Yes
+500235,Female,24.0,munster,One Year,21,Direct Debit,Yes
+500236,Female,29.0,Leinster,Month-to-Month,45,Credit Card,No
+500237,Male,48.0,Leinster,Month-to-Month,32,Direct Debit,Yes
+500238,Male,38.0,Munster,Month-to-Month,60,Direct Debit,Yes
+500239,Male,,MUNSTER,Month-to-Month,60,Direct Debit,No
+500240,Male,29.0,Dublin,Month-to-Month,9,Direct Debit,Yes
+500241,Female,49.0,Connacht,One Year,12,Bank Transfer,No
+500242,Female,70.0,Dublin,Month-to-Month,14,Credit Card,No
+500243,Female,55.0,Dublin,Month-to-Month,14,Direct Debit,No
+500244,Male,30.0,Connacht,Month-to-Month,11,Direct Debit,Yes
+500245,Male,34.0,Ulster,Two Year,34,Credit Card,Yes
+500246,Male,52.0,Munster,Month-to-Month,18,Bank Transfer,No
+500247,Male,24.0,Munster,Month-to-Month,38,Cash,Yes
+500248,Female,24.0,Dublin,month-to-month,64,Direct Debit,Yes
+500249,Female,41.0,leinster,Month-to-Month,58,Direct Debit,No
+500250,Female,34.0,Munster,Month-to-Month,46,Direct Debit,No
+500251,Male,55.0,Dublin,Month-to-Month,3,Direct Debit,No
+500252,M,50.0,Ulster,Two Year,71,Cash,No
+500253,Male,41.0,Leinster,Two Year,19,Credit Card,Yes
+500254,Male,46.0,Leinster,Month-to-Month,11,Credit Card,No
+500255,Male,54.0,Dublin,Month-to-Month,70,Direct Debit,No
+500256,Female,36.0,Dublin,Month-to-Month,39,Credit Card,Yes
+500257,Female,26.0,Dublin,month-to-month,58,Direct Debit,Yes
+500258,Male,37.0,Leinster,Month-to-Month,4,Credit Card,No
+500259,Male,44.0,Munster,Month-to-Month,1,Credit Card,Yes
+500260,Male,32.0,Leinster,Month-to-Month,55,Direct Debit,Yes
+500261,Male,44.0,Munster,Month-to-Month,8,Direct Debit,Yes
+500262,female,42.0,Munster,Month-to-Month,24,Direct Debit,Yes
+500263,Male,18.0,Munster,Month-to-Month,49,Direct Debit,Yes
+500264,Male,31.0,Munster,2 Year,14,Direct Debit,No
+500265,Female,46.0,Dublin,Month-to-Month,18,Direct Debit,No
+500266,F,50.0,Leinster,One Year,46,Direct Debit,No
+500267,Male,44.0,Connacht,Month-to-Month,32,Direct Debit,No
+500268,female,44.0,Munster,One Year,49,Cash,No
+500269,Male,42.0,Munster,Month-to-Month,9,Direct Debit,Yes
+500270,Male,49.0,Munster,Two Year,17,Credit Card,No
+500271,Male,40.0,Munster,Two Year,46,Bank Transfer,Yes
+500272,Male,36.0,Leinster,Month-to-Month,9,Credit Card,Yes
+500273,male,27.0,CONNACHT,Month-to-Month,9,Bank Transfer,No
+500274,Male,33.0,Munster,One Year,27,Credit Card,Yes
+500275,Female,33.0,Leinster,Two Year,49,Bank Transfer,No
+500276,Female,28.0,Dublin,Two Year,55,Direct Debit,No
+500277,Female,52.0,CONNACHT,Month-to-Month,25,Direct Debit,Yes
+500278,Male,33.0,Dublin,Two Year,33,Direct Debit,No
+500279,Female,56.0,MUNSTER,Two Year,33,Direct Debit,Yes
+500280,Female,42.0,Dublin ,Two Year,44,Cash,Yes
+500281,Male,61.0,Dublin,Two Year,66,Cash,Yes
+500282,Female,36.0,Connacht,Two Year,68,Direct Debit,Yes
+500283,Male,54.0,Leinster,Month-to-Month,40,Direct Debit,Yes
+500284,Female,57.0,Connacht,Monthly,15,Bank Transfer,Yes
+500285,Male,24.0,Dublin,Two Year,11,Bank Transfer,Yes
+500286,Male,55.0,Dublin,Month-to-Month,13,Credit Card,Yes
+500287,Male,36.0,Munster,One Year,59,Direct Debit,No
+500288,male,42.0,Connacht,Month-to-Month,1,Direct Debit,Yes
+500289,Female,18.0,Connacht,Two Year,51,Bank Transfer,No
+500290,Male,43.0,Dublin,Two Year,52,Bank Transfer,No
+500291,Female,43.0,Dublin,Month-to-Month,48,Bank Transfer,Yes
+500292,Female,,Dublin,Two Year,52,Direct Debit,Yes
+500293,Female,38.0,Leinster,Month-to-Month,8,Direct Debit,Yes
+500294,Female,35.0,Leinster,One Year,40,Credit Card,Yes
+500295,M,35.0,Dublin ,Two Year,34,Bank Transfer,No
+500296,Female,23.0,Dublin,month-to-month,45,Direct Debit,Yes
+500297,male,54.0,Munster,Month-to-Month,41,Credit Card,Yes
+500298,F,54.0,Leinster,Two Year,43,Credit Card,No
+500299,Female,23.0,Dublin,Month-to-Month,31,Credit Card,Yes
+500300,Male,44.0,Ulster,Month-to-Month,41,Direct Debit,Yes
+500301,Male,43.0,Leinster,One Year,56,Direct Debit,No
+500302,Male,49.0,Dublin,Two Year,41,Credit Card,Yes
+500303,Female,43.0,Leinster,Two Year,55,Cash,No
+500304,Male,35.0,Connacht,One Year,27,Direct Debit,Yes
+500305,Male,52.0,Dublin,One Year,61,Direct Debit,Yes
+500306,Male,33.0,Munster,Two Year,26,Direct Debit,Yes
+500307,Male,27.0,Connacht,Month-to-Month,12,Cash,Yes
+500308,Male,26.0,Leinster,Two Year,11,Direct Debit,Yes
+500309,Male,23.0,Munster,Two Year,51,Direct Debit,No
+500310,Female,37.0,Leinster,Month-to-Month,52,,Yes
+500311,Male,43.0,Leinster,Two Year,53,Direct Debit,No
+500312,Female,48.0,Dublin,Month-to-Month,4,Credit Card,Yes
+500313,Female,39.0,Munster,Month-to-Month,26,Credit Card,Yes
+500314,Female,60.0,Connacht,Month-to-Month,9,Bank Transfer,No
+500315,Female,54.0,Dublin,One Year,10,Direct Debit,Yes
+500316,Male,41.0,Ulster,Month-to-Month,20,Direct Debit,Yes
+500317,Male,55.0,Munster,One Year,49,Direct Debit,Yes
+500318,Male,,Munster,Month-to-Month,43,Credit Card,No
+500319,Female,34.0,Leinster,Two Year,47,Credit Card,Yes
+500320,Male,24.0,Dublin,Two Year,45,Direct Debit,Yes
+500321,Female,18.0,Connacht,Month-to-Month,7,Direct Debit,No
+500322,Female,,Dublin,One Year,13,Bank Transfer,Yes
+500323,Female,18.0,Connacht,One Year,49,Direct Debit,Yes
+500324,Male,38.0,Ulster,Month-to-Month,22,Direct Debit,Yes
+500325,Male,38.0,DUBLIN,Month-to-Month,41,Direct Debit,Yes
+500326,Male,65.0,Dublin,1 Year,21,Direct Debit,No
+500327,Male,44.0,Dublin ,1 Year,48,Direct Debit,No
+500328,Male,29.0,Connacht,Two Year,27,Cash,No
+500329,Female,33.0,Leinster,Month-to-Month,5,Bank Transfer,No
+500330,Male,62.0,Connacht,Monthly,19,Bank Transfer,No
+500331,male,44.0,Leinster,One Year,64,Bank Transfer,No
+500332,Female,53.0,Munster,Month-to-Month,2,Cash,Yes
+500333,Male,,Leinster,Two Year,35,Direct Debit,No
+500334,Female,44.0,Munster,Two Year,49,Direct Debit,No
+500335,Male,49.0,Dublin,Month-to-Month,31,Direct Debit,Yes
+500336,Male,33.0,Leinster,One Year,17,Credit Card,No
+500337,Male,22.0,Munster,Month-to-Month,9,Bank Transfer,No
+500338,Male,48.0,Connacht,Month-to-Month,48,Direct Debit,No
+500339,Female,46.0,Ulster,Monthly,7,Cash,Yes
+500340,Female,38.0,Dublin,One Year,11,Direct Debit,Yes
+500341,Female,42.0,Leinster,Month-to-Month,7,Credit Card,No
+500342,Male,37.0,Leinster,Month-to-Month,10,Direct Debit,Yes
+500343,Female,55.0,Dublin,Two Year,18,Credit Card,Yes
+500344,Male,37.0,Leinster,Month-to-Month,45,Direct Debit,Yes
+500345,Male,47.0,Dublin,One Year,58,Direct Debit,Yes
+500346,Male,,Munster,One Year,22,Credit Card,No
+500347,Female,42.0,Leinster,Two Year,27,Credit Card,No
+500348,M,47.0,Munster,One Year,49,Direct Debit,Yes
+500349,Female,50.0,Munster,Two Year,67,Credit Card,Yes
+500350,Male,44.0,Leinster,Month-to-Month,61,Credit Card,Yes
+500351,Female,48.0,Ulster,Two Year,28,Credit Card,Yes
+500352,Female,40.0,Munster,Month-to-Month,70,Direct Debit,No
+500353,Male,38.0,Dublin,Month-to-Month,47,Direct Debit,Yes
+500354,Male,34.0,Leinster,One Year,58,Credit Card,Yes
+500355,Male,43.0,Dublin,1 Year,39,Direct Debit,Yes
+500356,M,53.0,Ulster,One Year,32,Direct Debit,No
+500357,Female,47.0,Dublin,One Year,32,Bank Transfer,Yes
+500358,F,24.0,Connacht,Monthly,39,Credit Card,No
+500359,Female,24.0,Dublin,One Year,42,Bank Transfer,No
+500360,Male,28.0,Connacht,Two Year,27,Cash,Yes
+500361,Male,59.0,Munster,One Year,49,Direct Debit,Yes
+500362,F,52.0,Connacht,Month-to-Month,32,Credit Card,No
+500363,Female,49.0,Dublin,One Year,27,Direct Debit,Yes
+500364,Female,60.0,Dublin,Month-to-Month,68,Direct Debit,Yes
+500365,Male,,Munster,Month-to-Month,8,Credit Card,No
+500366,Male,34.0,Connacht,One Year,40,Direct Debit,Yes
+500367,male,50.0,Leinster,Month-to-Month,9,Direct Debit,No
+500368,Male,55.0,Munster,Month-to-Month,54,Bank Transfer,No
+500369,Male,39.0,Leinster,One Year,1,Bank Transfer,No
+500370,Female,56.0,Leinster,One Year,40,Cash,No
+500371,Female,19.0,Dublin ,One Year,20,Direct Debit,Yes
+500372,Male,55.0,Dublin,One Year,44,Cash,No
+500373,Male,61.0,Dublin,Month-to-Month,9,Direct Debit,Yes
+500374,Female,37.0,Ulster,Month-to-Month,43,Direct Debit,Yes
+500375,Male,37.0,Dublin,Month-to-Month,1,Credit Card,No
+500376,Male,52.0,Ulster,Month-to-Month,44,Credit Card,Yes
+500377,Female,26.0,Leinster,Month-to-Month,8,Bank Transfer,No
+500378,Male,45.0,Leinster,Month-to-Month,19,Credit Card,Yes
+500379,F,46.0,Connacht,Month-to-Month,63,Credit Card,Yes
+500380,Female,38.0,Leinster,Two Year,50,Credit Card,Yes
+500381,Female,39.0,Munster,Two Year,32,Direct Debit,No
+500382,Male,44.0,Connacht,One Year,8,Credit Card,No
+500383,Male,,Connacht,One Year,11,Bank Transfer,Yes
+500384,Male,44.0,Leinster,Month-to-Month,53,Direct Debit,Yes
+500385,Female,35.0,Connacht,One Year,47,Bank Transfer,No
+500386,Male,30.0,Dublin,Two Year,71,Direct Debit,Yes
+500387,Female,35.0,Dublin,Two Year,44,Direct Debit,No
+500388,F,32.0,Dublin,Month-to-Month,1,Direct Debit,Yes
+500389,F,43.0,Munster ,Month-to-Month,26,Direct Debit,Yes
+500390,Female,50.0,Ulster,Two Year,50,Credit Card,No
+500391,Female,33.0,Munster,One Year,49,Cash,Yes
+500392,Female,41.0,Dublin,One Year,33,Credit Card,Yes
+500393,Female,,Ulster,Two Year,30,Direct Debit,Yes
+500394,Female,39.0,Dublin,Two Year,39,Credit Card,No
+500395,Male,65.0,Munster,One Year,28,Direct Debit,Yes
+500396,Female,38.0,Leinster,Month-to-Month,20,Direct Debit,Yes
+500397,Male,63.0,Leinster,One Year,35,Credit Card,No
+500398,Male,36.0,Leinster,Two Year,11,Direct Debit,No
+500399,F,48.0,Munster,Month-to-Month,53,Credit Card,No
+500400,Male,52.0,Connacht,Month-to-Month,72,Direct Debit,Yes
+500401,Male,47.0,Munster,month-to-month,22,Cash,No
+500402,Male,66.0,Dublin,Two Year,60,Direct Debit,Yes
+500403,Female,37.0,Ulster,One Year,25,Bank Transfer,Yes
+500404,Male,62.0,Dublin,Month-to-Month,56,Direct Debit,No
+500405,Female,51.0,Connacht,Two Year,20,Bank Transfer,No
+500406,Male,50.0,Munster,One Year,61,Credit Card,Yes
+500407,Male,37.0,Leinster,month-to-month,55,Credit Card,No
+500408,Male,40.0,Ulster,Month-to-Month,61,Direct Debit,Yes
+500409,Female,40.0,Dublin,Month-to-Month,33,Direct Debit,No
+500410,Female,32.0,Munster,One Year,57,Credit Card,Yes
+500411,Female,48.0,Leinster,Month-to-Month,47,Direct Debit,Yes
+500412,Male,41.0,Dublin,Month-to-Month,8,Direct Debit,Yes
+500413,Female,41.0,Munster,Month-to-Month,11,Direct Debit,Yes
+500414,Female,47.0,Leinster,Month-to-Month,31,Credit Card,No
+500415,Female,36.0,Leinster,Month-to-Month,22,Credit Card,No
+500416,Male,43.0,Dublin ,Month-to-Month,44,Direct Debit,No
+500417,Female,35.0,Connacht,Month-to-Month,24,Direct Debit,Yes
+500418,Female,18.0,Dublin,Month-to-Month,41,Direct Debit,Yes
+500419,Male,45.0,munster,One Year,46,Bank Transfer,No
+500420,Female,28.0,Leinster,Two Year,31,Direct Debit,No
+500421,Male,62.0,Ulster,Month-to-Month,56,Bank Transfer,Yes
+500422,Female,18.0,Dublin,Month-to-Month,14,Credit Card,Yes
+500423,female,44.0,Leinster,Month-to-Month,40,Bank Transfer,Yes
+500424,Female,34.0,Dublin,Two Year,63,Cash,No
+500425,Male,,Leinster,One Year,69,Bank Transfer,Yes
+500426,Female,56.0,Dublin,Month-to-Month,34,Credit Card,No
+500427,Female,44.0,Munster,Month-to-Month,65,Direct Debit,Yes
+500428,Female,31.0,Leinster,Two Year,67,Direct Debit,No
+500429,male,56.0,Leinster,Month-to-Month,3,Direct Debit,Yes
+500430,Female,37.0,Connacht,Month-to-Month,7,Bank Transfer,Yes
+500431,Female,41.0,Munster,One Year,59,Direct Debit,No
+500432,Male,41.0,Dublin,Two Year,33,Direct Debit,No
+500433,Male,51.0,Ulster,Two Year,41,Direct Debit,Yes
+500434,Female,38.0,Munster,Month-to-Month,9,Direct Debit,Yes
+500435,Male,54.0,Dublin,Month-to-Month,47,Direct Debit,Yes
+500436,Female,38.0,Munster,2 Year,26,Bank Transfer,Yes
+500437,Male,34.0,Dublin,Month-to-Month,38,Bank Transfer,No
+500438,Male,50.0,Dublin,Month-to-Month,57,Credit Card,No
+500439,Male,32.0,Connacht,One Year,17,Credit Card,No
+500440,male,,Ulster,One Year,22,Direct Debit,Yes
+500441,Female,30.0,Munster,Two Year,16,Credit Card,Yes
+500442,Female,34.0,Munster,Month-to-Month,8,Direct Debit,No
+500443,Male,35.0,Dublin,Month-to-Month,59,Direct Debit,Yes
+500444,Male,30.0,Leinster,One Year,7,Bank Transfer,Yes
+500445,Male,49.0,Leinster,2 Year,59,Direct Debit,Yes
+500446,female,20.0,Munster,Month-to-Month,30,Direct Debit,Yes
+500447,Female,52.0,Munster,Two Year,56,Direct Debit,Yes
+500448,Female,44.0,Munster,Month-to-Month,57,Cash,Yes
+500449,Male,45.0,Dublin,Month-to-Month,70,Direct Debit,No
+500450,Female,35.0,Dublin,Month-to-Month,12,Direct Debit,Yes
+500451,female,39.0,Munster,Month-to-Month,8,Direct Debit,No
+500452,Male,48.0,Munster,Two Year,35,Direct Debit,Yes
+500453,Female,49.0,Dublin,One Year,30,Credit Card,No
+500454,Male,67.0,Ulster,Month-to-Month,40,Bank Transfer,Yes
+500455,Male,68.0,Ulster,One Year,54,Credit Card,Yes
+500456,Male,43.0,Dublin ,Month-to-Month,41,Direct Debit,Yes
+500457,Male,47.0,Dublin,Month-to-Month,1,Credit Card,No
+500458,F,51.0,dublin,One Year,14,Direct Debit,Yes
+500459,Female,52.0,Dublin,Month-to-Month,29,Bank Transfer,Yes
+500460,Male,35.0,Leinster,Month-to-Month,55,Credit Card,Yes
+500461,Male,56.0,Munster,Month-to-Month,13,Direct Debit,Yes
+500462,Female,47.0,DUBLIN,Two Year,23,Credit Card,Yes
+500463,Female,37.0,Ulster,month-to-month,2,Credit Card,Yes
+500464,Female,20.0,Connacht,Month-to-Month,13,Direct Debit,Yes
+500465,Female,52.0,Dublin,Two Year,63,Credit Card,Yes
+500466,Female,21.0,leinster,Two Year,27,Credit Card,Yes
+500467,Female,41.0,Leinster,One Year,24,Direct Debit,No
+500468,Male,26.0,Dublin,Two Year,17,Bank Transfer,Yes
+500469,F,50.0,Munster,Two Year,34,Bank Transfer,No
+500470,Male,18.0,Munster,Two Year,22,Credit Card,No
+500471,Female,45.0,Dublin,Month-to-Month,27,Direct Debit,Yes
+500472,Female,27.0,Munster,Two Year,24,Bank Transfer,No
+500473,Female,52.0,LEINSTER,One Year,50,Direct Debit,Yes
+500474,Female,35.0,Dublin,Two Year,13,Credit Card,No
+500475,Male,44.0,Munster,Month-to-Month,47,Credit Card,No
+500476,F,55.0,Leinster,Month-to-Month,4,Bank Transfer,No
+500477,Female,45.0,Connacht,Month-to-Month,3,Credit Card,No
+500478,Male,45.0,Leinster,Month-to-Month,5,Credit Card,No
+500479,Male,55.0,Dublin,One Year,44,Bank Transfer,No
+500480,Female,50.0,Ulster,One Year,11,Direct Debit,Yes
+500481,Male,39.0,Munster,One Year,36,,Yes
+500482,Male,27.0,Leinster,Month-to-Month,46,Cash,No
+500483,Male,32.0,Dublin,Month-to-Month,64,Cash,Yes
+500484,Male,20.0,Munster,Two Year,27,Direct Debit,Yes
+500485,Female,50.0,Dublin,Month-to-Month,72,Direct Debit,Yes
+500486,male,49.0,Dublin,Two Year,9,Bank Transfer,Yes
+500487,Male,32.0,Ulster,Month-to-Month,64,Credit Card,No
+500488,Female,32.0,Dublin,Month-to-Month,7,Credit Card,Yes
+500489,Male,43.0,Dublin,Month-to-Month,13,Credit Card,Yes
+500490,Male,39.0,Connacht,Month-to-Month,25,Credit Card,Yes
+500491,male,22.0,CONNACHT,One Year,37,Bank Transfer,Yes
+500492,Female,,Ulster,One Year,50,Direct Debit,Yes
+500493,Male,48.0,Leinster,Month-to-Month,70,Direct Debit,Yes
+500494,Male,67.0,Munster,Month-to-Month,27,Direct Debit,No
+500495,Female,36.0,Munster,Month-to-Month,4,Bank Transfer,No
+500496,Female,36.0,Munster,One Year,56,Direct Debit,No
+500497,Male,52.0,Connacht,Month-to-Month,33,Direct Debit,Yes
+500498,Female,21.0,Munster,One Year,38,Cash,Yes
+500499,Male,59.0,Dublin,Month-to-Month,42,Credit Card,No
+500500,Male,46.0,Leinster,Two Year,40,Direct Debit,Yes
+500501,Male,28.0,Munster,Month-to-Month,1,Direct Debit,No
+500502,Male,25.0,Connacht,Two Year,20,Direct Debit,Yes
+500503,Female,58.0,Connacht,Month-to-Month,5,Credit Card,No
+500504,Female,19.0,leinster,One Year,59,Direct Debit,No
+500505,Male,36.0,Leinster,Month-to-Month,33,Bank Transfer,No
+500506,Female,36.0,Munster,One Year,31,Cash,No
+500507,Male,28.0,Dublin,One Year,23,Direct Debit,No
+500508,Male,44.0,Dublin,Month-to-Month,55,Direct Debit,Yes
+500509,Male,23.0,Connacht,One Year,56,Direct Debit,Yes
+500510,Male,48.0,Munster ,Two Year,41,Direct Debit,Yes
+500511,Female,30.0,Munster,Month-to-Month,22,Direct Debit,No
+500512,Male,20.0,Dublin,Two Year,43,Direct Debit,No
+500513,F,29.0,Dublin,Month-to-Month,5,Direct Debit,Yes
+500514,Female,,Dublin,Two Year,32,Direct Debit,No
+500515,Male,18.0,Munster,One Year,16,Credit Card,Yes
+500516,Male,50.0,Dublin,One Year,12,Credit Card,No
+500517,female,38.0,munster,One Year,29,Bank Transfer,Yes
+500518,Male,19.0,Munster,Two Year,23,Bank Transfer,Yes
+500519,Female,30.0,Dublin,One Year,17,Direct Debit,Yes
+500520,Male,58.0,Connacht,One Year,38,Direct Debit,Yes
+500521,Male,47.0,Leinster,One Year,68,Credit Card,No
+500522,Female,43.0,Ulster,Month-to-Month,4,Direct Debit,Yes
+500523,Female,41.0,Leinster,Month-to-Month,11,Direct Debit,No
+500524,Female,40.0,Leinster,One Year,20,Credit Card,Yes
+500525,Female,18.0,Dublin,Two Year,29,Direct Debit,No
+500526,Female,58.0,Munster,One Year,23,Direct Debit,Yes
+500527,Female,51.0,Leinster,Month-to-Month,14,Cash,No
+500528,female,52.0,Dublin,Month-to-Month,5,Direct Debit,No
+500529,Male,47.0,Leinster,One Year,24,Bank Transfer,No
+500530,Male,34.0,Dublin,One Year,2,Direct Debit,Yes
+500531,Male,36.0,Leinster,Month-to-Month,51,Direct Debit,No
+500532,Male,63.0,Munster,Month-to-Month,13,Direct Debit,Yes
+500533,Female,39.0,Munster,One Year,36,Credit Card,Yes
+500534,Female,61.0,Munster,Month-to-Month,8,,Yes
+500535,Female,,Leinster,One Year,53,Direct Debit,No
+500536,Female,53.0,Ulster,One Year,28,Direct Debit,No
+500537,Male,,Munster,Two Year,33,Direct Debit,Yes
+500538,Female,36.0,Dublin,Month-to-Month,63,Credit Card,Yes
+500539,Male,40.0,ULSTER,One Year,52,Direct Debit,Yes
+500540,Female,18.0,Dublin,One Year,10,Direct Debit,No
+500541,Male,18.0,Leinster,Month-to-Month,54,Direct Debit,No
+500542,Female,50.0,Dublin,One Year,2,Direct Debit,Yes
+500543,Female,38.0,Ulster,Month-to-Month,30,Bank Transfer,No
+500544,Female,45.0,Munster,One Year,44,Cash,No
+500545,Male,31.0,Ulster,One Year,59,Credit Card,No
+500546,Female,21.0,Leinster,Month-to-Month,43,Direct Debit,Yes
+500547,Male,67.0,Dublin,Month-to-Month,53,Direct Debit,Yes
+500548,Male,28.0,Leinster,Month-to-Month,27,Direct Debit,Yes
+500549,Male,27.0,Dublin,One Year,17,Direct Debit,No
+500550,Male,27.0,Munster,Month-to-Month,9,Cash,Yes
+500551,Male,56.0,Munster,Month-to-Month,9,Direct Debit,No
+500552,Female,54.0,Munster,Two Year,29,Direct Debit,Yes
+500553,Male,31.0,Leinster,One Year,51,Direct Debit,Yes
+500554,F,60.0,Munster ,One Year,2,Direct Debit,No
+500555,Male,62.0,Connacht,month-to-month,37,Direct Debit,Yes
+500556,Male,56.0,Leinster,Month-to-Month,1,Direct Debit,No
+500557,Male,22.0,Ulster,Month-to-Month,48,Cash,Yes
+500558,Female,58.0,Munster,Month-to-Month,50,Direct Debit,Yes
+500559,Female,19.0,Dublin,Two Year,31,Bank Transfer,Yes
+500560,Male,52.0,Ulster,Month-to-Month,14,Credit Card,No
+500561,Female,64.0,Dublin,Month-to-Month,1,Direct Debit,Yes
+500562,Female,41.0,Dublin,Month-to-Month,45,Credit Card,No
+500563,Female,40.0,Munster,One Year,34,Credit Card,Yes
+500564,Male,51.0,Munster,1 Year,59,Cash,Yes
+500565,Male,18.0,Connacht,One Year,17,Cash,Yes
+500566,Female,23.0,Leinster,month-to-month,38,Bank Transfer,Yes
+500567,Male,37.0,Leinster,Month-to-Month,1,Cash,No
+500568,Female,48.0,Leinster,One Year,23,Credit Card,No
+500569,Female,38.0,Ulster,Month-to-Month,66,Direct Debit,Yes
+500570,Male,63.0,Leinster,Two Year,1,Direct Debit,No
+500571,Female,37.0,Ulster,Month-to-Month,65,Direct Debit,No
+500572,Male,33.0,Dublin,Month-to-Month,13,Direct Debit,No
+500573,F,65.0,Leinster,One Year,50,Credit Card,No
+500574,Male,22.0,Leinster,Month-to-Month,9,Direct Debit,No
+500575,Female,50.0,Leinster,Month-to-Month,63,Bank Transfer,Yes
+500576,Female,28.0,Munster,Two Year,46,Direct Debit,No
+500577,Male,23.0,Connacht,One Year,36,Direct Debit,Yes
+500578,Male,35.0,Connacht,One Year,52,Cash,Yes
+500579,Male,45.0,Leinster,One Year,36,Direct Debit,No
+500580,Male,42.0,Connacht,One Year,43,Direct Debit,Yes
+500581,M,36.0,Leinster,Two Year,51,Credit Card,Yes
+500582,Male,32.0,Dublin,Two Year,54,Direct Debit,Yes
+500583,Male,47.0,Dublin,Month-to-Month,31,Direct Debit,Yes
+500584,Male,52.0,Leinster,Two Year,19,Direct Debit,Yes
+500585,Male,38.0,LEINSTER,One Year,27,Credit Card,No
+500586,Female,42.0,Dublin,Two Year,30,Cash,No
+500587,Male,46.0,Leinster,Month-to-Month,43,Credit Card,No
+500588,Female,46.0,Munster,One Year,8,Direct Debit,Yes
+500589,Male,42.0,Dublin,Month-to-Month,58,Bank Transfer,Yes
+500590,Female,51.0,Leinster,One Year,19,Direct Debit,No
+500591,Female,40.0,Connacht,One Year,55,Direct Debit,Yes
+500592,female,18.0,Connacht,Monthly,55,Cash,Yes
+500593,Female,48.0,Connacht,Month-to-Month,12,Direct Debit,Yes
+500594,Female,61.0,Munster,Two Year,57,Direct Debit,No
+500595,Male,39.0,Connacht,Two Year,60,Cash,Yes
+500596,Female,35.0,Dublin,Month-to-Month,32,Credit Card,No
+500597,Male,65.0,Leinster,Month-to-Month,19,Bank Transfer,No
+500598,Male,46.0,Dublin ,Monthly,22,Credit Card,No
+500599,Male,28.0,Dublin,Month-to-Month,5,Credit Card,Yes
+500600,Female,26.0,Munster,Month-to-Month,37,Cash,Yes
+500601,Male,23.0,Leinster,Month-to-Month,25,Bank Transfer,No
+500602,Male,58.0,Munster,Month-to-Month,45,Cash,No
+500603,Male,62.0,Connacht,Two Year,17,Bank Transfer,Yes
+500604,Female,45.0,Dublin,Two Year,11,Bank Transfer,Yes
+500605,Female,66.0,Connacht,One Year,30,Credit Card,Yes
+500606,Male,45.0,Dublin,Two Year,17,Bank Transfer,No
+500607,Male,32.0,Dublin,Month-to-Month,9,Credit Card,Yes
+500608,Female,33.0,Dublin,Month-to-Month,23,Direct Debit,No
+500609,Male,23.0,Munster,Month-to-Month,45,Cash,Yes
+500610,Male,43.0,Leinster,Two Year,57,Direct Debit,No
+500611,Male,54.0,Leinster,Month-to-Month,12,Cash,Yes
+500611,Male,54.0,Leinster,Month-to-Month,12,Cash,Yes
+500612,Male,46.0,Leinster,Two Year,67,Direct Debit,Yes
+500613,F,46.0,Munster,Month-to-Month,14,Direct Debit,Yes
+500614,Male,45.0,Leinster,Month-to-Month,68,Cash,Yes
+500615,Male,29.0,Dublin,Month-to-Month,3,Bank Transfer,Yes
+500616,Male,38.0,Munster,Month-to-Month,46,Bank Transfer,No
+500617,Male,22.0,Munster ,One Year,12,Cash,Yes
+500618,Male,35.0,Dublin,Month-to-Month,24,Direct Debit,Yes
+500619,Male,51.0,Leinster,Month-to-Month,35,Bank Transfer,Yes
+500620,Female,47.0,Ulster,Two Year,66,Credit Card,Yes
+500621,Female,,MUNSTER,Two Year,25,Cash,No
+500622,Female,56.0,Leinster,One Year,12,Cash,No
+500623,Female,45.0,Dublin,One Year,3,Credit Card,No
+500624,male,21.0,Leinster,One Year,16,Direct Debit,Yes
+500625,Female,59.0,Dublin,One Year,21,Credit Card,Yes
+500626,Female,58.0,Munster,Two Year,42,Credit Card,Yes
+500627,female,44.0,Leinster,Month-to-Month,26,Direct Debit,No
+500628,Male,48.0,Leinster,Month-to-Month,52,Credit Card,Yes
+500629,Male,34.0,Dublin,One Year,14,Credit Card,Yes
+500630,Female,32.0,Leinster,Month-to-Month,16,Direct Debit,Yes
+500631,Female,60.0,Dublin,Month-to-Month,20,Credit Card,Yes
+500632,Male,24.0,Ulster,Month-to-Month,14,Direct Debit,Yes
+500633,M,67.0,Leinster,Month-to-Month,7,Direct Debit,Yes
+500634,Male,31.0,leinster,Month-to-Month,62,Direct Debit,Yes
+500635,Male,49.0,Munster,Month-to-Month,2,Credit Card,Yes
+500636,Male,57.0,Dublin,Month-to-Month,2,Direct Debit,Yes
+500637,Male,65.0,Dublin,One Year,58,Direct Debit,Yes
+500638,Female,29.0,Dublin,Two Year,57,Direct Debit,Yes
+500639,F,48.0,connacht,Month-to-Month,60,Direct Debit,Yes
+500639,F,48.0,connacht,Month-to-Month,60,Direct Debit,Yes
+500640,Male,40.0,Connacht,Month-to-Month,8,Bank Transfer,Yes
+500641,Female,49.0,Leinster,Month-to-Month,33,Cash,Yes
+500641,Female,49.0,Leinster,Month-to-Month,33,Cash,Yes
+500642,Male,34.0,Dublin,Month-to-Month,20,Direct Debit,No
+500643,Male,53.0,Leinster ,Two Year,63,Direct Debit,Yes
+500644,Female,56.0,Leinster,Month-to-Month,61,Credit Card,No
+500645,Male,52.0,Dublin,Month-to-Month,21,Credit Card,No
+500646,Male,24.0,Leinster,One Year,8,Direct Debit,No
+500647,Male,47.0,Leinster,Month-to-Month,7,Direct Debit,Yes
+500648,Female,,Ulster ,One Year,44,Cash,Yes
+500649,Female,50.0,Leinster,month-to-month,51,Credit Card,Yes
+500650,Female,55.0,Dublin,One Year,33,Credit Card,Yes
+500651,Male,43.0,Munster,Month-to-Month,3,Bank Transfer,Yes
+500652,Female,55.0,Connacht,month-to-month,1,Bank Transfer,Yes
+500653,Female,34.0,Dublin,1 Year,24,Direct Debit,No
+500654,Female,49.0,Munster,Two Year,47,Credit Card,Yes
+500655,Male,25.0,Leinster,Two Year,2,Credit Card,No
+500656,Female,43.0,Dublin,Month-to-Month,26,Direct Debit,No
+500657,Female,42.0,Leinster,One Year,8,Direct Debit,Yes
+500658,Female,55.0,Dublin,Month-to-Month,6,Direct Debit,Yes
+500659,Male,46.0,Dublin ,Month-to-Month,1,Bank Transfer,No
+500660,Male,53.0,Dublin,Month-to-Month,8,Direct Debit,Yes
+500661,Female,18.0,Leinster,One Year,7,Direct Debit,Yes
+500662,Female,44.0,Connacht,Month-to-Month,38,Cash,Yes
+500663,F,26.0,Dublin ,Month-to-Month,52,Credit Card,No
+500664,Female,66.0,Munster,Month-to-Month,57,Cash,No
+500665,F,31.0,Ulster,Month-to-Month,9,Bank Transfer,Yes
+500666,Male,42.0,Connacht,Month-to-Month,64,Direct Debit,No
+500667,Male,38.0,Dublin,One Year,53,Credit Card,No
+500668,Male,58.0,Ulster,Month-to-Month,7,Credit Card,Yes
+500669,Female,51.0,dublin,One Year,3,Credit Card,Yes
+500670,Female,40.0,dublin,Month-to-Month,23,Direct Debit,Yes
+500671,M,38.0,Leinster,One Year,2,Cash,No
+500672,Male,67.0,Ulster,Two Year,22,Cash,Yes
+500673,Male,44.0,Leinster,Month-to-Month,72,Credit Card,No
+500674,Male,18.0,Ulster,Two Year,36,Direct Debit,Yes
+500675,Female,18.0,Ulster,Month-to-Month,11,Direct Debit,No
+500676,M,40.0,Dublin,Two Year,40,Credit Card,Yes
+500677,female,35.0,Dublin,Two Year,48,Direct Debit,Yes
+500678,Female,58.0,Munster,Month-to-Month,19,Credit Card,Yes
+500679,male,50.0,Munster,Month-to-Month,58,Direct Debit,No
+500680,Male,39.0,Leinster,Month-to-Month,58,Direct Debit,Yes
+500681,Male,56.0,Ulster,One Year,29,Direct Debit,Yes
+500682,Female,35.0,Leinster,One Year,56,Bank Transfer,Yes
+500683,F,43.0,Dublin,Month-to-Month,57,Direct Debit,Yes
+500684,Male,41.0,Dublin,One Year,27,Direct Debit,No
+500685,Female,44.0,Leinster,Month-to-Month,8,Credit Card,No
+500686,male,34.0,Connacht,Month-to-Month,32,Direct Debit,Yes
+500687,Male,40.0,LEINSTER,Month-to-Month,11,Bank Transfer,No
+500688,Male,34.0,Connacht,Month-to-Month,50,Direct Debit,Yes
+500689,Male,33.0,Ulster,Month-to-Month,68,Credit Card,Yes
+500690,Male,38.0,Dublin,Monthly,1,Direct Debit,No
+500691,Female,49.0,Dublin,Two Year,34,Credit Card,Yes
+500692,Male,53.0,Dublin,Month-to-Month,50,Direct Debit,No
+500693,Female,61.0,Dublin,Two Year,33,Bank Transfer,Yes
+500694,Male,32.0,Ulster,Two Year,53,Bank Transfer,No
+500695,Male,39.0,Leinster,One Year,60,Bank Transfer,Yes
+500696,Female,55.0,Munster,Month-to-Month,9,Bank Transfer,Yes
+500697,Female,39.0,Connacht,Month-to-Month,72,Direct Debit,No
+500698,Male,36.0,Dublin,Two Year,16,Bank Transfer,No
+500699,Female,40.0,Dublin,One Year,28,Direct Debit,No
+500700,Female,35.0,Dublin,Two Year,39,Cash,Yes
+500701,male,25.0,Munster,Month-to-Month,6,Bank Transfer,Yes
+500702,Female,51.0,Leinster,Two Year,58,Direct Debit,Yes
+500703,Male,61.0,Connacht,Month-to-Month,12,Bank Transfer,No
+500704,Female,34.0,Leinster,Two Year,40,Bank Transfer,No
+500705,M,27.0,Dublin,Two Year,45,Direct Debit,Yes
+500706,Female,56.0,Dublin,Month-to-Month,46,Bank Transfer,Yes
+500707,Male,28.0,Dublin,Two Year,10,Direct Debit,No
+500708,Female,36.0,Dublin ,Month-to-Month,35,Bank Transfer,No
+500709,Female,26.0,Leinster,Month-to-Month,48,Credit Card,Yes
+500710,F,44.0,Munster,Month-to-Month,24,Bank Transfer,Yes
+500711,Female,35.0,Leinster,One Year,35,Direct Debit,Yes
+500712,Male,48.0,Munster,Month-to-Month,8,Credit Card,Yes
+500713,Female,25.0,Connacht,Two Year,22,Direct Debit,No
+500714,Male,44.0,Connacht,Month-to-Month,9,Bank Transfer,Yes
+500715,Female,58.0,Ulster,One Year,32,Cash,Yes
+500716,Male,18.0,Ulster,One Year,9,Cash,Yes
+500717,Male,75.0,MUNSTER,Month-to-Month,55,Direct Debit,Yes
+500718,male,54.0,Leinster,Month-to-Month,20,Bank Transfer,No
+500719,Male,51.0,Dublin,One Year,28,Direct Debit,Yes
+500720,Male,62.0,Dublin,Month-to-Month,38,Direct Debit,No
+500721,F,55.0,DUBLIN,Month-to-Month,9,Direct Debit,Yes
+500722,Female,45.0,Dublin,Month-to-Month,38,Direct Debit,Yes
+500723,Female,59.0,DUBLIN,Month-to-Month,8,Credit Card,No
+500724,Female,,Connacht,Month-to-Month,8,Direct Debit,Yes
+500725,Male,54.0,Leinster,Two Year,34,Credit Card,Yes
+500726,Female,40.0,Dublin,One Year,68,Credit Card,Yes
+500727,Female,66.0,Munster ,Monthly,8,,Yes
+500728,Male,34.0,Munster,Month-to-Month,15,Direct Debit,Yes
+500729,female,43.0,Ulster,month-to-month,23,Bank Transfer,No
+500730,Female,34.0,DUBLIN,Two Year,40,,No
+500731,male,23.0,Dublin,Month-to-Month,35,Direct Debit,Yes
+500732,Male,65.0,Ulster,Month-to-Month,21,Bank Transfer,Yes
+500733,Male,57.0,Connacht,Two Year,55,Bank Transfer,Yes
+500734,male,23.0,leinster,One Year,56,Bank Transfer,Yes
+500735,Male,31.0,Dublin,1 Year,41,Bank Transfer,Yes
+500736,Male,26.0,Connacht ,Month-to-Month,36,Direct Debit,Yes
+500737,Male,39.0,Munster,Month-to-Month,63,Credit Card,Yes
+500738,Female,36.0,Leinster,Two Year,66,Direct Debit,Yes
+500739,Female,41.0,ulster,Month-to-Month,5,Direct Debit,No
+500740,Female,50.0,Leinster,Two Year,29,Bank Transfer,Yes
+500741,Male,45.0,Connacht,Month-to-Month,46,Direct Debit,No
+500742,Male,19.0,Munster,Month-to-Month,59,Bank Transfer,No
+500743,Female,53.0,Dublin,Month-to-Month,17,Bank Transfer,No
+500744,Female,46.0,Dublin,Two Year,64,Bank Transfer,No
+500745,female,,Connacht,Two Year,49,,Yes
+500746,Female,39.0,Connacht,Two Year,53,Direct Debit,No
+500747,Female,56.0,Dublin,One Year,8,Direct Debit,Yes
+500748,Female,47.0,Dublin,Two Year,65,Bank Transfer,No
+500749,Female,24.0,Munster,Two Year,50,Direct Debit,Yes
+500750,Male,47.0,ULSTER,Month-to-Month,4,Credit Card,Yes
+500751,Male,51.0,Dublin,Month-to-Month,21,Direct Debit,Yes
+500752,Male,55.0,LEINSTER,Two Year,52,Bank Transfer,Yes
+500753,Female,33.0,Connacht,Month-to-Month,14,Credit Card,Yes
+500754,Male,39.0,Munster,Two Year,56,Bank Transfer,No
+500755,Male,39.0,Connacht,One Year,42,Cash,Yes
+500756,Female,56.0,Munster,Two Year,58,Direct Debit,No
+500757,male,43.0,Leinster,One Year,29,Cash,Yes
+500758,Female,29.0,Ulster,Month-to-Month,12,Direct Debit,Yes
+500759,Male,61.0,Munster,Month-to-Month,5,Direct Debit,Yes
+500760,Male,43.0,Dublin,Two Year,17,Direct Debit,Yes
+500761,Male,27.0,Dublin,month-to-month,14,Credit Card,Yes
+500762,Female,31.0,Dublin ,Month-to-Month,5,Credit Card,Yes
+500763,F,53.0,Dublin,Monthly,15,Cash,Yes
+500764,Male,58.0,leinster,One Year,45,Direct Debit,Yes
+500765,Male,50.0,Leinster,One Year,8,Bank Transfer,Yes
+500766,Female,35.0,Leinster,Two Year,25,Bank Transfer,Yes
+500767,Female,27.0,Munster,Month-to-Month,42,Credit Card,Yes
+500768,Male,38.0,Connacht,Month-to-Month,4,Credit Card,Yes
+500769,Female,39.0,Leinster,Month-to-Month,69,Direct Debit,No
+500770,Female,37.0,Leinster,Two Year,52,Bank Transfer,No
+500771,Male,31.0,Connacht,Month-to-Month,4,Direct Debit,Yes
+500772,Female,32.0,Ulster,One Year,31,Direct Debit,No
+500773,Male,,Munster,Month-to-Month,56,Credit Card,No
+500774,Male,26.0,Dublin,Two Year,21,Credit Card,Yes
+500775,male,30.0,Dublin,Month-to-Month,58,Credit Card,Yes
+500776,Male,31.0,Munster,Two Year,40,Credit Card,Yes
+500777,Female,,Dublin,One Year,28,Credit Card,Yes
+500778,Male,24.0,Leinster,One Year,36,Bank Transfer,Yes
+500779,male,43.0,Munster,Month-to-Month,24,Direct Debit,Yes
+500780,male,37.0,Leinster,Month-to-Month,3,Cash,No
+500781,female,27.0,Leinster,Two Year,41,Direct Debit,Yes
+500782,male,55.0,Dublin,One Year,29,Cash,No
+500783,F,62.0,Leinster,Month-to-Month,12,Direct Debit,No
+500784,Male,53.0,Connacht,Month-to-Month,41,Direct Debit,Yes
+500785,Female,26.0,Dublin,Month-to-Month,56,Direct Debit,No
+500786,Male,,Leinster,1 Year,32,Direct Debit,Yes
+500787,male,27.0,Dublin,Month-to-Month,8,Direct Debit,Yes
+500788,Female,41.0,Connacht,Month-to-Month,14,Credit Card,Yes
+500789,Male,18.0,LEINSTER,Two Year,49,Cash,Yes
+500790,M,47.0,Munster,2 Year,56,Credit Card,No
+500790,M,47.0,Munster,2 Year,56,Credit Card,No
+500791,Female,51.0,Dublin,Month-to-Month,71,Credit Card,No
+500792,Female,43.0,LEINSTER,Month-to-Month,19,Direct Debit,Yes
+500793,female,30.0,Dublin,Month-to-Month,9,Credit Card,Yes
+500794,Female,27.0,Dublin,One Year,19,Credit Card,Yes
+500795,Female,38.0,Dublin,Month-to-Month,6,Direct Debit,Yes
+500796,Male,44.0,leinster,Two Year,14,Credit Card,Yes
+500797,F,56.0,Dublin,One Year,28,Direct Debit,Yes
+500798,Female,29.0,Leinster,Month-to-Month,30,Bank Transfer,No
+500799,M,44.0,Leinster,Month-to-Month,28,Direct Debit,No
+500800,Male,36.0,Dublin,One Year,48,Direct Debit,Yes
+500801,Female,73.0,Dublin,Month-to-Month,30,Bank Transfer,No
+500802,Male,33.0,Dublin,Month-to-Month,15,Direct Debit,Yes
+500803,Male,38.0,Ulster,Two Year,35,Direct Debit,Yes
+500804,Male,42.0,Ulster,Month-to-Month,28,Credit Card,No
+500805,Female,31.0,Leinster,Two Year,52,Cash,Yes
+500806,Female,18.0,Dublin,Month-to-Month,31,Direct Debit,Yes
+500807,Male,47.0,Leinster,Month-to-Month,33,Credit Card,Yes
+500808,Male,80.0,Dublin,Month-to-Month,4,Direct Debit,No
+500809,female,46.0,Connacht,Month-to-Month,12,Direct Debit,No
+500810,Male,50.0,Dublin,Month-to-Month,11,Bank Transfer,No
+500811,Female,41.0,Dublin,One Year,51,Direct Debit,Yes
+500812,Female,55.0,Munster,Month-to-Month,8,Credit Card,No
+500813,Female,53.0,Dublin,Month-to-Month,14,Cash,Yes
+500814,Female,33.0,Munster,Month-to-Month,23,Credit Card,Yes
+500815,Female,32.0,Leinster,Month-to-Month,44,Direct Debit,Yes
+500816,Female,37.0,Connacht,Two Year,68,Credit Card,Yes
+500817,Male,,Leinster,One Year,67,Credit Card,No
+500818,Female,25.0,Leinster,Month-to-Month,70,Direct Debit,Yes
+500819,Male,40.0,Ulster,Month-to-Month,31,Credit Card,Yes
+500820,Female,56.0,Dublin,Month-to-Month,10,Credit Card,Yes
+500821,Female,49.0,Munster,Two Year,64,Bank Transfer,No
+500822,Female,61.0,Munster,Month-to-Month,39,Credit Card,No
+500823,Male,32.0,Dublin,One Year,33,Bank Transfer,Yes
+500824,Female,50.0,Munster,One Year,52,,No
+500825,Male,67.0,Leinster,One Year,60,Credit Card,Yes
+500826,Male,18.0,Dublin,Month-to-Month,51,Direct Debit,Yes
+500827,Male,33.0,Connacht,Month-to-Month,8,Cash,Yes
+500828,Female,38.0,Munster,One Year,47,Direct Debit,No
+500829,Female,46.0,Ulster,Month-to-Month,13,Credit Card,No
+500830,Female,32.0,Leinster,One Year,47,Direct Debit,Yes
+500831,Male,55.0,Leinster,Month-to-Month,2,Cash,Yes
+500832,male,50.0,Munster,One Year,19,Direct Debit,Yes
+500833,Male,28.0,Connacht,Month-to-Month,37,Credit Card,No
+500834,Male,59.0,Connacht,One Year,33,Direct Debit,No
+500835,Female,30.0,Munster,Two Year,70,Bank Transfer,Yes
+500836,Male,51.0,Leinster,One Year,20,Direct Debit,No
+500837,Female,36.0,Munster,Month-to-Month,3,Direct Debit,Yes
+500838,Female,27.0,Connacht,One Year,37,Direct Debit,No
+500839,Female,30.0,Connacht,One Year,14,Direct Debit,No
+500840,Male,54.0,Dublin,Month-to-Month,35,Credit Card,No
+500841,Female,46.0,Leinster,Month-to-Month,40,Direct Debit,Yes
+500842,Male,18.0,Leinster,One Year,39,Cash,No
+500843,Male,47.0,Munster,Month-to-Month,53,Direct Debit,Yes
+500844,Male,52.0,Connacht,Two Year,60,Direct Debit,Yes
+500845,Female,44.0,Munster,One Year,64,Credit Card,Yes
+500846,Male,42.0,Leinster,Month-to-Month,7,Credit Card,Yes
+500847,Female,37.0,Ulster,One Year,48,Direct Debit,No
+500848,Male,20.0,Munster,One Year,21,Direct Debit,Yes
+500849,Female,53.0,Munster,Month-to-Month,5,Direct Debit,Yes
+500850,Female,43.0,Dublin,1 Year,18,Bank Transfer,No
+500851,Male,22.0,Dublin,One Year,18,Credit Card,Yes
+500852,Male,40.0,Munster,Month-to-Month,9,Direct Debit,No
+500853,Female,28.0,Dublin,Month-to-Month,46,Credit Card,Yes
+500854,Male,35.0,Leinster,Two Year,20,Cash,Yes
+500855,Female,35.0,Munster,One Year,30,Direct Debit,Yes
+500856,Female,56.0,Munster,One Year,46,Direct Debit,No
+500857,Female,65.0,Connacht,Month-to-Month,8,Direct Debit,Yes
+500858,Male,62.0,Munster,Two Year,14,Credit Card,Yes
+500859,Female,63.0,Connacht,One Year,30,Credit Card,Yes
+500860,Male,37.0,Munster,Two Year,40,Credit Card,No
+500861,Male,44.0,Connacht,Two Year,70,Direct Debit,Yes
+500862,Male,74.0,Leinster,One Year,61,Credit Card,Yes
+500863,Female,28.0,Ulster,Month-to-Month,30,Direct Debit,Yes
+500864,Female,18.0,Dublin,Two Year,38,Cash,No
+500865,Male,46.0,Dublin,One Year,32,Direct Debit,Yes
+500866,Female,35.0,Leinster,One Year,45,Credit Card,Yes
+500867,Female,55.0,Munster,One Year,64,Bank Transfer,Yes
+500868,Male,55.0,Munster,Month-to-Month,35,Credit Card,Yes
+500869,Male,48.0,Munster,Two Year,19,Credit Card,No
+500870,Female,42.0,Leinster,Month-to-Month,14,Credit Card,Yes
+500871,Male,33.0,Munster,Month-to-Month,35,Credit Card,Yes
+500872,Male,69.0,Connacht,Month-to-Month,64,Credit Card,No
+500873,Male,52.0,Munster ,2 Year,41,Credit Card,No
+500874,Male,72.0,Connacht,Month-to-Month,56,Bank Transfer,Yes
+500875,Female,,Dublin,Two Year,56,Bank Transfer,No
+500876,Male,37.0,Dublin,Month-to-Month,18,Credit Card,Yes
+500877,Female,36.0,Connacht,One Year,62,Cash,No
+500878,Male,48.0,Munster,Month-to-Month,27,Direct Debit,No
+500879,Male,32.0,Munster,One Year,70,Direct Debit,Yes
+500880,Female,41.0,Munster,Two Year,46,Direct Debit,Yes
+500881,Male,33.0,Munster,One Year,12,Direct Debit,Yes
+500882,Female,55.0,Leinster,One Year,18,Credit Card,No
+500883,Male,,Connacht,One Year,4,Credit Card,Yes
+500884,Male,53.0,Leinster,Month-to-Month,47,Credit Card,Yes
+500885,Female,23.0,Munster,One Year,48,Credit Card,No
+500886,Female,39.0,Munster,One Year,26,Direct Debit,Yes
+500887,Male,41.0,Leinster,Two Year,7,Cash,Yes
+500888,Female,34.0,Dublin,Month-to-Month,52,,Yes
+500889,Male,45.0,Dublin,Two Year,55,Bank Transfer,Yes
+500890,Male,35.0,Munster,One Year,26,Credit Card,Yes
+500891,Female,18.0,Leinster,Two Year,55,Credit Card,No
+500892,Female,51.0,Leinster,One Year,57,Credit Card,No
+500893,F,18.0,Leinster,Month-to-Month,8,,No
+500894,Female,26.0,Connacht,Month-to-Month,6,Direct Debit,Yes
+500895,Male,45.0,Dublin,Month-to-Month,34,Credit Card,Yes
+500896,Male,23.0,Munster,Two Year,51,Credit Card,Yes
+500897,Female,34.0,DUBLIN,One Year,9,Direct Debit,Yes
+500898,Male,41.0,Leinster,One Year,23,Bank Transfer,Yes
+500899,Male,34.0,Dublin,One Year,33,Credit Card,No
+500900,Male,37.0,Dublin,Two Year,61,Direct Debit,No
+500901,Male,36.0,Leinster,Month-to-Month,68,Bank Transfer,Yes
+500902,F,50.0,Dublin,One Year,2,Credit Card,Yes
+500903,Female,20.0,Munster,Two Year,46,Direct Debit,Yes
+500904,Male,35.0,Leinster,Month-to-Month,40,Direct Debit,Yes
+500905,Female,56.0,Dublin,One Year,48,Direct Debit,No
+500906,Male,53.0,Leinster,Month-to-Month,8,Credit Card,No
+500907,male,35.0,Dublin,Two Year,34,Bank Transfer,No
+500908,Female,42.0,Dublin,Two Year,4,Credit Card,No
+500909,female,33.0,DUBLIN,One Year,35,Bank Transfer,No
+500910,Female,38.0,Connacht,Month-to-Month,10,Credit Card,Yes
+500911,Female,20.0,Ulster,Month-to-Month,61,Direct Debit,Yes
+500912,Male,65.0,Dublin,2 Year,37,Cash,Yes
+500913,Male,46.0,Dublin,One Year,58,Bank Transfer,Yes
+500914,Male,30.0,connacht,month-to-month,37,Bank Transfer,No
+500915,Female,49.0,Leinster,1 Year,33,Credit Card,No
+500916,Female,49.0,Dublin,Month-to-Month,67,Credit Card,No
+500917,Male,49.0,Leinster,One Year,58,Direct Debit,No
+500918,Female,65.0,Dublin,Month-to-Month,14,Credit Card,Yes
+500919,Male,18.0,Munster,One Year,25,Bank Transfer,Yes
+500920,Female,59.0,Connacht,Two Year,29,Cash,Yes
+500921,Male,39.0,Dublin,1 Year,26,Bank Transfer,No
+500922,Female,46.0,Munster,One Year,32,Direct Debit,No
+500923,Male,42.0,Leinster,Month-to-Month,13,Direct Debit,Yes
+500924,Female,41.0,Dublin,Month-to-Month,6,Cash,Yes
+500925,Male,32.0,Munster,Month-to-Month,39,Direct Debit,Yes
+500926,Female,62.0,Dublin,Month-to-Month,54,Direct Debit,Yes
+500927,Female,53.0,Dublin,One Year,54,Direct Debit,No
+500928,Female,22.0,Dublin,One Year,11,Direct Debit,Yes
+500929,Female,51.0,Leinster,Month-to-Month,55,Direct Debit,Yes
+500930,Male,33.0,Dublin,Two Year,11,Credit Card,No
+500931,Female,,Connacht,Month-to-Month,33,Cash,Yes
+500932,Male,74.0,Leinster,Month-to-Month,49,Bank Transfer,Yes
+500933,Female,46.0,Ulster,Month-to-Month,46,Bank Transfer,Yes
+500934,female,49.0,Dublin ,Month-to-Month,11,Bank Transfer,Yes
+500935,Female,57.0,Leinster,Month-to-Month,48,Credit Card,Yes
+500936,Female,54.0,Dublin,Month-to-Month,37,Bank Transfer,Yes
+500937,Female,46.0,Dublin,One Year,23,Direct Debit,Yes
+500938,Female,51.0,Ulster,Month-to-Month,68,Bank Transfer,Yes
+500939,Female,37.0,Ulster,Month-to-Month,11,Credit Card,Yes
+500940,Male,18.0,Munster,Month-to-Month,27,Credit Card,No
+500941,Female,,Ulster,Month-to-Month,39,Bank Transfer,Yes
+500942,Female,64.0,Dublin,Two Year,13,Bank Transfer,Yes
+500943,Male,45.0,Connacht,Two Year,20,Bank Transfer,Yes
+500944,Female,52.0,Leinster,Two Year,46,Cash,Yes
+500945,Female,44.0,Ulster,Two Year,51,Direct Debit,Yes
+500946,Male,29.0,Leinster,Month-to-Month,63,Direct Debit,Yes
+500947,Male,22.0,Munster ,Two Year,29,Credit Card,No
+500948,Female,43.0,Dublin,One Year,42,Credit Card,No
+500949,M,47.0,Dublin,Month-to-Month,13,Direct Debit,No
+500950,Male,36.0,Connacht,One Year,37,Direct Debit,Yes
+500951,Male,38.0,Munster,One Year,58,Cash,Yes
+500952,Female,52.0,Leinster,Two Year,29,Credit Card,Yes
+500953,Female,44.0,Connacht,Month-to-Month,27,Direct Debit,Yes
+500954,Female,36.0,Ulster,Month-to-Month,19,Bank Transfer,No
+500955,Male,19.0,Dublin,month-to-month,16,Credit Card,Yes
+500956,Male,,Connacht,Two Year,54,Direct Debit,Yes
+500957,Male,57.0,Munster,One Year,18,Cash,No
+500958,Female,29.0,Leinster,Month-to-Month,14,Direct Debit,No
+500959,Male,63.0,Leinster,One Year,25,Direct Debit,No
+500960,Female,46.0,Dublin,Two Year,40,Direct Debit,No
+500961,male,20.0,Dublin,One Year,31,Credit Card,Yes
+500962,Male,34.0,Dublin,One Year,9,Credit Card,Yes
+500963,F,33.0,Dublin,Month-to-Month,67,Credit Card,Yes
+500964,Male,43.0,Connacht,Month-to-Month,36,Credit Card,Yes
+500965,Male,44.0,Leinster,Month-to-Month,4,Direct Debit,Yes
+500966,Female,48.0,Leinster,One Year,37,Cash,No
+500967,female,48.0,dublin,One Year,35,Direct Debit,Yes
+500968,Male,47.0,Leinster,Two Year,65,Direct Debit,Yes
+500969,Male,31.0,Munster,Month-to-Month,12,Direct Debit,Yes
+500970,Male,55.0,Dublin,Month-to-Month,19,,No
+500971,Male,48.0,Dublin,Two Year,61,Credit Card,Yes
+500972,Male,55.0,Leinster,Two Year,38,Direct Debit,Yes
+500973,Male,40.0,Munster,Monthly,63,Direct Debit,No
+500974,Male,999.0,Connacht,One Year,32,Direct Debit,No
+500975,Male,39.0,Dublin,One Year,26,Direct Debit,Yes
+500976,Female,39.0,Dublin,One Year,22,Direct Debit,No
+500977,M,47.0,Munster,Month-to-Month,4,Cash,Yes
+500978,Female,24.0,Ulster,1 Year,64,Credit Card,No
+500979,Male,36.0,Connacht,Month-to-Month,60,Direct Debit,Yes
+500980,Female,46.0,Leinster,Two Year,44,Credit Card,No
+500981,Female,,Dublin,Two Year,4,Bank Transfer,Yes
+500982,Male,68.0,dublin,Two Year,64,Cash,No
+500983,Male,38.0,Leinster,Month-to-Month,58,Credit Card,Yes
+500984,Male,43.0,Ulster,One Year,25,Direct Debit,No
+500985,Male,34.0,Leinster,Two Year,56,Bank Transfer,Yes
+500986,Male,58.0,Connacht,One Year,60,Direct Debit,Yes
+500987,Male,47.0,Dublin,Monthly,50,Direct Debit,No
+500988,Female,54.0,Dublin,2 Year,11,Direct Debit,Yes
+500989,Male,45.0,Ulster ,Month-to-Month,13,Bank Transfer,No
+500990,Male,53.0,Leinster,Month-to-Month,37,Bank Transfer,No
+500991,Female,28.0,Leinster,1 Year,25,Bank Transfer,No
+500992,Male,27.0,Dublin,One Year,4,Cash,Yes
+500993,Male,39.0,LEINSTER,One Year,51,Cash,No
+500994,Male,56.0,Munster,One Year,60,Direct Debit,Yes
+500995,Female,47.0,Munster,Two Year,33,Direct Debit,Yes
+500996,Female,41.0,Connacht,Month-to-Month,64,Direct Debit,No
+500997,Male,39.0,Dublin,One Year,28,Bank Transfer,No
+500998,Female,18.0,Connacht,Two Year,18,Direct Debit,Yes
+500999,Male,36.0,Dublin,One Year,18,,No
+501000,Male,18.0,Munster,One Year,34,Direct Debit,No
+501001,Male,35.0,Munster,One Year,26,Direct Debit,Yes
+501002,Female,45.0,Dublin,Two Year,36,Direct Debit,Yes
+501003,Female,51.0,Leinster,Month-to-Month,26,Credit Card,Yes
+501004,Female,,Connacht,Two Year,22,Bank Transfer,Yes
+501005,Male,59.0,Dublin,Month-to-Month,15,Direct Debit,Yes
+501006,Male,44.0,Dublin,Month-to-Month,67,Credit Card,Yes
+501007,Female,51.0,Leinster,Month-to-Month,13,Credit Card,Yes
+501008,Female,50.0,Dublin,One Year,45,Direct Debit,Yes
+501009,Female,47.0,Leinster,Two Year,12,Cash,Yes
+501010,Female,56.0,Dublin,One Year,35,Cash,No
+501011,Female,55.0,Dublin,Month-to-Month,61,Direct Debit,No
+501012,Female,30.0,Dublin,Month-to-Month,59,Cash,Yes
+501013,Male,33.0,Leinster,Two Year,44,Direct Debit,Yes
+501014,Male,57.0,Dublin,Two Year,10,Direct Debit,Yes
+501015,male,41.0,Connacht,One Year,6,Credit Card,Yes
+501016,Male,21.0,Munster,One Year,23,Credit Card,No
+501017,M,58.0,Munster,Two Year,60,Credit Card,Yes
+501018,Male,38.0,Leinster,Month-to-Month,53,Bank Transfer,Yes
+501019,Female,34.0,Connacht,Month-to-Month,38,Credit Card,Yes
+501020,Male,59.0,Ulster,Month-to-Month,6,Direct Debit,Yes
+501021,Male,18.0,LEINSTER,Two Year,10,Direct Debit,Yes
+501022,Female,47.0,Leinster,Month-to-Month,14,Credit Card,No
+501023,male,20.0,Connacht,Two Year,47,Credit Card,Yes
+501024,Female,33.0,Munster,Month-to-Month,24,Direct Debit,No
+501025,Male,46.0,Leinster,Month-to-Month,47,Direct Debit,No
+501026,Female,53.0,Dublin,Two Year,53,Bank Transfer,No
+501027,Male,60.0,Leinster,Month-to-Month,67,Direct Debit,No
+501028,Female,39.0,Munster,One Year,59,Bank Transfer,Yes
+501029,Male,52.0,MUNSTER,Month-to-Month,6,Direct Debit,Yes
+501030,Male,40.0,Leinster,Month-to-Month,50,Cash,Yes
+501030,Male,40.0,Leinster,Month-to-Month,50,Cash,Yes
+501031,Male,41.0,Dublin,One Year,31,Direct Debit,Yes
+501032,Female,39.0,Dublin,One Year,21,Direct Debit,No
+501033,Female,43.0,Dublin,One Year,48,Bank Transfer,Yes
+501034,Female,41.0,Leinster,Month-to-Month,20,Direct Debit,No
+501035,M,18.0,Leinster,Month-to-Month,8,Credit Card,Yes
+501036,Male,44.0,Ulster,Two Year,70,Direct Debit,Yes
+501037,Male,25.0,Leinster,Month-to-Month,22,Direct Debit,Yes
+501038,Female,38.0,Dublin,Two Year,53,Direct Debit,Yes
+501039,Male,48.0,Connacht,Month-to-Month,15,Cash,Yes
+501040,Male,47.0,Leinster,Month-to-Month,18,Direct Debit,No
+501041,Male,39.0,Dublin,One Year,14,Bank Transfer,No
+501042,Female,44.0,Ulster,One Year,42,Credit Card,Yes
+501043,Female,,Leinster,One Year,18,Direct Debit,Yes
+501044,Female,30.0,Leinster,Month-to-Month,19,Credit Card,Yes
+501045,Male,56.0,Munster,One Year,14,Direct Debit,Yes
+501046,Male,40.0,Dublin,Month-to-Month,37,Direct Debit,Yes
+501047,male,38.0,Munster,Month-to-Month,28,Direct Debit,Yes
+501048,Female,50.0,Munster,Two Year,32,Bank Transfer,Yes
+501049,Female,44.0,Connacht,Month-to-Month,12,Credit Card,Yes
+501050,Female,70.0,Munster,Month-to-Month,3,Cash,Yes
+501051,Male,45.0,dublin,2 Year,63,Direct Debit,Yes
+501052,Male,31.0,Leinster,Month-to-Month,49,Direct Debit,Yes
+501053,male,38.0,Dublin,Month-to-Month,11,Bank Transfer,No
+501054,Male,30.0,Dublin,Month-to-Month,56,Direct Debit,No
+501055,Female,42.0,Munster,One Year,30,Credit Card,Yes
+501056,M,23.0,Dublin,Month-to-Month,55,Cash,Yes
+501057,Male,59.0,Ulster,One Year,61,Direct Debit,Yes
+501058,Female,59.0,Munster,One Year,63,Credit Card,No
+501059,Female,30.0,Dublin,One Year,34,Direct Debit,No
+501060,Female,30.0,Dublin,One Year,35,Credit Card,Yes
+501061,Male,,Leinster,One Year,14,Direct Debit,Yes
+501062,Female,71.0,Leinster,Month-to-Month,4,Bank Transfer,Yes
+501063,Male,55.0,Connacht,Two Year,46,Bank Transfer,Yes
+501064,Male,47.0,Munster,Month-to-Month,38,Bank Transfer,No
+501065,Male,26.0,DUBLIN,One Year,27,Direct Debit,Yes
+501066,male,53.0,Dublin,Month-to-Month,7,Credit Card,No
+501067,Male,49.0,Dublin,One Year,60,Bank Transfer,Yes
+501068,Female,52.0,Connacht,Month-to-Month,37,Credit Card,Yes
+501069,Female,39.0,Dublin,1 Year,28,Direct Debit,Yes
+501070,Male,31.0,leinster,Month-to-Month,10,Credit Card,Yes
+501071,Female,55.0,Dublin,month-to-month,40,Direct Debit,Yes
+501072,Female,45.0,Dublin,Month-to-Month,1,Bank Transfer,Yes
+501073,Female,38.0,Dublin,One Year,52,Credit Card,No
+501074,Male,45.0,Dublin,One Year,15,Direct Debit,Yes
+501075,Male,29.0,Connacht,Two Year,17,Credit Card,Yes
+501076,Female,58.0,Leinster,Two Year,24,Bank Transfer,Yes
+501077,Female,18.0,Dublin,One Year,18,Credit Card,No
+501078,male,37.0,MUNSTER,Month-to-Month,46,Direct Debit,No
+501079,Male,46.0,dublin,One Year,18,Direct Debit,Yes
+501080,Male,47.0,Munster,One Year,20,Bank Transfer,No
+501081,M,35.0,Connacht,One Year,10,Credit Card,Yes
+501082,Male,54.0,Connacht,Two Year,57,Direct Debit,No
+501083,Male,37.0,Dublin,One Year,6,Direct Debit,Yes
+501084,Male,65.0,Dublin,Month-to-Month,52,Direct Debit,Yes
+501085,Male,42.0,Connacht,Month-to-Month,62,Credit Card,No
+501086,Male,51.0,Ulster,Month-to-Month,40,Credit Card,Yes
+501087,Male,32.0,Munster,Two Year,50,Credit Card,Yes
+501088,Female,41.0,Munster,Two Year,62,Direct Debit,Yes
+501089,Female,61.0,Leinster,Month-to-Month,25,Direct Debit,Yes
+501090,Female,59.0,Dublin,Two Year,35,Direct Debit,No
+501091,Male,53.0,Leinster,Month-to-Month,1,Direct Debit,Yes
+501092,Female,35.0,Leinster,month-to-month,23,Direct Debit,Yes
+501093,Male,29.0,Dublin,One Year,59,Direct Debit,No
+501094,Male,44.0,Dublin,One Year,40,Cash,No
+501095,Male,45.0,Dublin,One Year,27,Bank Transfer,Yes
+501096,female,,Dublin,One Year,44,Bank Transfer,No
+501097,M,21.0,Leinster,Month-to-Month,7,Credit Card,Yes
+501098,Male,33.0,Leinster,Two Year,40,Bank Transfer,No
+501099,F,46.0,Ulster,Two Year,57,Credit Card,Yes
+501100,Male,39.0,Munster,Month-to-Month,47,Bank Transfer,No
+501101,Male,29.0,Leinster,Month-to-Month,43,Direct Debit,No
+501102,Male,52.0,Dublin,One Year,30,Direct Debit,Yes
+501103,Male,23.0,Ulster,Month-to-Month,30,Direct Debit,Yes
+501104,F,43.0,Connacht,One Year,3,Direct Debit,Yes
+501105,Male,50.0,Leinster,Month-to-Month,51,Bank Transfer,No
+501106,female,65.0,LEINSTER,Month-to-Month,34,Direct Debit,Yes
+501107,Female,36.0,Ulster,Month-to-Month,23,Credit Card,Yes
+501108,Male,23.0,Dublin,Month-to-Month,72,Direct Debit,Yes
+501109,Male,34.0,Leinster,One Year,53,Direct Debit,No
+501110,Male,52.0,Leinster,Two Year,53,Cash,No
+501111,Male,21.0,munster,Month-to-Month,9,Cash,No
+501112,Male,42.0,Dublin,Month-to-Month,12,Direct Debit,No
+501113,F,33.0,Dublin,One Year,38,Bank Transfer,Yes
+501114,Female,23.0,Leinster,Month-to-Month,45,Cash,Yes
+501115,Male,45.0,Munster,Month-to-Month,49,Bank Transfer,Yes
+501116,Male,26.0,Leinster,One Year,24,Direct Debit,Yes
+501117,Male,42.0,munster,One Year,56,Direct Debit,No
+501118,Male,18.0,Dublin,2 Year,41,Credit Card,No
+501119,Male,37.0,Munster,Two Year,15,Credit Card,Yes
+501120,Male,60.0,Connacht,Two Year,58,Credit Card,No
+501121,Male,43.0,Dublin,Month-to-Month,72,Direct Debit,Yes
+501122,Female,54.0,Leinster,One Year,56,Cash,Yes
+501123,M,37.0,Leinster,Month-to-Month,8,Credit Card,No
+501124,Male,28.0,Connacht,Month-to-Month,40,Direct Debit,Yes
+501125,Female,52.0,munster,Two Year,37,Direct Debit,Yes
+501126,Male,30.0,Dublin,month-to-month,59,Direct Debit,Yes
+501127,Female,48.0,Leinster,Two Year,23,Direct Debit,Yes
+501128,male,51.0,Leinster,Month-to-Month,5,Direct Debit,Yes
+501129,Male,41.0,Dublin,One Year,12,Direct Debit,No
+501130,female,36.0,Ulster,Two Year,57,Cash,Yes
+501131,Female,36.0,Dublin,Monthly,13,Direct Debit,No
+501132,Female,45.0,Leinster,Month-to-Month,10,Credit Card,Yes
+501133,Male,29.0,Dublin,Month-to-Month,13,Direct Debit,No
+501134,Male,83.0,Leinster,One Year,35,Direct Debit,Yes
+501135,Female,56.0,Leinster,Month-to-Month,6,Credit Card,Yes
+501136,Female,25.0,Connacht,One Year,67,Direct Debit,No
+501137,Male,53.0,Dublin,Month-to-Month,24,Credit Card,Yes
+501138,Female,45.0,Dublin,One Year,13,Cash,No
+501139,Male,33.0,Leinster,Two Year,51,Bank Transfer,No
+501140,Female,21.0,Ulster,Two Year,23,Bank Transfer,Yes
+501141,female,52.0,Dublin,One Year,31,Direct Debit,Yes
+501142,Female,44.0,Dublin,Month-to-Month,2,Direct Debit,Yes
+501143,Female,33.0,Leinster,One Year,14,Direct Debit,No
+501144,Female,59.0,Connacht,Two Year,58,Cash,No
+501145,Male,64.0,Dublin,One Year,45,Credit Card,No
+501146,Female,37.0,Leinster,Month-to-Month,17,Credit Card,No
+501147,Male,38.0,Dublin,One Year,39,Credit Card,Yes
+501148,Male,18.0,Leinster ,Month-to-Month,38,Credit Card,Yes
+501149,Female,44.0,Dublin,Two Year,49,Credit Card,No
+501150,Female,65.0,Dublin,Two Year,50,Credit Card,No
+501151,Female,23.0,Dublin,Month-to-Month,46,Direct Debit,No
+501152,Female,49.0,Leinster,One Year,21,Direct Debit,Yes
+501153,Female,51.0,Connacht,Two Year,43,Direct Debit,Yes
+501154,Female,57.0,Connacht,One Year,9,Bank Transfer,Yes
+501155,Male,28.0,Dublin,Month-to-Month,25,Direct Debit,Yes
+501156,Female,,Leinster,Two Year,38,Direct Debit,Yes
+501157,Female,45.0,Leinster,Month-to-Month,32,Cash,Yes
+501158,Male,35.0,Connacht,Two Year,31,Direct Debit,Yes
+501159,Male,51.0,Dublin,Month-to-Month,46,Direct Debit,Yes
+501160,Male,22.0,Connacht,Month-to-Month,37,Credit Card,Yes
+501161,F,46.0,Dublin,Month-to-Month,63,Cash,Yes
+501162,Female,49.0,Dublin,Month-to-Month,29,Direct Debit,Yes
+501163,Male,36.0,Dublin,Month-to-Month,61,Direct Debit,Yes
+501164,Female,26.0,Leinster,Month-to-Month,65,Direct Debit,No
+501165,Female,48.0,Dublin,Month-to-Month,34,,No
+501166,female,38.0,Leinster,Month-to-Month,10,Direct Debit,Yes
+501167,Female,31.0,Ulster,Two Year,34,Cash,Yes
+501168,Male,64.0,Leinster,Month-to-Month,6,Credit Card,No
+501169,Female,61.0,Munster,Two Year,67,Direct Debit,Yes
+501170,Female,58.0,Dublin,Month-to-Month,29,Bank Transfer,Yes
+501171,Female,18.0,Leinster,Month-to-Month,13,Bank Transfer,Yes
+501172,Male,46.0,Dublin,One Year,13,Credit Card,Yes
+501173,Female,38.0,Connacht,month-to-month,14,Cash,Yes
+501174,Male,38.0,DUBLIN,One Year,46,Direct Debit,Yes
+501175,Male,58.0,Ulster,1 Year,41,,Yes
+501176,Female,39.0,Leinster,1 Year,68,Direct Debit,No
+501177,Male,27.0,Munster,One Year,68,Direct Debit,Yes
+501178,Male,28.0,Ulster,Month-to-Month,48,Direct Debit,Yes
+501179,female,56.0,Munster,One Year,25,Credit Card,Yes
+501180,Male,35.0,Leinster,Month-to-Month,25,Direct Debit,Yes
+501181,Female,49.0,Connacht,One Year,68,Direct Debit,Yes
+501182,Male,41.0,Ulster,Month-to-Month,52,Bank Transfer,No
+501183,Male,35.0,Munster,Month-to-Month,56,Bank Transfer,Yes
+501184,Female,18.0,Dublin,Two Year,27,Direct Debit,No
+501184,Female,18.0,Dublin,Two Year,27,Direct Debit,No
+501185,male,66.0,Connacht,Month-to-Month,30,Cash,Yes
+501186,male,26.0,Munster,One Year,18,Credit Card,No
+501187,F,18.0,Munster,month-to-month,12,Direct Debit,No
+501188,Male,54.0,Dublin,One Year,36,Direct Debit,Yes
+501189,Male,59.0,Munster,One Year,42,Credit Card,Yes
+501190,Female,51.0,Dublin,Two Year,46,Direct Debit,No
+501191,Female,18.0,Munster,month-to-month,36,Cash,Yes
+501192,Male,29.0,Munster,One Year,33,Credit Card,Yes
+501193,Male,47.0,Ulster,One Year,38,Direct Debit,Yes
+501194,Female,36.0,LEINSTER,Month-to-Month,55,Direct Debit,No
+501195,Male,30.0,leinster,Two Year,67,Direct Debit,Yes
+501196,Female,26.0,Ulster,Month-to-Month,55,Credit Card,No
+501197,F,30.0,Connacht,One Year,14,Cash,Yes
+501198,Female,32.0,Dublin ,Month-to-Month,30,Direct Debit,Yes
+501199,Female,49.0,Leinster,Two Year,36,Bank Transfer,Yes
+501200,F,38.0,CONNACHT,One Year,25,Cash,Yes
+501201,Male,25.0,Dublin,Two Year,32,Credit Card,Yes
+501202,M,36.0,Ulster,2 Year,18,Cash,No
+501203,Female,38.0,Connacht,Month-to-Month,5,Direct Debit,Yes
+501204,Female,50.0,munster,Month-to-Month,38,Direct Debit,Yes
+501205,Female,58.0,Munster,Two Year,51,Direct Debit,No
+501206,Female,52.0,Ulster,Month-to-Month,69,Cash,No
+501207,Female,46.0,Leinster,Month-to-Month,49,Cash,Yes
+501208,Female,43.0,Ulster,Two Year,17,Credit Card,Yes
+501209,Male,43.0,Munster,One Year,23,Cash,Yes
+501210,Male,64.0,Connacht,One Year,15,Direct Debit,Yes
+501211,Female,55.0,Leinster,1 Year,9,Bank Transfer,No
+501212,Female,50.0,Munster,One Year,13,Direct Debit,Yes
+501213,Female,35.0,Dublin,Two Year,50,Direct Debit,No
+501214,Male,53.0,Dublin,Two Year,39,Credit Card,Yes
+501215,Female,48.0,Dublin,Two Year,46,Bank Transfer,Yes
+501216,Female,45.0,Dublin,Month-to-Month,32,Direct Debit,No
+501217,Female,25.0,Dublin,Month-to-Month,30,Direct Debit,Yes
+501218,Female,37.0,Leinster,One Year,27,Credit Card,Yes
+501219,Male,33.0,Dublin,One Year,4,Direct Debit,Yes
+501220,male,37.0,Connacht,One Year,46,Direct Debit,Yes
+501221,Male,64.0,Connacht,Month-to-Month,57,Credit Card,No
+501222,Female,63.0,Leinster,Month-to-Month,2,Bank Transfer,Yes
+501223,Female,57.0,Ulster,Month-to-Month,17,,No
+501224,female,48.0,Connacht,2 Year,61,Direct Debit,No
+501225,Female,25.0,Dublin,Two Year,19,Credit Card,Yes
+501226,Female,52.0,Leinster,Month-to-Month,29,Bank Transfer,Yes
+501227,Male,36.0,Dublin,One Year,54,Credit Card,Yes
+501228,Male,37.0,Dublin,Month-to-Month,18,Direct Debit,Yes
+501229,Female,50.0,DUBLIN,Month-to-Month,13,Direct Debit,Yes
+501230,Female,51.0,Dublin,Month-to-Month,22,Bank Transfer,Yes
+501231,Female,26.0,Munster,One Year,37,Credit Card,Yes
+501232,Female,57.0,Munster,Month-to-Month,5,Bank Transfer,Yes
+501233,F,60.0,Ulster,Month-to-Month,30,Cash,No
+501234,Female,48.0,Munster,One Year,32,Direct Debit,Yes
+501235,Female,31.0,Ulster,Monthly,36,Cash,Yes
+501236,Female,31.0,Munster,Month-to-Month,65,Bank Transfer,No
+501237,Male,31.0,Leinster,Month-to-Month,35,Direct Debit,No
+501238,Female,55.0,Connacht,Month-to-Month,47,Direct Debit,Yes
+501239,Male,42.0,Leinster ,One Year,35,Direct Debit,Yes
+501240,Male,18.0,Ulster,month-to-month,33,Direct Debit,No
+501241,Female,51.0,Leinster,Month-to-Month,15,Credit Card,No
+501242,Female,49.0,Dublin,Monthly,72,Direct Debit,No
+501243,Male,21.0,Connacht,Month-to-Month,2,Direct Debit,No
+501244,Female,18.0,Leinster,Month-to-Month,34,Credit Card,Yes
+501245,F,43.0,Dublin,One Year,12,Bank Transfer,Yes
+501246,Male,54.0,Dublin,Month-to-Month,12,Credit Card,Yes
+501247,Male,40.0,Dublin,One Year,8,Credit Card,Yes
+501248,Female,46.0,Dublin,One Year,56,Credit Card,Yes
+501249,Male,30.0,Leinster,Two Year,21,Cash,Yes
+501250,Male,,Dublin,One Year,24,Direct Debit,Yes
+501251,Female,21.0,Dublin,One Year,47,Direct Debit,Yes
+501252,M,58.0,Dublin,Month-to-Month,28,Direct Debit,Yes
+501253,Male,39.0,Munster,Month-to-Month,6,Direct Debit,Yes
+501254,Female,34.0,Munster,Month-to-Month,39,Credit Card,Yes
+501255,Female,26.0,Dublin ,Two Year,42,Direct Debit,Yes
+501256,Male,59.0,Dublin,Month-to-Month,12,Credit Card,Yes
+501257,Male,36.0,Ulster,One Year,41,Credit Card,No
+501258,Female,37.0,Munster,One Year,31,Direct Debit,Yes
+501259,Female,38.0,Dublin,1 Year,41,Bank Transfer,No
+501260,Female,50.0,Dublin,Month-to-Month,39,Direct Debit,No
+501261,Female,65.0,Connacht,Month-to-Month,11,Cash,Yes
+501262,Female,57.0,Munster,Two Year,60,Credit Card,Yes
+501263,Female,31.0,Dublin,2 Year,29,Credit Card,No
+501264,Male,37.0,Dublin,One Year,10,Credit Card,Yes
+501265,Female,,Leinster,Two Year,29,Direct Debit,Yes
+501266,Female,39.0,Munster,One Year,37,Credit Card,Yes
+501267,Female,68.0,Munster,Month-to-Month,59,Cash,Yes
+501268,Male,23.0,Ulster,Two Year,28,Direct Debit,Yes
+501269,Male,47.0,Connacht,1 Year,33,Direct Debit,Yes
+501270,Male,27.0,Leinster,Month-to-Month,33,Cash,No
+501271,Male,62.0,Ulster,month-to-month,65,Credit Card,No
+501272,Male,37.0,Dublin ,Two Year,60,Cash,No
+501273,Female,35.0,Dublin,One Year,62,Direct Debit,Yes
+501274,Female,18.0,Dublin,Two Year,40,Direct Debit,Yes
+501275,Female,45.0,Dublin,Month-to-Month,5,Credit Card,Yes
+501276,Female,52.0,Dublin,1 Year,59,Direct Debit,Yes
+501277,M,,Dublin,One Year,48,Cash,Yes
+501278,Male,26.0,Leinster,Two Year,56,Credit Card,Yes
+501279,Female,42.0,Dublin,Two Year,50,Bank Transfer,Yes
+501280,Male,55.0,Dublin,One Year,13,Direct Debit,No
+501281,Female,34.0,Ulster,Month-to-Month,6,Direct Debit,No
+501282,Female,52.0,Ulster,Month-to-Month,37,Direct Debit,No
+501283,Female,57.0,Munster,Two Year,63,Bank Transfer,Yes
+501284,Female,42.0,Munster,Two Year,46,Bank Transfer,Yes
+501285,Female,62.0,Dublin,One Year,50,Direct Debit,Yes
+501286,Female,18.0,Connacht,Month-to-Month,28,Direct Debit,No
+501287,male,38.0,Dublin,One Year,68,Direct Debit,Yes
+501288,Female,38.0,Leinster,Month-to-Month,48,Credit Card,No
+501289,Male,59.0,Dublin,1 Year,29,Direct Debit,Yes
+501290,Male,53.0,Munster,Month-to-Month,54,Credit Card,No
+501291,Male,40.0,Dublin,Month-to-Month,36,Cash,No
+501292,Male,58.0,Ulster,One Year,63,Direct Debit,No
+501293,Female,42.0,Munster,Two Year,52,Direct Debit,Yes
+501294,Female,47.0,Dublin,Month-to-Month,34,Bank Transfer,Yes
+501295,Female,50.0,Leinster,One Year,19,Direct Debit,Yes
+501296,Female,52.0,Dublin,One Year,37,Direct Debit,Yes
+501297,Male,26.0,Leinster,One Year,43,Credit Card,Yes
+501298,Female,26.0,Leinster,month-to-month,20,,No
+501299,Male,63.0,Leinster,Two Year,67,Credit Card,No
+501300,Male,50.0,Connacht,Month-to-Month,12,Bank Transfer,No
+501301,Female,54.0,Munster,Month-to-Month,8,Direct Debit,No
+501302,female,70.0,Munster,One Year,5,Bank Transfer,No
+501303,Female,39.0,Munster,Month-to-Month,6,Direct Debit,No
+501304,Male,46.0,Munster,Month-to-Month,12,Bank Transfer,Yes
+501305,Male,31.0,Leinster,Two Year,14,Credit Card,Yes
+501306,Male,50.0,Dublin,Month-to-Month,5,Credit Card,Yes
+501307,Male,30.0,Leinster,Month-to-Month,36,Bank Transfer,No
+501308,Male,38.0,Leinster,Two Year,55,Credit Card,No
+501309,Female,29.0,Munster,Month-to-Month,10,Direct Debit,No
+501310,Female,33.0,Leinster,One Year,22,Credit Card,No
+501311,Male,42.0,Dublin,Month-to-Month,3,Direct Debit,Yes
+501312,Female,35.0,Connacht,Month-to-Month,10,Credit Card,Yes
+501313,Female,40.0,Dublin,Two Year,63,Direct Debit,Yes
+501314,Female,57.0,Leinster,Month-to-Month,54,Direct Debit,Yes
+501315,Female,61.0,Connacht,One Year,20,Bank Transfer,Yes
+501316,Female,47.0,DUBLIN,One Year,2,Direct Debit,No
+501317,Female,39.0,Ulster,One Year,64,Bank Transfer,No
+501318,Male,36.0,Leinster,Month-to-Month,11,Bank Transfer,No
+501319,Male,65.0,Dublin,Two Year,70,Credit Card,Yes
+501320,Male,57.0,Dublin,Month-to-Month,1,Direct Debit,Yes
+501321,Male,35.0,Connacht,2 Year,47,Bank Transfer,Yes
+501322,Male,,Dublin,Month-to-Month,7,Direct Debit,No
+501323,Female,66.0,Dublin,month-to-month,29,Direct Debit,Yes
+501324,Male,47.0,Leinster,Month-to-Month,39,Direct Debit,No
+501325,Male,57.0,Ulster,Month-to-Month,13,Credit Card,No
+501326,Male,24.0,Leinster,Two Year,34,Credit Card,Yes
+501327,Male,62.0,DUBLIN,Month-to-Month,22,Direct Debit,No
+501328,Female,38.0,Dublin,Month-to-Month,9,Direct Debit,Yes
+501329,Male,40.0,Connacht,One Year,32,Direct Debit,No
+501330,female,30.0,Dublin,One Year,56,Credit Card,No
+501331,Male,38.0,Leinster,Month-to-Month,1,Credit Card,No
+501332,Female,31.0,Munster,Monthly,8,Direct Debit,Yes
+501333,Male,64.0,Connacht,Month-to-Month,5,Direct Debit,Yes
+501334,Female,45.0,Leinster,One Year,71,Direct Debit,No
+501335,Male,38.0,Leinster,Two Year,21,Credit Card,No
+501336,Male,40.0,Munster ,One Year,40,Cash,Yes
+501337,Male,22.0,Dublin,One Year,37,Credit Card,Yes
+501338,Female,52.0,Munster,Two Year,33,Bank Transfer,No
+501339,Female,59.0,Connacht,Month-to-Month,56,Credit Card,No
+501340,Female,65.0,Connacht,One Year,66,Bank Transfer,No
+501341,Male,18.0,Leinster,Two Year,41,,No
+501342,F,41.0,Dublin,Two Year,60,Credit Card,No
+501343,Male,24.0,Dublin,Month-to-Month,28,Direct Debit,Yes
+501344,Female,25.0,Leinster,One Year,58,Cash,No
+501345,Female,37.0,Leinster,One Year,42,Credit Card,No
+501346,Male,36.0,leinster,Month-to-Month,46,Direct Debit,No
+501347,Male,37.0,Munster,Month-to-Month,11,Direct Debit,Yes
+501348,Female,58.0,Leinster,One Year,70,Cash,Yes
+501349,Male,51.0,Connacht,1 Year,41,Credit Card,No
+501350,Male,58.0,Munster,Two Year,43,Credit Card,No
+501351,Female,53.0,Leinster,One Year,60,Credit Card,Yes
+501352,Female,38.0,Dublin,Two Year,58,Direct Debit,No
+501353,male,27.0,Dublin,Month-to-Month,29,Direct Debit,No
+501354,Male,61.0,Munster,One Year,23,Credit Card,Yes
+501355,Female,38.0,Leinster,Two Year,37,Bank Transfer,Yes
+501356,Female,59.0,Munster,Two Year,28,Direct Debit,Yes
+501357,F,47.0,Dublin,Month-to-Month,38,Direct Debit,No
+501358,Male,47.0,Connacht,Two Year,38,Direct Debit,No
+501359,Female,59.0,Munster,Month-to-Month,62,Direct Debit,Yes
+501360,Female,51.0,Ulster,One Year,31,Direct Debit,No
+501361,Male,,Ulster,One Year,18,Direct Debit,Yes
+501362,Female,18.0,Connacht,Month-to-Month,48,Direct Debit,No
+501363,Male,49.0,Ulster,Month-to-Month,72,Bank Transfer,Yes
+501364,Female,39.0,Leinster,Month-to-Month,8,Credit Card,Yes
+501365,Female,35.0,Munster,Month-to-Month,15,Credit Card,No
+501366,Female,,Dublin,Month-to-Month,9,Credit Card,Yes
+501367,Female,36.0,Connacht,One Year,56,,Yes
+501368,Female,26.0,Dublin,Month-to-Month,28,Direct Debit,No
+501369,Female,45.0,Connacht,Month-to-Month,12,Bank Transfer,Yes
+501370,Female,60.0,Ulster,One Year,35,Direct Debit,Yes
+501371,male,46.0,Leinster,Month-to-Month,14,Bank Transfer,No
+501372,Female,40.0,Dublin,Month-to-Month,30,Bank Transfer,No
+501373,female,49.0,Dublin,One Year,70,Direct Debit,Yes
+501374,male,37.0,Dublin,One Year,56,Direct Debit,No
+501375,Female,24.0,Dublin,Two Year,9,Credit Card,Yes
+501376,Female,41.0,Munster,Month-to-Month,13,Credit Card,Yes
+501377,Female,,Ulster ,One Year,46,Direct Debit,Yes
+501378,Male,37.0,Dublin ,One Year,56,Bank Transfer,Yes
+501379,Female,52.0,Munster,Month-to-Month,66,Direct Debit,Yes
+501380,Female,36.0,Munster,One Year,19,Cash,Yes
+501381,Female,26.0,Dublin,One Year,46,Credit Card,Yes
+501382,Male,33.0,Dublin,Two Year,44,Direct Debit,Yes
+501383,Male,31.0,Munster,Month-to-Month,13,Direct Debit,No
+501384,Male,40.0,Dublin,Two Year,20,Bank Transfer,Yes
+501385,Male,18.0,Dublin,Two Year,13,Credit Card,Yes
+501386,Male,49.0,Ulster,One Year,4,Credit Card,Yes
+501387,Male,47.0,Munster,Two Year,70,Direct Debit,Yes
+501388,Female,51.0,Leinster,Month-to-Month,26,Direct Debit,No
+501389,Female,45.0,Dublin,Month-to-Month,4,Credit Card,Yes
+501390,Female,40.0,Dublin,Month-to-Month,28,Direct Debit,No
+501391,Female,25.0,Munster,Month-to-Month,69,Bank Transfer,No
+501392,Male,23.0,Connacht,Two Year,37,Direct Debit,Yes
+501393,Female,31.0,Dublin,Month-to-Month,52,Direct Debit,Yes
+501394,Male,,Leinster,Month-to-Month,70,Direct Debit,Yes
+501395,Male,35.0,Leinster,Month-to-Month,10,Cash,Yes
+501396,Female,57.0,Munster,One Year,63,Direct Debit,Yes
+501397,Female,55.0,Munster,Month-to-Month,41,Direct Debit,Yes
+501398,Female,44.0,Connacht,Month-to-Month,67,Direct Debit,Yes
+501399,Male,49.0,Ulster,One Year,26,Bank Transfer,Yes
+501400,Male,50.0,Munster,Month-to-Month,54,Bank Transfer,Yes
+501401,Female,43.0,Leinster,Month-to-Month,40,Direct Debit,Yes
+501402,Male,44.0,LEINSTER,Two Year,8,Direct Debit,Yes
+501403,Female,43.0,Munster,Two Year,32,Direct Debit,Yes
+501404,F,51.0,Connacht,One Year,19,Credit Card,Yes
+501405,Female,18.0,Connacht,One Year,31,Direct Debit,Yes
+501406,Male,26.0,munster,Two Year,25,Bank Transfer,No
+501407,Female,45.0,Ulster,Two Year,59,Bank Transfer,Yes
+501408,Male,61.0,Dublin,Two Year,72,Direct Debit,Yes
+501409,Female,32.0,Connacht,Month-to-Month,58,Bank Transfer,Yes
+501410,Male,48.0,Connacht ,Month-to-Month,39,Bank Transfer,Yes
+501411,F,44.0,Connacht,One Year,38,Bank Transfer,No
+501412,Male,40.0,Dublin,Month-to-Month,6,Direct Debit,No
+501413,Female,60.0,Dublin,Month-to-Month,21,Direct Debit,No
+501414,Male,25.0,Leinster,month-to-month,47,Bank Transfer,No
+501414,Male,25.0,Leinster,month-to-month,47,Bank Transfer,No
+501415,Female,29.0,Munster,Two Year,45,Direct Debit,Yes
+501416,Male,52.0,Ulster,One Year,33,Bank Transfer,Yes
+501417,Female,44.0,Dublin,Two Year,31,Direct Debit,No
+501418,Female,32.0,Munster,One Year,26,Bank Transfer,Yes
+501419,Female,45.0,Leinster,Month-to-Month,14,Credit Card,No
+501420,Male,26.0,Munster,Two Year,19,Direct Debit,No
+501421,Male,,Munster,Month-to-Month,37,Direct Debit,Yes
+501422,Male,23.0,Leinster,Month-to-Month,60,Bank Transfer,Yes
+501423,Female,50.0,Dublin,One Year,72,Direct Debit,No
+501424,Male,57.0,Leinster,Month-to-Month,11,Direct Debit,No
+501425,Male,18.0,Connacht,Two Year,47,,Yes
+501426,Female,44.0,Dublin,Month-to-Month,7,Direct Debit,No
+501427,Female,42.0,Leinster,Month-to-Month,27,Direct Debit,Yes
+501428,Male,47.0,Dublin,One Year,13,Direct Debit,No
+501429,Female,44.0,Leinster,One Year,13,Bank Transfer,Yes
+501430,Female,29.0,Leinster,Two Year,2,Direct Debit,Yes
+501431,Male,38.0,Munster,One Year,41,Direct Debit,Yes
+501432,Female,50.0,Munster,Month-to-Month,12,Direct Debit,Yes
+501433,female,20.0,Dublin,Two Year,38,Direct Debit,No
+501434,Male,43.0,Connacht,One Year,36,Direct Debit,Yes
+501435,F,34.0,Dublin,Month-to-Month,18,Credit Card,Yes
+501435,F,34.0,Dublin,Month-to-Month,18,Credit Card,Yes
+501436,Male,32.0,Leinster,Two Year,28,Direct Debit,No
+501437,Male,29.0,Leinster,One Year,58,Credit Card,Yes
+501438,Female,23.0,Leinster,Month-to-Month,46,Direct Debit,No
+501439,Female,42.0,Leinster,One Year,48,Direct Debit,Yes
+501440,Female,51.0,munster,Month-to-Month,32,Direct Debit,No
+501441,Male,35.0,munster,One Year,71,Direct Debit,Yes
+501442,Female,49.0,Connacht,2 Year,38,Credit Card,Yes
+501443,Male,32.0,Munster,1 Year,66,Bank Transfer,Yes
+501444,Female,67.0,Ulster,Month-to-Month,9,Direct Debit,Yes
+501445,Female,27.0,Ulster,Month-to-Month,32,Direct Debit,Yes
+501446,Female,43.0,Leinster,Month-to-Month,38,Cash,Yes
+501447,Male,53.0,Munster,Month-to-Month,3,Direct Debit,No
+501448,Female,58.0,Leinster,Two Year,47,Credit Card,Yes
+501449,Male,50.0,Munster,Two Year,4,Direct Debit,Yes
+501450,Male,44.0,Dublin,One Year,52,Direct Debit,Yes
+501451,Male,18.0,Leinster,Month-to-Month,6,Direct Debit,Yes
+501452,Female,55.0,Ulster,Two Year,51,Credit Card,No
+501453,Male,56.0,Dublin,Month-to-Month,36,Credit Card,No
+501454,Female,61.0,dublin,Monthly,20,Credit Card,Yes
+501455,Female,49.0,Munster,Month-to-Month,65,Direct Debit,Yes
+501456,Female,42.0,Dublin,One Year,6,Credit Card,Yes
+501457,male,31.0,Munster,One Year,41,Direct Debit,Yes
+501458,female,30.0,Leinster,Month-to-Month,1,Direct Debit,Yes
+501459,Male,27.0,Connacht,Two Year,25,Credit Card,No
+501460,Female,38.0,Connacht,Month-to-Month,40,Direct Debit,Yes
+501461,Male,28.0,Munster,Two Year,25,Bank Transfer,No
+501462,Male,47.0,Munster,Month-to-Month,21,Bank Transfer,Yes
+501463,Female,52.0,Munster,Two Year,60,Bank Transfer,Yes
+501464,Male,38.0,LEINSTER,One Year,35,Direct Debit,Yes
+501465,Female,70.0,Leinster,Month-to-Month,51,Direct Debit,Yes
+501466,Female,31.0,Dublin,1 Year,28,Bank Transfer,Yes
+501467,Female,47.0,ulster,Month-to-Month,64,Direct Debit,No
+501468,Female,38.0,Dublin,One Year,70,Credit Card,Yes
+501469,Male,23.0,Connacht,Month-to-Month,9,Direct Debit,Yes
+501470,Female,51.0,Connacht,One Year,58,Direct Debit,No
+501471,Male,30.0,Leinster,One Year,52,Credit Card,No
+501472,Male,18.0,Munster,Month-to-Month,52,Direct Debit,Yes
+501473,Female,37.0,Leinster,Two Year,70,Bank Transfer,Yes
+501474,Male,23.0,Dublin,Month-to-Month,56,Direct Debit,Yes
+501475,Male,35.0,Dublin,Month-to-Month,51,Direct Debit,Yes
+501476,Male,30.0,Leinster,Month-to-Month,9,Cash,Yes
+501477,Female,32.0,Ulster,Month-to-Month,12,Credit Card,Yes
+501478,Male,58.0,Leinster,Month-to-Month,4,Bank Transfer,Yes
+501479,male,43.0,Ulster,Month-to-Month,31,Credit Card,No
+501480,Male,54.0,Munster,One Year,34,Credit Card,Yes
+501481,Male,37.0,Leinster,Month-to-Month,48,Direct Debit,Yes
+501482,male,20.0,Leinster,Monthly,25,Direct Debit,No
+501483,Male,46.0,Dublin,Month-to-Month,9,Cash,No
+501484,Female,44.0,Connacht,One Year,23,Bank Transfer,No
+501485,Female,39.0,Dublin,1 Year,59,Credit Card,Yes
+501486,Female,39.0,Dublin,Month-to-Month,64,Direct Debit,No
+501487,Female,39.0,Dublin,One Year,25,Bank Transfer,Yes
+501488,Female,36.0,Munster,Month-to-Month,4,Credit Card,Yes
+501489,Male,34.0,Connacht,One Year,56,Direct Debit,Yes
+501490,Male,18.0,Dublin,Month-to-Month,14,Credit Card,No
+501491,Male,40.0,Dublin,One Year,58,Direct Debit,Yes
+501492,Male,34.0,Munster,Two Year,60,Cash,Yes
+501493,Male,37.0,Munster,Month-to-Month,13,Bank Transfer,Yes
+501494,Female,38.0,Munster,Month-to-Month,65,Direct Debit,Yes
+501495,Female,52.0,Dublin,Month-to-Month,61,Bank Transfer,Yes
+501496,Male,28.0,Ulster,Two Year,51,Direct Debit,Yes
+501497,Female,41.0,Leinster,Two Year,62,Direct Debit,Yes
+501498,Female,41.0,Leinster,Month-to-Month,19,Bank Transfer,Yes
+501499,Female,27.0,Dublin,month-to-month,60,Bank Transfer,Yes
+501500,Female,40.0,Munster,One Year,40,Direct Debit,Yes
+501501,Female,54.0,Munster,Two Year,70,Bank Transfer,Yes
+501502,Female,26.0,Leinster,Month-to-Month,45,Direct Debit,Yes
+501503,Female,32.0,Leinster,Month-to-Month,38,Direct Debit,No
+501504,Male,40.0,Dublin,Month-to-Month,9,Bank Transfer,Yes
+501505,Male,51.0,Dublin,Month-to-Month,25,Credit Card,No
+501506,Male,56.0,Dublin,Two Year,42,Credit Card,Yes
+501507,male,45.0,Leinster,One Year,70,Bank Transfer,No
+501508,Male,18.0,Ulster,Month-to-Month,33,Direct Debit,No
+501509,Female,60.0,Munster,Two Year,26,Credit Card,No
+501510,male,36.0,Leinster,Two Year,36,Direct Debit,No
+501511,Female,48.0,Leinster,Two Year,69,Direct Debit,Yes
+501512,Male,55.0,Dublin ,Month-to-Month,2,Direct Debit,No
+501513,Female,44.0,Munster,Month-to-Month,7,Direct Debit,Yes
+501514,Male,22.0,Dublin,Two Year,29,Bank Transfer,Yes
+501515,Male,52.0,Munster,1 Year,35,Direct Debit,No
+501516,Male,27.0,Leinster,One Year,51,Cash,Yes
+501517,Female,46.0,Munster,One Year,35,Credit Card,Yes
+501518,Male,38.0,Dublin,Month-to-Month,30,Credit Card,Yes
+501519,Female,33.0,Dublin,Two Year,40,Direct Debit,No
+501520,Male,46.0,Ulster,Month-to-Month,44,Direct Debit,No
+501521,Female,44.0,Munster,Two Year,46,Credit Card,Yes
+501522,female,44.0,Dublin,Month-to-Month,33,Bank Transfer,Yes
+501523,Female,25.0,Connacht,Month-to-Month,8,Bank Transfer,Yes
+501524,Female,58.0,Connacht,Month-to-Month,50,Credit Card,No
+501525,Female,44.0,ULSTER,Month-to-Month,62,Direct Debit,No
+501526,Male,39.0,Leinster,Two Year,65,Credit Card,No
+501527,Female,50.0,Ulster,Two Year,46,Credit Card,Yes
+501528,Female,40.0,Dublin,Month-to-Month,61,Credit Card,No
+501529,Male,39.0,Connacht,Month-to-Month,12,Bank Transfer,No
+501530,Male,41.0,Dublin,Month-to-Month,4,Bank Transfer,No
+501531,female,18.0,Munster,One Year,29,Credit Card,Yes
+501532,Female,999.0,Munster,Month-to-Month,12,Direct Debit,Yes
+501533,Female,58.0,Leinster,Two Year,52,Credit Card,No
+501534,Female,35.0,Dublin,Two Year,39,Cash,Yes
+501535,Female,41.0,Ulster,One Year,39,Bank Transfer,No
+501536,male,34.0,Leinster,One Year,51,Direct Debit,Yes
+501537,Male,,Dublin,Two Year,58,Credit Card,Yes
+501538,Female,39.0,Connacht,Month-to-Month,16,Credit Card,Yes
+501539,male,55.0,Munster,Month-to-Month,33,Direct Debit,Yes
+501540,Male,42.0,Leinster,Two Year,41,Direct Debit,Yes
+501541,Male,45.0,Munster,One Year,42,Direct Debit,No
+501542,Male,44.0,Leinster,Two Year,41,Credit Card,Yes
+501543,M,33.0,Leinster,Month-to-Month,45,Credit Card,Yes
+501544,Male,47.0,Connacht,Month-to-Month,39,Direct Debit,Yes
+501545,Female,51.0,Ulster,Two Year,44,Direct Debit,Yes
+501546,Male,30.0,Munster,Month-to-Month,50,Direct Debit,No
+501547,Male,53.0,Dublin,Month-to-Month,2,Credit Card,Yes
+501548,Female,34.0,Munster,Month-to-Month,14,Bank Transfer,No
+501549,Female,46.0,Dublin,Month-to-Month,34,Credit Card,No
+501550,Female,70.0,Ulster,Two Year,24,Credit Card,Yes
+501551,Male,35.0,Munster,Two Year,47,Credit Card,Yes
+501552,Female,28.0,Ulster,Month-to-Month,7,Bank Transfer,Yes
+501553,Male,32.0,Ulster,Two Year,22,Credit Card,No
+501554,female,48.0,Munster,Month-to-Month,15,Direct Debit,No
+501555,Male,35.0,Leinster,Month-to-Month,18,Direct Debit,Yes
+501556,female,35.0,Munster,Month-to-Month,51,Credit Card,Yes
+501557,Female,33.0,Dublin,One Year,32,,No
+501558,Female,36.0,Munster,Two Year,49,Bank Transfer,No
+501559,Female,49.0,Connacht,One Year,19,Direct Debit,Yes
+501560,Male,64.0,Connacht,Two Year,70,Direct Debit,Yes
+501561,Male,27.0,Dublin,Month-to-Month,57,Credit Card,Yes
+501562,Female,44.0,Ulster,One Year,68,Credit Card,Yes
+501563,Male,49.0,Dublin,One Year,69,Direct Debit,No
+501564,Male,37.0,Dublin,Month-to-Month,29,Cash,No
+501565,Male,30.0,Dublin,Month-to-Month,53,Credit Card,Yes
+501566,F,55.0,Dublin,Month-to-Month,26,Credit Card,Yes
+501567,M,36.0,Munster,Month-to-Month,33,Direct Debit,Yes
+501568,Female,43.0,Dublin,Two Year,71,Credit Card,No
+501569,Male,47.0,Dublin,Two Year,61,Bank Transfer,No
+501570,Female,40.0,Leinster,Two Year,55,Credit Card,No
+501571,Male,40.0,Munster,Month-to-Month,62,Credit Card,Yes
+501572,Male,62.0,Munster,One Year,14,Credit Card,No
+501573,Female,24.0,Ulster,Two Year,44,Direct Debit,No
+501574,M,35.0,Dublin,Two Year,8,Bank Transfer,Yes
+501575,Female,52.0,Munster,Two Year,15,Credit Card,Yes
+501576,female,60.0,Munster,Month-to-Month,69,Bank Transfer,Yes
+501577,Male,18.0,Munster ,Month-to-Month,40,Credit Card,Yes
+501578,Male,53.0,Dublin,Two Year,27,Bank Transfer,Yes
+501579,Female,28.0,connacht,2 Year,53,Direct Debit,No
+501580,Female,30.0,Leinster,One Year,28,Direct Debit,Yes
+501581,M,58.0,Dublin ,Two Year,41,Credit Card,No
+501582,female,53.0,Dublin ,Two Year,61,Direct Debit,Yes
+501583,Female,39.0,Leinster,Two Year,14,Direct Debit,Yes
+501583,Female,39.0,Leinster,Two Year,14,Direct Debit,Yes
+501584,Male,58.0,Ulster,Month-to-Month,3,Direct Debit,Yes
+501585,Male,43.0,Munster,month-to-month,3,Credit Card,Yes
+501586,Female,31.0,Munster,One Year,24,Direct Debit,No
+501587,Male,60.0,Munster,Two Year,31,Direct Debit,No
+501588,Male,50.0,Dublin,Month-to-Month,70,Direct Debit,No
+501589,Female,35.0,Munster,Month-to-Month,58,Cash,Yes
+501590,Female,30.0,Leinster,Month-to-Month,9,Credit Card,Yes
+501591,Female,23.0,Munster,One Year,22,Credit Card,Yes
+501592,Female,18.0,Leinster,Two Year,24,Credit Card,Yes
+501593,Male,23.0,Munster,Two Year,46,Bank Transfer,Yes
+501594,Female,41.0,Leinster,One Year,18,Credit Card,Yes
+501595,F,62.0,Leinster,Month-to-Month,11,Credit Card,Yes
+501596,Male,68.0,Leinster,Two Year,36,Credit Card,Yes
+501597,Female,,Munster,Two Year,44,Direct Debit,No
+501598,Female,59.0,Dublin,Two Year,38,Direct Debit,No
+501599,M,55.0,Dublin,1 Year,33,Direct Debit,Yes
+501600,Female,38.0,Ulster,Month-to-Month,60,Direct Debit,Yes
+501601,Female,42.0,Munster,One Year,25,Direct Debit,No
+501602,Male,51.0,Ulster,Month-to-Month,38,Direct Debit,Yes
+501603,Male,56.0,Leinster,Month-to-Month,50,Direct Debit,Yes
+501604,Male,53.0,Connacht ,Month-to-Month,2,Bank Transfer,Yes
+501605,Female,45.0,Leinster,Two Year,62,Credit Card,No
+501606,Female,70.0,Leinster,One Year,22,Direct Debit,Yes
+501607,male,24.0,Munster,One Year,10,Direct Debit,No
+501608,Female,57.0,Munster,Month-to-Month,7,Direct Debit,Yes
+501609,Female,33.0,Dublin,Two Year,36,Credit Card,Yes
+501610,Male,33.0,Munster,Two Year,51,Direct Debit,Yes
+501611,Female,43.0,Munster,One Year,12,Credit Card,No
+501612,Male,44.0,DUBLIN,Month-to-Month,25,Credit Card,Yes
+501613,Male,46.0,Leinster,Month-to-Month,54,Credit Card,No
+501614,Female,43.0,Connacht,Month-to-Month,13,Direct Debit,Yes
+501615,Female,40.0,Munster,1 Year,63,Cash,No
+501616,Male,55.0,Leinster,One Year,59,Direct Debit,Yes
+501617,Male,43.0,Munster,One Year,29,Cash,No
+501618,Female,45.0,Leinster,One Year,42,Direct Debit,No
+501619,Male,35.0,Leinster,Month-to-Month,7,Direct Debit,No
+501620,Female,59.0,Leinster,One Year,61,Direct Debit,Yes
+501621,Female,32.0,Leinster,Two Year,45,Direct Debit,No
+501622,female,35.0,Dublin,Two Year,1,Direct Debit,No
+501623,Male,37.0,dublin,One Year,33,Bank Transfer,Yes
+501624,Male,48.0,Ulster,One Year,40,Direct Debit,Yes
+501625,Male,25.0,Connacht,Month-to-Month,8,Bank Transfer,Yes
+501626,Female,53.0,Dublin,Two Year,61,Direct Debit,Yes
+501627,Male,28.0,Dublin,Month-to-Month,70,Direct Debit,Yes
+501628,Female,18.0,Dublin,Two Year,42,Bank Transfer,Yes
+501629,Female,49.0,Connacht,Month-to-Month,4,Direct Debit,Yes
+501630,Male,57.0,Munster,One Year,2,Credit Card,Yes
+501631,Male,29.0,Munster,Month-to-Month,22,Cash,No
+501632,Male,49.0,Connacht,Month-to-Month,52,Cash,Yes
+501633,Female,46.0,Ulster,Monthly,72,Credit Card,No
+501634,Female,49.0,Munster,Two Year,60,Direct Debit,No
+501635,Female,48.0,Munster,One Year,43,Bank Transfer,Yes
+501636,Male,49.0,Dublin,Two Year,19,Bank Transfer,Yes
+501637,Female,68.0,Dublin,Two Year,14,Direct Debit,Yes
+501638,Male,24.0,Dublin,One Year,36,Credit Card,Yes
+501639,Female,47.0,Munster,One Year,59,Cash,No
+501640,Female,41.0,Dublin,Month-to-Month,2,Bank Transfer,No
+501641,Male,23.0,Leinster,Month-to-Month,15,Direct Debit,No
+501642,Male,48.0,Dublin,Month-to-Month,66,Cash,No
+501643,Female,59.0,Munster,Month-to-Month,28,Bank Transfer,Yes
+501644,Male,54.0,Dublin,Month-to-Month,55,Direct Debit,No
+501645,Male,35.0,Connacht,Month-to-Month,35,Direct Debit,Yes
+501646,female,42.0,Dublin,Month-to-Month,47,Credit Card,No
+501647,Female,49.0,Ulster,Month-to-Month,32,Credit Card,Yes
+501648,Male,67.0,Munster,One Year,67,Direct Debit,Yes
+501649,F,47.0,Dublin,Month-to-Month,57,Bank Transfer,Yes
+501650,Female,54.0,Dublin,Month-to-Month,6,Bank Transfer,No
+501651,Male,66.0,Leinster,One Year,50,Direct Debit,Yes
+501652,Male,53.0,Munster,month-to-month,4,Direct Debit,No
+501653,Female,40.0,Dublin,One Year,55,Direct Debit,Yes
+501654,Male,38.0,Ulster,Month-to-Month,12,Credit Card,Yes
+501655,Male,38.0,Leinster,Two Year,37,Direct Debit,No
+501656,Male,,Leinster,One Year,21,Credit Card,No
+501657,Female,20.0,Munster,Two Year,50,Direct Debit,Yes
+501658,Male,999.0,Leinster ,Two Year,12,Credit Card,Yes
+501659,Female,52.0,Dublin,One Year,56,Bank Transfer,No
+501660,male,49.0,Munster,Month-to-Month,44,Bank Transfer,Yes
+501661,Female,26.0,Connacht,One Year,48,Direct Debit,Yes
+501662,Male,50.0,Munster,Month-to-Month,8,Bank Transfer,Yes
+501663,Female,23.0,Connacht,One Year,22,Credit Card,Yes
+501664,Male,54.0,Dublin,Two Year,44,Bank Transfer,Yes
+501665,Female,36.0,Munster,Two Year,29,Cash,Yes
+501666,Female,49.0,Dublin,Month-to-Month,49,Credit Card,Yes
+501666,Female,49.0,Dublin,Month-to-Month,49,Credit Card,Yes
+501667,F,25.0,Dublin,Month-to-Month,7,Cash,No
+501668,M,48.0,Munster,Month-to-Month,66,Credit Card,Yes
+501669,Male,25.0,Leinster,Two Year,13,Direct Debit,Yes
+501670,Male,23.0,Munster,Month-to-Month,6,Direct Debit,No
+501671,female,26.0,Dublin,Month-to-Month,48,Direct Debit,No
+501672,Male,54.0,Dublin,Month-to-Month,63,Cash,Yes
+501673,Female,38.0,Dublin,Month-to-Month,3,Cash,No
+501674,Male,57.0,Leinster,One Year,56,Direct Debit,Yes
+501675,Male,29.0,Dublin,Two Year,68,Credit Card,No
+501676,Male,37.0,Ulster,One Year,39,Credit Card,Yes
+501677,female,46.0,Connacht,Two Year,19,Direct Debit,Yes
+501678,Male,27.0,Dublin,One Year,27,Cash,Yes
+501679,Female,38.0,Leinster,One Year,43,Direct Debit,No
+501680,Male,59.0,Munster,One Year,41,Credit Card,No
+501681,Male,47.0,Ulster,Month-to-Month,67,Bank Transfer,Yes
+501682,Male,28.0,Dublin,Two Year,52,Direct Debit,No
+501683,Male,55.0,Munster,Month-to-Month,6,Direct Debit,Yes
+501684,Male,48.0,Connacht,Month-to-Month,58,Direct Debit,Yes
+501685,Female,50.0,Leinster,Two Year,58,Credit Card,Yes
+501686,Female,46.0,Dublin,One Year,9,Direct Debit,Yes
+501687,Female,46.0,Leinster,Two Year,54,Direct Debit,Yes
+501688,Female,58.0,Ulster,Month-to-Month,42,Bank Transfer,Yes
+501689,Male,47.0,Ulster,One Year,31,Credit Card,Yes
+501690,Female,39.0,Ulster,One Year,45,Bank Transfer,No
+501691,Male,59.0,Connacht,Two Year,45,Credit Card,Yes
+501692,Female,21.0,Munster,1 Year,47,Direct Debit,Yes
+501693,Female,18.0,Ulster,Month-to-Month,33,Bank Transfer,No
+501694,Male,40.0,Dublin,Two Year,21,Direct Debit,Yes
+501695,Male,40.0,Leinster,Month-to-Month,31,Bank Transfer,Yes
+501696,Female,47.0,Ulster,Two Year,41,Cash,No
+501697,Male,47.0,Connacht,One Year,13,Cash,Yes
+501698,Male,33.0,Dublin,Two Year,45,Cash,Yes
+501699,Female,25.0,Dublin,One Year,30,Bank Transfer,No
+501700,Male,47.0,Dublin,Month-to-Month,48,Cash,Yes
+501701,Male,44.0,MUNSTER,One Year,59,Bank Transfer,No
+501702,Female,29.0,Ulster,Month-to-Month,11,Credit Card,Yes
+501703,Female,28.0,Dublin,One Year,29,Direct Debit,Yes
+501704,Male,55.0,Dublin,One Year,26,Credit Card,Yes
+501705,Female,30.0,Munster,Month-to-Month,6,Credit Card,Yes
+501706,Female,50.0,Leinster,1 Year,54,Direct Debit,Yes
+501707,Female,53.0,Dublin,Month-to-Month,63,Direct Debit,No
+501708,Male,49.0,Munster,Month-to-Month,45,,Yes
+501709,Male,34.0,Leinster,Monthly,20,Credit Card,Yes
+501710,Male,44.0,Dublin,Month-to-Month,5,Direct Debit,Yes
+501711,Male,33.0,Leinster,Two Year,48,Credit Card,No
+501712,Male,25.0,Munster,Month-to-Month,59,Direct Debit,Yes
+501713,M,44.0,Munster,One Year,53,Credit Card,Yes
+501714,Female,58.0,Leinster,One Year,30,Direct Debit,Yes
+501715,Male,30.0,Dublin,One Year,60,Credit Card,No
+501716,Female,45.0,Ulster,Month-to-Month,13,Direct Debit,No
+501717,Female,48.0,Ulster,Month-to-Month,16,Credit Card,Yes
+501718,Male,44.0,Ulster,One Year,48,Direct Debit,Yes
+501719,Male,38.0,Connacht,Month-to-Month,36,Bank Transfer,Yes
+501720,Male,50.0,Dublin,Two Year,68,Credit Card,Yes
+501721,Female,59.0,Leinster,Month-to-Month,10,Direct Debit,Yes
+501722,Female,49.0,MUNSTER,One Year,16,Bank Transfer,Yes
+501723,Female,47.0,Leinster,Month-to-Month,54,Bank Transfer,Yes
+501724,Female,33.0,Munster,Month-to-Month,50,Credit Card,Yes
+501725,male,53.0,Leinster,Month-to-Month,58,,Yes
+501726,Female,39.0,Dublin,Two Year,9,Direct Debit,Yes
+501727,Female,41.0,Dublin,Month-to-Month,48,Direct Debit,Yes
+501728,Male,54.0,Munster,One Year,52,Direct Debit,Yes
+501729,Female,36.0,Dublin,Month-to-Month,24,,Yes
+501730,Female,42.0,Ulster ,Two Year,47,Credit Card,No
+501731,Male,51.0,Connacht,Month-to-Month,18,Cash,Yes
+501732,Male,32.0,Leinster,Two Year,28,Direct Debit,Yes
+501733,Female,37.0,Dublin,Month-to-Month,23,Credit Card,No
+501734,Male,,Connacht,Month-to-Month,56,Bank Transfer,Yes
+501735,Female,55.0,Dublin,Month-to-Month,22,Credit Card,Yes
+501736,Male,52.0,Leinster,Month-to-Month,23,Credit Card,No
+501737,Female,31.0,Dublin,Month-to-Month,58,Bank Transfer,No
+501738,Male,29.0,munster,Month-to-Month,37,Credit Card,Yes
+501739,Female,38.0,Leinster,Two Year,22,Cash,No
+501740,Male,49.0,Dublin,One Year,27,Direct Debit,Yes
+501741,Male,52.0,Ulster ,One Year,1,Bank Transfer,Yes
+501742,Female,54.0,Leinster ,Month-to-Month,27,Direct Debit,Yes
+501743,Male,44.0,Dublin ,Month-to-Month,47,Credit Card,Yes
+501744,Male,50.0,Dublin,One Year,48,Direct Debit,No
+501745,Female,57.0,Dublin,Month-to-Month,72,Cash,No
+501746,male,41.0,Leinster,One Year,16,Credit Card,Yes
+501747,Male,42.0,Dublin ,Two Year,27,Credit Card,Yes
+501748,Male,38.0,Dublin,1 Year,27,Cash,Yes
+501749,Male,37.0,Dublin,Two Year,6,Bank Transfer,No
+501750,Female,51.0,Dublin,Two Year,61,Direct Debit,No
+501751,Male,35.0,Munster,2 Year,46,Direct Debit,Yes
+501752,Female,63.0,Connacht,Two Year,7,Credit Card,No
+501753,female,35.0,Dublin,Two Year,42,Credit Card,No
+501754,Female,40.0,Munster,Month-to-Month,14,Direct Debit,Yes
+501755,Male,29.0,Ulster,Two Year,32,Cash,No
+501756,Female,23.0,Dublin,Month-to-Month,32,Direct Debit,No
+501757,Male,41.0,Munster,One Year,24,Direct Debit,No
+501758,Female,42.0,Dublin,One Year,30,Credit Card,Yes
+501759,Male,35.0,Connacht,Month-to-Month,25,Bank Transfer,No
+501760,Female,37.0,Leinster,Month-to-Month,31,Direct Debit,No
+501761,M,32.0,Munster,One Year,46,Direct Debit,No
+501762,Female,54.0,Dublin ,Two Year,1,Direct Debit,No
+501763,Female,49.0,Connacht,Month-to-Month,2,Direct Debit,Yes
+501764,Male,32.0,Dublin,Two Year,26,Bank Transfer,No
+501765,Female,36.0,Leinster,Month-to-Month,33,Direct Debit,Yes
+501766,Female,49.0,Connacht,Two Year,65,Cash,Yes
+501767,Male,63.0,Connacht,Two Year,30,Direct Debit,No
+501768,Male,30.0,Dublin,Two Year,43,Direct Debit,Yes
+501769,Male,48.0,Connacht,Two Year,21,Bank Transfer,Yes
+501770,Male,31.0,Leinster,Month-to-Month,2,Direct Debit,Yes
+501771,Female,25.0,Ulster,Month-to-Month,58,Cash,Yes
+501772,Male,42.0,Leinster,Two Year,43,Cash,No
+501773,Male,53.0,Leinster,2 Year,70,Credit Card,No
+501774,Male,40.0,Connacht,Month-to-Month,44,Bank Transfer,No
+501775,Female,49.0,Connacht ,One Year,13,Direct Debit,Yes
+501776,Male,31.0,Dublin,Two Year,27,Direct Debit,Yes
+501777,Male,46.0,Dublin,Month-to-Month,72,Credit Card,No
+501778,Male,42.0,Leinster,Two Year,12,Bank Transfer,No
+501779,Male,71.0,Munster,Month-to-Month,72,Bank Transfer,Yes
+501780,Male,40.0,Ulster,Month-to-Month,69,Direct Debit,Yes
+501781,male,54.0,Munster,Month-to-Month,26,Direct Debit,Yes
+501782,Male,29.0,Leinster,One Year,68,Credit Card,Yes
+501783,Male,22.0,Leinster,Month-to-Month,8,Bank Transfer,Yes
+501784,Male,55.0,Munster,Month-to-Month,49,Direct Debit,Yes
+501785,Male,54.0,Connacht,Month-to-Month,61,Bank Transfer,No
+501786,Male,30.0,Munster,Two Year,26,Direct Debit,No
+501787,Female,18.0,Leinster,One Year,8,Credit Card,No
+501788,Female,55.0,Leinster,Month-to-Month,25,Credit Card,No
+501789,Female,36.0,Leinster,Two Year,52,Direct Debit,No
+501790,Female,41.0,Dublin,Two Year,60,Direct Debit,Yes
+501791,Male,62.0,Munster,Month-to-Month,37,Direct Debit,Yes
+501792,Male,42.0,Leinster,One Year,21,Direct Debit,No
+501793,Male,40.0,Leinster,Two Year,69,Direct Debit,Yes
+501794,Female,49.0,Munster,Month-to-Month,14,Direct Debit,Yes
+501795,Female,46.0,Dublin,Month-to-Month,4,Direct Debit,Yes
+501796,Male,41.0,Leinster ,Two Year,67,Direct Debit,Yes
+501797,Male,40.0,Dublin,Month-to-Month,13,Direct Debit,Yes
+501798,Male,44.0,Ulster,Two Year,11,Direct Debit,Yes
+501799,Male,53.0,Connacht,Two Year,44,Credit Card,Yes
+501800,Male,58.0,Dublin,Month-to-Month,2,Credit Card,Yes
+501801,Male,50.0,Dublin,One Year,58,Credit Card,No
+501802,Male,41.0,Leinster,Month-to-Month,22,Direct Debit,Yes
+501803,Male,40.0,Connacht,Month-to-Month,5,Credit Card,Yes
+501804,Female,37.0,Munster,Two Year,9,Direct Debit,Yes
+501805,Female,28.0,Dublin,Month-to-Month,38,Direct Debit,No
+501806,Female,18.0,Leinster,Month-to-Month,30,Direct Debit,No
+501807,Male,31.0,Ulster,Two Year,26,Bank Transfer,Yes
+501808,Female,55.0,Munster,Month-to-Month,32,Direct Debit,No
+501809,Female,53.0,Ulster,One Year,35,Credit Card,Yes
+501810,Female,49.0,Leinster,One Year,30,Credit Card,Yes
+501811,Male,50.0,Connacht,Monthly,13,Direct Debit,No
+501812,Female,,Munster,One Year,47,Cash,No
+501813,Female,62.0,Ulster,Month-to-Month,9,Direct Debit,Yes
+501814,Female,47.0,Leinster,One Year,39,Credit Card,Yes
+501815,Male,46.0,Munster,Two Year,42,Credit Card,Yes
+501816,Female,54.0,Connacht,Month-to-Month,64,Direct Debit,Yes
+501817,Male,35.0,Munster,Two Year,69,Direct Debit,No
+501818,Female,41.0,Dublin,Month-to-Month,4,Cash,No
+501819,Female,33.0,Ulster,2 Year,37,Credit Card,No
+501820,Male,40.0,munster,One Year,6,Credit Card,Yes
+501821,Female,47.0,Munster,Month-to-Month,17,Direct Debit,Yes
+501822,Female,27.0,Leinster,One Year,56,Direct Debit,No
+501823,F,46.0,Ulster,One Year,26,Cash,No
+501824,Female,21.0,Dublin,Two Year,10,Credit Card,Yes
+501825,Male,45.0,Munster,2 Year,38,Direct Debit,Yes
+501826,Female,37.0,Munster,One Year,29,Credit Card,Yes
+501827,Female,27.0,Dublin,Monthly,22,Direct Debit,No
+501828,Male,40.0,Dublin,One Year,21,Direct Debit,Yes
+501829,Male,27.0,Leinster,One Year,52,Credit Card,Yes
+501830,Male,53.0,DUBLIN,One Year,45,Direct Debit,No
+501831,Female,57.0,Dublin,One Year,61,Cash,Yes
+501832,Female,43.0,Dublin,month-to-month,28,Direct Debit,Yes
+501833,Female,54.0,Leinster,One Year,45,Credit Card,Yes
+501834,Female,34.0,Dublin,One Year,42,Cash,No
+501835,Female,35.0,Dublin ,Month-to-Month,43,Credit Card,No
+501836,Female,32.0,Ulster,Two Year,60,Direct Debit,Yes
+501837,Female,33.0,Leinster,One Year,6,Credit Card,No
+501838,Female,36.0,Connacht,Month-to-Month,43,Direct Debit,No
+501839,Female,29.0,Connacht,One Year,50,Credit Card,Yes
+501840,Male,24.0,Dublin,Two Year,32,Cash,No
+501841,M,38.0,Dublin,Two Year,9,Cash,No
+501842,Male,36.0,leinster,Two Year,31,Direct Debit,No
+501843,Female,46.0,Munster,Month-to-Month,57,Credit Card,No
+501844,Male,50.0,Leinster,Two Year,32,Direct Debit,Yes
+501845,female,50.0,Munster,One Year,12,Direct Debit,Yes
+501846,male,45.0,Connacht,Month-to-Month,23,Direct Debit,Yes
+501847,Male,29.0,Leinster,Month-to-Month,23,Direct Debit,No
+501848,Female,47.0,Leinster,One Year,38,Credit Card,No
+501849,Female,34.0,Leinster,Month-to-Month,20,Cash,No
+501850,Female,48.0,Dublin,One Year,42,Credit Card,No
+501851,Male,66.0,Connacht,Two Year,21,Direct Debit,No
+501852,Female,49.0,Leinster,One Year,46,Credit Card,No
+501853,Female,52.0,Leinster ,Month-to-Month,31,Direct Debit,Yes
+501854,F,18.0,Connacht,Month-to-Month,50,Direct Debit,Yes
+501855,Male,51.0,Dublin,Monthly,57,Direct Debit,Yes
+501856,Male,38.0,Munster,Month-to-Month,12,Credit Card,Yes
+501857,Female,41.0,Dublin,Two Year,14,Credit Card,Yes
+501858,Female,40.0,Leinster,Two Year,62,Cash,No
+501859,Male,42.0,Dublin,One Year,56,Credit Card,No
+501860,Female,28.0,Munster,Month-to-Month,59,Cash,Yes
+501861,Female,37.0,Dublin,One Year,46,Direct Debit,Yes
+501862,Male,36.0,Munster,One Year,57,Bank Transfer,No
+501863,male,34.0,Dublin,Month-to-Month,57,Credit Card,Yes
+501864,Male,40.0,Munster,Month-to-Month,45,Direct Debit,No
+501865,Female,45.0,Munster,Month-to-Month,10,Direct Debit,No
+501866,Female,29.0,Munster,Month-to-Month,13,Direct Debit,No
+501867,Female,57.0,Munster ,Month-to-Month,4,Direct Debit,No
+501868,Female,20.0,Connacht,Month-to-Month,48,Direct Debit,Yes
+501869,Male,23.0,Munster,Two Year,33,Direct Debit,Yes
+501870,Female,47.0,Leinster,Month-to-Month,42,Credit Card,No
+501871,female,,Leinster,Month-to-Month,12,Credit Card,Yes
+501872,Male,50.0,Connacht,Two Year,41,Cash,Yes
+501873,Female,72.0,Leinster,One Year,27,Bank Transfer,Yes
+501874,female,58.0,Dublin,One Year,38,Direct Debit,Yes
+501875,Male,29.0,Dublin,One Year,12,Direct Debit,Yes
+501876,Male,57.0,Munster,One Year,38,Direct Debit,Yes
+501877,Female,51.0,Munster,Month-to-Month,32,Direct Debit,Yes
+501878,Male,32.0,Leinster,Month-to-Month,2,Cash,No
+501879,Female,19.0,Leinster,One Year,23,Direct Debit,No
+501880,Female,54.0,Munster,Two Year,30,Direct Debit,No
+501881,male,26.0,Dublin,One Year,42,Credit Card,Yes
+501882,Female,39.0,Leinster,Month-to-Month,60,Bank Transfer,Yes
+501883,Female,73.0,Leinster,Month-to-Month,34,Cash,Yes
+501884,Male,,Leinster,Month-to-Month,55,Cash,Yes
+501885,Male,46.0,Dublin,Two Year,25,Direct Debit,No
+501886,Female,,Leinster,month-to-month,52,Credit Card,No
+501887,Female,50.0,Leinster,One Year,20,Bank Transfer,No
+501888,Male,49.0,Leinster,Month-to-Month,58,Direct Debit,No
+501889,Male,47.0,Dublin,Two Year,60,Bank Transfer,Yes
+501890,Female,33.0,Leinster,Two Year,58,Direct Debit,Yes
+501891,Male,30.0,Dublin,Month-to-Month,37,Direct Debit,Yes
+501892,Female,,Dublin,Two Year,55,Direct Debit,No
+501893,Male,59.0,Dublin,Month-to-Month,23,Direct Debit,Yes
+501894,Male,20.0,Leinster,1 Year,6,Direct Debit,No
+501895,Male,33.0,Dublin,Two Year,68,,Yes
+501896,Male,33.0,Connacht,Month-to-Month,5,Direct Debit,Yes
+501897,Male,50.0,Ulster,Two Year,20,Direct Debit,Yes
+501898,Female,24.0,Dublin,Two Year,39,Cash,Yes
+501899,Male,37.0,Munster,One Year,64,Credit Card,Yes
+501900,female,44.0,Connacht,Month-to-Month,11,Direct Debit,Yes
+501901,Female,58.0,Dublin,Two Year,59,Direct Debit,No
+501902,Female,51.0,Dublin,One Year,21,Direct Debit,Yes
+501903,Male,58.0,Connacht,Month-to-Month,14,Credit Card,Yes
+501904,Female,68.0,Dublin ,One Year,35,Direct Debit,Yes
+501905,Female,59.0,DUBLIN,One Year,50,Credit Card,Yes
+501906,Male,49.0,Connacht,Two Year,66,Direct Debit,No
+501907,Female,56.0,Dublin,One Year,45,Cash,No
+501908,Female,36.0,Munster ,Two Year,13,Direct Debit,Yes
+501909,Female,48.0,Dublin,Two Year,33,Direct Debit,No
+501910,M,44.0,Dublin,Two Year,26,Direct Debit,Yes
+501911,Male,38.0,Dublin,Two Year,18,Bank Transfer,No
+501912,Female,36.0,Leinster,One Year,53,Credit Card,Yes
+501913,Female,52.0,Dublin,One Year,24,Credit Card,No
+501914,Male,58.0,Ulster,Month-to-Month,14,Credit Card,Yes
+501915,Female,37.0,Munster,Two Year,62,Direct Debit,Yes
+501916,Female,56.0,Ulster,Month-to-Month,11,Bank Transfer,No
+501917,Female,56.0,Dublin,Month-to-Month,31,Direct Debit,No
+501918,Male,53.0,Dublin,One Year,29,Direct Debit,No
+501919,F,30.0,Leinster,Month-to-Month,51,Credit Card,Yes
+501920,Male,18.0,Dublin,One Year,16,Credit Card,Yes
+501921,Male,49.0,Munster,Month-to-Month,11,Credit Card,Yes
+501922,Female,34.0,Munster,Two Year,31,Direct Debit,No
+501923,Male,44.0,Leinster,Month-to-Month,64,Cash,Yes
+501924,Male,50.0,Dublin,Two Year,44,Direct Debit,No
+501925,Male,36.0,Ulster,One Year,53,Direct Debit,Yes
+501926,F,32.0,Munster,Two Year,45,Direct Debit,Yes
+501927,Female,57.0,Connacht ,Month-to-Month,14,Direct Debit,Yes
+501928,Male,28.0,Munster,Month-to-Month,24,Credit Card,Yes
+501929,Male,41.0,Connacht ,Month-to-Month,32,Cash,Yes
+501930,Male,27.0,Dublin,Two Year,36,Direct Debit,Yes
+501931,Female,57.0,Ulster,Month-to-Month,37,Cash,Yes
+501932,Male,18.0,Dublin,Month-to-Month,50,Cash,No
+501933,male,41.0,Dublin,Month-to-Month,34,Bank Transfer,Yes
+501934,Female,,Dublin,Two Year,14,Direct Debit,Yes
+501935,Male,43.0,Dublin,One Year,60,Direct Debit,Yes
+501936,Female,0.0,Leinster,One Year,49,Credit Card,Yes
+501937,Male,53.0,Dublin,One Year,41,Bank Transfer,Yes
+501938,Female,18.0,Dublin ,Two Year,57,Direct Debit,No
+501939,Female,43.0,Ulster,One Year,28,Bank Transfer,Yes
+501940,F,61.0,Ulster,Two Year,30,Cash,Yes
+501941,Female,28.0,Munster,One Year,55,Cash,No
+501942,Female,39.0,Munster,Two Year,31,Credit Card,No
+501943,Female,58.0,Munster,One Year,31,Credit Card,Yes
+501944,Female,38.0,Munster,Two Year,70,Direct Debit,No
+501945,Male,48.0,Dublin,Month-to-Month,43,Direct Debit,No
+501946,Female,26.0,Dublin,Month-to-Month,65,Credit Card,No
+501947,Male,65.0,Dublin,Two Year,64,Bank Transfer,Yes
+501948,Male,52.0,Leinster ,One Year,51,Direct Debit,No
+501949,Female,55.0,munster,One Year,11,Direct Debit,Yes
+501950,Female,45.0,Leinster,Month-to-Month,72,Credit Card,Yes
+501951,Female,,Dublin,Two Year,27,Direct Debit,No
+501952,Female,56.0,Dublin,One Year,11,Direct Debit,Yes
+501953,Female,37.0,Munster,Month-to-Month,4,Credit Card,No
+501954,Male,18.0,Connacht,Month-to-Month,24,Credit Card,No
+501955,Male,25.0,Munster,One Year,51,Cash,Yes
+501956,Female,46.0,Dublin,month-to-month,27,Credit Card,No
+501957,Male,36.0,Connacht,Month-to-Month,44,Direct Debit,Yes
+501958,Female,52.0,leinster,One Year,44,Direct Debit,Yes
+501959,Male,49.0,Leinster,Two Year,53,Direct Debit,Yes
+501960,Female,60.0,Munster,Two Year,14,Credit Card,No
+501961,Male,48.0,Dublin,Month-to-Month,6,Direct Debit,Yes
+501962,Female,35.0,Dublin,One Year,29,Credit Card,Yes
+501963,Male,34.0,Leinster,Month-to-Month,68,Bank Transfer,Yes
+501964,Male,58.0,Ulster,One Year,64,Cash,No
+501965,Female,44.0,Dublin,One Year,70,Credit Card,No
+501966,Female,19.0,Leinster,Two Year,10,Bank Transfer,Yes
+501967,Male,28.0,Munster,Month-to-Month,46,Cash,Yes
+501968,Male,38.0,Leinster,1 Year,54,Direct Debit,Yes
+501969,Male,46.0,Dublin,One Year,64,Cash,No
+501970,Female,39.0,Dublin,Month-to-Month,12,Cash,No
+501971,Male,58.0,Munster,One Year,60,Direct Debit,Yes
+501972,Male,38.0,Ulster,Two Year,11,Bank Transfer,Yes
+501973,Female,63.0,Munster,One Year,57,Direct Debit,Yes
+501974,Female,62.0,Dublin ,Month-to-Month,72,Cash,Yes
+501975,Female,38.0,Munster,Month-to-Month,7,Bank Transfer,Yes
+501976,Male,,Ulster,One Year,7,Credit Card,Yes
+501977,Female,31.0,Leinster,Month-to-Month,11,Direct Debit,Yes
+501978,Male,51.0,Leinster,Month-to-Month,9,Credit Card,Yes
+501979,Male,49.0,Ulster,One Year,37,Bank Transfer,Yes
+501980,Male,50.0,Munster,One Year,54,Direct Debit,Yes
+501981,Male,64.0,Ulster,Month-to-Month,11,Bank Transfer,Yes
+501982,Female,57.0,Munster,Month-to-Month,65,Credit Card,Yes
+501983,Female,53.0,Leinster,Month-to-Month,55,Cash,Yes
+501984,Male,59.0,Munster,Month-to-Month,9,Bank Transfer,Yes
+501985,female,43.0,Leinster,Month-to-Month,9,Direct Debit,Yes
+501986,Female,,Leinster,Month-to-Month,70,Bank Transfer,Yes
+501987,Male,55.0,Munster,One Year,13,Cash,Yes
+501988,Female,27.0,Munster,Month-to-Month,53,Direct Debit,Yes
+501989,F,54.0,Leinster,Two Year,19,Direct Debit,Yes
+501990,Male,52.0,Leinster,One Year,29,Credit Card,No
+501990,Male,52.0,Leinster,One Year,29,Credit Card,No
+501991,Female,30.0,Dublin,One Year,57,Direct Debit,Yes
+501992,Male,33.0,Connacht,Month-to-Month,35,Credit Card,No
+501993,female,30.0,Connacht,Month-to-Month,35,Cash,Yes
+501994,Male,18.0,Munster,Two Year,37,Credit Card,Yes
+501995,Male,52.0,Connacht,Month-to-Month,37,Direct Debit,Yes
+501996,Male,38.0,Leinster,Two Year,47,Credit Card,Yes
+501997,Female,999.0,Dublin,Month-to-Month,25,Direct Debit,Yes
+501998,Female,41.0,Connacht,2 Year,14,Credit Card,Yes
+501999,Female,39.0,Leinster,Two Year,62,Direct Debit,Yes
+502000,Male,42.0,Dublin,Month-to-Month,9,Direct Debit,Yes
+502001,Female,,Dublin,One Year,70,Direct Debit,No
+502002,Female,36.0,Leinster,Month-to-Month,12,Credit Card,No
+502003,F,54.0,Munster,Two Year,30,Direct Debit,Yes
+502004,Male,32.0,Leinster,Month-to-Month,4,Direct Debit,No
+502005,Female,34.0,Dublin,One Year,5,Bank Transfer,No
+502006,Male,53.0,Connacht,One Year,1,Credit Card,No
+502007,Female,39.0,Leinster,One Year,20,Direct Debit,Yes
+502008,M,47.0,Munster,One Year,30,Bank Transfer,Yes
+502009,Female,27.0,Munster,Two Year,29,Direct Debit,Yes
+502010,Female,48.0,Dublin,One Year,36,Credit Card,Yes
+502011,Female,48.0,Munster,Two Year,63,Cash,Yes
+502012,Female,25.0,Munster,Month-to-Month,53,Direct Debit,No
+502013,Male,59.0,Ulster,Two Year,31,Direct Debit,No
+502014,Female,65.0,Leinster,One Year,29,Credit Card,Yes
+502015,Male,34.0,ULSTER,Month-to-Month,23,Direct Debit,Yes
+502016,Female,57.0,Dublin,Two Year,38,Credit Card,Yes
+502017,Female,58.0,Dublin,Month-to-Month,33,Cash,Yes
+502018,Male,56.0,Dublin,month-to-month,26,Credit Card,Yes
+502019,Female,32.0,Connacht,Month-to-Month,25,Bank Transfer,Yes
+502020,Female,46.0,DUBLIN,Month-to-Month,9,Cash,Yes
+502021,Male,40.0,DUBLIN,month-to-month,6,Credit Card,Yes
+502022,Female,46.0,Dublin,Two Year,70,Direct Debit,No
+502023,Male,,Dublin,Month-to-Month,72,Direct Debit,Yes
+502024,Male,67.0,Connacht,Month-to-Month,60,Credit Card,No
+502025,Female,48.0,Leinster,One Year,44,Direct Debit,No
+502026,F,47.0,Dublin,Month-to-Month,21,Credit Card,No
+502027,Male,57.0,Munster,Month-to-Month,59,Bank Transfer,No
+502028,Female,38.0,Dublin,1 Year,3,Bank Transfer,Yes
+502029,Male,42.0,Dublin,Month-to-Month,71,Direct Debit,Yes
+502030,Male,40.0,Leinster,Month-to-Month,43,Direct Debit,Yes
+502031,Male,31.0,Dublin,One Year,12,Bank Transfer,No
+502032,Male,,DUBLIN,Two Year,39,Credit Card,No
+502033,Female,21.0,Connacht,Month-to-Month,47,Bank Transfer,No
+502034,Male,38.0,Leinster,Month-to-Month,33,Direct Debit,Yes
+502035,Male,55.0,Munster,Month-to-Month,57,Direct Debit,No
+502036,Male,18.0,Dublin,One Year,47,Credit Card,No
+502037,Male,40.0,Dublin,One Year,45,Credit Card,No
+502038,Female,44.0,Munster,Two Year,23,Direct Debit,Yes
+502039,Male,40.0,Dublin,One Year,65,Credit Card,Yes
+502040,Female,52.0,Dublin,Two Year,35,Cash,No
+502041,Female,54.0,Munster,One Year,42,Bank Transfer,Yes
+502042,Female,34.0,Ulster,One Year,33,Direct Debit,Yes
+502043,Female,47.0,Dublin,Two Year,37,Direct Debit,No
+502044,Female,33.0,Leinster,Two Year,26,Credit Card,Yes
+502045,Male,23.0,Munster,Month-to-Month,42,Direct Debit,Yes
+502046,Female,32.0,Dublin,Month-to-Month,36,Direct Debit,Yes
+502047,Female,59.0,Leinster,Month-to-Month,56,Cash,Yes
+502048,Female,33.0,Leinster ,Month-to-Month,19,Direct Debit,Yes
+502049,Male,50.0,Dublin,Month-to-Month,13,Direct Debit,No
+502050,Male,20.0,Connacht,Month-to-Month,11,Credit Card,Yes
+502051,male,65.0,Leinster,Month-to-Month,72,Credit Card,Yes
+502052,Male,40.0,ULSTER,Month-to-Month,18,Credit Card,Yes
+502053,Female,53.0,Ulster,Two Year,12,Credit Card,Yes
+502054,Male,32.0,Connacht,Two Year,6,Direct Debit,Yes
+502055,Male,19.0,Dublin,Monthly,21,Direct Debit,No
+502056,Female,39.0,Leinster,Month-to-Month,38,Direct Debit,Yes
+502057,Male,58.0,Ulster,One Year,56,Direct Debit,Yes
+502058,Female,,LEINSTER,Month-to-Month,71,Credit Card,Yes
+502059,Female,31.0,Dublin,One Year,48,Direct Debit,Yes
+502060,Male,63.0,Leinster,Month-to-Month,13,Bank Transfer,Yes
+502061,male,64.0,Munster,1 Year,22,Direct Debit,Yes
+502062,M,55.0,Leinster,Month-to-Month,65,Bank Transfer,Yes
+502063,Male,46.0,Munster,Month-to-Month,14,Credit Card,No
+502064,Female,41.0,Connacht,One Year,39,Cash,Yes
+502065,Male,65.0,Ulster,Two Year,26,Cash,Yes
+502066,M,61.0,Dublin,One Year,39,Direct Debit,No
+502067,Female,49.0,Dublin,One Year,10,Credit Card,Yes
+502068,Female,,Leinster,One Year,21,Direct Debit,Yes
+502069,Female,23.0,Munster,1 Year,56,Bank Transfer,Yes
+502069,Female,23.0,Munster,1 Year,56,Bank Transfer,Yes
+502070,Male,42.0,Dublin,Two Year,15,Direct Debit,Yes
+502071,Male,48.0,Connacht,One Year,57,Bank Transfer,No
+502072,Male,56.0,Leinster,Two Year,23,Credit Card,Yes
+502073,Female,38.0,Munster,One Year,56,Direct Debit,Yes
+502074,Male,19.0,Connacht,Month-to-Month,59,Bank Transfer,No
+502075,Male,54.0,Leinster ,Month-to-Month,3,Bank Transfer,Yes
+502076,Female,42.0,dublin,1 Year,31,Direct Debit,Yes
+502077,Male,36.0,Connacht,One Year,9,Direct Debit,Yes
+502078,Male,32.0,Munster ,Two Year,46,Credit Card,Yes
+502079,Female,49.0,Leinster,Month-to-Month,2,Bank Transfer,Yes
+502080,Female,43.0,Munster,Two Year,20,Direct Debit,No
+502081,Male,,Dublin,One Year,41,Direct Debit,No
+502082,Female,48.0,Munster,One Year,27,Direct Debit,Yes
+502083,Female,51.0,Leinster,One Year,62,Credit Card,No
+502084,Male,54.0,Leinster,One Year,50,Credit Card,No
+502085,Male,47.0,Munster,Month-to-Month,33,Credit Card,Yes
+502086,Female,26.0,MUNSTER,Two Year,59,Direct Debit,Yes
+502087,Female,37.0,Dublin,Month-to-Month,20,Direct Debit,No
+502088,Male,65.0,Munster,Month-to-Month,40,Direct Debit,Yes
+502089,Female,52.0,Munster,One Year,43,Direct Debit,Yes
+502090,Female,47.0,Dublin,Two Year,24,Direct Debit,No
+502091,Male,50.0,Ulster,Month-to-Month,6,Credit Card,No
+502092,Female,54.0,Leinster,Two Year,14,Direct Debit,Yes
+502093,Female,47.0,Munster,One Year,67,Bank Transfer,Yes
+502094,Male,30.0,Munster,One Year,60,Credit Card,No
+502095,male,70.0,Dublin,One Year,54,Credit Card,Yes
+502096,Female,44.0,Connacht,Month-to-Month,5,Direct Debit,No
+502097,Female,18.0,Ulster,Two Year,32,Direct Debit,No
+502098,Female,45.0,Connacht,Two Year,46,Direct Debit,Yes
+502099,Male,20.0,Dublin,Two Year,42,Bank Transfer,No
+502100,Female,44.0,Ulster,Month-to-Month,70,Credit Card,Yes
+502101,Female,52.0,Dublin,Month-to-Month,42,Direct Debit,No
+502102,Female,44.0,MUNSTER,One Year,37,Credit Card,Yes
+502103,Male,27.0,Dublin,Two Year,50,Cash,Yes
+502104,Female,22.0,Munster,Month-to-Month,13,Credit Card,Yes
+502105,Female,43.0,leinster,Month-to-Month,33,Credit Card,Yes
+502106,Male,27.0,Connacht,Two Year,23,Direct Debit,Yes
+502107,Female,25.0,Ulster ,One Year,39,,Yes
+502108,Male,18.0,Leinster,Month-to-Month,43,Direct Debit,No
+502109,Male,26.0,Dublin,Month-to-Month,12,Bank Transfer,No
+502110,M,34.0,Leinster,One Year,55,Cash,Yes
+502111,Male,58.0,Leinster,Month-to-Month,37,Direct Debit,Yes
+502112,male,21.0,Connacht,One Year,48,Direct Debit,Yes
+502113,Female,39.0,Dublin,Two Year,30,Credit Card,Yes
+502114,Female,39.0,Munster,Two Year,68,Credit Card,Yes
+502115,Male,38.0,Dublin,One Year,11,Credit Card,Yes
+502116,F,77.0,Dublin,Month-to-Month,27,Direct Debit,No
+502117,Male,40.0,Dublin,One Year,56,Direct Debit,Yes
+502118,Female,50.0,Connacht,Two Year,17,Direct Debit,Yes
+502119,male,61.0,Connacht,Month-to-Month,48,Cash,Yes
+502120,Male,33.0,Leinster,Month-to-Month,2,Cash,No
+502121,Male,49.0,Munster,Month-to-Month,22,Direct Debit,Yes
+502122,Female,36.0,Dublin,One Year,39,Credit Card,Yes
+502123,Female,49.0,Munster,Month-to-Month,2,Direct Debit,Yes
+502124,Female,47.0,Dublin,Month-to-Month,22,Direct Debit,No
+502125,Male,23.0,Dublin,Two Year,7,Direct Debit,No
+502126,Female,53.0,Munster,One Year,7,Direct Debit,Yes
+502127,Male,72.0,Leinster,One Year,19,Direct Debit,Yes
+502128,Male,55.0,LEINSTER,2 Year,56,Credit Card,No
+502129,Male,35.0,Connacht,Two Year,64,Direct Debit,Yes
+502130,Female,50.0,Dublin,Month-to-Month,66,Credit Card,No
+502131,Female,33.0,Leinster,month-to-month,1,Credit Card,Yes
+502132,Male,57.0,Munster,One Year,1,Credit Card,Yes
+502133,Female,34.0,Leinster,One Year,23,Direct Debit,Yes
+502134,Female,52.0,Connacht,Month-to-Month,60,Credit Card,No
+502135,Female,38.0,Dublin,Month-to-Month,4,Bank Transfer,Yes
+502136,female,36.0,Dublin,Two Year,19,Direct Debit,Yes
+502137,Male,50.0,Leinster,One Year,36,Direct Debit,Yes
+502138,Male,56.0,Munster,Two Year,49,Bank Transfer,Yes
+502139,Male,26.0,Leinster,Month-to-Month,15,Direct Debit,Yes
+502140,Male,47.0,Munster,One Year,33,Bank Transfer,Yes
+502141,Female,52.0,Ulster,Month-to-Month,35,Direct Debit,Yes
+502142,Male,52.0,Dublin,Two Year,30,Direct Debit,Yes
+502143,Male,29.0,Dublin,Month-to-Month,18,Credit Card,Yes
+502144,Male,60.0,Leinster,Two Year,16,Credit Card,No
+502145,Male,59.0,Ulster,Month-to-Month,8,Direct Debit,Yes
+502146,Female,33.0,Munster ,Month-to-Month,13,Direct Debit,Yes
+502147,Female,50.0,Leinster,Two Year,64,Credit Card,Yes
+502148,Female,,Dublin,Month-to-Month,6,Credit Card,Yes
+502149,Male,41.0,Dublin,One Year,1,Direct Debit,No
+502150,Male,23.0,Connacht,One Year,38,Credit Card,Yes
+502151,Male,46.0,Dublin,Month-to-Month,46,Direct Debit,Yes
+502152,Female,66.0,Munster,One Year,69,Bank Transfer,No
+502153,Female,39.0,Leinster,Monthly,55,Direct Debit,No
+502154,Male,34.0,Leinster,One Year,30,Bank Transfer,Yes
+502155,Female,40.0,Munster,Month-to-Month,43,Bank Transfer,Yes
+502156,Female,30.0,Dublin,One Year,46,Direct Debit,Yes
+502157,Male,47.0,Ulster,Month-to-Month,2,Direct Debit,No
+502158,Male,50.0,Dublin,Month-to-Month,8,Credit Card,No
+502159,Male,18.0,Dublin,month-to-month,27,Credit Card,Yes
+502160,Male,48.0,munster,Month-to-Month,3,Bank Transfer,No
+502161,F,38.0,Munster ,Month-to-Month,7,Direct Debit,Yes
+502162,Male,38.0,Munster,One Year,67,Bank Transfer,Yes
+502163,Female,39.0,Dublin,Two Year,26,Direct Debit,No
+502164,Male,52.0,Dublin,Month-to-Month,41,Direct Debit,Yes
+502165,Female,55.0,Leinster,Month-to-Month,36,Direct Debit,Yes
+502166,Female,42.0,Munster,Month-to-Month,6,Bank Transfer,Yes
+502167,Male,56.0,Dublin,One Year,48,Direct Debit,Yes
+502168,Male,46.0,Dublin,Month-to-Month,22,Direct Debit,Yes
+502169,Female,40.0,Leinster,One Year,46,Credit Card,Yes
+502170,Male,58.0,Leinster,Month-to-Month,57,Direct Debit,No
+502171,F,39.0,Ulster,Two Year,50,Credit Card,Yes
+502172,M,55.0,Munster,Two Year,28,Direct Debit,Yes
+502173,M,32.0,Leinster,Month-to-Month,71,Cash,No
+502174,Male,60.0,Ulster,Month-to-Month,17,Credit Card,Yes
+502175,Male,61.0,Dublin,Month-to-Month,65,Bank Transfer,No
+502176,Female,18.0,Dublin,Two Year,14,Direct Debit,Yes
+502177,Male,57.0,Dublin,Two Year,65,Cash,Yes
+502178,Male,37.0,Leinster,Month-to-Month,4,Bank Transfer,Yes
+502179,Male,32.0,Ulster,Two Year,52,Credit Card,No
+502180,Female,26.0,Dublin,Month-to-Month,25,,Yes
+502181,Male,54.0,Connacht,Two Year,14,Credit Card,No
+502182,Male,34.0,Connacht,Two Year,30,Direct Debit,Yes
+502183,Male,40.0,Dublin,Month-to-Month,59,Credit Card,Yes
+502184,Male,54.0,Leinster,One Year,33,Direct Debit,No
+502185,Male,47.0,Dublin,Month-to-Month,56,Direct Debit,No
+502186,M,29.0,Dublin,Two Year,59,Bank Transfer,Yes
+502187,Female,60.0,Munster,Two Year,26,Credit Card,Yes
+502188,Male,40.0,Dublin,Month-to-Month,1,Bank Transfer,No
+502189,Female,61.0,Leinster,Two Year,65,Direct Debit,No
+502190,Male,53.0,Ulster,One Year,71,Direct Debit,Yes
+502191,Female,38.0,Munster,Month-to-Month,49,Bank Transfer,No
+502192,Male,56.0,LEINSTER,Month-to-Month,8,Direct Debit,Yes
+502193,Male,53.0,Leinster,Month-to-Month,7,Credit Card,Yes
+502194,Female,22.0,Dublin,One Year,20,Cash,Yes
+502195,Female,29.0,Dublin,One Year,22,Credit Card,Yes
+502196,Male,51.0,Dublin,Month-to-Month,13,Direct Debit,Yes
+502197,M,51.0,Dublin,Two Year,47,Credit Card,Yes
+502198,Female,31.0,Dublin,Month-to-Month,20,Credit Card,No
+502199,Male,37.0,Munster,Month-to-Month,4,Credit Card,Yes
+502200,Female,53.0,Dublin,Month-to-Month,13,Credit Card,Yes
+502201,Female,43.0,Leinster,One Year,61,Credit Card,Yes
+502202,Female,38.0,Dublin,Two Year,24,Credit Card,Yes
+502203,Male,33.0,Munster,One Year,50,Cash,No
+502204,Male,66.0,Dublin,Month-to-Month,33,Credit Card,No
+502205,Female,40.0,Leinster,2 Year,66,Cash,Yes
+502206,Male,33.0,Dublin,One Year,55,Cash,Yes
+502207,Female,53.0,Leinster,Two Year,12,Direct Debit,Yes
+502208,Male,27.0,Leinster,Two Year,19,Direct Debit,Yes
+502209,Female,48.0,Dublin,Month-to-Month,43,Credit Card,Yes
+502210,M,22.0,Ulster,Two Year,71,Credit Card,No
+502211,Female,72.0,Ulster,One Year,5,Direct Debit,Yes
+502212,M,,Leinster,One Year,47,Credit Card,No
+502213,Male,21.0,Connacht,Two Year,31,Bank Transfer,Yes
+502214,Female,28.0,Leinster,One Year,44,Credit Card,Yes
+502215,Female,58.0,Connacht,Month-to-Month,33,Credit Card,Yes
+502216,Female,64.0,Connacht,Two Year,29,Direct Debit,Yes
+502217,Male,52.0,Leinster,One Year,29,Cash,No
+502218,Male,29.0,Munster,One Year,25,Direct Debit,Yes
+502219,Male,43.0,Dublin,Month-to-Month,9,Bank Transfer,Yes
+502220,M,56.0,Dublin,One Year,24,Credit Card,Yes
+502221,Female,39.0,Munster,Month-to-Month,62,Credit Card,Yes
+502222,Female,66.0,Dublin,Two Year,49,Direct Debit,No
+502223,Male,44.0,Leinster,Month-to-Month,7,Direct Debit,Yes
+502224,Female,36.0,Leinster,One Year,55,Bank Transfer,No
+502225,Male,27.0,Leinster,1 Year,37,Direct Debit,Yes
+502226,Male,23.0,Munster,Month-to-Month,3,Direct Debit,Yes
+502227,Female,48.0,Leinster,One Year,10,Bank Transfer,No
+502228,Female,20.0,connacht,Two Year,30,Direct Debit,No
+502229,Male,51.0,Dublin,One Year,49,Direct Debit,Yes
+502230,Female,67.0,Munster,1 Year,72,Bank Transfer,Yes
+502231,Female,28.0,Dublin ,Two Year,37,Direct Debit,Yes
+502232,Female,27.0,Munster,Month-to-Month,58,Direct Debit,Yes
+502233,Male,59.0,Munster,Month-to-Month,31,Direct Debit,No
+502234,Female,53.0,leinster,Month-to-Month,9,Credit Card,No
+502235,Male,58.0,Leinster,Month-to-Month,71,Direct Debit,No
+502236,Female,41.0,Connacht,Two Year,38,Direct Debit,Yes
+502237,Female,38.0,Leinster,One Year,48,Direct Debit,Yes
+502238,Male,53.0,Leinster,One Year,64,Credit Card,No
+502239,M,70.0,Munster,Month-to-Month,55,Credit Card,Yes
+502240,Female,49.0,Connacht,One Year,12,Credit Card,No
+502241,Female,30.0,Leinster,Two Year,1,Direct Debit,Yes
+502242,Female,48.0,Dublin,Two Year,4,Bank Transfer,Yes
+502243,Female,29.0,Munster,Month-to-Month,8,Cash,Yes
+502244,Male,55.0,Munster,Month-to-Month,10,Direct Debit,No
+502245,Male,37.0,Dublin,month-to-month,13,Direct Debit,No
+502246,Male,59.0,Dublin,month-to-month,53,Direct Debit,No
+502247,Male,18.0,Munster,Month-to-Month,19,Credit Card,Yes
+502248,male,,Connacht,Month-to-Month,46,Direct Debit,Yes
+502249,Female,32.0,Ulster,1 Year,48,Direct Debit,Yes
+502250,M,36.0,dublin,One Year,35,Credit Card,Yes
+502251,Female,52.0,Dublin,One Year,56,Direct Debit,Yes
+502252,Female,44.0,Ulster,One Year,28,Credit Card,No
+502253,Male,40.0,Munster,Two Year,33,Bank Transfer,No
+502254,Male,20.0,Leinster,Month-to-Month,25,Credit Card,No
+502255,Male,36.0,Ulster,Month-to-Month,22,Direct Debit,No
+502256,Female,,Munster,One Year,51,Direct Debit,Yes
+502257,Male,27.0,Munster,One Year,39,Bank Transfer,No
+502258,Male,18.0,ULSTER,Two Year,17,Bank Transfer,No
+502259,Female,54.0,Munster,Month-to-Month,18,Direct Debit,Yes
+502260,F,67.0,Dublin,One Year,50,Direct Debit,No
+502261,Female,36.0,Leinster,Month-to-Month,71,Credit Card,Yes
+502262,Female,39.0,Dublin,Two Year,29,Direct Debit,Yes
+502263,Female,28.0,DUBLIN,Month-to-Month,69,Direct Debit,Yes
+502264,Female,42.0,Munster,One Year,11,Direct Debit,No
+502265,Male,40.0,Munster,One Year,28,Direct Debit,Yes
+502266,Male,38.0,leinster,Two Year,9,Credit Card,Yes
+502267,Male,37.0,Connacht,One Year,1,Credit Card,Yes
+502268,Male,60.0,Munster,Month-to-Month,65,Direct Debit,No
+502269,Male,37.0,Dublin,Two Year,55,Cash,Yes
+502270,Male,64.0,Connacht,Month-to-Month,39,Direct Debit,No
+502271,Female,26.0,Munster,2 Year,17,Cash,Yes
+502272,Female,41.0,DUBLIN,Month-to-Month,11,Direct Debit,Yes
+502273,M,44.0,Munster,Month-to-Month,21,Credit Card,No
+502274,Male,44.0,Munster ,Month-to-Month,55,Credit Card,Yes
+502275,Male,56.0,Leinster,Month-to-Month,2,Direct Debit,No
+502276,Female,28.0,Dublin,Two Year,18,Bank Transfer,Yes
+502277,Male,43.0,munster,Two Year,35,Bank Transfer,Yes
+502278,Female,36.0,Leinster,Month-to-Month,4,Credit Card,Yes
+502279,Male,54.0,Munster,Month-to-Month,12,Bank Transfer,Yes
+502280,Female,47.0,Dublin,One Year,11,Credit Card,Yes
+502281,Female,18.0,Dublin,Month-to-Month,26,Direct Debit,No
+502282,Female,21.0,Dublin,Two Year,15,Credit Card,Yes
+502283,Male,57.0,Munster,Month-to-Month,10,Direct Debit,Yes
+502284,Female,48.0,ulster,Two Year,30,Direct Debit,Yes
+502285,Male,35.0,Munster,month-to-month,18,Direct Debit,Yes
+502286,male,63.0,Connacht,One Year,2,Direct Debit,Yes
+502287,Male,50.0,Munster,Two Year,22,Bank Transfer,No
+502288,Female,50.0,Leinster,One Year,55,Bank Transfer,Yes
+502289,Female,38.0,Dublin,One Year,22,Direct Debit,No
+502290,Female,36.0,Ulster,Month-to-Month,2,Direct Debit,Yes
+502291,Male,26.0,Ulster,Two Year,29,Bank Transfer,Yes
+502292,Female,45.0,Leinster,Month-to-Month,35,Direct Debit,Yes
+502293,Male,43.0,Connacht,Month-to-Month,63,Credit Card,No
+502294,M,63.0,Dublin,Monthly,24,Direct Debit,Yes
+502295,Female,40.0,Leinster,Two Year,33,Credit Card,Yes
+502296,Male,40.0,Dublin,One Year,21,Credit Card,Yes
+502297,M,54.0,Leinster,Monthly,4,Direct Debit,Yes
+502298,F,74.0,Ulster,One Year,40,Direct Debit,No
+502299,Male,34.0,Dublin,Month-to-Month,8,,Yes
+502300,male,20.0,Munster,Month-to-Month,50,Cash,Yes
+502301,Male,30.0,Dublin,Month-to-Month,26,Credit Card,No
+502302,Male,33.0,Leinster,Month-to-Month,14,Direct Debit,No
+502303,Male,41.0,Dublin,Month-to-Month,30,Bank Transfer,Yes
+502304,Male,35.0,Dublin,Month-to-Month,2,Bank Transfer,No
+502305,Male,35.0,Dublin,Month-to-Month,13,Direct Debit,No
+502306,Female,51.0,Munster,One Year,21,Cash,Yes
+502307,Male,64.0,Leinster,1 Year,55,Direct Debit,No
+502308,Male,53.0,Leinster,2 Year,24,Direct Debit,No
+502309,Female,48.0,Dublin,1 Year,64,Cash,Yes
+502310,Female,35.0,Leinster,Two Year,46,Direct Debit,Yes
+502311,Female,28.0,Leinster,Two Year,45,Direct Debit,No
+502312,Male,22.0,Leinster,Two Year,39,Credit Card,No
+502313,Male,26.0,Munster,Month-to-Month,10,Bank Transfer,No
+502314,Male,26.0,Ulster,Month-to-Month,40,Direct Debit,Yes
+502315,M,48.0,Connacht,One Year,2,Direct Debit,Yes
+502316,Male,52.0,Connacht,Month-to-Month,1,Credit Card,No
+502317,Female,25.0,Leinster,Month-to-Month,34,Direct Debit,No
+502318,Female,50.0,Munster,Month-to-Month,18,Bank Transfer,Yes
+502319,Female,49.0,Leinster,Month-to-Month,47,Direct Debit,Yes
+502320,Female,46.0,Ulster,Month-to-Month,65,Credit Card,No
+502321,Male,59.0,leinster,Two Year,33,Direct Debit,Yes
+502322,Male,32.0,Munster,Two Year,23,Credit Card,Yes
+502323,female,58.0,Dublin,One Year,19,Direct Debit,Yes
+502324,Female,41.0,Connacht,One Year,69,Bank Transfer,No
+502325,Male,38.0,Ulster,One Year,15,Credit Card,No
+502326,Male,41.0,Munster,Two Year,52,Cash,Yes
+502327,Male,33.0,Connacht,One Year,42,Direct Debit,Yes
+502328,Female,52.0,Connacht,Month-to-Month,4,Credit Card,Yes
+502329,Male,40.0,Dublin,Two Year,31,Direct Debit,No
+502330,Male,57.0,Leinster,Two Year,25,Direct Debit,Yes
+502331,Female,53.0,leinster,One Year,37,Credit Card,No
+502332,Male,33.0,Leinster,Month-to-Month,16,Credit Card,Yes
+502333,Female,56.0,Dublin,Month-to-Month,2,Credit Card,Yes
+502334,Male,42.0,Munster,Month-to-Month,1,Direct Debit,Yes
+502335,Male,,Munster ,Month-to-Month,9,Direct Debit,Yes
+502336,Female,47.0,Connacht,Two Year,51,Direct Debit,Yes
+502337,Female,24.0,Leinster,Two Year,35,Direct Debit,No
+502338,Female,60.0,Leinster,One Year,60,Credit Card,Yes
+502339,Male,24.0,Connacht,One Year,7,Credit Card,No
+502340,Female,53.0,Dublin,One Year,50,Cash,Yes
+502341,Male,27.0,Munster,Month-to-Month,54,Direct Debit,Yes
+502342,Female,62.0,Leinster,2 Year,35,Direct Debit,Yes
+502343,Female,26.0,Munster,Month-to-Month,40,Direct Debit,Yes
+502344,Female,59.0,Dublin,One Year,71,Direct Debit,No
+502345,Male,56.0,Leinster,Monthly,4,Credit Card,Yes
+502346,M,18.0,Dublin,Two Year,60,Credit Card,Yes
+502347,Male,48.0,Connacht,One Year,55,Direct Debit,No
+502348,Female,24.0,Connacht,One Year,60,Direct Debit,No
+502349,Female,38.0,Leinster,One Year,48,Bank Transfer,Yes
+502350,Female,56.0,Ulster,One Year,32,Direct Debit,Yes
+502351,female,55.0,Connacht ,One Year,24,Direct Debit,Yes
+502352,Female,36.0,Munster,Month-to-Month,47,Bank Transfer,No
+502353,Male,18.0,Munster,One Year,13,Credit Card,Yes
+502354,Male,44.0,DUBLIN,Two Year,48,Direct Debit,No
+502355,Female,53.0,Connacht,One Year,42,Credit Card,No
+502356,Female,36.0,Dublin,Two Year,3,Direct Debit,Yes
+502357,Female,52.0,Dublin,Month-to-Month,2,Direct Debit,No
+502358,Female,63.0,Leinster,One Year,57,Credit Card,Yes
+502359,Female,71.0,Dublin,One Year,16,Bank Transfer,Yes
+502360,Female,56.0,Munster,Month-to-Month,36,Credit Card,Yes
+502361,Male,47.0,Dublin,1 Year,37,Bank Transfer,Yes
+502362,F,58.0,DUBLIN,Two Year,65,Bank Transfer,No
+502363,Male,53.0,Ulster,Month-to-Month,67,Bank Transfer,Yes
+502364,Female,34.0,Dublin,Month-to-Month,4,Direct Debit,Yes
+502365,Female,28.0,Dublin,One Year,39,Direct Debit,Yes
+502366,Male,46.0,Ulster,One Year,9,Bank Transfer,Yes
+502367,Female,21.0,Connacht,month-to-month,39,Direct Debit,Yes
+502368,Male,34.0,Connacht,One Year,33,Direct Debit,Yes
+502369,Female,46.0,Dublin,Two Year,48,Direct Debit,Yes
+502370,Male,52.0,Munster,Month-to-Month,72,Direct Debit,No
+502371,Female,18.0,Dublin,Month-to-Month,19,Credit Card,Yes
+502372,Female,62.0,Leinster,One Year,7,Direct Debit,No
+502373,Female,49.0,Munster,Month-to-Month,72,Direct Debit,No
+502374,Female,48.0,Dublin,One Year,4,Bank Transfer,No
+502375,Female,39.0,Dublin,Two Year,17,Direct Debit,Yes
+502376,Female,46.0,Munster,One Year,41,Direct Debit,Yes
+502377,Male,32.0,CONNACHT,One Year,48,Credit Card,No
+502378,Male,71.0,Dublin,One Year,32,Cash,Yes
+502379,Male,41.0,Munster,1 Year,21,Direct Debit,Yes
+502380,Female,54.0,Munster,Month-to-Month,51,Credit Card,No
+502381,Male,38.0,Connacht,Month-to-Month,13,Credit Card,Yes
+502382,Male,52.0,Dublin,Month-to-Month,12,Direct Debit,Yes
+502383,Male,35.0,Dublin,One Year,32,Direct Debit,Yes
+502384,Male,51.0,Connacht,Two Year,46,Direct Debit,No
+502385,Female,34.0,Leinster,Two Year,64,Direct Debit,No
+502386,Male,26.0,Leinster,Month-to-Month,1,Cash,No
+502387,Male,41.0,Leinster,Two Year,25,Cash,Yes
+502388,M,30.0,Munster,1 Year,25,Direct Debit,No
+502389,Female,59.0,Leinster ,Two Year,37,Credit Card,Yes
+502390,Male,26.0,Connacht,One Year,63,Credit Card,Yes
+502391,Female,42.0,Leinster,One Year,9,Direct Debit,Yes
+502392,Female,30.0,Munster,One Year,8,Credit Card,Yes
+502393,Female,42.0,Munster,Month-to-Month,6,Direct Debit,No
+502394,F,41.0,Dublin,One Year,63,Direct Debit,Yes
+502395,Female,45.0,Ulster,Month-to-Month,18,Bank Transfer,Yes
+502396,Female,55.0,Connacht,Month-to-Month,65,Bank Transfer,Yes
+502397,Female,49.0,Dublin,One Year,54,Direct Debit,Yes
+502398,Female,46.0,Dublin,Month-to-Month,53,Direct Debit,Yes
+502399,F,50.0,Dublin,One Year,2,Direct Debit,No
+502400,Male,29.0,Connacht,One Year,34,Direct Debit,No
