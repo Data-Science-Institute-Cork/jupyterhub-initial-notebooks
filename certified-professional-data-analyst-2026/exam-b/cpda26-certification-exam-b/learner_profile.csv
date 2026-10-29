@@ -1,0 +1,1602 @@
+LearnerID,Gender,Age,Region,Employment_Status,Prior_Qualification,Funding_Type,Study_Mode
+71354,Female,19.0,Connacht,Self-employed,Certificate,Self-Funded,Blended
+70265,F,39.0,Dublin,Unemployed,Degree,Government Grant,Blended
+70760,Female,40.0,Munster,Employed,Secondary,Self-Funded,Online
+71151,F,25.0,Ulster,Student,Degree,Employer,Online
+71557,Female,46.0,Dublin,Employed,Certificate,Employer,online
+70084,Male,32.0,Munster,Unemployed,Secondary,Government Grant,Online
+71575,Female,32.0,Connacht,Self-employed,Certificate,Government Grant,Online
+70933,male,27.0,Leinster,Unemployed,Certificate,Government Grant,Blended
+70057,Female,50.0,Dublin,Employed,Certificate,Self-Funded,Online
+71518,Female,37.0,Munster,Unemployed,Secondary,Government Grant,Blended
+71474,Male,30.0,Ulster,Unemployed,Degree,Government Grant,Online
+70480,Male,29.0,Leinster,Employed,Certificate,Self-Funded,Online
+70139,Male,29.0,Dublin,Unemployed,Degree,Government Grant,Online
+70610,Male,41.0,Connacht,Student,Degree,Employer,Online
+70445,Female,29.0,Connacht,Employed,Degree,Employer,Blended
+70240,Male,45.0,Leinster,Employed,Degree,Self-Funded,Blended
+70363,Male,37.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+71160,Female,55.0,Leinster,Self-employed,Degree,Self-Funded,Online
+70397,Female,42.0,Leinster,Unemployed,Certificate,Self-Funded,Online
+70217,Female,51.0,Munster,Unemployed,Certificate,Government Grant,Online
+70177,Male,36.0,Dublin,Employed,Postgraduate,Government Grant,Online
+70343,Male,35.0,Connacht,Unemployed,Certificate,Government Grant,Blended
+70614,Male,38.0,Ulster,Employed,Degree,Employer,Blended
+70291,F,31.0,Munster,Employed,Certificate,Self-Funded,Online
+71330,Female,32.0,Leinster,Unemployed,Degree,Self-Funded,Blended
+71464,Male,41.0,Munster,Unemployed,Certificate,Government Grant,Online
+70066,Female,36.0,Dublin,Employed,Certificate,Government Grant,Blended
+70729,Male,33.0,Ulster,Employed,Degree,Employer,Blended
+70037,F,47.0,Dublin,Employed,Certificate,Government Grant,Online
+71273,Male,50.0,Munster,Student,Certificate,Employer,Blended
+71374,Female,27.0,Dublin,Self-employed,Degree,Employer,Online
+70966,Female,27.0,Connacht,Employed,Certificate,Self-Funded,Online
+70638,Male,46.0,Dublin,Unemployed,Postgraduate,Self-Funded,Online
+70788,Female,29.0,Munster,Student,Certificate,Employer,Online
+70178,Male,22.0,Connacht,Unemployed,Secondary,Government Grant,Online
+70457,Female,51.0,Dublin,Student,Degree,Employer,Online
+70296,Female,34.0,Connacht,Employed,Degree,Self-Funded,Blended
+70984,Female,41.0,Connacht,Employed,Certificate,Self-Funded,Online
+71542,Male,49.0,Leinster,Employed,Secondary,Self-Funded,Online
+70381,Male,28.0,Munster,Employed,Degree,Government Grant,Blended
+71466,Female,42.0,Munster,Self-employed,Certificate,Self-Funded,Online
+70437,Male,39.0,Leinster,Self-employed,Certificate,Self-Funded,Online
+70630,Male,46.0,Leinster,Employed,Degree,Employer,Online
+70664,Male,32.0,Leinster,Employed,Degree,Self-Funded,Online
+70506,Male,33.0,Connacht,Employed,Secondary,Employer,Blended
+70705,Male,41.0,Leinster,Self-employed,Degree,Employer,Online
+71538,Male,30.0,Munster,Employed,Secondary,Government Grant,Online
+70741,Female,35.0,Connacht,Employed,Secondary,Government Grant,Online
+71181,female,51.0,Dublin,Employed,Secondary,Employer,Online
+70314,Female,36.0,Munster,Self-employed,Degree,Self-Funded,Online
+71292,Male,57.0,Leinster,Employed,Certificate,Self-Funded,BLENDED
+70416,Female,29.0,Leinster,Employed,Secondary,Employer,Online
+71224,Female,18.0,Munster,Self-employed,Degree,Employer,Online
+71029,Female,27.0,Munster,Employed,Degree,Employer,Online
+70484,Female,40.0,Ulster,Employed,Certificate,Self-Funded,Blended
+71084,Male,47.0,Dublin,Employed,Secondary,Self-Funded,BLENDED
+71563,Male,49.0,Ulster,Student,Degree,Self-Funded,Online
+71250,Female,,Munster,Employed,Degree,Government Grant,Online
+70925,Male,33.0,Munster,Unemployed,Degree,Government Grant,Online
+70003,Female,32.0,Dublin,Employed,Secondary,Self-Funded,Online
+70485,Female,41.0,Leinster,Unemployed,Secondary,Government Grant,Blended
+70347,Female,44.0,Munster,Employed,Degree,Self-Funded,Blended
+70249,Female,34.0,Munster,Employed,Degree,Self-Funded,Blended
+70913,Female,48.0,Munster,Employed,Degree,Government Grant,Online
+70235,Male,29.0,Dublin,Employed,Secondary,Employer,Online
+70081,Female,42.0,Dublin,Student,Secondary,Self-Funded,Blended
+70433,Female,42.0,Munster,Employed,Secondary,Employer,Online
+70223,Female,18.0,Ulster,Employed,Certificate,Employer,Blended
+70204,Female,18.0,Connacht,Unemployed,Certificate,Government Grant,Online
+71567,Female,37.0,Munster,Self-employed,Secondary,Employer,Online
+70540,Male,23.0,Dublin,Student,Degree,Self-Funded,Online
+71504,Female,29.0,Connacht,Employed,Secondary,Self-Funded,Blended
+71147,F,40.0,Ulster,Employed,Certificate,Self-Funded,Online
+71193,F,18.0,Dublin,Employed,Postgraduate,Government Grant,Blended
+70991,Female,33.0,Munster,Employed,Secondary,Self-Funded,Online
+71461,Male,26.0,Connacht,Employed,Certificate,Government Grant,Online
+70660,F,41.0,Connacht,Self-employed,Degree,Employer,Blended
+71402,Male,19.0,Dublin,Employed,Degree,Government Grant,Blended
+70879,Female,,Ulster,Unemployed,Degree,Government Grant,Online
+71409,Female,37.0,Ulster,Self-employed,Degree,Self-Funded,Blended
+71333,Female,25.0,Leinster,Employed,Certificate,Employer,Blended
+70950,Male,49.0,Dublin,Employed,Certificate,Employer,online
+70110,Male,43.0,Munster,Employed,Degree,Government Grant,Online
+70567,Male,46.0,Dublin,Employed,Postgraduate,Self-Funded,Online
+71088,Female,50.0,Ulster,Employed,Certificate,Self-Funded,Online
+71023,Male,44.0,Leinster,Employed,Certificate,Government Grant,Online
+70295,Female,22.0,Leinster,Employed,Certificate,Self-Funded,Blended
+71348,Female,30.0,Munster,Student,Secondary,Employer,Blended
+71566,Male,28.0,Leinster,Student,Secondary,Self-Funded,Online
+70807,Female,39.0,Connacht,Employed,Degree,Self-Funded,Blended
+71390,Female,54.0,Dublin,Unemployed,Secondary,Government Grant,Blended
+70130,Male,42.0,Munster,Employed,Degree,Self-Funded,Blended
+70553,Male,46.0,Munster,Employed,,Employer,Online
+70548,Male,,Connacht,Student,Degree,Government Grant,Online
+70560,Female,20.0,Leinster,Unemployed,Degree,Self-Funded,Blended
+71099,Female,19.0,Ulster,Student,Degree,Employer,Online
+70554,Female,51.0,Dublin,Employed,Certificate,Self-Funded,Blended
+70725,Female,46.0,Dublin,Student,Postgraduate,Employer,Online
+70336,Male,24.0,Munster,Employed,Secondary,Employer,Blended
+71293,Male,29.0,Munster,Employed,Secondary,Self-Funded,Online
+70798,Female,44.0,Leinster,Student,Certificate,Self-Funded,Online
+71207,Female,40.0,Dublin,Unemployed,Secondary,Govt Grant,Online
+70272,Male,21.0,Dublin,Self-employed,Secondary,Government Grant,Online
+71517,Male,46.0,Munster,Student,Secondary,Self-Funded,Online
+70307,Male,45.0,Connacht,Employed,Certificate,Employer,Blended
+70263,Male,35.0,Dublin,Employed,Postgraduate,Employer,Online
+70775,Female,37.0,Leinster,Unemployed,Certificate,Government Grant,Online
+70071,Female,32.0,Dublin,Employed,Degree,Self-Funded,Blended
+70696,Male,37.0,Munster,Self-employed,Degree,Self-Funded,Online
+70258,Female,33.0,Dublin,Unemployed,Degree,Govt Grant,Online
+71014,Male,36.0,Dublin,Employed,Degree,Self-Funded,Online
+70349,Female,50.0,Leinster,Unemployed,Postgraduate,Government Grant,Blended
+70757,Male,50.0,Leinster,Employed,Secondary,Self-Funded,Online
+70539,Female,43.0,Connacht,Student,Postgraduate,Employer,Blended
+71315,Male,39.0,Leinster,Self-employed,Degree,Government Grant,Blended
+70718,Male,47.0,Connacht,Employed,Degree,Employer,Blended
+70811,Male,30.0,Dublin,Employed,Secondary,Employer,Online
+71410,Female,40.0,Leinster,Employed,Degree,Self-Funded,Blended
+71097,Female,23.0,Munster,Employed,Postgraduate,Self-Funded,Online
+70120,Male,36.0,Munster,Employed,Secondary,Employer,Blended
+70679,Female,27.0,Munster,Employed,Degree,Self-Funded,Online
+70676,Male,18.0,Munster,Self-employed,Degree,Employer,Online
+70054,Female,32.0,Munster,Unemployed,Certificate,Government Grant,Blended
+70275,Male,40.0,Dublin,Employed,Certificate,Self-Funded,Online
+71242,Female,38.0,Munster,Unemployed,Degree,Government Grant,Blended
+70374,Female,46.0,Connacht,Employed,Postgraduate,Employer,Blended
+71585,Female,55.0,Dublin,Employed,Certificate,Employer,Blended
+70692,male,23.0,Leinster,Employed,Secondary,Government Grant,Online
+70042,Male,44.0,Leinster,Unemployed,Secondary,Govt Grant,Online
+70242,male,56.0,Connacht,Self-employed,Secondary,Self-Funded,Blended
+70511,Female,45.0,Leinster,Student,Certificate,Employer,Blended
+70476,Female,42.0,Dublin,Unemployed,Postgraduate,Government Grant,Blended
+70683,Female,53.0,Dublin,Employed,Degree,Employer,Blended
+71022,Male,24.0,Dublin,Unemployed,Degree,Government Grant,Online
+70646,Male,29.0,Munster,Employed,Secondary,Employer,Blended
+70912,Male,44.0,Dublin,Employed,Certificate,Employer,Online
+71577,Male,40.0,Ulster,Employed,Degree,Self-Funded,Online
+70978,Female,37.0,Leinster,Unemployed,Secondary,Government Grant,Blended
+70670,Male,34.0,Munster,Student,Postgraduate,Employer,Blended
+70852,Female,40.0,Leinster,Employed,Secondary,Government Grant,Online
+71017,Female,39.0,Munster,Unemployed,Secondary,Government Grant,Online
+70790,Female,46.0,Dublin,Employed,Secondary,Employer,Blended
+70574,Female,37.0,Connacht,Employed,,Government Grant,Online
+70609,Female,29.0,Leinster,Employed,Secondary,Self-Funded,Blended
+70133,Male,39.0,Ulster,Employed,Secondary,Government Grant,Blended
+70473,Female,27.0,Munster,Self-employed,Certificate,Government Grant,Online
+70620,Male,34.0,Dublin,Unemployed,Secondary,Government Grant,Blended
+70220,Female,35.0,Dublin,Employed,Secondary,Employer,Blended
+71033,Female,18.0,Munster,Employed,Secondary,Self-Funded,Blended
+71465,Female,37.0,Dublin,Employed,Certificate,Self-Funded,Online
+71513,Female,44.0,Leinster,Unemployed,Degree,Self-Funded,Online
+70669,Female,40.0,Dublin,Employed,Secondary,Self-Funded,Online
+70400,Male,20.0,Leinster,Employed,Degree,Employer,BLENDED
+70328,Male,53.0,Leinster,Employed,Certificate,Self-Funded,Blended
+71431,Male,46.0,Munster,Unemployed,Degree,Government Grant,Blended
+70359,Male,34.0,Dublin,Employed,Certificate,Government Grant,Online
+71176,Female,30.0,Dublin,Employed,Degree,Employer,Online
+70126,Male,19.0,Dublin,Employed,Secondary,Employer,Blended
+71188,Female,40.0,Dublin,Unemployed,Certificate,Government Grant,Online
+70312,Female,18.0,Munster,Employed,Secondary,Self-Funded,Online
+71034,Male,22.0,Connacht,Unemployed,Certificate,Government Grant,Online
+70323,Male,42.0,Dublin,Unemployed,Secondary,Government Grant,Blended
+70461,Female,40.0,Connacht,Unemployed,Postgraduate,Government Grant,Blended
+71434,Female,34.0,Dublin,Student,Secondary,Employer,Online
+71456,Male,40.0,Dublin,Self-employed,Certificate,Government Grant,Online
+71329,Female,23.0,Connacht,Unemployed,Secondary,Government Grant,Online
+70352,Male,25.0,Connacht,Student,Certificate,Employer,Online
+70794,Female,39.0,Dublin,Self-employed,Secondary,Government Grant,Online
+71091,Male,46.0,Munster,Employed,Degree,Employer,Blended
+70450,Male,48.0,Munster,Employed,Certificate,Employer,Online
+70483,Male,43.0,Munster,Employed,Secondary,Employer,Online
+71506,Female,25.0,Leinster,Employed,Secondary,Self-Funded,Online
+70721,Female,39.0,Munster,Employed,Degree,Employer,Blended
+70665,Female,27.0,Ulster,Employed,Certificate,Employer,Blended
+70405,Female,30.0,Dublin,Student,Certificate,Employer,Online
+71515,Male,,Connacht,Employed,Degree,Government Grant,Online
+70921,Female,28.0,Dublin,Employed,Degree,Employer,Online
+70700,Male,45.0,Connacht,Employed,Certificate,Self-Funded,Blended
+70780,Female,48.0,Dublin,Employed,Certificate,Self-Funded,Blended
+71107,Female,29.0,Leinster,Employed,Degree,Self-Funded,Online
+70022,Female,41.0,Connacht,Self-employed,Secondary,Government Grant,Online
+70430,Male,43.0,Dublin,Employed,Secondary,Self-Funded,Online
+70062,F,39.0,Munster,Employed,Secondary,Self-Funded,Blended
+70776,Male,37.0,Munster,Employed,Certificate,Employer,Online
+71141,Male,25.0,Ulster,Employed,Certificate,Employer,Online
+71503,Male,30.0,Connacht,Employed,Degree,Self-Funded,Blended
+70281,Female,,Munster,Employed,Degree,Self-Funded,Online
+70543,Female,31.0,Dublin,Employed,Degree,Government Grant,Online
+70667,Male,39.0,Leinster,Self-employed,Certificate,Self-Funded,Online
+70575,Female,41.0,Munster,Employed,Degree,Self-Funded,Online
+70138,Male,23.0,Leinster,Employed,Degree,Government Grant,Online
+70617,Female,27.0,Leinster,Employed,Secondary,Employer,Online
+70371,Male,42.0,Connacht,Unemployed,Degree,Self-Funded,Blended
+70503,Female,,Dublin,Unemployed,Secondary,Government Grant,Online
+71162,Female,45.0,Leinster,Student,Degree,Self-Funded,Blended
+71548,Female,38.0,Ulster,Unemployed,Secondary,Government Grant,Blended
+70172,Male,39.0,Leinster,Employed,Secondary,Government Grant,Blended
+70500,Female,33.0,Munster,Employed,Certificate,Employer,Online
+71313,Male,40.0,Leinster,Employed,Secondary,Self-Funded,Online
+71498,Male,43.0,Leinster,Unemployed,Postgraduate,Government Grant,Online
+71454,Male,30.0,Leinster,Employed,Degree,Self-Funded,Blended
+71592,female,38.0,Dublin,Unemployed,Certificate,Government Grant,Online
+71508,Male,27.0,Leinster,Employed,Degree,Self-Funded,Blended
+70926,Female,20.0,Leinster,Employed,Certificate,Self-Funded,Blended
+70282,Female,39.0,Dublin,Employed,Secondary,Government Grant,Online
+70464,Male,34.0,Leinster,Employed,Certificate,Employer,Online
+71442,Male,48.0,Leinster,Employed,Secondary,Employer,Online
+70828,Male,,Ulster,Employed,Degree,Self-Funded,Blended
+71179,Female,26.0,Leinster,Unemployed,Degree,Self-Funded,Online
+71129,Male,29.0,Leinster,Employed,Certificate,Government Grant,Online
+71560,Male,41.0,Leinster,Employed,Certificate,Government Grant,Blended
+71580,Female,41.0,Leinster,Employed,Certificate,Employer,Online
+71391,Male,31.0,Connacht,Student,Postgraduate,Employer,Online
+71108,Female,31.0,Ulster,Self-employed,Degree,Self-Funded,Blended
+71259,Female,44.0,Munster,Employed,Certificate,Employer,Blended
+71080,Female,26.0,Dublin,Employed,Degree,Employer,Online
+70735,Male,,Dublin,Student,Degree,Government Grant,Online
+70529,Male,26.0,Dublin,Employed,Secondary,Self-Funded,Online
+70781,Male,30.0,Munster,Student,Certificate,Self-Funded,Online
+71334,Male,39.0,Dublin,Employed,Degree,Government Grant,Online
+70043,Female,38.0,Munster,Employed,Postgraduate,Government Grant,Blended
+71311,Female,33.0,Ulster,Employed,Degree,Self-Funded,Blended
+71353,Male,30.0,Dublin,Unemployed,Secondary,Government Grant,Blended
+71591,Male,51.0,Leinster,Student,Certificate,Self-Funded,Online
+70712,Female,34.0,Munster,Student,Certificate,Government Grant,Online
+71472,Male,28.0,Dublin,Student,Certificate,Self-Funded,Blended
+70556,Female,45.0,Ulster,Employed,Certificate,Employer,Online
+71335,Female,30.0,Leinster,Self-employed,Degree,Self-Funded,Online
+71152,Female,33.0,Connacht,Employed,Degree,Government Grant,Blended
+70023,Male,27.0,Ulster,Employed,Secondary,Government Grant,Blended
+70914,Female,36.0,Dublin,Employed,Postgraduate,Employer,Online
+70603,Male,32.0,Munster,Student,Certificate,Self-Funded,Online
+71534,Female,35.0,Leinster,Unemployed,Degree,Government Grant,Online
+71328,Female,32.0,Dublin,Self-employed,Certificate,Self-Funded,Online
+71286,Female,54.0,Leinster,Self-employed,Certificate,Government Grant,Online
+71400,Female,35.0,Leinster,Employed,Degree,Employer,Online
+70742,Female,18.0,Dublin,Student,Postgraduate,Self-Funded,Online
+70096,Female,47.0,Leinster,Self-employed,Secondary,Self-Funded,Blended
+70327,Male,45.0,Munster,Employed,Certificate,Government Grant,Online
+70996,Male,32.0,Munster,Employed,Secondary,Government Grant,Blended
+71190,Female,18.0,Ulster,Employed,Secondary,Self-Funded,Online
+70990,Male,36.0,Ulster,Self-employed,Secondary,Employer,Online
+70091,Male,33.0,Dublin,Employed,Secondary,Government Grant,Blended
+70940,Female,32.0,Munster,Employed,Certificate,Government Grant,Online
+71048,Female,38.0,Munster,Unemployed,Certificate,Government Grant,Online
+71253,F,31.0,Connacht,Student,Certificate,Self-Funded,Online
+70928,Female,21.0,Dublin,Self-employed,Degree,Government Grant,Online
+71031,Male,31.0,Ulster,Employed,Postgraduate,Employer,Online
+70479,F,39.0,Dublin,Employed,Certificate,Employer,Blended
+71198,Female,32.0,Dublin,Employed,Certificate,Employer,Online
+70522,Female,35.0,Leinster,Student,Certificate,Self-Funded,Blended
+71326,Male,33.0,Leinster,Unemployed,Secondary,Government Grant,BLENDED
+70599,Female,46.0,Leinster,Self-employed,Secondary,Employer,Online
+70322,Female,42.0,Dublin,Employed,Degree,Self-Funded,Online
+70956,Male,,Dublin,Student,Secondary,Employer,Online
+71445,Male,38.0,Dublin,Employed,Degree,Government Grant,Online
+71050,Female,33.0,Leinster,Employed,Certificate,Self-Funded,Blended
+71389,Female,24.0,Munster,Unemployed,Certificate,Self-Funded,Online
+70250,Male,51.0,Dublin,Student,Degree,Self-Funded,Online
+70910,Female,36.0,Dublin,Employed,Degree,Government Grant,Blended
+71005,Female,32.0,Dublin,Employed,Certificate,Self-Funded,Online
+70508,Female,38.0,Connacht,Student,Degree,Self-Funded,Online
+71549,Female,40.0,Munster,Employed,Certificate,Government Grant,Online
+70167,Female,47.0,Leinster,Unemployed,Certificate,Government Grant,Online
+70198,Female,36.0,Connacht,Employed,Degree,Employer,Blended
+71325,Female,19.0,Munster,Employed,Degree,Self-Funded,Online
+71000,Male,23.0,Leinster,Unemployed,Degree,Government Grant,Online
+70903,Male,29.0,Leinster,Employed,Certificate,Self-Funded,Blended
+70803,Male,36.0,Dublin,Unemployed,Certificate,Government Grant,Online
+70640,Male,33.0,Munster,Student,Degree,Self-Funded,Online
+71345,Female,47.0,Leinster,Unemployed,Certificate,Government Grant,Blended
+70756,Female,32.0,Dublin,Employed,Secondary,Government Grant,Blended
+71010,Female,37.0,Munster,Self-employed,Degree,Employer,Online
+70027,Female,47.0,Dublin,Employed,Certificate,Self-Funded,Online
+71478,Female,28.0,Munster,Employed,Degree,Government Grant,Blended
+71582,Male,33.0,Dublin,Employed,Degree,Employer,Online
+70588,Male,41.0,Ulster,Employed,Secondary,Employer,Blended
+71012,Female,35.0,Connacht,Employed,Postgraduate,Employer,Blended
+71590,Female,44.0,Dublin,Employed,Certificate,Self-Funded,Online
+70274,Male,44.0,Connacht,Self-employed,Certificate,Government Grant,Blended
+70166,Female,24.0,Dublin,Employed,,Employer,Online
+70820,Female,40.0,Dublin,Employed,Degree,Government Grant,Online
+70906,Male,42.0,Ulster,Employed,Degree,Self-Funded,Online
+70755,Male,28.0,Munster,Employed,Certificate,Govt Grant,Blended
+70715,Female,56.0,Munster,Employed,Certificate,Self-Funded,Online
+70694,Female,51.0,Munster,Student,Certificate,Government Grant,Online
+71312,Male,37.0,Dublin,Employed,Secondary,Government Grant,Online
+70040,Male,30.0,Leinster,Unemployed,Secondary,Government Grant,Online
+70044,Male,47.0,Munster,Self-employed,Degree,Self-Funded,Online
+71528,Female,33.0,Ulster,Employed,Postgraduate,Self-Funded,BLENDED
+70562,Female,21.0,Leinster,Student,Certificate,Employer,Online
+70292,Female,29.0,Connacht,Unemployed,Certificate,Government Grant,Online
+71341,Female,42.0,Munster,Student,Postgraduate,Employer,Blended
+71489,Female,41.0,Leinster,Unemployed,Certificate,Government Grant,Online
+70502,Male,27.0,Ulster,Employed,Degree,Self-Funded,Online
+70581,Female,29.0,Ulster,Unemployed,Certificate,Govt Grant,Online
+70372,Female,35.0,Dublin,Employed,Certificate,Self-Funded,online
+70428,Female,18.0,Dublin,Employed,Secondary,Self-Funded,Online
+70895,Male,44.0,Connacht,Self-employed,Secondary,Employer,Blended
+70727,Male,39.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+70515,M,25.0,Munster,Employed,Secondary,Employer,Online
+71216,Female,37.0,Munster,Employed,Secondary,Government Grant,Online
+71573,Male,31.0,Leinster,Self-employed,Certificate,Self-Funded,Online
+70905,Female,36.0,Munster,Unemployed,Certificate,Self-Funded,Online
+71186,Male,41.0,Leinster,Employed,Degree,Employer,Blended
+70074,Male,35.0,Ulster,Employed,Secondary,Employer,Online
+70154,Female,37.0,Leinster,Employed,Degree,Self-Funded,Blended
+70971,Male,33.0,Dublin,Self-employed,Degree,Government Grant,Online
+70463,F,39.0,Leinster,Employed,Secondary,Self-Funded,Online
+70332,Female,39.0,Leinster,Self-employed,Certificate,Employer,Online
+71039,female,47.0,Connacht,Employed,Secondary,Employer,Online
+70151,Male,45.0,Connacht,Employed,Secondary,Government Grant,Online
+70631,Male,47.0,Dublin,Employed,Certificate,Employer,Online
+71532,Male,26.0,Connacht,Employed,Degree,Employer,Online
+71166,Female,21.0,Leinster,Employed,Secondary,Government Grant,Online
+71217,Female,23.0,Dublin,Self-employed,Certificate,Employer,Online
+70573,Female,,Dublin,Self-employed,Degree,Government Grant,BLENDED
+70908,Female,33.0,Leinster,Self-employed,Postgraduate,Self-Funded,Online
+70968,Female,18.0,Connacht,Unemployed,Degree,Government Grant,Online
+70762,Female,44.0,Leinster,Self-employed,Degree,Self-Funded,Online
+70714,Male,43.0,Leinster,Unemployed,Degree,Government Grant,Online
+70870,Female,26.0,Dublin,Self-employed,Degree,Employer,Blended
+70541,Female,39.0,Dublin,Employed,Certificate,Employer,Blended
+70475,Female,35.0,Leinster,Unemployed,Postgraduate,Government Grant,Online
+71201,Female,18.0,Leinster,Employed,Certificate,Employer,Blended
+70815,Male,,Dublin,Employed,Certificate,Self-Funded,Online
+71436,Female,42.0,Dublin,Self-employed,Certificate,Government Grant,Blended
+70180,Female,55.0,Leinster,Employed,Secondary,Government Grant,Online
+71065,Male,32.0,Leinster,Employed,Secondary,Self-Funded,Online
+70366,Female,28.0,Connacht,Employed,Degree,Employer,Online
+70768,Female,38.0,Dublin,Student,Postgraduate,Employer,Online
+70927,Female,,Dublin,Unemployed,Certificate,Government Grant,Online
+71100,Male,36.0,Connacht,Unemployed,Secondary,Government Grant,Blended
+70131,female,31.0,Ulster,Employed,Degree,Employer,Online
+70580,Female,39.0,Leinster,Self-employed,Secondary,Government Grant,Online
+70796,Female,43.0,Leinster,Unemployed,,Government Grant,Online
+71170,Male,49.0,Munster,Employed,Certificate,Employer,Online
+71053,M,18.0,Munster,Employed,Degree,Self-Funded,Blended
+71356,Female,30.0,Munster,Employed,Secondary,Employer,Online
+70334,Male,44.0,Munster,Employed,Certificate,Employer,Blended
+70197,Male,23.0,Ulster,Unemployed,Secondary,Govt Grant,Online
+71524,Male,39.0,Munster,Employed,Degree,Employer,Online
+71004,Male,49.0,Munster,Unemployed,Certificate,Self-Funded,Online
+70089,Male,62.0,Leinster,Employed,Certificate,Employer,Blended
+70677,Male,38.0,Dublin,Self-employed,Secondary,Employer,Online
+71584,Male,44.0,Munster,Employed,Certificate,Self-Funded,Online
+71130,Male,44.0,Dublin,Student,Secondary,Employer,Online
+70865,Female,18.0,Munster,Unemployed,Secondary,Government Grant,Online
+71309,Female,39.0,Ulster,Student,Certificate,Self-Funded,Online
+71009,Female,42.0,Dublin,Unemployed,Certificate,Self-Funded,Online
+70219,Male,44.0,Leinster,Employed,Degree,Employer,Online
+70401,male,49.0,Munster,Employed,Degree,Self-Funded,Online
+70107,Male,37.0,Dublin,Student,Degree,Self-Funded,Blended
+71113,Female,41.0,Dublin,Employed,Secondary,Employer,Online
+71070,F,35.0,Dublin,Self-employed,Secondary,Government Grant,Online
+71460,Female,59.0,Connacht,Employed,Degree,Self-Funded,Blended
+70873,Male,50.0,Leinster,Employed,Secondary,Government Grant,Blended
+71159,M,53.0,Connacht,Employed,Secondary,Employer,Online
+70740,Male,23.0,Dublin,Self-employed,Certificate,Government Grant,Blended
+71487,Male,35.0,Dublin,Self-employed,Degree,Government Grant,Online
+70969,Female,34.0,Munster,Unemployed,Certificate,Self-Funded,Online
+71377,Male,22.0,Dublin,Unemployed,Postgraduate,Govt Grant,Online
+70459,Male,33.0,Dublin,Employed,Postgraduate,Government Grant,Online
+71123,Female,32.0,Munster,Employed,Secondary,Self-Funded,Blended
+71340,Male,44.0,Ulster,Employed,Certificate,Self-Funded,Online
+70975,Female,26.0,Dublin,Unemployed,Certificate,Government Grant,Online
+71042,Male,28.0,Leinster,Self-employed,Secondary,Employer,Blended
+70192,Male,35.0,Leinster,Self-employed,Secondary,Employer,Blended
+70045,Female,48.0,Leinster,Employed,Certificate,Employer,Blended
+70769,Male,39.0,Munster,Employed,Degree,Employer,Blended
+70205,Female,35.0,Munster,Employed,Degree,Employer,Blended
+70829,Female,43.0,Munster,Self-employed,Postgraduate,Employer,Blended
+71421,Male,58.0,Dublin,Student,Certificate,Government Grant,Online
+70958,Female,55.0,Connacht,Unemployed,Degree,Government Grant,Online
+71468,Female,33.0,Dublin,Student,Certificate,Self-Funded,Online
+70356,Female,33.0,Munster,Employed,Degree,Govt Grant,Online
+70067,Male,42.0,Dublin,Employed,Secondary,Employer,Online
+70785,Female,31.0,Munster,Employed,Postgraduate,Self-Funded,Blended
+71057,Female,53.0,Leinster,Self-employed,Degree,Self-Funded,Online
+71476,Male,39.0,Connacht,Self-employed,Secondary,Self-Funded,Blended
+70965,Female,34.0,Dublin,Employed,Postgraduate,Government Grant,online
+70047,Male,34.0,Leinster,Employed,Certificate,Employer,Online
+71376,Male,34.0,Leinster,Employed,Postgraduate,Self-Funded,Online
+70414,Female,54.0,Leinster,Self-employed,Certificate,Self-Funded,Online
+70836,Male,57.0,Munster,Self-employed,Certificate,Employer,Blended
+71277,Female,47.0,Dublin,Unemployed,Certificate,Government Grant,Online
+70085,Female,33.0,Munster,Employed,Certificate,Government Grant,Online
+71482,Female,30.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70856,Male,39.0,Dublin,Self-employed,Certificate,Employer,Blended
+71318,Female,,Munster,Employed,Secondary,Government Grant,online
+70878,Male,22.0,Munster,Student,Certificate,Employer,Online
+70866,Female,34.0,Leinster,Student,Postgraduate,Employer,Blended
+70534,Female,48.0,Ulster,Unemployed,Postgraduate,Self-Funded,Online
+71373,Female,33.0,Munster,Employed,Certificate,Employer,Online
+70517,Female,33.0,Munster,Employed,Postgraduate,Self-Funded,Online
+70467,Female,27.0,Dublin,Employed,Secondary,Government Grant,Blended
+70859,Female,52.0,Leinster,Unemployed,Certificate,Govt Grant,Online
+70436,Male,31.0,Leinster,Unemployed,Certificate,Government Grant,online
+71385,Female,34.0,Ulster,Employed,Secondary,Employer,Online
+70068,Female,25.0,Dublin,Unemployed,Certificate,Govt Grant,Blended
+71262,Female,29.0,Dublin,Student,Secondary,Self-Funded,Online
+70026,Male,32.0,Munster,Employed,Secondary,Employer,Online
+71395,Male,18.0,Dublin,Unemployed,Degree,Government Grant,Blended
+70561,Female,33.0,Dublin,Employed,Certificate,Self-Funded,Online
+71486,Female,28.0,Leinster,Employed,Secondary,Self-Funded,Online
+70248,Male,31.0,Dublin,Employed,Certificate,Self-Funded,Online
+70224,Male,51.0,Munster,Unemployed,Degree,Government Grant,Blended
+70759,Male,31.0,Leinster,Employed,Secondary,Government Grant,online
+71153,Male,41.0,Leinster,Employed,Secondary,Self-Funded,Blended
+70187,Female,48.0,Munster,Employed,Certificate,Self-Funded,Online
+70256,Male,38.0,Dublin,Employed,Certificate,Employer,Blended
+70831,Female,36.0,Dublin,Self-employed,Certificate,Government Grant,Online
+70487,Male,46.0,Dublin,Employed,Certificate,Self-Funded,Online
+70228,Male,50.0,Connacht,Employed,Degree,Employer,Blended
+70867,Female,38.0,Dublin,Student,Degree,Self-Funded,Online
+71368,Male,37.0,Leinster,Employed,Postgraduate,Employer,Online
+71521,Male,150.0,Dublin,Student,Degree,Self-Funded,Blended
+71204,Male,44.0,Leinster,Self-employed,Certificate,Self-Funded,Online
+71510,Female,39.0,Dublin,Self-employed,Secondary,Self-Funded,Blended
+71191,F,31.0,Connacht,Employed,Certificate,Self-Funded,Online
+71210,Male,43.0,Dublin,Employed,Secondary,Government Grant,Online
+70391,Female,39.0,Munster,Employed,Secondary,Employer,Online
+70389,Female,31.0,Munster,Unemployed,Certificate,Government Grant,Online
+70262,Female,36.0,Munster,Employed,Certificate,Government Grant,Online
+70319,Female,42.0,Leinster,Employed,Certificate,Self-Funded,Blended
+70184,Female,44.0,Leinster,Employed,,Government Grant,Blended
+71194,Male,44.0,Connacht,Employed,Secondary,Employer,Blended
+70699,Male,18.0,Connacht,Student,Certificate,Self-Funded,Online
+70095,Female,23.0,Dublin,Employed,Certificate,Self-Funded,Online
+70601,Female,31.0,Connacht,Self-employed,Secondary,Government Grant,Blended
+71327,Male,44.0,Dublin,Employed,Degree,Government Grant,Online
+70492,Female,28.0,Leinster,Self-employed,Secondary,Self-Funded,Blended
+70930,M,44.0,Connacht,Employed,Certificate,Self-Funded,Blended
+71008,Male,44.0,Dublin,Self-employed,Certificate,Government Grant,Blended
+71507,Male,25.0,Munster,Employed,Certificate,Employer,Blended
+70877,Female,42.0,Munster,Self-employed,Degree,Government Grant,Online
+71490,Male,43.0,Munster,Employed,Postgraduate,Employer,Online
+70320,Male,39.0,Munster,Employed,Secondary,Employer,Online
+71212,Female,37.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70557,Male,33.0,Leinster,Employed,Certificate,Government Grant,Online
+70297,Female,24.0,Leinster,Student,Postgraduate,Self-Funded,Blended
+70922,Female,36.0,Dublin,Student,Degree,Employer,Blended
+70876,Male,44.0,Dublin,Unemployed,Degree,Government Grant,Online
+70061,Male,38.0,Leinster,Employed,Certificate,Employer,Online
+71352,Female,54.0,Munster,Student,Certificate,Self-Funded,Online
+70253,Male,57.0,Ulster,Employed,Degree,Employer,Blended
+71187,Female,32.0,Dublin,Unemployed,Degree,Government Grant,Online
+71471,Male,31.0,Munster,Self-employed,Secondary,Self-Funded,Online
+70280,Female,30.0,Munster,Student,Postgraduate,Self-Funded,Online
+70576,Male,30.0,Munster,Employed,Degree,Employer,Blended
+70039,male,31.0,Ulster,Unemployed,Certificate,Self-Funded,Online
+70651,Male,37.0,Ulster,Employed,Postgraduate,Employer,online
+70659,Male,33.0,Leinster,Employed,Postgraduate,Self-Funded,Online
+70078,Female,44.0,Munster,Student,Postgraduate,Employer,Online
+70290,Male,55.0,Connacht,Student,Secondary,Government Grant,Blended
+70294,Female,26.0,Leinster,Employed,Certificate,Employer,Blended
+70675,Female,33.0,Munster,Employed,Degree,Self-Funded,Online
+71545,Female,45.0,Munster,Unemployed,Secondary,Govt Grant,Blended
+70355,Female,21.0,Munster,Student,Certificate,Employer,Online
+70875,Female,33.0,Leinster,Unemployed,Certificate,Self-Funded,Blended
+70972,Female,38.0,Connacht,Self-employed,Degree,Self-Funded,Online
+70944,Female,27.0,Munster,Employed,Postgraduate,Employer,Blended
+71038,Female,42.0,Munster,Employed,Certificate,Employer,Online
+70032,Male,30.0,Connacht,Unemployed,Degree,Government Grant,Online
+70887,Male,41.0,Leinster,Unemployed,Certificate,Employer,online
+71220,Female,31.0,Munster,Unemployed,Secondary,Self-Funded,Blended
+70175,Male,20.0,Leinster,Employed,Degree,Government Grant,Blended
+70900,Male,34.0,Ulster,Student,Postgraduate,Employer,Online
+70098,Male,29.0,Munster,Unemployed,Postgraduate,Government Grant,Online
+70070,Male,22.0,Connacht,Employed,Secondary,Employer,Online
+70351,Female,29.0,Connacht,Unemployed,Certificate,Government Grant,Blended
+71441,Male,36.0,Leinster,Student,Certificate,Government Grant,Online
+71135,Male,55.0,Dublin,Self-employed,Certificate,Employer,Blended
+70357,Female,53.0,Leinster,Student,Certificate,Government Grant,Online
+71302,Female,34.0,Leinster,Employed,Certificate,Employer,Online
+71244,Male,57.0,Dublin,Student,,Self-Funded,Blended
+70608,Male,42.0,Leinster,Employed,Degree,Employer,Blended
+70329,Female,55.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70006,Male,20.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70943,Male,27.0,Dublin,Unemployed,Degree,Self-Funded,Blended
+70301,Male,41.0,Leinster,Unemployed,Certificate,Government Grant,Online
+70577,Female,52.0,Munster,Student,Certificate,Employer,Online
+70612,Male,54.0,Munster,Unemployed,Degree,Government Grant,Blended
+71254,Female,41.0,Leinster,Self-employed,Secondary,Self-Funded,Blended
+70458,Male,41.0,Munster,Unemployed,Secondary,Government Grant,Online
+71339,F,30.0,Connacht,Employed,Certificate,Government Grant,Blended
+71433,Male,43.0,Connacht,Self-employed,Secondary,Government Grant,Online
+70616,Female,36.0,Dublin,Self-employed,Degree,Self-Funded,Online
+71453,male,52.0,Ulster,Student,Certificate,Employer,Online
+70555,Female,52.0,Munster,Self-employed,Degree,Employer,Online
+70777,Male,63.0,Leinster,Employed,Certificate,Employer,Blended
+70596,Male,38.0,Munster,Employed,Secondary,Employer,Online
+70623,Male,35.0,Leinster,Self-employed,Secondary,Government Grant,Online
+70861,Male,41.0,Ulster,Employed,Certificate,Government Grant,Blended
+70147,Male,37.0,Dublin,Employed,Certificate,Self-Funded,Online
+71571,Male,38.0,Ulster,Employed,Secondary,Government Grant,Online
+71446,Male,31.0,Leinster,Unemployed,Postgraduate,Government Grant,Online
+70299,Female,36.0,Connacht,Unemployed,Secondary,Government Grant,Blended
+70899,Female,44.0,Ulster,Unemployed,Degree,Government Grant,Online
+70246,Female,25.0,Ulster,Employed,Degree,Self-Funded,Online
+70460,Male,47.0,Dublin,Employed,Certificate,Self-Funded,Online
+70841,Female,31.0,Connacht,Student,Certificate,Employer,Online
+70800,Female,36.0,Connacht,Unemployed,Degree,Government Grant,Online
+70839,Female,25.0,Dublin,Self-employed,Certificate,Government Grant,Blended
+71196,Male,38.0,Leinster,Employed,Degree,Employer,Online
+71512,Male,28.0,Leinster,Employed,Degree,Employer,Online
+70542,Male,30.0,Munster,Employed,Certificate,Government Grant,Online
+71357,Male,34.0,Leinster,Unemployed,Secondary,Government Grant,Online
+71251,Female,32.0,Munster,Employed,Postgraduate,Employer,Blended
+71291,Female,40.0,Leinster,Employed,Certificate,Self-Funded,Online
+70830,Female,39.0,Leinster,Student,Degree,Self-Funded,Online
+71443,Male,39.0,Dublin,Unemployed,Degree,Government Grant,Blended
+70846,Female,34.0,Munster,Unemployed,Secondary,Government Grant,Online
+70330,Female,35.0,Connacht,Employed,Degree,Employer,Online
+70915,Female,44.0,Leinster,Employed,Degree,Self-Funded,Blended
+70797,Female,,Dublin,Self-employed,Degree,Employer,Online
+70904,Female,58.0,Munster,Unemployed,Degree,Government Grant,Blended
+71600,Female,43.0,Connacht,Unemployed,Certificate,Government Grant,Blended
+70706,Female,39.0,Leinster,Employed,Secondary,Self-Funded,Online
+71158,Male,44.0,Munster,Employed,Postgraduate,Employer,Blended
+70158,Female,39.0,Leinster,Employed,Secondary,Employer,Online
+70736,Female,47.0,Munster,Employed,Secondary,Self-Funded,Online
+70408,Male,51.0,Connacht,Employed,Secondary,Employer,Blended
+71396,Female,45.0,Leinster,Student,Postgraduate,Government Grant,Online
+71215,Male,42.0,Dublin,Employed,Secondary,Employer,Online
+70058,Male,51.0,Leinster,Employed,Certificate,Self-Funded,Online
+70124,Male,53.0,Dublin,Employed,Secondary,Self-Funded,Blended
+71236,Male,23.0,Dublin,Unemployed,Degree,Employer,Online
+71173,Female,37.0,Leinster,Student,Certificate,Self-Funded,Online
+70491,Male,40.0,Leinster,Employed,Degree,Self-Funded,Blended
+71539,Female,56.0,Ulster,Employed,Secondary,Employer,Online
+71369,Male,32.0,Munster,Employed,Certificate,Government Grant,Online
+70225,Female,43.0,Dublin,Self-employed,Postgraduate,Self-Funded,Online
+71392,male,30.0,Leinster,Unemployed,Certificate,Government Grant,Blended
+71449,Male,18.0,Dublin,Employed,Postgraduate,Government Grant,Blended
+70491,Male,40.0,Leinster,Employed,Degree,Self-Funded,Blended
+71030,Female,44.0,Leinster,Employed,Degree,Self-Funded,Online
+71013,Female,35.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70017,Male,30.0,Leinster,Self-employed,Degree,Employer,Online
+70789,Female,20.0,Ulster,Employed,Secondary,Self-Funded,Online
+70621,Female,63.0,Munster,Employed,Certificate,Employer,Online
+70668,Female,42.0,Munster,Employed,Degree,Employer,Online
+71231,Male,32.0,Dublin,Employed,Secondary,Government Grant,Online
+70425,Male,26.0,Leinster,Student,Secondary,Government Grant,Online
+70824,Female,40.0,Munster,Self-employed,Postgraduate,Self-Funded,Blended
+71101,Male,32.0,Munster,Unemployed,Secondary,Self-Funded,Online
+71248,Male,54.0,Ulster,Student,Postgraduate,Employer,Online
+70565,Male,42.0,Ulster,Self-employed,Degree,Self-Funded,Online
+70318,Male,40.0,Munster,Employed,Postgraduate,Employer,Blended
+71114,Male,21.0,Dublin,Unemployed,Certificate,Government Grant,online
+70916,male,24.0,Connacht,Unemployed,Certificate,Government Grant,Online
+70368,Male,47.0,Dublin,Unemployed,Certificate,Government Grant,Online
+70869,Male,21.0,Dublin,Employed,Certificate,Employer,Online
+71284,Female,45.0,Leinster,Student,Degree,Government Grant,Blended
+71177,Male,41.0,Connacht,Unemployed,Certificate,Government Grant,Blended
+70380,Male,20.0,Leinster,Self-employed,Secondary,Employer,Online
+70375,Female,46.0,Munster,Self-employed,Certificate,Self-Funded,Blended
+71543,Male,29.0,Leinster,Employed,Secondary,Self-Funded,Online
+70637,Male,37.0,Dublin,Employed,,Self-Funded,Online
+71256,Female,33.0,Leinster,Student,Secondary,Self-Funded,Blended
+71344,Male,36.0,Munster,Employed,Postgraduate,Self-Funded,Online
+70686,Male,20.0,Dublin,Employed,Degree,Self-Funded,Online
+70080,Female,21.0,Connacht,Employed,Secondary,Government Grant,Online
+70862,Male,20.0,Dublin,Employed,Degree,Government Grant,Online
+71406,Female,,Connacht,Employed,Certificate,Government Grant,Blended
+71229,Male,52.0,Leinster,Employed,Postgraduate,Government Grant,Online
+70429,Male,39.0,Connacht,Unemployed,Secondary,Self-Funded,Blended
+70014,Female,27.0,Munster,Employed,Certificate,Employer,Online
+71024,Female,33.0,Dublin,Employed,Secondary,Employer,Blended
+70452,Male,43.0,Munster,Unemployed,Secondary,Government Grant,Blended
+71267,Female,46.0,Leinster,Employed,Degree,Employer,Blended
+71156,Female,27.0,Connacht,Employed,Degree,Government Grant,Blended
+70127,Male,47.0,Dublin,Student,Certificate,Government Grant,Blended
+71306,Female,38.0,Dublin,Student,Secondary,Employer,Online
+71529,Male,34.0,Dublin,Student,Secondary,Self-Funded,Online
+70724,Female,30.0,Connacht,Unemployed,Postgraduate,Government Grant,Online
+70857,Female,45.0,Leinster,Employed,Degree,Self-Funded,Blended
+70682,Female,45.0,Dublin,Employed,Degree,Self-Funded,Online
+70815,Male,,Dublin,Employed,Certificate,Self-Funded,Online
+70215,Female,43.0,Dublin,Self-employed,Secondary,Employer,Blended
+70731,Male,50.0,Munster,Unemployed,Degree,Government Grant,Online
+70618,Female,43.0,Leinster,Student,Degree,Government Grant,Blended
+70744,Female,33.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+70194,Female,61.0,Leinster,Employed,Certificate,Self-Funded,Online
+70412,Male,49.0,Dublin,Employed,Certificate,Government Grant,Online
+70396,Male,32.0,Leinster,Employed,Degree,Employer,online
+71496,Female,47.0,Connacht,Student,Certificate,Self-Funded,Online
+71222,Female,37.0,Munster,Student,Secondary,Government Grant,online
+71195,Male,46.0,Dublin,Self-employed,Certificate,Employer,Online
+71221,Male,30.0,Leinster,Unemployed,Secondary,Government Grant,Blended
+70911,Male,55.0,Ulster,Employed,Postgraduate,Self-Funded,Online
+70678,Male,28.0,Munster,Employed,Secondary,Self-Funded,Online
+70883,Female,62.0,Leinster,Self-employed,Secondary,Employer,online
+70173,Female,39.0,Connacht,Student,Secondary,Employer,Online
+71182,Female,26.0,Ulster,Employed,Degree,Employer,Blended
+70186,Male,25.0,Dublin,Employed,Degree,Self-Funded,Blended
+70918,Male,26.0,Leinster,Employed,Degree,Employer,Blended
+71367,Female,25.0,Munster,Employed,Secondary,Self-Funded,Online
+71323,Male,28.0,Dublin,Employed,Certificate,Employer,Online
+71078,Male,39.0,Leinster,Self-employed,Certificate,Employer,Online
+71298,Male,32.0,Connacht,Unemployed,Certificate,Government Grant,Online
+70615,Male,21.0,Munster,Employed,Secondary,Government Grant,Online
+70270,Female,26.0,Munster,Employed,Secondary,Self-Funded,Blended
+70105,Male,26.0,Ulster,Employed,Certificate,Self-Funded,Online
+71574,Male,31.0,Dublin,Employed,Degree,Employer,Online
+71564,Female,37.0,Dublin,Student,Degree,Self-Funded,Online
+71587,Female,40.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+70434,Male,63.0,Munster,Employed,Degree,Employer,Online
+71276,Female,51.0,Dublin,Employed,Secondary,Self-Funded,Online
+71459,Male,33.0,Dublin,Employed,Degree,Self-Funded,Online
+70747,Male,35.0,Leinster,Employed,Degree,Employer,Online
+70636,Female,42.0,Connacht,Employed,Certificate,Government Grant,Blended
+70238,Female,56.0,Leinster,Unemployed,Secondary,Government Grant,BLENDED
+71037,Female,31.0,Munster,Self-employed,Degree,Government Grant,Online
+70806,Female,18.0,Munster,Employed,Degree,Self-Funded,Online
+71214,Male,18.0,Connacht,Employed,Secondary,Employer,Online
+70652,Male,37.0,Dublin,Unemployed,Degree,Self-Funded,Online
+70157,Female,56.0,Dublin,Employed,Certificate,Employer,Online
+70840,Female,28.0,Leinster,Employed,Certificate,Government Grant,Online
+71350,Female,35.0,Connacht,Unemployed,Certificate,Government Grant,Online
+71412,M,43.0,Leinster,Student,Secondary,Government Grant,Blended
+70179,Female,42.0,Leinster,Employed,Certificate,Self-Funded,Blended
+71423,Female,22.0,Dublin,Employed,Degree,Self-Funded,Blended
+71439,F,44.0,Munster,Student,Certificate,Employer,Online
+71116,Female,44.0,Connacht,Employed,Secondary,Self-Funded,Blended
+70619,Male,28.0,Leinster,Unemployed,Degree,Government Grant,Blended
+70984,Female,41.0,Connacht,Employed,Certificate,Self-Funded,Online
+70454,Male,44.0,Munster,Employed,Certificate,Employer,Online
+70767,Male,33.0,Connacht,Self-employed,Secondary,Self-Funded,Online
+70663,Female,35.0,Connacht,Employed,Degree,Employer,Online
+71483,Male,43.0,Munster,Self-employed,Secondary,Self-Funded,Blended
+70535,Female,51.0,Leinster,Self-employed,Degree,Self-Funded,BLENDED
+70949,Male,21.0,Ulster,Self-employed,Secondary,Government Grant,Blended
+70193,Female,32.0,Leinster,Unemployed,Certificate,Government Grant,Blended
+71324,Male,26.0,Munster,Employed,Degree,Employer,Blended
+70716,Female,33.0,Leinster,Employed,Secondary,Self-Funded,BLENDED
+70440,Female,40.0,Dublin,Employed,Degree,Government Grant,Online
+70566,Male,30.0,Leinster,Employed,Certificate,Government Grant,Online
+70406,Female,18.0,Dublin,Self-employed,Degree,Govt Grant,Online
+71167,Female,45.0,Dublin,Employed,Degree,Employer,Blended
+70029,Female,33.0,Dublin,Employed,Degree,Employer,Online
+70826,Female,30.0,Dublin,Student,Secondary,Employer,Online
+70948,Female,26.0,Leinster,Employed,Postgraduate,Self-Funded,Online
+70834,F,30.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70303,Male,41.0,Connacht,Self-employed,Secondary,Employer,Blended
+70595,Male,25.0,Dublin,Employed,Degree,Government Grant,Blended
+71469,Male,26.0,Connacht,Unemployed,Certificate,Government Grant,Online
+71119,female,36.0,Munster,Employed,Degree,Employer,Online
+70634,Male,51.0,Munster,Employed,Postgraduate,Employer,Blended
+71117,Female,41.0,Connacht,Employed,Secondary,Government Grant,Online
+71540,Female,28.0,Munster,Employed,Secondary,Self-Funded,Online
+71064,Male,42.0,Ulster,Employed,Secondary,Government Grant,Online
+70472,Male,41.0,Munster,Employed,Degree,Self-Funded,Blended
+70707,Female,18.0,Ulster,Employed,Postgraduate,Employer,Online
+70932,Female,37.0,Dublin,Employed,,Employer,Online
+70572,Female,36.0,Munster,Unemployed,Degree,Government Grant,Blended
+71425,Male,32.0,Munster,Unemployed,Secondary,Self-Funded,Online
+70825,M,34.0,Dublin,Employed,Secondary,Employer,Blended
+71146,Male,,Dublin,Employed,Degree,Government Grant,Blended
+70182,M,44.0,Ulster,Employed,Certificate,Self-Funded,Blended
+70552,M,23.0,Munster,Employed,Secondary,Government Grant,Blended
+70073,Female,42.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+70594,Male,42.0,Connacht,Unemployed,Certificate,Government Grant,Blended
+71128,Female,39.0,Dublin,Employed,Secondary,Self-Funded,Blended
+70190,Female,25.0,Ulster,Employed,Certificate,Self-Funded,Blended
+71060,Male,38.0,Leinster,Employed,Secondary,Government Grant,Online
+70108,Female,37.0,Leinster,Employed,Certificate,Employer,Blended
+70379,Male,32.0,Ulster,Student,Secondary,Government Grant,Blended
+71403,Female,37.0,Leinster,Employed,Degree,Self-Funded,Blended
+71118,Female,45.0,Connacht,Self-employed,Degree,Employer,Online
+71150,Female,42.0,Leinster,Unemployed,Secondary,Self-Funded,Online
+70470,Male,34.0,Dublin,Unemployed,Degree,Self-Funded,Online
+70749,Female,36.0,Dublin,Employed,Secondary,Employer,Online
+71555,Male,39.0,Dublin,Self-employed,Postgraduate,Self-Funded,Online
+70364,Female,18.0,Dublin,Employed,Secondary,Self-Funded,Online
+70041,Male,36.0,Dublin,Unemployed,Certificate,Government Grant,Online
+70980,Female,18.0,Dublin,Unemployed,Certificate,Government Grant,Online
+70082,Male,26.0,Leinster,Employed,Postgraduate,Employer,Online
+70772,Male,26.0,Munster,Employed,Degree,Employer,Online
+71094,Male,43.0,Dublin,Employed,Degree,Government Grant,Blended
+70606,Male,,Dublin,Employed,Certificate,Self-Funded,Online
+70271,Male,30.0,Leinster,Employed,Certificate,Government Grant,Blended
+71232,Female,36.0,Ulster,Unemployed,Certificate,Self-Funded,Blended
+70331,Male,44.0,Leinster,Employed,Certificate,Self-Funded,Online
+71475,Male,28.0,Ulster,Self-employed,Secondary,Self-Funded,Blended
+71049,Female,39.0,Dublin,Employed,Secondary,Self-Funded,Online
+71394,Female,31.0,Munster,Employed,Certificate,Self-Funded,Online
+70354,M,38.0,Dublin,Employed,Certificate,Government Grant,Blended
+70104,Male,40.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70456,Male,44.0,Leinster,Student,Certificate,Government Grant,Blended
+70917,Male,56.0,Ulster,Employed,Certificate,Employer,Blended
+70929,Male,35.0,Dublin,Self-employed,Secondary,Employer,Online
+70034,Male,36.0,Leinster,Employed,Secondary,Self-Funded,Online
+71283,Male,37.0,Leinster,Employed,Secondary,Employer,Online
+70533,Female,44.0,Dublin,Employed,Secondary,Employer,Online
+71351,Female,37.0,Connacht,Employed,Certificate,Self-Funded,online
+70495,Female,18.0,Leinster,Self-employed,Certificate,Employer,Blended
+70819,Female,34.0,Dublin,Employed,Certificate,Self-Funded,Blended
+70526,Female,25.0,Leinster,Employed,Degree,Employer,Online
+71537,Male,56.0,Munster,Employed,Certificate,Government Grant,Blended
+71372,Female,40.0,Munster,Employed,Postgraduate,Self-Funded,Blended
+71597,Male,50.0,Leinster,Employed,Degree,Employer,Online
+71202,Female,49.0,Ulster,Employed,Certificate,Government Grant,Blended
+70868,Female,51.0,Munster,Employed,Certificate,Government Grant,Online
+70730,Female,52.0,Leinster,Employed,Certificate,Self-Funded,Blended
+70210,Female,28.0,Connacht,Employed,Secondary,Government Grant,Blended
+71016,Female,24.0,Leinster,Unemployed,Degree,Government Grant,Online
+71136,Female,24.0,Dublin,Self-employed,Certificate,Self-Funded,Blended
+71522,female,18.0,Dublin,Self-employed,Certificate,Employer,Online
+70146,Male,41.0,Leinster,Self-employed,Degree,Employer,Online
+70321,Male,44.0,Munster,Employed,Postgraduate,Self-Funded,Blended
+70516,Male,38.0,Ulster,Unemployed,Certificate,Government Grant,Online
+70305,F,36.0,Dublin,Employed,Certificate,Self-Funded,Online
+71547,Male,44.0,Connacht,Self-employed,Certificate,Employer,Blended
+71087,Female,39.0,Dublin,Employed,Certificate,Employer,Blended
+70939,Female,43.0,Leinster,Unemployed,Secondary,Government Grant,Blended
+71457,Male,50.0,Dublin,Employed,Secondary,Self-Funded,Blended
+71238,Male,31.0,Connacht,Employed,Secondary,Employer,Blended
+70778,Female,33.0,Ulster,Self-employed,Secondary,Employer,Online
+70680,Female,50.0,Leinster,Unemployed,Secondary,Government Grant,Online
+71593,Female,39.0,Dublin,Student,Certificate,Employer,Blended
+70378,Female,43.0,Dublin,Self-employed,Certificate,Employer,Online
+70518,Female,50.0,Leinster,Student,Secondary,Self-Funded,Online
+70266,Male,41.0,Dublin,Employed,Certificate,Government Grant,Online
+71124,Female,31.0,Leinster,Employed,Certificate,Employer,Online
+71438,Female,37.0,Munster,Employed,Degree,Self-Funded,Blended
+70827,female,31.0,Leinster,Employed,Certificate,Employer,Online
+70898,Female,32.0,Dublin,Employed,Secondary,Self-Funded,Blended
+70961,Male,41.0,Munster,Unemployed,Certificate,Government Grant,online
+71025,Male,25.0,Munster,Self-employed,Degree,Government Grant,Blended
+70661,Male,27.0,Connacht,Self-employed,Certificate,Employer,Online
+70632,Female,34.0,Munster,Employed,Degree,Employer,Blended
+70377,Female,31.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70935,F,48.0,Leinster,Unemployed,Degree,Government Grant,Blended
+70277,Female,31.0,Leinster,Student,Certificate,Employer,Blended
+70838,Male,29.0,Munster,Employed,Secondary,Self-Funded,Online
+71102,Female,22.0,Leinster,Self-employed,Secondary,Government Grant,Blended
+70203,Female,55.0,Ulster,Unemployed,Degree,Government Grant,Blended
+70690,Male,34.0,Leinster,Self-employed,Secondary,Employer,Online
+70021,Female,43.0,Munster,Employed,Certificate,Employer,Online
+71299,Female,23.0,Connacht,Employed,Secondary,Employer,Online
+71568,Female,31.0,Dublin,Unemployed,Secondary,Self-Funded,Online
+71246,Female,21.0,Leinster,Unemployed,Degree,Government Grant,Blended
+70090,Female,35.0,Leinster,Employed,Secondary,Employer,Online
+71219,Female,31.0,Leinster,Employed,Degree,Employer,Online
+71140,Female,39.0,Munster,Employed,Secondary,Government Grant,Online
+70360,Female,18.0,Connacht,Student,Secondary,Self-Funded,Online
+70750,Male,41.0,Leinster,Employed,Postgraduate,Self-Funded,Online
+70309,Female,,Dublin,Employed,Secondary,Self-Funded,Online
+70486,Female,52.0,Munster,Employed,Postgraduate,Self-Funded,Online
+71569,Female,31.0,Leinster,Unemployed,Secondary,Government Grant,Online
+70987,Female,31.0,Dublin,Employed,Certificate,Employer,Online
+71199,Female,33.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+70704,Male,27.0,Dublin,Self-employed,Degree,Government Grant,Online
+71126,Female,43.0,Leinster,Self-employed,Degree,Self-Funded,Online
+70114,Female,36.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70201,Male,41.0,Connacht,Employed,Secondary,Employer,Blended
+71370,Male,40.0,Munster,Self-employed,Secondary,Employer,Online
+70563,Male,32.0,Munster,Self-employed,Secondary,Self-Funded,Online
+71263,Female,33.0,Munster,Employed,Degree,Employer,Online
+70805,Female,39.0,Leinster,Self-employed,Degree,Self-Funded,Blended
+70050,Male,32.0,Dublin,Unemployed,Certificate,Govt Grant,Online
+70888,female,,Dublin,Employed,Degree,Govt Grant,Online
+71003,Male,59.0,Dublin,Employed,,Government Grant,Blended
+70764,Male,49.0,Connacht,Employed,Postgraduate,Government Grant,Blended
+70957,Male,18.0,Dublin,Employed,Secondary,Government Grant,Online
+70393,Female,38.0,Leinster,Employed,Postgraduate,Self-Funded,Blended
+70833,Male,41.0,Munster,Employed,Secondary,Employer,Online
+71093,Male,20.0,Ulster,Student,Postgraduate,Employer,Online
+71092,Female,37.0,Connacht,Unemployed,Secondary,Government Grant,Online
+70650,Female,23.0,Connacht,Employed,Certificate,Self-Funded,Blended
+71255,Male,29.0,Dublin,Student,Secondary,Employer,Online
+70116,Male,49.0,Munster,Unemployed,Degree,Government Grant,Online
+70979,Male,33.0,Leinster,Self-employed,Certificate,Employer,Online
+71081,Female,25.0,Dublin,Self-employed,Postgraduate,Self-Funded,Blended
+70340,Male,52.0,Leinster,Employed,Certificate,Self-Funded,Online
+70791,Female,26.0,Connacht,Employed,Degree,Employer,Online
+71228,Male,51.0,Dublin,Employed,Degree,Government Grant,Blended
+71565,Female,25.0,Leinster,Employed,Degree,Self-Funded,Online
+71589,Female,40.0,Dublin,Employed,Secondary,Employer,Online
+71227,Female,46.0,Munster,Employed,Secondary,Self-Funded,Online
+70086,Male,47.0,Dublin,Employed,Certificate,Employer,Blended
+70285,Male,30.0,Leinster,Unemployed,Degree,Self-Funded,Online
+70793,Male,49.0,Dublin,Employed,Degree,Self-Funded,Blended
+70134,Female,26.0,Ulster,Employed,Secondary,Employer,Online
+71172,Female,26.0,Dublin,Unemployed,Degree,Government Grant,Online
+70773,Female,40.0,Connacht,Employed,Certificate,Self-Funded,Online
+71241,Male,20.0,Dublin,Employed,Secondary,Self-Funded,Online
+70344,Female,28.0,Leinster,Unemployed,Secondary,Government Grant,Blended
+70625,Male,39.0,Dublin,Student,Secondary,Self-Funded,Blended
+71138,Female,48.0,Connacht,Student,Degree,Self-Funded,Blended
+71192,Female,30.0,Dublin,Unemployed,Secondary,Government Grant,Blended
+71301,Female,37.0,Dublin,Unemployed,,Government Grant,Blended
+71305,Female,48.0,Dublin,Student,Degree,Self-Funded,Online
+70079,Female,54.0,Dublin,Employed,Certificate,Govt Grant,Online
+71342,Female,36.0,Leinster,Employed,Secondary,Employer,Online
+70005,Female,40.0,Connacht,Student,Degree,Employer,Blended
+70063,Male,22.0,Leinster,Student,Secondary,Employer,Online
+70947,Female,43.0,Leinster,Unemployed,Degree,Government Grant,Online
+71056,Female,,Dublin,Unemployed,Postgraduate,Government Grant,Online
+70222,Male,24.0,Connacht,Employed,Certificate,Self-Funded,Blended
+70959,Female,39.0,Leinster,Unemployed,Certificate,Government Grant,Blended
+70155,Male,42.0,Ulster,Unemployed,Certificate,Self-Funded,Blended
+70310,Female,42.0,Ulster,Employed,Degree,Govt Grant,Online
+71435,M,41.0,Dublin,Employed,Degree,Self-Funded,Online
+71066,Female,31.0,Dublin,Self-employed,Postgraduate,Employer,Blended
+71045,Female,37.0,Dublin,Self-employed,Certificate,Self-Funded,Blended
+70981,F,48.0,Munster,Self-employed,Secondary,Government Grant,Online
+70206,Female,25.0,Leinster,Unemployed,Degree,Government Grant,Online
+70304,Female,,Ulster,Employed,Degree,Self-Funded,Online
+70519,Female,43.0,Munster,Self-employed,Degree,Employer,Online
+70298,Female,37.0,Leinster,Student,Certificate,Self-Funded,Blended
+71196,Male,38.0,Leinster,Employed,Degree,Employer,Online
+70385,male,,Munster,Unemployed,Secondary,Self-Funded,Online
+71378,Male,30.0,Dublin,Self-employed,Degree,Government Grant,Blended
+70132,Male,26.0,Leinster,Employed,Secondary,Self-Funded,Blended
+70802,Female,53.0,Munster,Employed,Degree,Employer,Online
+71549,Female,40.0,Munster,Employed,Certificate,Government Grant,Online
+70103,Male,20.0,Dublin,Employed,Secondary,Employer,Online
+71365,M,30.0,Leinster,Employed,Secondary,Government Grant,Online
+71310,Female,0.0,Dublin,Student,Secondary,Government Grant,Blended
+71598,Female,47.0,Leinster,Unemployed,Secondary,Government Grant,Online
+70072,Female,35.0,Leinster,Employed,Secondary,Self-Funded,Blended
+70697,Male,39.0,Munster,Unemployed,Postgraduate,Government Grant,Blended
+70403,Female,33.0,Connacht,Unemployed,Certificate,Self-Funded,Online
+71095,Male,30.0,Connacht,Unemployed,Degree,Government Grant,Online
+70701,Male,35.0,Dublin,Employed,Postgraduate,Employer,Online
+71561,Female,35.0,Munster,Employed,Secondary,Self-Funded,Online
+70264,Male,44.0,Leinster,Self-employed,,Employer,Online
+70505,Male,41.0,Leinster,Employed,Degree,Employer,Blended
+70818,Male,35.0,Munster,Self-employed,Degree,Employer,Blended
+70982,Female,45.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+70719,Male,18.0,Munster,Employed,Secondary,Employer,Online
+71544,Male,56.0,Dublin,Employed,Secondary,Government Grant,Blended
+70586,Female,27.0,Munster,Employed,Secondary,Self-Funded,Blended
+70702,Female,34.0,Dublin,Unemployed,Certificate,Government Grant,Online
+70605,Male,52.0,Dublin,Employed,Secondary,Government Grant,online
+71363,Female,31.0,Dublin,Employed,Degree,Employer,Blended
+70373,Female,29.0,Dublin,Employed,Postgraduate,Employer,Online
+70137,Male,23.0,Dublin,Unemployed,Degree,Government Grant,Online
+70920,Male,39.0,Ulster,Employed,Secondary,Self-Funded,Online
+70945,Female,31.0,Dublin,Student,Degree,Self-Funded,Online
+70738,Female,28.0,Dublin,Employed,Certificate,Government Grant,Blended
+71470,Female,48.0,Munster,Employed,Degree,Employer,Blended
+71553,Male,26.0,Dublin,Student,Degree,Employer,online
+70564,Male,33.0,Leinster,Employed,Certificate,Self-Funded,Online
+70056,Male,18.0,Leinster,Self-employed,Degree,Employer,Online
+71174,Female,37.0,Munster,Student,Certificate,Self-Funded,Online
+70119,Male,40.0,Dublin,Unemployed,Secondary,Government Grant,Blended
+71550,Male,46.0,Dublin,Unemployed,Degree,Self-Funded,Blended
+70213,Male,26.0,Munster,Employed,Degree,Self-Funded,Blended
+70390,Female,27.0,Dublin,Employed,Certificate,Government Grant,Blended
+70822,Female,50.0,Dublin,Employed,Secondary,Government Grant,Online
+70165,Female,31.0,Leinster,Employed,Degree,Self-Funded,Online
+70733,Male,150.0,Leinster,Self-employed,Degree,Self-Funded,Online
+70779,Female,45.0,Dublin,Self-employed,Secondary,Self-Funded,Online
+70821,Female,26.0,Dublin,Employed,Certificate,Employer,Online
+70799,Female,31.0,Leinster,Employed,Certificate,Self-Funded,Online
+70424,Female,28.0,Dublin,Student,Degree,Self-Funded,Online
+70232,Male,36.0,Connacht,Employed,Degree,Employer,Online
+70064,Male,45.0,Dublin,Employed,Degree,Self-Funded,Blended
+70342,male,46.0,Munster,Employed,Secondary,Government Grant,Blended
+70339,Male,42.0,Ulster,Unemployed,Postgraduate,Government Grant,Online
+70923,Female,21.0,Dublin,Unemployed,Degree,Govt Grant,Blended
+70672,Male,47.0,Connacht,Employed,Degree,Employer,Blended
+71234,Male,41.0,Ulster,Employed,Degree,Government Grant,Online
+70099,Male,28.0,Dublin,Student,Degree,Self-Funded,Blended
+71358,Male,46.0,Leinster,Employed,Degree,Employer,Blended
+71463,Female,48.0,Leinster,Employed,Degree,Self-Funded,Blended
+71321,Male,48.0,Dublin,Employed,Secondary,Government Grant,Online
+71414,Female,37.0,Dublin,Unemployed,Certificate,Government Grant,Online
+71225,Male,41.0,Ulster,Employed,Secondary,Self-Funded,Online
+70111,Female,37.0,Leinster,Employed,Certificate,Government Grant,Online
+70013,Female,41.0,Leinster,Self-employed,Secondary,Self-Funded,Blended
+71046,Female,37.0,Munster,Employed,Certificate,Government Grant,Online
+70770,Female,26.0,Ulster,Student,Degree,Government Grant,Online
+71018,Female,24.0,Munster,Employed,Certificate,Self-Funded,Online
+70613,Male,49.0,Connacht,Unemployed,Certificate,Govt Grant,Online
+70795,Male,22.0,Munster,Self-employed,Certificate,Employer,Blended
+70641,Female,40.0,Connacht,Unemployed,Certificate,Government Grant,Online
+70812,Female,36.0,Dublin,Employed,Postgraduate,Self-Funded,Blended
+70038,Male,,Dublin,Employed,Degree,Self-Funded,Online
+70348,Female,39.0,Dublin,Unemployed,Secondary,Self-Funded,Blended
+71316,Female,25.0,Leinster,Self-employed,Degree,Self-Funded,Online
+70101,Female,30.0,Leinster,Student,Secondary,Employer,Online
+71322,Male,31.0,Leinster,Employed,Certificate,Employer,Online
+71226,Female,53.0,Leinster,Employed,Secondary,Government Grant,Online
+70497,Male,26.0,Leinster,Unemployed,Secondary,Government Grant,Online
+70075,Female,37.0,Munster,Employed,Certificate,Employer,Online
+70268,Male,,Dublin,Self-employed,Postgraduate,Government Grant,Online
+70885,Male,26.0,Leinster,Employed,Secondary,Self-Funded,Blended
+70647,Female,28.0,Munster,Self-employed,Certificate,Employer,Online
+71300,Female,34.0,Dublin,Unemployed,Secondary,Government Grant,Online
+71383,Female,,Ulster,Unemployed,Secondary,Government Grant,Online
+70012,Female,18.0,Munster,Student,Secondary,Self-Funded,online
+70666,Female,34.0,Dublin,Self-employed,Secondary,Self-Funded,Blended
+70358,Female,37.0,Dublin,Self-employed,Certificate,Government Grant,Blended
+70028,Male,33.0,Leinster,Employed,Degree,Self-Funded,Online
+70674,Male,38.0,Ulster,Unemployed,Postgraduate,Government Grant,Blended
+71149,Male,43.0,Munster,Self-employed,Degree,Government Grant,Online
+71554,Female,51.0,Munster,Unemployed,Secondary,Government Grant,Online
+70427,Male,24.0,Dublin,Unemployed,Certificate,Govt Grant,Online
+70025,female,38.0,Munster,Employed,Certificate,Government Grant,Online
+71028,Female,36.0,Munster,Unemployed,Certificate,Government Grant,BLENDED
+70333,Male,28.0,Leinster,Employed,Postgraduate,Govt Grant,Online
+70708,M,33.0,Leinster,Student,Secondary,Employer,Online
+70308,Female,41.0,Dublin,Self-employed,Secondary,Self-Funded,Blended
+70504,Male,43.0,Leinster,Employed,Secondary,Government Grant,Online
+70974,Male,50.0,Dublin,Employed,Postgraduate,Government Grant,Blended
+71002,Male,39.0,Munster,Self-employed,Postgraduate,Employer,Online
+71578,Female,37.0,Leinster,Student,Certificate,Government Grant,Online
+71588,Female,23.0,Munster,Unemployed,Certificate,Government Grant,Blended
+71289,Male,27.0,Munster,Employed,Secondary,Government Grant,Online
+70171,Female,,Dublin,Employed,Certificate,Employer,Blended
+70289,Male,37.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+71308,Male,53.0,Dublin,Student,Certificate,Government Grant,Blended
+71526,Female,46.0,Munster,Employed,Secondary,Self-Funded,Blended
+70992,Female,,Dublin,Unemployed,Secondary,Government Grant,Blended
+71268,Female,54.0,Dublin,Unemployed,Degree,Government Grant,Online
+70814,Female,37.0,Munster,Employed,Degree,Employer,Blended
+70658,Male,45.0,Ulster,Unemployed,Degree,Self-Funded,Blended
+70983,Male,41.0,Dublin,Unemployed,Degree,Self-Funded,Online
+70015,Female,33.0,Dublin,Self-employed,Degree,Government Grant,Blended
+70422,Male,47.0,Dublin,Self-employed,Secondary,Self-Funded,Online
+70191,Female,65.0,Dublin,Employed,Postgraduate,Government Grant,Blended
+70657,Female,50.0,Leinster,Self-employed,Secondary,Employer,Blended
+70684,Male,30.0,Leinster,Employed,Degree,Employer,Online
+70439,Male,18.0,Ulster,Student,Certificate,Employer,Online
+71384,M,38.0,Leinster,Self-employed,Postgraduate,Employer,Blended
+71509,Male,24.0,Leinster,Employed,Secondary,Employer,Blended
+71488,Male,45.0,Leinster,Self-employed,Degree,Employer,Online
+71430,Male,35.0,Ulster,Employed,Certificate,Employer,Blended
+71040,Male,48.0,Munster,Student,Secondary,Self-Funded,Online
+70570,Male,38.0,Ulster,Employed,Secondary,Self-Funded,Online
+70419,Male,40.0,Leinster,Employed,Secondary,Self-Funded,Blended
+71197,Male,47.0,Munster,Student,Secondary,Employer,Online
+71235,Male,36.0,Connacht,Unemployed,Degree,Government Grant,Online
+70783,Male,33.0,Leinster,Unemployed,Degree,Government Grant,Blended
+71077,male,43.0,Leinster,Unemployed,Secondary,Self-Funded,Online
+70410,Female,41.0,Dublin,Student,Postgraduate,Self-Funded,Online
+70591,Male,39.0,Leinster,Unemployed,Secondary,Government Grant,Online
+70399,Male,39.0,Munster,Self-employed,Degree,Government Grant,Blended
+71420,Female,49.0,Dublin,Employed,Postgraduate,Employer,Online
+70369,Female,31.0,Connacht,Self-employed,Degree,Government Grant,Blended
+71359,Female,39.0,Connacht,Self-employed,Degree,Self-Funded,Blended
+70787,Male,37.0,Dublin,Unemployed,Degree,Government Grant,Online
+70734,Female,47.0,Dublin,Employed,Postgraduate,Employer,Online
+70801,Female,36.0,Connacht,Employed,Certificate,Self-Funded,Online
+71125,Male,,Dublin,Employed,Degree,Employer,Blended
+71281,Female,51.0,Leinster,Employed,Secondary,Employer,Online
+70849,Male,28.0,Munster,Employed,Degree,Government Grant,Online
+70195,Female,38.0,Dublin,Self-employed,Certificate,Self-Funded,Online
+70152,Male,34.0,Munster,Self-employed,Certificate,Government Grant,Online
+71127,Male,40.0,Connacht,Unemployed,Secondary,Government Grant,Blended
+71331,Male,25.0,Ulster,Unemployed,Degree,Government Grant,Blended
+71523,Male,18.0,Munster,Employed,Certificate,Employer,Online
+71015,Male,29.0,Connacht,Employed,Secondary,Government Grant,Blended
+70302,Male,31.0,Munster,Self-employed,Secondary,Employer,Online
+71380,Male,42.0,Leinster,Employed,Certificate,Employer,Online
+71035,Female,35.0,Munster,Employed,Postgraduate,Employer,Online
+70834,F,30.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70894,Male,27.0,Ulster,Employed,Degree,Employer,Online
+70995,Female,35.0,Dublin,Employed,Secondary,Government Grant,Online
+71361,Male,33.0,Munster,Unemployed,Secondary,Government Grant,Online
+70243,male,22.0,Connacht,Unemployed,Certificate,Government Grant,Online
+70202,M,49.0,Dublin,Employed,Secondary,Self-Funded,Online
+70784,Male,44.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70046,Male,58.0,Connacht,Unemployed,Certificate,Government Grant,Blended
+71183,Male,41.0,Munster,Employed,Degree,Employer,Online
+70544,Male,22.0,Leinster,Self-employed,Degree,Self-Funded,Blended
+71062,Male,28.0,Connacht,Student,Secondary,Employer,Online
+70140,Male,47.0,Connacht,Self-employed,Degree,Self-Funded,Online
+71032,Male,31.0,Munster,Employed,Degree,Employer,Online
+71551,Female,40.0,Leinster,Unemployed,Degree,Government Grant,Blended
+70537,Female,43.0,Dublin,Employed,Degree,Employer,Blended
+71105,Male,45.0,Dublin,Employed,Certificate,Government Grant,Online
+71213,Female,35.0,Dublin,Unemployed,Secondary,Government Grant,Blended
+71581,Female,27.0,Dublin,Employed,Secondary,Self-Funded,Online
+71349,Female,18.0,Munster,Self-employed,Degree,Government Grant,Online
+71098,Female,18.0,Munster,Employed,Postgraduate,Govt Grant,Blended
+70384,Male,32.0,Connacht,Student,Secondary,Employer,Blended
+70208,Male,43.0,Munster,Employed,Degree,Self-Funded,Blended
+71285,Male,56.0,Dublin,Employed,,Employer,Blended
+71428,Female,30.0,Dublin,Employed,Postgraduate,Employer,Blended
+71583,Female,22.0,Munster,Unemployed,Degree,Government Grant,Online
+70643,Female,48.0,Leinster,Employed,Certificate,Self-Funded,Blended
+70891,Female,42.0,Ulster,Employed,Secondary,Government Grant,Online
+70451,Male,29.0,Munster,Unemployed,Secondary,Self-Funded,Online
+70513,Female,37.0,Ulster,Employed,Degree,Self-Funded,Online
+70426,female,29.0,Munster,Unemployed,Certificate,Government Grant,Blended
+70007,Female,32.0,Ulster,Self-employed,Degree,Employer,Online
+70100,Female,45.0,Ulster,Employed,,Self-Funded,Blended
+70413,Male,,Ulster,Student,Certificate,Government Grant,Blended
+70161,Female,50.0,Dublin,Employed,Secondary,Self-Funded,Online
+70568,Male,,Leinster,Employed,Secondary,Self-Funded,BLENDED
+70645,Male,46.0,Munster,Unemployed,Postgraduate,Government Grant,BLENDED
+71319,Male,39.0,Munster,Student,Certificate,Government Grant,Blended
+71075,Female,20.0,Connacht,Unemployed,Degree,Government Grant,Online
+70751,Female,49.0,Ulster,Unemployed,Degree,Employer,Online
+70033,Male,56.0,Dublin,Unemployed,Degree,Government Grant,Online
+71104,Female,43.0,Leinster,Unemployed,Degree,Self-Funded,Online
+70159,M,36.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70524,Male,33.0,Leinster,Employed,Certificate,Employer,Online
+70989,Female,27.0,Ulster,Employed,Certificate,Self-Funded,Online
+70337,Female,23.0,Ulster,Unemployed,Postgraduate,Self-Funded,Online
+70842,Female,33.0,Leinster,Student,Secondary,Employer,Blended
+70493,Female,32.0,Munster,Unemployed,Degree,Government Grant,Online
+71296,Male,22.0,Leinster,Unemployed,Degree,Government Grant,Blended
+71011,Female,43.0,Leinster,Employed,Secondary,Employer,Blended
+70261,Female,33.0,Munster,Unemployed,Certificate,Govt Grant,Blended
+70174,Female,22.0,Leinster,Student,Certificate,Self-Funded,Online
+71491,Male,34.0,Leinster,Employed,Postgraduate,Self-Funded,Blended
+70597,Male,29.0,Dublin,Employed,Postgraduate,Employer,Blended
+70551,Male,34.0,Leinster,Self-employed,Certificate,Self-Funded,online
+70239,Female,56.0,Dublin,Self-employed,Degree,Self-Funded,Blended
+70387,Female,25.0,Connacht,Employed,Degree,Self-Funded,Blended
+70753,Male,29.0,Munster,Unemployed,Postgraduate,Govt Grant,Blended
+71240,Male,38.0,Dublin,Self-employed,Certificate,Employer,Online
+70024,Female,35.0,Munster,Employed,Degree,Employer,Online
+71432,Male,22.0,Munster,Employed,Certificate,Self-Funded,Online
+70627,Female,30.0,Dublin,Employed,Degree,Self-Funded,Online
+71001,Female,38.0,Leinster,Student,Certificate,Employer,Online
+71375,Male,18.0,Dublin,Unemployed,Degree,Government Grant,Blended
+70409,F,18.0,Leinster,Employed,Degree,Employer,Online
+70946,Male,18.0,Munster,Employed,Degree,Employer,Blended
+70549,Male,50.0,Connacht,Employed,Secondary,Employer,Blended
+71444,Male,39.0,Leinster,Employed,Degree,Employer,Online
+71155,F,32.0,Munster,Employed,Degree,Employer,Online
+70686,Male,20.0,Dublin,Employed,Degree,Self-Funded,Online
+70902,Male,32.0,Leinster,Employed,Certificate,Employer,Online
+70156,Female,43.0,Dublin,Self-employed,Degree,Government Grant,online
+70125,Female,31.0,Dublin,Unemployed,Postgraduate,Government Grant,Blended
+70123,Male,37.0,Dublin,Employed,Secondary,Self-Funded,Online
+70851,Female,19.0,Munster,Self-employed,Certificate,Self-Funded,Online
+70604,Male,40.0,Munster,Unemployed,Degree,Government Grant,Online
+70466,female,43.0,Dublin,Student,Certificate,Self-Funded,Blended
+71079,Male,54.0,Ulster,Employed,,Government Grant,Blended
+71072,Female,36.0,Munster,Employed,Degree,Employer,Blended
+71422,Female,35.0,Connacht,Student,Certificate,Employer,Blended
+70590,Male,19.0,Munster,Employed,Secondary,Self-Funded,Online
+70953,Male,34.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+71260,Male,50.0,Dublin,Employed,Secondary,Employer,Online
+71243,Male,41.0,Dublin,Student,Degree,Employer,Online
+70525,Male,27.0,Munster,Employed,Degree,Employer,Blended
+70200,Male,43.0,Leinster,Employed,Certificate,Employer,Blended
+70153,Male,18.0,Connacht,Employed,Certificate,Government Grant,Blended
+70531,Male,34.0,Dublin,Employed,Certificate,Employer,Online
+70695,Female,37.0,Dublin,Self-employed,Secondary,Self-Funded,Online
+70183,Female,46.0,Munster,Unemployed,Secondary,Government Grant,Blended
+70999,Male,37.0,Leinster,Employed,Secondary,Self-Funded,Online
+71161,Female,20.0,Dublin,Self-employed,Certificate,Employer,BLENDED
+70837,Male,29.0,Dublin,Student,Secondary,Government Grant,Online
+71180,Male,37.0,Leinster,Unemployed,Certificate,Government Grant,Online
+70655,Female,43.0,Dublin,Student,Secondary,Self-Funded,Online
+70260,F,41.0,Ulster,Unemployed,Certificate,Employer,Blended
+71132,Female,41.0,Connacht,Employed,Certificate,Government Grant,Online
+71052,Female,33.0,Connacht,Unemployed,Degree,Government Grant,Blended
+71271,Female,40.0,Leinster,Employed,Secondary,Government Grant,Blended
+70477,Male,45.0,Munster,Self-employed,Certificate,Self-Funded,Online
+70121,Male,46.0,Connacht,Student,Secondary,Employer,Online
+70181,Female,45.0,Dublin,Self-employed,Certificate,Employer,Online
+70691,Female,39.0,Ulster,Employed,Secondary,Government Grant,Blended
+70300,Female,52.0,Dublin,Employed,Degree,Self-Funded,Online
+71386,Male,40.0,Dublin,Student,Postgraduate,Government Grant,Online
+70766,Female,48.0,Leinster,Self-employed,Secondary,Govt Grant,Blended
+71505,Male,42.0,Connacht,Student,Certificate,Employer,Online
+70112,Female,50.0,Munster,Student,Secondary,Employer,Blended
+71494,M,28.0,Leinster,Student,Certificate,Government Grant,Online
+70546,Male,20.0,Leinster,Unemployed,Secondary,Government Grant,Online
+70942,male,30.0,Dublin,Employed,Degree,Self-Funded,Online
+70654,Female,38.0,Leinster,Employed,Certificate,Employer,Online
+70717,Male,35.0,Dublin,Unemployed,Postgraduate,Government Grant,Online
+71427,Female,33.0,Dublin,Employed,Degree,Employer,Online
+71051,Male,28.0,Leinster,Employed,Certificate,Employer,Online
+71041,Male,41.0,Ulster,Unemployed,Secondary,Government Grant,Blended
+70737,Female,38.0,Dublin,Employed,,Self-Funded,Online
+70924,Female,36.0,Connacht,Unemployed,Certificate,Government Grant,Blended
+71288,Male,34.0,Connacht,Self-employed,Secondary,Government Grant,Blended
+70142,Male,18.0,Ulster,Unemployed,Degree,Government Grant,Online
+70226,Male,33.0,Connacht,Employed,Degree,Government Grant,Blended
+70076,Male,50.0,Dublin,Unemployed,Degree,Government Grant,Online
+70889,Male,38.0,Ulster,Employed,Postgraduate,Government Grant,Online
+71274,F,56.0,Ulster,Student,Secondary,Employer,Online
+70648,Female,28.0,Connacht,Employed,Degree,Self-Funded,Online
+70592,Female,37.0,Dublin,Employed,Degree,Employer,Online
+71595,Female,54.0,Dublin,Student,Postgraduate,Self-Funded,Blended
+70713,Female,,Munster,Employed,Degree,Self-Funded,BLENDED
+70628,female,23.0,Connacht,Employed,Degree,Employer,Online
+70728,Male,44.0,Dublin,Employed,Degree,Self-Funded,Blended
+71398,Male,41.0,Munster,Employed,Degree,Self-Funded,Blended
+71203,Female,150.0,Dublin,Employed,Certificate,Self-Funded,Online
+71314,Male,29.0,Connacht,Unemployed,Secondary,Government Grant,Online
+71233,Female,23.0,Connacht,Self-employed,Certificate,Government Grant,Blended
+70398,Male,31.0,Leinster,Unemployed,Secondary,Self-Funded,Online
+70844,Female,40.0,Dublin,Self-employed,Postgraduate,Employer,Online
+71086,M,53.0,Dublin,Employed,Postgraduate,Employer,Blended
+71388,female,31.0,Connacht,Employed,Certificate,Government Grant,Online
+71495,Male,24.0,Leinster,Employed,,Government Grant,Blended
+70168,female,45.0,Dublin,Employed,Secondary,Self-Funded,Blended
+71399,Male,36.0,Ulster,Employed,Certificate,Employer,online
+70118,Female,44.0,Munster,Self-employed,Degree,Government Grant,Online
+70687,Male,34.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+70313,female,21.0,Ulster,Employed,Degree,Government Grant,Online
+71516,Female,18.0,Leinster,Student,Secondary,Govt Grant,Blended
+70478,Female,18.0,Ulster,Unemployed,Certificate,Government Grant,Online
+70423,Female,37.0,Leinster,Employed,Secondary,Employer,Online
+70558,Female,53.0,Dublin,Student,Degree,Employer,Online
+71278,Female,40.0,Leinster,Employed,Secondary,Government Grant,Online
+70221,Female,40.0,Munster,Self-employed,Degree,Employer,Online
+70214,Male,25.0,Ulster,Self-employed,Secondary,Government Grant,Online
+70639,Male,44.0,Munster,Student,Degree,Government Grant,Blended
+70055,Female,40.0,Dublin,Employed,Secondary,Employer,Blended
+71085,Male,29.0,Munster,Employed,Secondary,Government Grant,Blended
+71237,Male,44.0,Dublin,Unemployed,Secondary,Self-Funded,Online
+70653,Male,35.0,Dublin,Employed,Degree,Government Grant,Online
+71579,Male,41.0,Dublin,Employed,Postgraduate,Self-Funded,Online
+71206,Female,44.0,Leinster,Unemployed,Secondary,Self-Funded,Blended
+71290,Male,29.0,Leinster,Employed,Postgraduate,Employer,Online
+70723,Female,34.0,Leinster,Employed,Secondary,Employer,Online
+71252,Male,20.0,Ulster,Employed,Secondary,Government Grant,Blended
+70150,Female,40.0,Dublin,Self-employed,Secondary,Self-Funded,Blended
+70960,Male,49.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70257,Female,37.0,Dublin,Employed,Postgraduate,Employer,Online
+70109,Male,25.0,Dublin,Employed,Certificate,Self-Funded,Online
+70569,Male,38.0,Leinster,Employed,Secondary,Employer,Blended
+70395,Male,18.0,Munster,Unemployed,Secondary,Government Grant,Online
+71343,M,45.0,Dublin,Student,Certificate,Employer,Blended
+70233,Female,31.0,Munster,Unemployed,Degree,Government Grant,Blended
+70149,Male,36.0,Munster,Employed,Postgraduate,Employer,Online
+71546,Female,48.0,Munster,Employed,Degree,Self-Funded,Blended
+71026,Female,19.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70170,Female,,Ulster,Employed,Degree,Government Grant,Online
+70963,Male,40.0,Munster,Unemployed,Postgraduate,Government Grant,Blended
+70053,Female,36.0,Leinster,Employed,Secondary,Government Grant,Online
+70602,F,44.0,Munster,Employed,Degree,Government Grant,Blended
+70813,Male,29.0,Ulster,Employed,Postgraduate,Self-Funded,Blended
+71426,Male,32.0,Leinster,Employed,Postgraduate,Employer,Online
+70402,male,32.0,Ulster,Unemployed,Degree,Government Grant,Online
+71239,Female,61.0,Munster,Student,Degree,Government Grant,Blended
+70656,Female,30.0,Munster,Unemployed,Degree,Government Grant,Blended
+70863,Female,35.0,Connacht,Unemployed,Degree,Self-Funded,Blended
+70471,Male,32.0,Dublin,Employed,Postgraduate,Self-Funded,Blended
+71265,Female,18.0,Dublin,Employed,Certificate,Employer,Online
+71411,Female,34.0,Dublin,Employed,Postgraduate,Employer,Online
+70350,Female,30.0,Munster,Student,Degree,Government Grant,Blended
+70283,Male,30.0,Leinster,Employed,Secondary,Employer,Blended
+70997,Female,49.0,Dublin,Unemployed,,Government Grant,Online
+71304,Female,42.0,Leinster,Self-employed,Degree,Employer,Online
+70720,Female,48.0,Dublin,Employed,Degree,Employer,Online
+70010,Female,44.0,Connacht,Self-employed,Secondary,Government Grant,Blended
+70745,Female,40.0,Munster,Employed,Secondary,Self-Funded,Online
+70273,Female,34.0,Ulster,Employed,Certificate,Employer,Online
+71586,Female,37.0,Munster,Employed,Degree,Government Grant,Online
+70288,Male,42.0,Munster,Employed,Certificate,Self-Funded,Blended
+70545,Female,,Munster,Self-employed,Degree,Government Grant,Online
+70746,Male,49.0,Connacht,Employed,Certificate,Government Grant,Blended
+70447,Male,39.0,Munster,Student,Certificate,Self-Funded,online
+71484,Female,25.0,Munster,Employed,Degree,Government Grant,Online
+70835,Female,42.0,Dublin,Unemployed,Certificate,Self-Funded,Online
+70106,Female,43.0,Munster,Unemployed,Postgraduate,Government Grant,Online
+71447,Male,33.0,Ulster,Self-employed,Degree,Self-Funded,Online
+70102,Male,56.0,Dublin,Employed,Certificate,Self-Funded,Online
+70786,Female,29.0,Munster,Employed,Degree,Government Grant,Online
+70808,Female,30.0,Dublin,Employed,Degree,Government Grant,Online
+70860,Male,57.0,Munster,Unemployed,Secondary,Government Grant,Online
+71269,female,63.0,Munster,Unemployed,Degree,Government Grant,Online
+70498,Female,38.0,Dublin,Unemployed,Degree,Government Grant,Online
+70435,Female,36.0,Munster,Self-employed,Certificate,Employer,Online
+70145,Male,31.0,Dublin,Employed,,Government Grant,Online
+70832,Female,18.0,Connacht,Employed,Secondary,Employer,Online
+70169,Female,45.0,Dublin,Employed,Certificate,Government Grant,Blended
+70164,Male,48.0,Munster,Employed,Secondary,Self-Funded,Online
+71168,Female,,Dublin,Employed,Postgraduate,Government Grant,Blended
+71047,Male,40.0,Munster,Employed,Postgraduate,Self-Funded,Online
+71145,Female,49.0,Connacht,Employed,Secondary,Self-Funded,Online
+70008,Female,33.0,Munster,Employed,Certificate,Government Grant,Blended
+70176,Female,47.0,Munster,Self-employed,Secondary,Self-Funded,Blended
+70449,Female,37.0,Munster,Employed,Secondary,Employer,Blended
+71501,Female,22.0,Ulster,Self-employed,Degree,Government Grant,Online
+71429,F,30.0,Munster,Employed,Secondary,Self-Funded,Blended
+70872,Female,45.0,Ulster,Employed,Secondary,Self-Funded,Blended
+70583,Female,44.0,Leinster,Employed,Certificate,Self-Funded,Online
+71520,Male,41.0,Leinster,Unemployed,Certificate,Govt Grant,Blended
+70207,Female,37.0,Munster,Unemployed,Certificate,Government Grant,Blended
+70909,male,42.0,Dublin,Employed,Degree,Self-Funded,Online
+70584,Female,38.0,Dublin,Employed,Secondary,Employer,Blended
+71485,Male,32.0,Connacht,Employed,Postgraduate,Government Grant,Online
+71144,Female,21.0,Munster,Employed,Postgraduate,Government Grant,Blended
+71405,Female,43.0,Leinster,Unemployed,Secondary,Government Grant,Blended
+70488,Male,38.0,Dublin,Self-employed,Degree,Government Grant,Online
+71007,Female,45.0,Connacht,Student,Certificate,Government Grant,Online
+70649,Female,33.0,Dublin,Employed,Certificate,Government Grant,Blended
+71530,Female,39.0,Dublin,Employed,Secondary,Self-Funded,Online
+71493,Female,49.0,Leinster,Employed,Secondary,Employer,Blended
+70864,Male,49.0,Dublin,Employed,Postgraduate,Self-Funded,Online
+71287,Female,54.0,Dublin,Unemployed,Degree,Government Grant,BLENDED
+70004,Female,48.0,Leinster,Self-employed,Secondary,Government Grant,Online
+71381,Male,44.0,Leinster,Employed,Certificate,Self-Funded,Blended
+70361,Female,47.0,Ulster,Employed,Secondary,Employer,Online
+70431,Female,51.0,Leinster,Employed,Degree,Self-Funded,Online
+70279,Male,28.0,Dublin,Employed,Postgraduate,Employer,Online
+70269,Male,24.0,Connacht,Employed,Degree,Employer,Blended
+70754,Male,26.0,Ulster,Employed,Degree,Self-Funded,Online
+71401,Male,40.0,Leinster,Unemployed,Postgraduate,Self-Funded,Blended
+70031,Male,41.0,Ulster,Self-employed,Certificate,Self-Funded,Blended
+70448,Male,39.0,Connacht,Employed,Certificate,Self-Funded,Blended
+70765,Male,38.0,Leinster,Employed,Degree,Self-Funded,Blended
+70376,Female,55.0,Dublin,Employed,Degree,Self-Funded,Blended
+71247,Female,31.0,Dublin,Student,Secondary,Self-Funded,Online
+71272,Female,18.0,Dublin,Self-employed,Secondary,Self-Funded,BLENDED
+71148,Female,46.0,Munster,Employed,Secondary,Government Grant,Blended
+70622,Female,39.0,Munster,Self-employed,Certificate,Government Grant,Online
+71599,Male,35.0,Munster,Employed,Certificate,Government Grant,Blended
+71338,Female,38.0,Dublin,Self-employed,Degree,Self-Funded,Blended
+70345,Female,49.0,Munster,Employed,Secondary,Self-Funded,Online
+71458,Female,,Connacht,Student,Certificate,Self-Funded,Online
+71419,Male,37.0,Munster,Employed,Secondary,Government Grant,Online
+71416,Female,38.0,Dublin,Employed,Secondary,Employer,Online
+70951,Female,37.0,Dublin,Student,Secondary,Self-Funded,Online
+70394,Male,44.0,Munster,Employed,Secondary,Self-Funded,Online
+70231,Male,48.0,Munster,Unemployed,Certificate,Self-Funded,Online
+71393,Male,59.0,Dublin,Employed,Secondary,Employer,Online
+70520,Female,36.0,Dublin,Student,Degree,Government Grant,Online
+70482,Female,25.0,Ulster,Employed,Degree,Self-Funded,Online
+70804,Female,38.0,Munster,Unemployed,Secondary,Government Grant,Online
+70035,Female,26.0,Leinster,Employed,Secondary,Self-Funded,Blended
+70009,Male,20.0,Munster,Employed,Secondary,Self-Funded,Online
+70234,Male,44.0,Dublin,Employed,Degree,Government Grant,Online
+70443,Female,45.0,Munster,Employed,Secondary,Self-Funded,Blended
+70528,Male,37.0,Leinster,Unemployed,Degree,Government Grant,Online
+70629,F,41.0,Leinster,Student,Certificate,Employer,Blended
+71531,Female,51.0,Leinster,Self-employed,Certificate,Self-Funded,Online
+70097,Male,28.0,Connacht,Self-employed,Degree,Employer,Online
+70547,Female,33.0,Dublin,Student,Secondary,Government Grant,Online
+71332,Male,35.0,Dublin,Employed,Secondary,Employer,Online
+70977,Male,34.0,Munster,Employed,Postgraduate,Employer,Online
+71347,Female,48.0,Munster,Unemployed,Degree,Government Grant,online
+70212,Female,44.0,Dublin,Unemployed,Certificate,Government Grant,Online
+71208,Male,56.0,Leinster,Student,Secondary,Self-Funded,Blended
+70284,Male,29.0,Leinster,Employed,Degree,Government Grant,Blended
+71137,Female,26.0,Dublin,Employed,Certificate,Government Grant,online
+70392,Female,38.0,Leinster,Employed,Secondary,Self-Funded,Online
+70955,Male,36.0,Dublin,Employed,Postgraduate,Employer,Online
+70254,Female,46.0,Ulster,Employed,Secondary,Employer,Blended
+71415,Female,45.0,Leinster,Unemployed,Secondary,Self-Funded,Online
+71165,Male,26.0,Leinster,Employed,Certificate,Employer,Online
+70897,F,40.0,Dublin,Employed,Secondary,Government Grant,Online
+71424,M,23.0,Leinster,Employed,Certificate,Employer,Online
+70523,Male,47.0,Dublin,Employed,Certificate,Government Grant,Online
+71043,Male,39.0,Dublin,Employed,Certificate,Self-Funded,Online
+71387,Female,,Leinster,Unemployed,Postgraduate,Government Grant,Online
+70673,Male,51.0,Dublin,Employed,Certificate,Employer,Online
+71448,Male,42.0,Leinster,Unemployed,Degree,Government Grant,Online
+70882,Female,26.0,Munster,Employed,Secondary,Employer,Online
+71364,Female,53.0,Leinster,Employed,Secondary,Government Grant,Online
+71418,Female,40.0,Munster,Employed,Degree,Employer,Online
+71020,Male,48.0,Munster,Student,Degree,Self-Funded,Online
+71440,Female,18.0,Dublin,Employed,Degree,Employer,Blended
+70758,Male,55.0,Dublin,Employed,Degree,Employer,Online
+70216,Female,46.0,Munster,Self-employed,Secondary,Government Grant,Blended
+71249,Female,43.0,Dublin,Employed,Secondary,Self-Funded,Online
+70964,Male,53.0,Connacht,Unemployed,Certificate,Self-Funded,Online
+71382,Female,36.0,Munster,Unemployed,Postgraduate,Government Grant,Blended
+70571,Female,39.0,Leinster,Unemployed,Certificate,Government Grant,Online
+70069,Male,34.0,Leinster,Employed,Certificate,Government Grant,Online
+70087,Female,38.0,Munster,Self-employed,Certificate,Self-Funded,Online
+70919,Male,34.0,Munster,Employed,Secondary,Self-Funded,Online
+70469,Male,49.0,Dublin,Employed,Certificate,Employer,Blended
+70886,Male,24.0,Ulster,Employed,Secondary,Government Grant,Online
+70432,Male,,Ulster,Employed,Certificate,Government Grant,Blended
+70420,Female,31.0,Munster,Unemployed,Certificate,Government Grant,Blended
+70415,Female,26.0,Munster,Employed,Postgraduate,Self-Funded,Blended
+70199,Female,29.0,Leinster,Unemployed,Postgraduate,Govt Grant,Blended
+71479,Female,39.0,Leinster,Employed,Degree,Self-Funded,Online
+70287,Female,28.0,Leinster,Employed,Degree,Employer,online
+71143,Female,26.0,Leinster,Employed,Certificate,Self-Funded,Online
+71178,Male,44.0,Dublin,Employed,Postgraduate,Employer,Online
+70671,Male,45.0,Munster,Employed,Certificate,Employer,Online
+70689,Female,30.0,Munster,Student,Degree,Government Grant,Blended
+70383,Male,42.0,Dublin,Unemployed,Certificate,Self-Funded,Online
+71019,Male,33.0,Munster,Unemployed,Secondary,Government Grant,Online
+71408,Male,29.0,Dublin,Employed,Certificate,Self-Funded,Blended
+70293,Male,55.0,Munster,Employed,Secondary,Government Grant,Online
+70362,Female,44.0,Dublin,Unemployed,Certificate,Govt Grant,Blended
+70367,Female,20.0,Connacht,Unemployed,Postgraduate,Self-Funded,Online
+70527,F,31.0,Connacht,Self-employed,Postgraduate,Employer,Online
+70578,Female,29.0,Dublin,Employed,Degree,Government Grant,Blended
+70698,Male,43.0,Connacht,Employed,Certificate,Self-Funded,Online
+70709,Female,51.0,Connacht,Self-employed,Degree,Government Grant,Blended
+70115,F,53.0,Munster,Unemployed,Certificate,Self-Funded,Blended
+71133,Male,25.0,Dublin,Self-employed,Certificate,Government Grant,Online
+70417,Male,49.0,Leinster,Unemployed,Degree,Government Grant,Online
+70593,Female,33.0,Munster,Student,,Employer,Online
+71223,Female,33.0,Dublin,Unemployed,Certificate,Employer,Online
+71527,Female,22.0,Dublin,Employed,Degree,Self-Funded,Blended
+70489,Male,23.0,Munster,Employed,Secondary,Self-Funded,Blended
+71083,Female,,Munster,Unemployed,Degree,Government Grant,Online
+71059,Male,31.0,Munster,Self-employed,Secondary,Employer,Online
+71096,Female,45.0,Ulster,Self-employed,Certificate,Employer,Online
+70880,M,51.0,Connacht,Employed,Postgraduate,Self-Funded,Blended
+71413,male,51.0,Leinster,Employed,Certificate,Employer,Blended
+70848,Male,52.0,Connacht,Unemployed,Degree,Government Grant,Online
+70973,Male,38.0,Dublin,Employed,Secondary,Government Grant,Online
+70598,Male,39.0,Leinster,Unemployed,Certificate,Government Grant,Blended
+70934,Female,49.0,Munster,Unemployed,Postgraduate,Government Grant,Blended
+70311,Female,41.0,Connacht,Unemployed,Secondary,Government Grant,Blended
+70059,Male,46.0,Dublin,Self-employed,,Government Grant,Online
+70162,Female,29.0,Connacht,Student,Secondary,Government Grant,Online
+71481,Male,36.0,Ulster,Student,Certificate,Government Grant,Online
+70189,Female,21.0,Munster,Employed,Postgraduate,Employer,Online
+70247,Male,51.0,Leinster,Employed,Certificate,Self-Funded,Online
+71533,Female,31.0,Leinster,Employed,Secondary,Self-Funded,Online
+70160,Female,52.0,Dublin,Student,Degree,Government Grant,Online
+70129,Male,47.0,Ulster,Employed,Degree,Self-Funded,Online
+70325,Female,55.0,Munster,Self-employed,Secondary,Government Grant,Online
+71090,Female,29.0,Ulster,Employed,Degree,Government Grant,Online
+70809,Female,23.0,Dublin,Unemployed,,Government Grant,Blended
+71245,Female,51.0,Dublin,Employed,Secondary,Employer,Blended
+70782,Female,39.0,Munster,Unemployed,Certificate,Government Grant,Blended
+71134,Female,37.0,Leinster,Employed,Postgraduate,Employer,Blended
+71337,Male,45.0,Ulster,Student,Secondary,Employer,Blended
+71346,Female,24.0,Leinster,Employed,Postgraduate,Self-Funded,Online
+70850,Male,38.0,Dublin,Employed,Certificate,Employer,Online
+70476,Female,42.0,Dublin,Unemployed,Postgraduate,Government Grant,Blended
+71261,Female,25.0,Leinster,Employed,Degree,Government Grant,Online
+70276,Female,40.0,Leinster,Self-employed,Degree,Employer,Online
+70881,female,43.0,Dublin,Employed,Secondary,Employer,Blended
+70185,Female,48.0,Dublin,Student,Degree,Self-Funded,Blended
+71355,Male,19.0,Dublin,Employed,Secondary,Self-Funded,Online
+71082,Female,38.0,Ulster,Employed,Secondary,Employer,Online
+71230,Female,39.0,Ulster,Employed,Certificate,Employer,Online
+70465,Male,36.0,Leinster,Employed,Secondary,Employer,Online
+70092,Male,37.0,Leinster,Self-employed,Secondary,Employer,Blended
+71257,Female,54.0,Leinster,Student,Secondary,Self-Funded,Online
+71473,Female,18.0,Munster,Employed,Degree,Employer,Online
+70051,Female,44.0,Munster,Employed,Degree,Self-Funded,Online
+70858,Female,39.0,Munster,Unemployed,Certificate,Government Grant,Blended
+70418,Male,50.0,Connacht,Employed,Secondary,Self-Funded,Online
+70681,Male,37.0,Connacht,Self-employed,Secondary,Government Grant,Online
+70538,Female,51.0,Dublin,Employed,Degree,Government Grant,Online
+70237,Female,33.0,Leinster,Employed,Secondary,Self-Funded,Online
+70685,Female,40.0,Dublin,Self-employed,Certificate,Employer,Online
+70585,Female,49.0,Leinster,Student,Secondary,Self-Funded,Online
+70404,Male,51.0,Connacht,Employed,Secondary,Employer,Online
+70703,Female,28.0,Munster,Employed,Degree,Government Grant,Online
+70441,Female,47.0,Dublin,Employed,Degree,Self-Funded,Online
+70530,Female,29.0,Connacht,Student,Degree,Employer,Online
+71366,Female,56.0,Munster,Employed,Degree,Employer,Online
+70722,Female,43.0,Leinster,Student,Secondary,Government Grant,Blended
+71184,Male,36.0,Dublin,Employed,Degree,Government Grant,Blended
+70135,Female,25.0,Connacht,Self-employed,Certificate,Government Grant,Online
+70743,Male,37.0,Connacht,Student,Secondary,Government Grant,Online
+70030,Female,35.0,Leinster,Employed,Postgraduate,Employer,Online
+70644,Female,46.0,Munster,Unemployed,Degree,Self-Funded,Blended
+70241,Female,30.0,Munster,Unemployed,Certificate,Government Grant,Online
+70326,Male,43.0,Dublin,Employed,Secondary,Employer,Online
+70633,Male,33.0,Leinster,Student,Secondary,Self-Funded,Blended
+71594,Female,,Munster,Employed,Certificate,Government Grant,Blended
+70774,Male,35.0,Dublin,Self-employed,Certificate,Employer,Online
+71562,Female,46.0,Leinster,Employed,Postgraduate,Govt Grant,Online
+71492,Male,49.0,Munster,Employed,Degree,Government Grant,Online
+71027,Male,33.0,Leinster,Employed,Secondary,Employer,Online
+70382,Male,58.0,Munster,Employed,Secondary,Employer,Online
+70752,Male,0.0,Leinster,Self-employed,Postgraduate,Government Grant,Blended
+71061,Female,37.0,Munster,Unemployed,Certificate,Government Grant,Online
+70353,Female,31.0,Leinster,Employed,Degree,Employer,Online
+71282,Female,34.0,Dublin,Employed,Degree,Employer,Blended
+70052,Female,33.0,Munster,Unemployed,Postgraduate,Government Grant,Online
+70510,Female,18.0,Munster,Employed,Degree,Self-Funded,Online
+71067,Female,32.0,Ulster,Self-employed,Secondary,Self-Funded,Online
+71109,Female,31.0,Dublin,Self-employed,Degree,Employer,Blended
+71044,Male,46.0,Dublin,Unemployed,Secondary,Government Grant,Online
+71089,Female,45.0,Leinster,Unemployed,Certificate,Government Grant,Blended
+70579,Female,20.0,Munster,Employed,Degree,Self-Funded,Blended
+70236,Female,45.0,Dublin,Self-employed,Degree,Government Grant,Online
+71407,Female,,Leinster,Employed,Certificate,Government Grant,Online
+71500,Male,36.0,Leinster,Employed,Certificate,Self-Funded,Online
+70748,Female,56.0,Leinster,Employed,Secondary,Employer,Blended
+70481,Female,50.0,Leinster,Unemployed,Certificate,Government Grant,Online
+71006,Male,30.0,Dublin,Employed,Certificate,Government Grant,online
+70196,Female,26.0,Dublin,Unemployed,,Government Grant,Online
+70407,Female,41.0,Dublin,Employed,Degree,Self-Funded,Online
+71076,Female,33.0,Dublin,Employed,Secondary,Self-Funded,Online
+70890,Female,39.0,Munster,Employed,Degree,Employer,Online
+70490,Female,29.0,Dublin,Employed,Secondary,Self-Funded,Online
+71055,Female,34.0,Dublin,Employed,Secondary,Self-Funded,Blended
+70474,F,26.0,Leinster,Student,Certificate,Self-Funded,Online
+70259,Female,44.0,Leinster,Employed,Degree,Government Grant,Online
+70901,Female,45.0,Connacht,Unemployed,Secondary,Government Grant,online
+71467,Female,28.0,Leinster,Self-employed,Secondary,Self-Funded,Online
+70141,Female,41.0,Munster,Employed,Degree,Government Grant,Online
+70494,Female,48.0,Connacht,Employed,Degree,Government Grant,Online
+71280,Male,24.0,Dublin,Employed,Degree,Self-Funded,Blended
+71154,Male,24.0,Dublin,Student,Certificate,Employer,Blended
+70582,Male,39.0,Dublin,Student,Degree,Self-Funded,Blended
+70711,Female,41.0,Munster,Employed,Certificate,Government Grant,Online
+70209,Male,43.0,Leinster,Unemployed,Secondary,Government Grant,Blended
+71209,Female,20.0,Connacht,Employed,Certificate,Employer,Online
+70853,Male,31.0,Leinster,Unemployed,Secondary,Government Grant,Online
+71417,Male,32.0,Leinster,Employed,Secondary,Self-Funded,Online
+71541,Female,36.0,Leinster,Employed,Certificate,Employer,Blended
+70001,Female,31.0,Leinster,Employed,Certificate,Employer,online
+70229,Male,45.0,Munster,Student,Secondary,Self-Funded,Blended
+71572,Male,45.0,Ulster,Employed,Degree,Government Grant,Online
+70252,Female,28.0,Munster,Self-employed,Certificate,Employer,Blended
+70896,Female,44.0,Dublin,Employed,Postgraduate,Employer,Blended
+71139,F,33.0,Dublin,Employed,Secondary,Employer,Online
+70710,Male,43.0,Ulster,Student,Certificate,Self-Funded,Blended
+70986,Male,42.0,Dublin,Self-employed,Certificate,Self-Funded,Online
+71036,Female,29.0,Leinster,Employed,Degree,Self-Funded,Online
+71294,Female,,Dublin,Self-employed,Degree,Employer,Online
+70286,Male,34.0,Munster,Employed,Secondary,Self-Funded,Online
+70316,Female,,Munster,Unemployed,Degree,Self-Funded,Blended
+70600,Male,32.0,Connacht,Self-employed,Degree,Employer,Blended
+70060,Male,24.0,Dublin,Employed,Degree,Employer,Blended
+71379,Female,34.0,Munster,Self-employed,Degree,Employer,Blended
+70048,Female,39.0,Leinster,Self-employed,Certificate,Government Grant,Blended
+71511,Female,42.0,Dublin,Self-employed,Certificate,Self-Funded,Online
+71336,Male,30.0,Connacht,Unemployed,Secondary,Government Grant,Online
+71455,Female,23.0,Dublin,Employed,Certificate,Employer,Blended
+70993,Male,28.0,Dublin,Self-employed,Certificate,Employer,Blended
+70976,Female,33.0,Dublin,Employed,Certificate,Self-Funded,Blended
+71320,Male,,Leinster,Employed,Certificate,Employer,Blended
+71552,F,27.0,Munster,Employed,Certificate,Self-Funded,Online
+71536,Female,41.0,Connacht,Employed,Degree,Employer,Online
+70763,F,55.0,Connacht,Employed,Degree,Government Grant,Online
+70985,Male,39.0,Leinster,Employed,Secondary,Government Grant,Online
+71497,female,33.0,Dublin,Student,Secondary,Government Grant,Online
+70315,Male,27.0,Dublin,Employed,Secondary,Government Grant,Online
+70094,Male,38.0,Munster,Student,Degree,Self-Funded,Blended
+70726,Female,47.0,Leinster,Employed,Degree,Self-Funded,Online
+71275,Male,25.0,Leinster,Student,Degree,Employer,Online
+70739,Female,32.0,Leinster,Self-employed,Degree,Self-Funded,Online
+70816,Male,18.0,Dublin,Employed,Degree,Self-Funded,Online
+70462,F,30.0,Connacht,Employed,Secondary,Employer,Online
+71514,Female,27.0,Leinster,Unemployed,Certificate,Government Grant,Blended
+70854,Female,45.0,Dublin,Employed,Degree,Self-Funded,Blended
+70386,Female,45.0,Dublin,Employed,Secondary,Self-Funded,Online
+70018,Female,,Connacht,Unemployed,Certificate,Government Grant,Online
+70962,Female,39.0,Leinster,Employed,Certificate,Employer,Online
+71451,Female,21.0,Dublin,Unemployed,Secondary,Government Grant,Online
+71073,Female,49.0,Dublin,Student,Degree,Self-Funded,Online
+71218,Male,39.0,Leinster,Unemployed,Postgraduate,Govt Grant,Online
+70994,Male,18.0,Leinster,Student,Degree,Govt Grant,Online
+71021,Female,34.0,Leinster,Unemployed,Secondary,Government Grant,Online
+71556,Female,50.0,Leinster,Self-employed,Secondary,Employer,Online
+71525,Male,31.0,Munster,Self-employed,Certificate,Self-Funded,Blended
+70128,Female,41.0,Connacht,Student,Postgraduate,Self-Funded,Online
+70514,Female,22.0,Munster,Employed,Degree,Government Grant,Blended
+70077,Female,29.0,Dublin,Unemployed,Degree,Government Grant,Online
+70937,Male,28.0,Munster,Employed,Certificate,Self-Funded,Online
+70144,Male,52.0,Dublin,Unemployed,Certificate,Government Grant,Online
+71570,Male,27.0,Dublin,Unemployed,Certificate,Self-Funded,Online
+70589,Female,37.0,Ulster,Employed,Secondary,Self-Funded,Online
+70823,Female,,Dublin,Unemployed,Certificate,Government Grant,Blended
+71559,Female,44.0,Leinster,Unemployed,Certificate,Government Grant,Blended
+70792,Male,28.0,Munster,Self-employed,Degree,Employer,Online
+70559,Female,21.0,Leinster,Self-employed,Certificate,Self-Funded,Blended
+71185,Female,41.0,Munster,Employed,Secondary,Employer,Online
+71063,Female,35.0,Connacht,Employed,Certificate,Self-Funded,Blended
+70016,Male,,Munster,Employed,Certificate,Employer,Online
+70438,Female,18.0,Ulster,Student,Certificate,Government Grant,Blended
+70501,Male,55.0,Munster,Employed,Degree,Govt Grant,Online
+70624,Female,27.0,Leinster,Student,Degree,Government Grant,Online
+71437,Male,19.0,Dublin,Self-employed,Degree,Self-Funded,Blended
+70453,Female,50.0,Connacht,Employed,Secondary,Employer,Online
+70771,Female,38.0,Connacht,Self-employed,Degree,Self-Funded,Blended
+70036,female,29.0,Leinster,Self-employed,Certificate,Government Grant,Blended
+70954,Male,29.0,Munster,Unemployed,Certificate,Government Grant,Online
+71258,Male,36.0,Ulster,Student,Degree,Employer,Online
+71205,Female,30.0,Leinster,Employed,Degree,Self-Funded,Blended
+70988,Female,35.0,Munster,Employed,Degree,Government Grant,Online
+70244,Female,21.0,Dublin,Employed,Secondary,Self-Funded,Online
+70532,Female,46.0,Leinster,Self-employed,Secondary,Government Grant,Blended
+70346,Male,28.0,Munster,Employed,Degree,Self-Funded,Online
+71189,Female,18.0,Ulster,Employed,Degree,Self-Funded,Online
+71452,Female,39.0,Dublin,Employed,Degree,Self-Funded,Online
+71519,Male,30.0,Dublin,Employed,Degree,Employer,Online
+70893,Female,35.0,Munster,Self-employed,Postgraduate,Government Grant,Online
+70509,Male,43.0,Leinster,Employed,Secondary,Employer,Online
+71596,Male,26.0,Dublin,Student,Secondary,Employer,Blended
+70218,Female,34.0,Dublin,Employed,Secondary,Self-Funded,Online
+70211,M,55.0,Ulster,Self-employed,Degree,Self-Funded,Online
+70952,Female,39.0,Dublin,Unemployed,Secondary,Government Grant,Online
+70065,Male,34.0,Leinster,Student,Secondary,Government Grant,Online
+70011,Male,34.0,Dublin,Employed,Secondary,Government Grant,Online
+71211,Male,41.0,Munster,Employed,Postgraduate,Self-Funded,Online
+70255,Female,39.0,Ulster,Employed,Secondary,Employer,Online
+70607,Female,35.0,Leinster,Unemployed,Certificate,Government Grant,Online
+70810,Male,55.0,Ulster,Employed,Degree,Government Grant,Online
+71295,Female,45.0,Leinster,Employed,Degree,Employer,online
+71131,Male,39.0,Dublin,Employed,Secondary,Government Grant,Online
+71200,Female,31.0,Leinster,Self-employed,Certificate,Self-Funded,Online
+70317,Male,21.0,Munster,Employed,Degree,Government Grant,Online
+70521,Female,28.0,Leinster,Employed,Certificate,Government Grant,Online
+70468,Male,35.0,Dublin,Employed,Postgraduate,Employer,Online
+70938,Male,28.0,Munster,Student,Secondary,Self-Funded,Online
+70970,Male,38.0,Connacht,Unemployed,Certificate,Government Grant,Blended
+70847,Male,33.0,Leinster,Student,Certificate,Self-Funded,Online
+71480,Male,45.0,Connacht,Self-employed,Certificate,Self-Funded,Online
+71558,Female,46.0,Dublin,Self-employed,Certificate,Government Grant,Blended
+70370,Female,34.0,Dublin,Employed,Postgraduate,Employer,Online
+70148,Male,41.0,Connacht,Employed,Degree,Employer,online
+70365,Female,29.0,Connacht,Self-employed,Secondary,Self-Funded,Online
+70635,Male,43.0,Munster,Employed,Certificate,Self-Funded,Blended
+70093,M,40.0,Munster,Employed,Certificate,Self-Funded,Online
+70324,Male,0.0,Munster,Employed,Certificate,Government Grant,Online
+70188,Male,28.0,Dublin,Employed,Secondary,Self-Funded,Online
+70931,Female,37.0,Munster,Student,Certificate,Employer,Online
+71164,male,23.0,Dublin,Self-employed,Secondary,Self-Funded,Online
+70874,Female,43.0,Dublin,Employed,Degree,Employer,Blended
+70761,Female,52.0,Munster,Student,Certificate,Employer,Online
+70122,Female,30.0,Munster,Employed,Certificate,Employer,Blended
+71069,Male,,Munster,Unemployed,Certificate,Government Grant,online
+70845,Male,40.0,Connacht,Employed,Certificate,Self-Funded,Online
+70496,Male,62.0,Dublin,Student,Secondary,Employer,Online
+70446,Male,26.0,Munster,Employed,Secondary,Government Grant,Online
+70341,Male,47.0,Munster,Unemployed,Secondary,Government Grant,Online
+71115,Male,46.0,Dublin,Unemployed,Certificate,Government Grant,Blended
+70227,M,34.0,Munster,Employed,Degree,Government Grant,Blended
+70020,Female,50.0,Munster,Unemployed,Secondary,Government Grant,Online
+71103,Male,41.0,Dublin,Unemployed,Degree,Government Grant,Blended
+70421,Male,19.0,Munster,Self-employed,Degree,Employer,Online
+71106,Female,35.0,Munster,Employed,Certificate,Employer,Online
+71414,Female,37.0,Dublin,Unemployed,Certificate,Government Grant,Online
+70998,Female,51.0,Dublin,Student,Secondary,Govt Grant,Online
+70388,Female,27.0,Munster,Employed,Certificate,Self-Funded,Online
+70936,Male,34.0,Leinster,Student,Secondary,Self-Funded,Online
+70455,female,34.0,Connacht,Employed,Secondary,Government Grant,Blended
+70267,Female,30.0,Dublin,Self-employed,Certificate,Employer,Blended
+71071,Male,40.0,Dublin,Unemployed,Degree,Government Grant,Online
+71462,Male,41.0,Leinster,Employed,Degree,Employer,Online
+70163,Female,36.0,Munster,Employed,Certificate,Government Grant,Online
+70113,Female,22.0,Munster,Unemployed,Certificate,Government Grant,Online
+70306,Male,38.0,Leinster,Employed,Certificate,Employer,Blended
+71576,Male,43.0,Leinster,Self-employed,Degree,Government Grant,Blended
+70049,Male,37.0,Dublin,Employed,Secondary,Government Grant,Blended
+70512,Female,37.0,Leinster,Unemployed,Degree,Employer,Online
+70019,Female,33.0,Leinster,Employed,Certificate,Self-Funded,Blended
+71074,Female,34.0,Munster,Student,Secondary,Government Grant,Online
+71307,Male,28.0,Dublin,Employed,Secondary,Self-Funded,Online
+71477,Female,36.0,Dublin,Employed,Degree,Employer,Online
+70941,Male,43.0,Leinster,Employed,Degree,Self-Funded,Online
+71121,Female,41.0,Dublin,Self-employed,Secondary,Self-Funded,Blended
+70892,F,46.0,Dublin,Employed,Secondary,Self-Funded,Blended
+70278,Male,35.0,Munster,Employed,Degree,Government Grant,Blended
+70117,Male,28.0,Munster,Unemployed,Degree,Self-Funded,Blended
+71362,Female,28.0,Munster,Employed,Secondary,Government Grant,Blended
+71499,Male,,Munster,Unemployed,Degree,Government Grant,Online
+70732,Male,42.0,Leinster,Employed,Postgraduate,Employer,Online
+71163,Female,46.0,Munster,Unemployed,Certificate,Government Grant,Online
+70002,Male,25.0,Leinster,Unemployed,Certificate,Government Grant,Online
+70230,Female,44.0,Dublin,Employed,Certificate,Self-Funded,Blended
+70136,Male,43.0,Dublin,Self-employed,Secondary,Self-Funded,Blended
+70251,Male,36.0,Leinster,Employed,Certificate,Self-Funded,Online
+71317,Female,31.0,Connacht,Student,Secondary,Government Grant,Online
+70499,Male,39.0,Munster,Employed,Secondary,Government Grant,Online
+70967,Female,29.0,Connacht,Employed,Secondary,Government Grant,Online
+70338,Female,28.0,Connacht,Self-employed,Postgraduate,Government Grant,Online
+70442,M,39.0,Leinster,Unemployed,Secondary,Govt Grant,Online
+71297,Male,46.0,Munster,Self-employed,Certificate,Government Grant,Blended
+71175,female,40.0,Leinster,Employed,Certificate,Employer,Online
+71279,Male,39.0,Dublin,Unemployed,Degree,Government Grant,Online
+70817,Male,48.0,Dublin,Employed,Secondary,Self-Funded,Blended
+71058,Male,38.0,Connacht,Employed,Certificate,Employer,Blended
+70444,Female,35.0,Leinster,Self-employed,Certificate,Self-Funded,Online
+71171,F,34.0,Dublin,Self-employed,Secondary,Self-Funded,Blended
+71397,female,18.0,Dublin,Unemployed,Certificate,Government Grant,Online
+71120,Female,35.0,Munster,Employed,Certificate,Self-Funded,BLENDED
+70843,Female,35.0,Munster,Employed,Certificate,Government Grant,Online
+71054,Female,27.0,Dublin,Employed,Secondary,Government Grant,Blended
+71110,Female,18.0,Connacht,Student,Secondary,Self-Funded,Blended
+71157,Male,27.0,Leinster,Employed,Certificate,Employer,Blended
+70245,Female,27.0,Munster,Self-employed,Certificate,Employer,Online
+71404,Female,38.0,Munster,Employed,Degree,Government Grant,Online
+70688,Female,47.0,Munster,Employed,Degree,Employer,Blended
+71360,Female,39.0,Dublin,Employed,Secondary,Self-Funded,Blended
+70662,Female,37.0,Munster,Employed,Certificate,Self-Funded,Blended
+70507,Male,33.0,Dublin,Employed,Secondary,Employer,Blended
+70411,Male,23.0,Dublin,Employed,Degree,Employer,Blended
+71514,Female,27.0,Leinster,Unemployed,Certificate,Government Grant,Blended
+71112,Female,35.0,Connacht,Employed,Secondary,Self-Funded,Blended
+71502,Male,44.0,Munster,Unemployed,Degree,Government Grant,Online
+71264,Female,46.0,Connacht,Employed,Secondary,Government Grant,Online
+71535,Male,35.0,Dublin,Employed,Secondary,Employer,Online
+71068,Female,48.0,Dublin,Student,Certificate,Self-Funded,Online
+70143,Male,37.0,Ulster,Employed,Certificate,Government Grant,Online
+70550,Male,18.0,Dublin,Employed,Postgraduate,Employer,Blended
+70907,Female,58.0,Leinster,Self-employed,Certificate,Employer,Online
+70642,Male,28.0,Munster,Self-employed,Degree,Employer,Blended
+71270,Male,48.0,Leinster,Employed,Degree,Employer,Blended
+71450,Male,0.0,Munster,Employed,Secondary,Employer,Blended
+70693,Male,41.0,Leinster,Unemployed,Degree,Government Grant,Blended
+70626,Female,38.0,Dublin,Employed,Certificate,Employer,Blended
+70855,Female,57.0,Ulster,Self-employed,Certificate,Employer,Blended
+70587,Female,36.0,Munster,Unemployed,Certificate,Self-Funded,Blended
+70335,Female,34.0,Ulster,Unemployed,Secondary,Government Grant,Online
+71303,Female,32.0,Leinster,Self-employed,Secondary,Self-Funded,Online
+71371,Female,32.0,Connacht,Employed,Postgraduate,Self-Funded,Online
+71122,male,25.0,Dublin,Unemployed,Postgraduate,Government Grant,Online
+71111,Female,27.0,Leinster,Employed,Postgraduate,Self-Funded,Online
